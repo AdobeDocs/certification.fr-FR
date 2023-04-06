@@ -1,0 +1,166 @@
+---
+title: Certification professionnelle des professionnels de l’entreprise
+description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analytics] Professionnel du praticien de l'entreprise.
+solution: Analytics
+role: Developer
+badge: label="Exam AD0-E212" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '849'
+ht-degree: 14%
+
+---
+
+# Parcours de certification pour [!DNL Adobe Analytics] Professionnel professionnel
+
+Découvrez comment devenir un professionnel certifié du métier d’Analytics.
+
+## Expérience minimale
+
+Vous devez disposer d’un minimum de 3 mois d’expérience dans [!DNL Adobe Analytics] et l’expérience suivante :
+
+* Un arrière-plan marketing ou provient d’un rôle marketing, mais peut provenir de divers rôles de travail.
+* Une connaissance de base des mesures et dimensions d’analyse numérique.
+* La possibilité d’utiliser Analytics pour créer des rapports et répondre aux questions de l’entreprise, ainsi que pour communiquer les résultats.
+* une compréhension des concepts de base de l’analyse numérique, par exemple ; segmentation, création de rapports, définitions de mesures standard.
+
+>[!NOTE]
+>
+>Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+
+>[!BEGINTABS]
+
+>[!TAB Préparez-vous]
+
+**Public visé :**
+
+* Marketing numérique
+* Analystes professionnels
+* Consultants commerciaux
+* Analystes de données
+* Analystes Web
+* Analystes numériques
+* Analystes multimédia/marketing
+* Propriétaires et gestionnaires de produits
+* Analystes de l’interface utilisateur
+* Conversion/spécialistes de l’optimisation
+
+**Détails de l’examen :**
+
+```
+Level: Professional (0-12 months' experience)
+Passing Score: 31/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) / $95 (India)
+Exam ID: AD0-E212
+```
+
+**Auto-évaluation de la préparation**
+
+Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+
+**Objectifs et portée de l’examen**
+
+Section 1 : Analyse commerciale (34 %)
+
+* En fonction des besoins et des questions de l’entreprise, identifiez une stratégie de création de rapports appropriée pour effectuer une analyse.
+* Analyse des données pour répondre aux questions
+* Identifier les entonnoirs de conversion (comme concept pour comprendre l’analyse commerciale)
+* Consultez le document Solution Design Reference (SDR) pour déterminer les données disponibles dans les rapports.
+* Analyser les données du rapport pour résumer et en tirer des conclusions
+* Reconnaître les valeurs aberrantes et les anomalies dans les rapports
+
+Section 2 : Reporting et tableau de bord pour les projets (38 %)
+
+* Tenir compte des avantages de l’utilisation de visualisations spécifiques en fonction d’un scénario donné
+* Comparaison de la visualisation Abandons et Flux
+* Appliquez le processus pour planifier et partager des projets pour différents utilisateurs et/ou groupes.
+* Appliquez le processus pour rechercher et combiner des dimensions, des mesures, des périodes et des segments.
+* Appliquez le processus pour créer une visualisation
+* Dans un scénario, déterminez l’élément à utiliser.
+* Rapport sur les performances des campagnes marketing
+
+Section 3 : Segmentation et mesures calculées (19 %)
+
+* Déterminer comment développer et configurer des segments de base à l’aide des bonnes pratiques
+* appliquer le processus pour partager des segments avec d’autres membres de l’entreprise ;
+* Application de segments aux projets et aux composants
+* Appliquez le processus pour générer des mesures calculées et/ou segmentées de base.
+
+Section 4 : Connaissances générales de l’outil et résolution des problèmes (9 %)
+
+* Présentation des différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (evars, props et événements)
+* Déterminer comment exporter des données depuis [!DNL Adobe Analytics]
+
+>[!TAB Effectuer la préparation]
+
+Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+
+Voici quelques suggestions de ressources pour vous aider à préparer :
+
+**Exemples de questions**
+
+Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+
+[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
+**Section 1 : Analyse commerciale**
+
+* [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
+* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Aide Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=fr){target="_blank"}
+
+**Section 2 : Reporting et tableau de bord pour les projets**
+
+* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
+* [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
+* [Présentation de la visualisation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
+* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+* [Guide de Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr){target="_blank"}
+
+**Section 3 : Segmentation et mesures calculées**
+
+* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+
+**Section 4 : Connaissances générales et dépannage**
+
+* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+
+>[!TAB Obtenir une certification]
+
+>[!IMPORTANT]
+>
+>Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+
+
+**Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
+
+**Passer l&#39;examen de certification**
+
+Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+
+* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
+* **[!DNL Examity]** propose une option en ligne distante
+
+Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+### Numéro de l’examen : AD0-E212
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
+
+Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+
+>[!ENDTABS]
+
+**Questions**
+
+Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Autres questions ? Veuillez envoyer un e-mail `certif@adobe.com`.

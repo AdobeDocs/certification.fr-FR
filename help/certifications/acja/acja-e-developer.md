@@ -1,0 +1,127 @@
+---
+title: Certification d’experts
+description: Découvrez comment devenir un Adobe expert certifié dans [!DNL Customer Journey Analytics]
+role: Developer
+solution: Customer Journey Analytics
+badge: label="Exam AD0-EXXX" type="positive"
+mini-toc-levels: 1
+hidefromtoc: true
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '487'
+ht-degree: 9%
+
+---
+
+
+# Parcours de certification pour l’Adobe [!DNL Customer Journey Analytics] Expert
+
+Découvrez comment devenir un Adobe certifié
+
+## Expérience minimale
+
+Vous devez disposer des éléments suivants :
+
+>[!NOTE]
+>
+>Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+
+>[!BEGINTABS]
+
+>[!TAB Préparez-vous]
+
+**Public visé :**
+
+
+**Détails de l’examen :**
+
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 
+Time: 
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) / $150 (India)
+Exam ID: 
+```
+
+
+**Auto-évaluation de la préparation**
+
+Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+
+**Objectifs et portée de l’examen**
+
+Section 1:
+
+Section 2:
+
+Section 3:
+
+Section 4:
+
+>[!TAB Effectuer la préparation]
+
+Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+
+Voici quelques suggestions de ressources pour vous aider à préparer :
+
+**Section 1:**
+
+* [AJOUTER UNE Ressource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=fr){target="_blank"}
+
+**Section 2:**
+
+* [AJOUTER UNE Ressource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=fr){target="_blank"}
+
+**Section 3:**
+
+* [AJOUTER UNE Ressource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=fr){target="_blank"}
+
+**Section 4:**
+
+* [AJOUTER UNE Ressource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=fr){target="_blank"}
+
+>[!TAB Obtenir une certification]
+
+>[!IMPORTANT]
+>
+>Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+
+
+**Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
+
+**Effectuer un test d’entraînement**
+
+Nous vous recommandons de passer le test d’entraînement gratuit avant de commencer. Vous disposez d’un accès illimité à tous les tests d’entraînement disponibles pour les examens de niveau expert de l’Adobe.
+
+Nos tests d’entraînement sont tous développés à partir du même plan directeur que les examens en direct. Le test d’entraînement vous aidera à comprendre les sujets couverts par l’examen en direct.
+
+N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que vous réussirez l&#39;examen de certification.
+
+Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
+
+**Passer l&#39;examen de certification**
+
+Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+
+* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
+* **[!DNL Examity]** propose une option en ligne distante
+
+Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+### Numéro de l’examen : AD0-EXXX
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+
+Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+
+>[!ENDTABS]
+
+**Questions**
+
+Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Autres questions ? Veuillez envoyer un e-mail `certif@adobe.com`.
