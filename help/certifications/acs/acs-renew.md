@@ -4,9 +4,9 @@ description: Découvrez comment renouveler votre Adobe [!DNL Campaign Standard] 
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1493'
 ht-degree: 12%
 
 ---
@@ -233,6 +233,6 @@ Pour renouveler votre examen, cliquez sur le[!DNL Campaign Standard] Renouvellem
 
 ## Questions
 
-Vous avez une question sur la certification des Adobes ? Veuillez envoyer un e-mail `certif@adobe.com`.
+Vous avez une question sur la certification des Adobes ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

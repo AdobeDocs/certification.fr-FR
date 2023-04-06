@@ -5,9 +5,9 @@ solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -56,4 +56,4 @@ Vous pouvez maintenant renouveler votre certification soit par l’apprentissage
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? Veuillez envoyer un e-mail `certif@adobe.com`.
+Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

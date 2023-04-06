@@ -4,9 +4,9 @@ description: Découvrez comment renouveler votre Adobe [!DNL Journey Optimizer] 
 solution: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? Veuillez envoyer un e-mail `certif@adobe.com`.
+Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
