@@ -1,10 +1,10 @@
 ---
 title: FAQ
 description: Obtenez des réponses aux questions sur le programme de certification des Adobes. Découvrez les avantages de la certification, comment vous inscrire et avec qui vous pouvez contacter.
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '1889'
 ht-degree: 0%
