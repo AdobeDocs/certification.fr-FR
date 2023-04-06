@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '5197'
+source-wordcount: '5353'
 ht-degree: 10%
 
 ---
@@ -166,15 +166,14 @@ Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les pl
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 23/30
+* Heure : 68 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E826 - Redémarrage de l’expert du métier de Adobe Audience Manager
+
 
 **Objectifs et portée de l’examen**
 
@@ -242,15 +241,13 @@ Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez p
 
 **Détails de l’examen :**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
-```
+* Niveau : Principal (3 à 5 ans d’expérience)
+* Score de transmission : 22/29
+* Heure : 58 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E825 - Redémarrage du Principal Adobe Audience Manager Architect
 
 **Portée et objectifs :**
 
@@ -344,15 +341,13 @@ Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez p
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 23/30
+* Heure : 60 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E821 - Redémarrage de l’expert développeur Adobe Campaign Standard
 
 **Portée et objectifs :**
 
@@ -452,15 +447,13 @@ Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez p
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 23/30
+* Heure : 60 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E822 - Redémarrage de l’expert du métier Campaign Standard
 
 **Portée et objectifs :**
 
@@ -527,15 +520,13 @@ Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez p
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 42/55
-Time: 110 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
-```
+* Niveau : Expert (1 à 3 ans d&#39;expérience) et Principal (3 à 5 ans d&#39;expérience)
+* Score de transmission : 42/55
+* Heure : 110 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E823 - Adobe [!DNL Campaign Classic] expert et/ou redémarrage maître
 
 **Portée et objectifs**
 
@@ -634,15 +625,13 @@ Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez p
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 30/40
+* Heure : 80 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : ADS-E824 - Redémarrage de l’expert du métier de Adobe Marketo Engage
 
 **Portée et objectifs :**
 

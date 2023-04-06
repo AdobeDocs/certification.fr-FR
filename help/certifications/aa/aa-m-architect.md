@@ -5,16 +5,16 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 24%
+source-wordcount: '963'
+ht-degree: 21%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Analytics] Principal architecte
 
-Découvrez comment devenir un Principal d’architecture Analytics certifié.
+Découvrez comment devenir certifié [!DNL Analytics] Principal architecte.
 
 ## Expérience minimale
 
@@ -49,15 +49,13 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 **Détails de l’examen :**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E207
-```
+* Niveau : Principal (3 à 5 ans d’expérience)
+* Score de transmission : 33/50
+* Heure : 100 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E207
 
 **Objectifs et portée de l’examen**
 
@@ -99,20 +97,20 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 1 : Découverte**
 
 * [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
-* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
-* [Notes techniques d’Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Notes techniques](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
 * [Gestionnaire de couches de données](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **Section 2 : Conception de la solution**
 
-* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
-* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
-* [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [SDK iOS 4.x pour solutions Experience Cloud](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=fr){target="_blank"}
-* [Guide d’importation Analytics](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide d’importation](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
 * [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
-* [Tutoriels Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Tutoriels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"}
 * [Rôles administratifs](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Présentation d’Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Gérer les utilisateurs individuellement](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -120,14 +118,14 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 3 : Post-implémentation**
 
 * [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
-* [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
-* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
 * [La couche de données pilotée par un événement](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [Guide d’exportation Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=fr){target="_blank"}
-* [Guide du spécialiste d’Adobe Target](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
-* [Guide d’importation Analytics](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
-* [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide d’exportation](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Target] Guide du praticien de l’entreprise](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide d’importation](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [Processus d’insertion de données](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Tutoriel sur la mise en oeuvre de l’Experience Cloud dans les sites web avec des balises](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
 

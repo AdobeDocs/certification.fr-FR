@@ -5,9 +5,9 @@ solution: Experience Manager
 role: Developer
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '939'
 ht-degree: 12%
 
 ---
@@ -48,15 +48,13 @@ En outre, vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/50
-Time: 110 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E126
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 33/50
+* Heure : 110 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E126
 
 **Objectifs et portée de l’examen**
 

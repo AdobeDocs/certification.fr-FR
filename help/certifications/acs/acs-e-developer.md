@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1300'
 ht-degree: 12%
 
 ---
@@ -57,15 +57,13 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E306
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 29/50
+* Heure : 100 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E306
 
 **Auto-évaluation de la préparation**
 

@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1334'
 ht-degree: 13%
 
 ---
@@ -68,15 +68,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 32/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E121
-```
+Niveau : Score de transmission d’expert (1 à 3 ans) : 32/50 Time : Diffusion 100 minutes : Traités en ligne (nécessite un accès caméra) ou centre de test piloté Langues disponibles : Coût anglais et japonais : $225 (global) / $150 (Inde) ID d’examen : AD0-E121
 
 **Auto-évaluation de la préparation**
 

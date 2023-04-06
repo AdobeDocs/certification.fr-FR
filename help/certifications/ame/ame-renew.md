@@ -5,10 +5,10 @@ solution: Marketo Engage
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 5%
+source-wordcount: '1020'
+ht-degree: 4%
 
 ---
 
@@ -46,15 +46,13 @@ Vous devez actuellement être certifié (non expiré) dans :
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 30/40
+* Heure : 80 minutes
+* Diffusion : On-demand/non-proctored
+* Langues disponibles : Anglais
+* Coût : GRATUIT
+* ID d’examen : AD5-E824 - Adobe [!DNL Marketo Engage] Examen de renouvellement des experts professionnels
 
 **Portée et objectifs :**
 

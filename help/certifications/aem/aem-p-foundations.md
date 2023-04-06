@@ -5,9 +5,9 @@ solution: Experience Manager
 role: Developer
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '693'
 ht-degree: 12%
 
 ---
@@ -52,15 +52,13 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 38/60
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E132
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 38/60
+* Heure : 120 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E132
 
 **Objectifs et portée de l’examen**
 

@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1899'
+source-wordcount: '1953'
 ht-degree: 8%
 
 ---
@@ -61,15 +61,13 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 35/50
-Time: 105 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E600
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 35/50
+* Heure : 105 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langue : française
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E600
 
 **Objectifs et portée de l’examen**
 
@@ -180,15 +178,13 @@ L’examen AD7-E601 porte sur la création, la gestion et la compréhension du p
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 25/34
+* Heure : 51 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langue : française
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD7-E601
 
 **Auto-évaluation de la préparation**
 

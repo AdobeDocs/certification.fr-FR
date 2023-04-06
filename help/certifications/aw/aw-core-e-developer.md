@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E904" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1681'
+source-wordcount: '1709'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,13 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec [!DNL Workfront], e
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 36/64
-Time: 130 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E904
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 36/64
+* Heure : 130 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E904
 
 **Auto-évaluation de la préparation**
 

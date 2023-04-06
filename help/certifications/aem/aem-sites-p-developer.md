@@ -5,10 +5,10 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 17%
+source-wordcount: '812'
+ht-degree: 16%
 
 ---
 
@@ -40,15 +40,13 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E123
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 31/50
+* Heure : 100 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E123
 
 **Auto-évaluation de la préparation**
 

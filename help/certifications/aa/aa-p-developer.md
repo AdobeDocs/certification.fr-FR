@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1228'
 ht-degree: 15%
 
 ---
@@ -54,15 +54,13 @@ Expérience avec les tâches suivantes :
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) and $950 (India)
-Exam ID: AD0-E213
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 31/50
+* Heure : 100 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) et 950 $ (Inde)
+* ID d’examen : AD0-E213
 
 **Objectifs et portée de l’examen**
 

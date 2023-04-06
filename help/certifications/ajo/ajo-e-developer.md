@@ -4,10 +4,10 @@ description: Découvrez comment devenir un Adobe certifié [!DNL Journey Optimiz
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 13%
+source-wordcount: '924'
+ht-degree: 12%
 
 ---
 
@@ -55,15 +55,13 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years experience)
-Passing Score: 31/51
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E603
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 31/51
+* Heure : 110 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E603
 
 **Auto-évaluation de la préparation**
 

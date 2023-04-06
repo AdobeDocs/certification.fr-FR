@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1192'
 ht-degree: 11%
 
 ---
@@ -67,15 +67,13 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Score de transmission : 31/50
+* Heure : 120 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E208
 
 **Auto-évaluation de la préparation**
 
@@ -112,16 +110,16 @@ Section 3 : Segmentation et mesures calculées (22 %)
 Section 4 : Connaissances générales de l’outil et résolution des problèmes (12 %)
 
 * Analyse des rapports et identification des problèmes de qualité des données
-* Définir différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (evars, props et événements)
+* Définir différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements)
 * Déterminer comment importer et extraire des données [!DNL Adobe Analytics]
 * Identification des informations à partir des URL marketing
 
 Section 5 : Administration (10 %)
 
-* Appliquez le processus de configuration des rapports Canal marketing avec les règles de traitement Canal marketing .
+* Appliquez le processus pour configurer la variable [!UICONTROL Canal marketing] rapports avec [!UICONTROL Canal marketing] règles de traitement
 * Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles
 * Appliquez le processus de configuration d’une suite de rapports virtuelle en fonction d’un segment existant.
-* Utilisation de l’interface utilisateur d’administration du Gestionnaire de flux de données
+* Utilisez la variable [!UICONTROL Flux de données] Interface utilisateur d’administration de Manager
 * Compréhension de la gouvernance des données
 
 >[!TAB Effectuer la préparation]

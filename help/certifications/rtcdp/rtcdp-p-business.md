@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '932'
 ht-degree: 13%
 
 ---
@@ -59,15 +59,13 @@ Expérience avec des tâches qui incluent :
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 28/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E602
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 28/50
+* Heure : 100 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E602
 
 **Objectifs et portée de l’examen**
 

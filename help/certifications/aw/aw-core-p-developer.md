@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1115'
 ht-degree: 1%
 
 ---
@@ -57,15 +57,13 @@ Et vous devriez avoir :
 
 **Détails de l’examen :**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 44/70
-Time: 140 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E905
-```
+* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 44/70
+* Heure : 140 minutes
+* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
+* Langues disponibles : Anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E905
 
 **Auto-évaluation de la préparation**
 
