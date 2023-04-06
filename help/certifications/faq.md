@@ -4,9 +4,9 @@ description: Obtenez des réponses aux questions sur le programme de certificati
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Vous pouvez suivre votre état de certification en accédant à [Adobe Credentia
 
 +++Que puis-je obtenir après avoir réussi l’examen de certification ?
 
-Une fois votre examen terminé, les résultats s’affichent immédiatement à l’écran. Dans les 72 heures, vous recevrez une confirmation par e-mail de votre score de CertMetrics, avec un PDF de votre certificat. Vous pouvez accéder aux logos de votre compte CertMetrics qui affichent votre état de certification et qui peuvent être utilisés sur votre site web, votre email, votre signature, votre carte de visite, vos profils sociaux, etc.
+Une fois votre examen terminé, les résultats s’affichent immédiatement à l’écran. Dans les 72 heures, vous recevrez une confirmation par e-mail de votre score de CertMetrics, avec un PDF de votre certificat. Vous pouvez accéder aux logos de votre compte CertMetrics qui affichent votre état de certification et qui peuvent être utilisés sur votre site web, votre adresse électronique, votre signature, votre carte de visite, vos profils sociaux, etc.
 
 +++
 
@@ -126,7 +126,7 @@ Des certifications sont proposées à certains événements sponsorisés par l&#
 
 +++
 
-+++Les certifications sont-elles liées à des versions spécifiques des applications (par ex. Adobe Experience Manager 6.5) ?
++++Les certifications sont-elles liées à des versions spécifiques des applications (par exemple, Adobe Experience Manager 6.5) ?
 
 Pas directement, non. Mais comme la certification nécessite désormais un renouvellement tous les deux ans, votre certification vous garantit de rester à jour sur la dernière version d’une demande d’Adobe.
 
@@ -169,7 +169,7 @@ Pour en savoir plus sur la manière de renouveler votre certification, accédez 
 
 Se connecter à [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Vous pouvez y voir quand vous avez obtenu vos informations d’identification et quand elles expireront. Vous devez également vérifier votre profil et confirmer que vos coordonnées, e-mail secondaire et informations de tâche sont correctes.
 
-Vous recevrez une notification par courrier électronique un mois avant l’expiration de votre certification. Mais si vous avez modifié des tâches et n’avez pas mis à jour votre email, il se peut que vous ne soyez pas averti. Ajoutez un email secondaire (comme Gmail, Hotmail, Yahoo, etc.) dans votre compte CertMetrics, de sorte que vous receviez un courrier électronique de rappel d’expiration de certification, même si vous changez de société.
+Vous recevrez une notification par courrier électronique un mois avant l’expiration de votre certification. Mais si vous avez modifié des tâches et n’avez pas mis à jour votre email, il se peut que vous ne soyez pas averti. Ajoutez un courrier électronique secondaire (Gmail, Hotmail, Yahoo, etc.) dans votre compte CertMetrics, de sorte que vous receviez un courrier électronique de rappel d’expiration de certification, même si vous changez de société.
 
 +++
 

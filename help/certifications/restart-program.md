@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '5353'
+source-wordcount: '5355'
 ht-degree: 10%
 
 ---
@@ -256,7 +256,7 @@ Section 1 : Analyse de la mise en oeuvre (28 %)
 * Déterminer comment guider et prendre en charge la mise en oeuvre d’AAM en tant que produit autonome ou dans le cadre d’une solution cloud
 * Analyser les options de destination sortante et recommander une approche AAM mise en oeuvre
 * Définition d’une stratégie d’intégration de données pour un cas d’utilisation commerciale
-* Identifiez les fonctionnalités telles que la visionneuse de profils du visiteur, les balises, le contrôle d’accès (RBAC), etc. pour s’aligner sur les objectifs de l’entreprise ;
+* Identifiez les fonctionnalités telles que la visionneuse de profils du visiteur, les balises, le reporting (RBAC), etc., pour vous aligner sur les objectifs de l’entreprise.
 * Déterminer comment concevoir et tester les pixels requis pour créer des segments et des caractéristiques
 
 Section 2 : Conception de la solution et Recommendations (17 %)

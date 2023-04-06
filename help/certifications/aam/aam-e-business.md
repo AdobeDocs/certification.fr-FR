@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1207'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Vous devez connaître les technologies et environnements suivants :
 
 Technologies :
 
-* Plateforme DSP (bureau commercial, gestionnaire d’offres à double clic, etc.)
+* Plateforme de DSP (bureau commercial, gestionnaire d’offres à double clic, etc.)
 * Excel
 * Tableau et outils similaires (PowerBI, Qlik)
 * Serveur d’annonces (Double-cliquez sur Gestionnaire de campagnes)
