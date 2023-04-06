@@ -2,12 +2,13 @@
 title: Certification d’experts professionnels
 description: Découvrez comment devenir un expert Adobe en métier certifié en [!DNL Adobe Target].
 solution: Target
+product: Target
 role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -218,4 +219,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

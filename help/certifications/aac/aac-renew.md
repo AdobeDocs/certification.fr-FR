@@ -2,12 +2,13 @@
 title: Renouvellement de certification
 description: Découvrez comment renouveler votre Adobe [!DNL Advertising] certification avant son expiration.
 solution: Advertising
-role: Developer
+product: Advertising Cloud
+role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
@@ -48,4 +49,4 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

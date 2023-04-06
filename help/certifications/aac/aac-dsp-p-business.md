@@ -2,12 +2,13 @@
 title: Certification professionnelle des professionnels de l’entreprise
 description: Découvrez comment devenir certifié en tant qu’Adobe [!DNL Advertising DSP] Professionnel de l’entreprise.
 solution: Advertising
+product: Advertising Cloud
 role: User
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -153,4 +154,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -309,4 +309,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

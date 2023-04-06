@@ -2,12 +2,13 @@
 title: Certification de plateforme
 description: Découvrez comment devenir un Adobe certifié [!DNL Experience Platform] Expert.
 solution: Experience Platform
+product: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1961'
+source-wordcount: '1959'
 ht-degree: 9%
 
 ---
@@ -312,4 +313,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

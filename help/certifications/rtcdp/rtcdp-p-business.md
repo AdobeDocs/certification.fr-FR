@@ -2,13 +2,13 @@
 title: Certification professionnelle
 description: Découvrez comment devenir certifié [!DNL Experience Platform] Professionnel dans [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '932'
 ht-degree: 13%
 
 ---
@@ -174,4 +174,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

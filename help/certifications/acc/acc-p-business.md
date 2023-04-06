@@ -2,12 +2,13 @@
 title: Certification professionnelle des professionnels de l’entreprise
 description: Découvrez comment devenir un professionnel certifié du métier d’Adobe en [!DNL Campaign Classic].
 solution: Campaign Classic
+product: Campaign
 role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1333'
 ht-degree: 16%
 
 ---
@@ -200,4 +201,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

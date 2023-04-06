@@ -2,11 +2,13 @@
 title: Renouvellement de certification
 description: Découvrez comment renouveler votre Adobe [!DNL Campaign Standard] certification avant son expiration.
 solution: Campaign Standard
+product: Campaign
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1493'
+source-wordcount: '1491'
 ht-degree: 12%
 
 ---
@@ -233,6 +235,6 @@ Pour renouveler votre examen, cliquez sur le[!DNL Campaign Standard] Renouvellem
 
 ## Questions
 
-Vous avez une question sur la certification des Adobes ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Vous avez une question sur la certification des Adobes ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

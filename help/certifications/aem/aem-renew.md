@@ -2,11 +2,12 @@
 title: Renouvellement de certification
 description: Découvrez comment renouveler votre [!DNL Experience Manager Sites] certification avant son expiration.
 solution: Experience Manager Sites
-role: Developer
+product: Experience Manager
+role: User,Developer,Data Architect
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '602'
 ht-degree: 2%
 
 ---
@@ -84,4 +85,4 @@ Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les pl
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

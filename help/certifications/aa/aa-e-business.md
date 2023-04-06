@@ -2,12 +2,13 @@
 title: Certification des professionnels
 description: Découvrez comment obtenir une certification en tant qu’expert Adobe en métier en [!DNL Adobe Analytics]
 solution: Analytics
+product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +68,13 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
->* **Niveau :** Expert (1-3 ans d&#39;expérience)
->* **Score de transmission :** 31/50
->* **Heure :** 120 minutes
->* **Diffusion :** Procédé en ligne (nécessite un accès appareil photo) ou >centre de test traité
->* **Langues disponibles :** Anglais
->* **Coût :** 225 $ (global) / 150 $ (Inde)
->* **ID d’examen :** AD0-E208
-
+* **Niveau :** Expert (1-3 ans d&#39;expérience)
+* **Score de transmission :** 31/50
+* **Heure :** 120 minutes
+* **Diffusion :** Procédé en ligne (nécessite un accès appareil photo) ou >centre de test traité
+* **Langues disponibles :** Anglais
+* **Coût :** 225 $ (global) / 150 $ (Inde)
+* **ID d’examen :** AD0-E208
 
 **Auto-évaluation de la préparation**
 
@@ -202,4 +202,4 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Autres questions ? [Nous contacter](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
