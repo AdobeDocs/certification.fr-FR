@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Vous devez disposer des éléments suivants :
 
 Familiarisez-vous avec les outils et technologies suivants :
 
-* Logiciel de test/débogage des publicités (par exemple, VAST INSPECTOR, outils de développement Chrome)
-* Outils Analytics (par ex. Adobe Analytics, Google Analytics)
-* Logiciel de balisage tiers (par exemple, Sizmek, gestionnaire de balises Google)
-* Outils de qualité multimédia tiers (ex : IAS, MOAT)
+* Logiciel de test/débogage des publicités (VAST INSPECTOR, outils de développement Chrome)
+* Outils Analytics (Adobe Analytics, Google Analytics)
+* Logiciel de balisage tiers (Sizmek, gestionnaire de balises Google)
+* Outils de qualité multimédia tiers (IAS, MOAT)
 * Navigateurs majeurs
 * Échanges publicitaires, SSP et DMP
 

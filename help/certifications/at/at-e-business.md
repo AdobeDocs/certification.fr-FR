@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Vous devez disposer des éléments suivants :
 * Connaissance des concepts statistiques et de l’analyse des données dans le cadre de l’optimisation
 * Une connaissance approfondie du processus en trois étapes (expériences, ciblage, objectifs et paramètres, y compris toutes les sources de rapports)
 * La possibilité de traduire les résultats des rapports d’activité en insights et suggestions pratiques
-* Une compréhension de l’impact des changements technologiques sur Target (par exemple, ITP, RGPD/CCPA, SPA)
+* Une compréhension de l’impact des changements technologiques sur Target (ITP, RGPD/CCPA, SPA)
 * Présentation de l’utilisation des activités de recommandation en tant que solution
 
 En outre, vous devez connaître les technologies et environnements suivants :

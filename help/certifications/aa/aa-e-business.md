@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -26,8 +26,8 @@ Vous devez disposer des éléments suivants :
 * La possibilité de traduire les besoins de l’entreprise en mesures ou IPC
 * La possibilité de créer et d’interpréter des rapports
 * La capacité de communiquer les résultats et de proposer une ligne de conduite basée sur l&#39;analyse des rapports
-* Aider les clients à comprendre comment extraire/extraire les informations qu’ils souhaitent (par exemple les aider à définir leurs questions commerciales)
-* Comprendre le fonctionnement de la technologie et comprendre la mise en oeuvre d’un client (par exemple, où se trouvent les données, comment les collecter, comment elles sont suivies) d’un point de vue fonctionnel
+* Aider les clients à comprendre comment extraire/extraire les informations de leur choix (par exemple, les aider à définir leurs questions commerciales)
+* Comprendre le fonctionnement de la technologie et comprendre l’implémentation d’un client (par exemple, où se trouvent les données, comment les collecter, comment elles sont suivies) d’un point de vue fonctionnel
 * Au moins un an de [!DNL Adobe Analytics] expérience pratique
 * Une compréhension de base de la manière dont l’analyse numérique filtre/structure les données
 * une prise de conscience de l&#39;intégration des [!DNL Adobe Analytics] avec d’autres solutions d’Adobe
@@ -67,13 +67,14 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
-* Score de transmission : 31/50
-* Heure : 120 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E208
+>* **Niveau :** Expert (1-3 ans d&#39;expérience)
+>* **Score de transmission :** 31/50
+>* **Heure :** 120 minutes
+>* **Diffusion :** Procédé en ligne (nécessite un accès appareil photo) ou >centre de test traité
+>* **Langues disponibles :** Anglais
+>* **Coût :** 225 $ (global) / 150 $ (Inde)
+>* **ID d’examen :** AD0-E208
+
 
 **Auto-évaluation de la préparation**
 
