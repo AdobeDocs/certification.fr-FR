@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
-ht-degree: 12%
+source-wordcount: '979'
+ht-degree: 11%
 
 ---
 
@@ -72,10 +72,14 @@ Section 2 : Architecture (22 %)
 * Déterminer où définir les rôles et les autorisations
 * Dans un scénario, définissez les approches de mise en cache disponibles.
 
-Section 3 : Configuration et mise en oeuvre (13 %)
+Section 3 : Analyse de l’entreprise (43 %)
 
-* Identifier les bonnes pratiques AEM pour utiliser les composants de contenu
-* Dans un scénario, identifiez la mise en oeuvre correcte d’une fonctionnalité.
+* Dans un scénario, identifiez les modules standard d’AEM qui répondent aux problèmes de l’entreprise des clients.
+* Identifier les concepts de gestion de contenu pour les modules AEM
+* Identification des parties prenantes typiques du projet
+* Identifier des scénarios de collaboration réalistes entre les équipes impliquées
+* Dans un scénario, décrivez la méthode appropriée pour atteindre les objectifs de l’entreprise tout en respectant le budget et/ou la portée.
+* Identifier les moyens de lier les objectifs de l’entreprise à l’équipe de développement
 
 Section 4 : Configuration et mise en oeuvre (13 %)
 
