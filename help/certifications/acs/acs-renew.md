@@ -6,7 +6,8 @@ product: Campaign
 role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
 source-wordcount: '1491'
 ht-degree: 12%
@@ -113,7 +114,7 @@ Pour renouveler votre examen, cliquez sur le bouton _[!DNL Campaign Standard]Ren
 
 >[!NOTE]
 >
->Cet examen est gratuit, il est ouvert et non surveillé. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous ne recevez pas 75 % après trois tentatives, vous devez attendre. **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 +++
 
