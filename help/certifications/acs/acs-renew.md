@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 12%
 
 ---
@@ -108,7 +108,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ## Renouveler votre certification
 
-Pour renouveler votre examen, cliquez sur le bouton _[!DNL Campaign Standard]Renouveau du professionnel - lien AD5-822 ci-dessous_. Vous serez redirigé vers le système de gestion des informations d’identification d’Adobe où vous pourrez cliquer sur **[!UICONTROL renouveler votre certification]** sur le côté droit de l’écran, puis recherchez [!DNL Adobe Campaign] pour voir le lien vers l’examen de renouvellement.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Cliquez ensuite sur le bouton [!DNL Campaign Standard] Renouveau du professionnel - lien AD5-822 ci-dessous.
 
 * [[!DNL Campaign Standard] Renouveau du professionnel - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ## Renouveler votre certification
 
-Pour renouveler votre examen, cliquez sur le[!DNL Campaign Standard] Renouvellement des développeurs - lien AD5-821&quot; ci-dessous. Vous serez redirigé vers le système de gestion des informations d’identification d’Adobe où vous cliquerez sur l’onglet &quot;renouveler votre certification&quot; dans la partie droite de l’écran, puis recherchez Adobe Campaign pour voir le lien vers l’examen de renouvellement.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre examen, cliquez sur le[!DNL Campaign Standard] Renouvellement des développeurs - lien AD5-821&quot; ci-dessous.
 
 * [[!DNL Campaign Standard] Renouveau du développeur - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
