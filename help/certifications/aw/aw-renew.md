@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ## Renouveler votre certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre examen, cliquez sur le lien Renouvellement du développeur Workfront Fusion - AD5-830 ci-dessous.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Workfront Fusion Developer Renewal - AD5-830 ci-dessous.
 
 * [Renouvellement du développeur de Workfront Fusion - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 

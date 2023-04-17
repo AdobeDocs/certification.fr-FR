@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Experience League - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Utilisation de programmes, de marketing par e-mail, de tests A/B)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Penser à votre processus d’assurance qualité)
 
-### Redémarrez votre certification.
+### Renouveler votre certification
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien de renouvellement de l’expert du métier Marketo Engage ci-dessous.
 
-[!BADGE Prenez l’Adobe [!DNL Marketo Engage] Examen de redémarrage de l’expert du métier AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Prenez l’Adobe [!DNL Marketo Engage] Examen de renouvellement des experts du professionnel AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 >[!ENDTABS]
+
 
 ### Questions
 

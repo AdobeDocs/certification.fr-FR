@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Redémarrez votre certification.**
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Cliquez ensuite sur le lien AD5-E826 de Adobe Audience Manager Business Practices Expert (en anglais) pour renouveler votre certification.
 
 [!BADGE Passer l’examen de renouvellement des experts du métier de Adobe Audience Manager AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+
 
 >[!TAB Master]
 
@@ -177,11 +183,16 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [AAM : Fonctionnalités avancées](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Formation et ressources pour Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### Redémarrez votre certification.
+### Renouveler votre certification
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement du Principal Architecte Adobe Audience Manager - AD5-E825 ci-dessous.
 
-[!BADGE Passer l’examen principal de renouvellement de l’architecture Adobe Audience Manager AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Passage à l’examen de renouvellement du Principal Architecte Adobe Audience Manager AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+
 
 >[!ENDTABS]
 
