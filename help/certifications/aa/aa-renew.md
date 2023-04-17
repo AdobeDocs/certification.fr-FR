@@ -6,9 +6,10 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '547'
 ht-degree: 6%
 
 ---
@@ -55,7 +56,7 @@ Dans ce cas, vous pouvez fournir une référence client confirmant que vous avez
 
 **Une fois votre référence client vérifiée, vous en serez informé par l’équipe d’informations d’identification de l’Adobe.**
 
-Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les planifier, et ils ne sont pas traités. Si vous détenez plusieurs certifications Adobe Experience Manager au niveau des experts et des Principal, vous n’aurez qu’à répondre aux exigences ci-dessous et toutes vos certifications AEM seront renouvelées.
+Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les planifier, et ils ne sont pas traités. Si vous détenez plusieurs certifications Adobe Analytics au niveau des experts et des Principal, vous n’aurez qu’à répondre aux exigences ci-dessous et toutes vos certifications Adobe Analytics à ce niveau seront renouvelées.
 
 [Formulaire de référence client pour Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -72,7 +73,7 @@ Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les pl
 
 >[!NOTE]
 >
->Vous pouvez répéter jusqu’à ce que vous ayez terminé trois activités ou que vous ayez rempli le formulaire de référence du client.
+>Vous pouvez répéter jusqu’à ce que vous ayez terminé trois activités ou terminé deux activités, plus le formulaire de référence du client.
 
 >[!ENDTABS]
 
