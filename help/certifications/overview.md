@@ -4,7 +4,7 @@ description: En savoir plus sur [!DNL Experience Cloud] Certification à l’Ado
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8050b065ca256f4bd664700756ba70d5b0a9c5ea
+source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Apprenez-en plus sur la certification dans Adobe et sur ce que la certification peut vous apporter.
 
-![Bannière](/help/certifications/assets/home_banner_small.png)
+![Bannière](/help/certifications/assets/home_banner_smallwide.png)
 
 L&#39;Adobe [!DNL Experience Cloud] est une suite de solutions de marketing numérique qui permet aux entreprises de proposer des expériences client personnalisées sur plusieurs canaux, y compris le web, les appareils mobiles, les e-mails et les médias sociaux. [!DNL Experience Cloud] inclut une gamme de produits, tels que Adobe ; [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics], etc.
 
-Adobe comprend l’importance d’avoir les bons titres de compétences pour progresser dans sa carrière et rester en avance sur la compétition. C’est pourquoi nous avons créé le programme de certification des Adobes : pour vous aider à prouver vos compétences et connaissances et gagner la reconnaissance que vous méritez.
+Adobe comprend l&#39;importance d&#39;avoir les bons titres de compétences pour progresser dans sa carrière et rester en avance sur la compétition. C’est pourquoi nous avons créé le programme de certification des Adobes : pour vous aider à prouver vos compétences et connaissances et gagner la reconnaissance que vous méritez.
 
 Que vous soyez un expert chevronné ou que vous soyez sur le point de commencer, notre programme de certification peut vous aider à déverrouiller votre potentiel professionnel et à mener votre carrière à un niveau supérieur.
 
