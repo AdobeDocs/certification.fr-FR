@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 10%
@@ -15,7 +16,7 @@ ht-degree: 10%
 
 # Redémarrez votre parcours de certification en passant de expiré à certifié.
 
-Ce programme à temps limité est proposé **du 17 avril 2023 au 20 octobre 2023**, vous donne la possibilité de mettre à jour vos compétences et de rester en avance sur la courbe dans un paysage numérique qui change rapidement.
+Ce programme à temps limité est proposé **du 24 avril 2023 au 20 octobre 2023**, vous donne la possibilité de mettre à jour vos compétences et de rester en avance sur la courbe dans un paysage numérique qui change rapidement.
 
 Les personnes dont les certifications ont expiré entre 2020 et le 23 avril 2023 sont éligibles pour cela. **free** programme.
 
