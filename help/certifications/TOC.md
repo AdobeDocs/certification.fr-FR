@@ -2,7 +2,7 @@
 user-guide-title: Certification en Adobe
 breadcrumb-title: Certification en Adobe
 user-guide-description: En savoir plus sur [!DNL Experience Cloud] Certification à l’Adobe. Découvrez ce que la certification peut vous apporter.
-source-git-commit: b54476f453ffdc46ccf009aab1891cce768d383f
+source-git-commit: 68474f469a64f87c17f9ab808e947ed07c2002b6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 43%
@@ -10,7 +10,7 @@ ht-degree: 43%
 ---
 
 
-# Certification en Adobe {#certification}
+# Certification en Adobe {#program}
 
 + [Accueil de certification](overview.md)
 + [Prise en main   ](getting-started.md)
