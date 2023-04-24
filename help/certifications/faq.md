@@ -4,9 +4,10 @@ description: Obtenez des réponses aux questions sur le programme de certificati
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Non, vous devez uniquement répondre aux exigences répertoriées pour la soluti
 +++Ai-je besoin de passer en revue les cours ou puis-je simplement commencer à faire des évaluations ?
 
 Les évaluations sont basées sur les cours en Experience League et leur examen préparera les candidats à les réussir. Toutefois, la condition clé du renouvellement est simplement de réussir les évaluations.
+
++++
+
+>[!TAB Redémarrer le programme]
+
+**Aperçu du programme**
+
++++Qu’est-ce que le programme de redémarrage de la certification Adobe ?
+
+Le programme de redémarrage de la certification des Adobes est une initiative unique qui permet aux individus d’obtenir à nouveau leurs certifications d’Adobe expirées en passant gratuitement des examens ou des évaluations courts en ligne.
+
++++
+
++++Quelle sera la durée d’exécution du programme Redémarrer ?
+
+Le programme durera six mois, du 24 avril au 20 octobre 2023.
+
++++
+
++++L&#39;Adobe proposera-t-il à nouveau ce type de programme à l&#39;avenir ?
+
+Actuellement, nous n’avons pas l’intention d’offrir à nouveau cette fonctionnalité. Il ne s’agit que d’une offre ponctuelle.
+
++++
+
++++Quels niveaux de certification sont inclus dans le programme Redémarrer ?
+
+Seules les certifications aux niveaux expert et Principal sont incluses dans le programme de redémarrage. Les certifications de niveau professionnel auront un chemin de renouvellement disponible à partir de juin 2023.
+
++++
+
+**Éligibilité de programme**
+
++++Qui est éligible au programme de redémarrage de la certification d’Adobe ?
+
+Les personnes dont les certifications ont expiré de 2020 au 23 avril 2023 sont éligibles au programme Redémarrer, à condition que la certification qu’elles recherchent soit incluse dans le programme (voir la liste des examens de certification éligibles ci-dessous).
+
++++
+
++++ Pourquoi tous les examens de certification ne sont-ils pas publiés au fil des ans dans le programme Redémarrer ?\
+Les examens publiés avant 2019 sont exclus du programme Redémarrer.
+
++++
+
++++Pourquoi le 23 avril 2023 est-il la date limite d’éligibilité au programme de redémarrage ?
+
+Parce qu’il permet aux personnes qui n’ont pas pu participer à la période de renouvellement de la certification GRATUITE (lancée le 23 janvier 2023) de disposer de suffisamment de temps pour renouveler leurs certifications.
+
++++
+
++++Quelles certifications font partie du programme de redémarrage de la certification Adobe ?
+
+Toutes les principales certifications d’Adobe, à l’exception de celles qui ont pris leur retraite, font partie du programme.
+
++++
+
++++Pouvez-vous afficher une liste des examens éligibles par application ?
+
+**Adobe Experience Manager**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert spécialiste des affaires |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert spécialiste des affaires |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Développeur expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Développeur expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Expert ingénieur Dev/Ops |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Principal architecte |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Principal architecte |
+
+**[!DNL Adobe Analytics]**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Développeur expert |
+| AD0-E202 | [!DNL Adobe Analytics] Expert spécialiste des affaires |
+| AD0-E200 | [!DNL Adobe Analytics] Principal architecte |
+| AD0-E207 | [!DNL Adobe Analytics] Principal architecte |
+
+**Adobe Audience Manager**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Principal architecte |
+| AD0-E452 | [!DNL Adobe Audience Manager] Principal architecte |
+| AD0-E453 | [!DNL Adobe Audience Manager] Expert spécialiste des affaires |
+
+**Adobe Campaign Classic**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Expert des professionnels des sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Expert des professionnels des sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Principal architecte |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Principal architecte |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Développeur expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Développeur expert |
+
+**Adobe Campaign Standard**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Expert spécialiste des affaires |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Expert spécialiste des affaires |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Développeur expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Développeur expert |
+
+**Adobe[!DNL Marketo Engage]**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Professionnel (anciennement MCE) |
+
+**Adobe Target**
+
+| ID d’export | Nom de l’export |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Expert spécialiste des affaires |
+| AD0-E402 | [!DNL Adobe Target] Principal architecte |
+
++++
+
++++Ma certification expire entre le 24 avril et le 20 octobre 2023, alors que ce programme est disponible. Puis-je poursuivre le programme Redémarrer pour ma certification une fois qu&#39;il expire ?
+
+Non. Tous les candidats ayant des certifications principales à la date de lancement et au-delà ont la possibilité de poursuivre la voie de renouvellement de l’apprentissage continu que nous avons annoncée en janvier 2023.
+
+Le programme de redémarrage est destiné uniquement aux certifications qui ont expiré avant le 24 avril 2023, afin d’offrir la certification aux candidats qui n’ont pas pu participer au programme d’apprentissage continu.
+
++++
+
+**[!DNL Marketo Engage]Architecte de solution (MCSA) et Adobe Commerce**
+
++++J’ai un [!DNL Marketo] Architecte de solution certifié (MCSA). Puis-je rétablir cela par le biais de ce programme ?
+
+Candidats dont le [!DNL Marketo] La certification Certified Solution Architect peut poursuivre le chemin de redémarrage du professionnel Marketo pour les besoins partiels vers la nouvelle [!DNL Marketo Engage] Certification architecturale.
+
+La condition finale est de transmettre la nouvelle [!DNL Marketo Engage] Examen d&#39;architecture. Pour tous les titulaires de certificat expirés MCSA, nous effectuons une promotion de remise de 50 % jusqu’au 31 décembre 2023, veuillez contacter le support de certification pour plus de détails.
+
++++
+
++++Pourquoi sont-ils Adobes ? [!DNL Commerce] Les certifications ne font pas partie du programme de redémarrage de la certification Adobe ?
+
+Il n’existe aucun détenteur de certificat expiré pour l’Adobe actuellement offert [!DNL Commerce] Certifications au 23 avril 2023. Par conséquent, tous les principaux Adobes [!DNL Commerce] Les candidats certifiés ont la possibilité de se renouveler grâce à l&#39;apprentissage continu [chemin de renouvellement de la certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Profil Adobe Credential Manager**
+
++++Pourquoi est-ce que je vois _Participation_ dans la section historique de mon profil dans Adobe Credential Manager ?
+
+Cela vous permet de marquer votre éligibilité au programme Redémarrer la certification Adobe. Les candidats auxquels cette participation a été affectée peuvent remplir les exigences pour redémarrer leur certification expirée, dans chaque demande.
+
++++
+
++++J’ai satisfait aux exigences et je ne vois pas les résultats dans l’historique de mon profil. Quand vais-je obtenir le certificat ?
+
+La certification sera décernée dans les 72 heures suivant l’exécution des exigences. Il est important de noter que ce programme n&#39;accordera que la certification aux candidats éligibles.
+
++++
+
++++Que dois-je faire si ma certification est toujours expirée même après avoir satisfait aux exigences de redémarrage ?
+
+Malheureusement, une fois qu&#39;une certification a expiré, elle ne peut pas être étendue. Dans ce cas, une nouvelle certification est émise au lieu de renouveler l’ancienne.
 
 +++
 
