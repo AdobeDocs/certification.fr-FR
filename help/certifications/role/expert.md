@@ -1,0 +1,71 @@
+---
+title: Certificats techniques experts
+description: Présentation des options de certification pour les utilisateurs experts
+source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 35%
+
+---
+
+# Certificats techniques experts
+
+**Analytics**
+
+* [Professionnel](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [Développeur](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
+
+**Audience Manager**
+
+* [Professionnel](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+
+**Campaign Classic**
+
+* [Professionnel](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Développeur](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
+
+**Campaign Standard**
+
+* [Professionnel](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [Développeur](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
+
+**Commerce**
+
+* [Professionnel](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [Développeur](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
+* [Développeur](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
+
+**Customer Journey Analytics**
+
+* [Développeur](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
+
+**Experience Manager**
+
+* [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
+* [Ops de développement](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
+* [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+
+**Marketo Engage**
+
+* [Professionnel](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+
+**Real-Time CDP**
+
+* [Professionnel](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+
+**Target**
+
+* [Professionnel](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+
+**Workfront**
+
+* [Développeur (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [Connecteur amélioré d’AEM](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+
+>[!MORELIKETHIS]
+>
+>* [Certificats techniques professionnels](professional.md)
+>* [Certificats techniques de Principal](master.md)
+
