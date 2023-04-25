@@ -13,7 +13,7 @@ ht-degree: 43%
 # Certification en Adobe {#program}
 
 + [Accueil de certification](overview.md)
-+ [Prise en main   ](getting-started.md)
++ [Prise en main](getting-started.md)
 + [Comment obtenir une certification](how-to-get-certified.md)
 + [Renouveler votre certification](renew.md)
 + [Redémarrer le programme](restart-program.md)
