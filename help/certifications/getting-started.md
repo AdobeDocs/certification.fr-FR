@@ -3,15 +3,15 @@ title: Prise en main des certifications d’Adobe
 description: Prise en main d’ [!DNL Experience Cloud] certifications. Découvrez le programme et ce site web.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
 
 ---
 
-
-# Prise en main    {#getting-started}
+# Prise en main {#getting-started}
 
 Les certifications d’Adobe sont conçues pour valider les connaissances et les compétences des professionnels qui travaillent avec nos solutions de marketing numérique. Utilisez les onglets suivants pour commencer à en savoir plus sur le programme de certification.
 
@@ -93,5 +93,3 @@ Le Guide du Parcours de certification est un outil complet conçu pour vous four
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
-
-
