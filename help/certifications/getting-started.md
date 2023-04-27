@@ -4,7 +4,7 @@ description: Prise en main d’ [!DNL Experience Cloud] certifications. Découvr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] offre trois niveaux de certification différents :
 Ces niveaux reflètent une progression de la compétence et des connaissances, la certification professionnelle étant la certification de niveau d&#39;entrée, l&#39;expert étant le niveau intermédiaire et le Principal le niveau le plus élevé.
 
 | ![Badge professionnel](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificats professionnels** vérifier qu’un candidat a une compréhension fondamentale des solutions marketing numériques de l’Adobe. L&#39;examen de certification couvre les concepts et fonctionnalités de base de l&#39;Adobe. [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
