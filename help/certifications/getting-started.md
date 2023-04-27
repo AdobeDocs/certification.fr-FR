@@ -4,9 +4,9 @@ description: Prise en main d’ [!DNL Experience Cloud] certifications. Découvr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] offre trois niveaux de certification différents :
 
 Ces niveaux reflètent une progression de la compétence et des connaissances, la certification professionnelle étant la certification de niveau d&#39;entrée, l&#39;expert étant le niveau intermédiaire et le Principal le niveau le plus élevé.
 
+| Badge | Description |
+| ------- | ------- |
 | ![Badge professionnel](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificats professionnels** vérifier qu’un candidat a une compréhension fondamentale des solutions marketing numériques de l’Adobe. L&#39;examen de certification couvre les concepts et fonctionnalités de base de l&#39;Adobe. [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Badge d’expert](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificats d’experts** sont destinées à des professionnels ayant une compréhension plus avancée des solutions de marketing numérique d’Adobe. L&#39;examen de certification couvre des concepts et fonctionnalités plus complexes de l&#39;Adobe. [!DNL Experience Cloud], y compris la mise en oeuvre et la résolution des problèmes. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Badge de Principal](/help/certifications/assets/master-badge-Xsmall.png) | **certifications de Principal** sont destinées à des professionnels qui connaissent parfaitement les solutions de marketing numérique d’Adobe et qui ont démontré leur expertise dans de multiples domaines de l’Adobe. [!DNL Experience Cloud]. L’examen de certification couvre des sujets et des scénarios avancés, notamment des intégrations complexes, des personnalisations et la résolution des problèmes. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Ces niveaux reflètent une progression de la compétence et des connaissances, l
 
 Les examens de certification d’Adobe sont personnalisés en fonction de trois rôles de tâche différents. Lisez les informations ci-dessous pour trouver la certification appropriée à votre parcours professionnel.
 
+| Logo | Description |
+| ------- | ------- |
 | ![Badge du professionnel](/help/certifications/assets/business_practitioner_blk_small.png) | **Professionnels** sont responsables de la conception, de l’exécution et de la gestion des campagnes marketing à l’aide d’Adobe ; [!DNL Experience Cloud] solutions. Ils doivent avoir une compréhension fondamentale des solutions marketing numériques de l’Adobe, ainsi qu’une expérience en marketing et en publicité. La certification du professionnel valide sa capacité à utiliser efficacement les solutions de marketing numérique d’Adobe pour atteindre les objectifs de l’entreprise. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Badge de développeur](/help/certifications/assets/developer_blk_small.png) | **Développeurs** sont responsables de la mise en oeuvre et de l&#39;intégration de l&#39;Adobe [!DNL Experience Cloud] solutions dans la pile technologique d’une entreprise. Ils doivent avoir une expérience du développement logiciel et de la maîtrise des technologies web, telles que les API HTML, CSS, JavaScript et RESTful. La certification des développeurs valide leur capacité à mettre en oeuvre et personnaliser efficacement les solutions de marketing numérique d’Adobe pour répondre aux besoins de l’entreprise. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Badge d’architecte](/help/certifications/assets/architect_blk_small.png) | **Architectes** sont chargés de concevoir et de mettre en oeuvre des solutions de niveau entreprise à l’aide d’Adobe ; [!DNL Experience Cloud] solutions. Ils doivent posséder une connaissance approfondie des solutions de marketing numérique d’Adobe et une expérience approfondie de l’architecture, de l’intégration et de la personnalisation des logiciels. La certification Architect valide leur capacité à concevoir et mettre en oeuvre des solutions complexes à l’aide des solutions de marketing numérique d’Adobe. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
