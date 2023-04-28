@@ -3,10 +3,11 @@ title: Obtenir la certification auprès d’Adobe
 description: Découvrez comment être certifié dans Adobe. Trouvez toutes les ressources dont vous avez besoin avant, pendant et après votre certification.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -88,9 +89,9 @@ L’équipe Informations d’identification de l’Adobe travaille en partenaria
 | Nom du fournisseur | Description | Page d’assistance/courrier électronique |
 | ------- | ------- | ------- |
 | Creative | Système de gestion des badges | [- Support technique](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Examiner | Tester le fournisseur de diffusion (uniquement le traitement en ligne) | support@examity.com ou 855-Examinity (855-392-6489) |
-| PSI | Tester le fournisseur de diffusion pour les examens traités à un emplacement ou en japonais | adobe.psisupport@psionline.com |
-| Xbon - Centre des bons de certification pour les Adobes | Centre de bons pour l’achat de bons individuels ou en vrac | support@xvoucher.com ou [Aide en ligne](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| Examiner | Tester le fournisseur de diffusion (uniquement le traitement en ligne) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Examinity (855-392-6489) |
+| PSI | Tester le fournisseur de diffusion pour les examens traités à un emplacement ou en japonais | [E-mail.](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xbon - Centre des bons de certification pour les Adobes | Centre de bons pour l’achat de bons individuels ou en vrac | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Aide en ligne](https://help.xvoucher.com/hc/en-us) |
 
 Autres ressources du fournisseur :
 
