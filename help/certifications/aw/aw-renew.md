@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # Renouveler votre Adobe [!DNL Workfront] certification
 
-Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
 
-Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certification grâce à un nouveau format, sans frais. Il s’agit d’utiliser des cours et des tutoriels Experience League à la demande. Il vous suffit de suivre trois activités pour renouveler votre certification sans frais. Vous devez renouveler votre certificat avant l’expiration de celui-ci, ou vous devrez passer l’examen complet pour être à nouveau certifié.
+Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
+
+Veillez à prévoir suffisamment de temps pour répondre à toutes les exigences avant l’expiration de votre certification.
+
+Il est important de noter que si votre certification expire, vous devrez reprendre l&#39;examen de certification, qui n&#39;est PAS gratuit.
 
 >[!IMPORTANT]
 >
