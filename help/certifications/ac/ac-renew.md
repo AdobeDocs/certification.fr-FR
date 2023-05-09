@@ -7,18 +7,22 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a6dc3fe4f76d6a457b541c2664f6ef30934f8233
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '892'
 ht-degree: 1%
 
 ---
 
 # Renouveler votre Adobe [!DNL Commerce] certification
 
-Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
 
-Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certification grâce à un nouveau format, sans frais. Il s’agit d’utiliser des cours et des tutoriels Experience League à la demande. Il vous suffit de suivre trois activités pour renouveler votre certification sans frais. Vous devez renouveler votre certificat avant l’expiration de celui-ci, ou vous devrez passer l’examen complet pour être à nouveau certifié.
+Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
+
+Veillez à prévoir suffisamment de temps pour répondre à toutes les exigences avant l’expiration de votre certification.
+
+Il est important de noter que si votre certification expire, vous devrez reprendre l&#39;examen de certification, qui n&#39;est PAS gratuit.
 
 >[!IMPORTANT]
 >

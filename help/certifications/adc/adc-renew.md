@@ -6,18 +6,23 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Renouveler votre Adobe [!DNL Document Cloud] certification
 
-Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
 
-Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certification grâce à un nouveau format, sans frais. Il s’agit d’utiliser des cours et des tutoriels Experience League à la demande. Il vous suffit de suivre trois activités pour renouveler votre certification sans frais. Vous devez renouveler votre certificat avant l’expiration de celui-ci, ou vous devrez passer l’examen complet pour être à nouveau certifié.
+Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
+
+Veillez à prévoir suffisamment de temps pour répondre à toutes les exigences avant l’expiration de votre certification.
+
+Il est important de noter que si votre certification expire, vous devrez reprendre l&#39;examen de certification, qui n&#39;est PAS gratuit.
 
 >[!IMPORTANT]
 >
