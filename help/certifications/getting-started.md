@@ -7,11 +7,11 @@ exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Prise en main {#getting-started}
+# Commencer {#getting-started}
 
 Les certifications d’Adobe sont conçues pour valider les connaissances et les compétences des professionnels qui travaillent avec nos solutions de marketing numérique. Utilisez les onglets suivants pour commencer à en savoir plus sur le programme de certification.
 
