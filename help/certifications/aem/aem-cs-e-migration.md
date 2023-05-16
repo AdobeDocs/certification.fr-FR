@@ -1,15 +1,16 @@
 ---
 title: Certification d’experts
 description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] expert.
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 64b53064-8280-405b-a5f7-b50264394b82
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '903'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -34,7 +35,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Réseau de diffusion de contenu (CDN)
 * Analyseur de bonnes pratiques
 * Modernisation des AEM
-* Navigateur de référentiel
+* Explorateur de référentiels
 * Developer Console
 * Outil de mappage utilisateur pour l’Adobe IMS
 * Outil cmd E/S
@@ -134,7 +135,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 3 : Déploiement**
 
 * [Test de qualité du code](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=fr){target="_blank"}
-* [Ajout d’un nom de domaine personnalisé](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
+* [Ajout d&#39;un nom de domaine personnalisé](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
 * [Configuration des paramètres DNS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html?lang=en){target="_blank"}
 
 **Section 4 : Migration**
@@ -145,7 +146,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 5 : Implémentation**
 
-* [Utilisation du pipeline CI/CD dans Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [Utiliser le pipeline CI/CD dans Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
 * [Déploiement sur AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=fr){target="_blank"}
 
 >[!TAB Obtenir une certification]
@@ -181,4 +182,3 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
-

@@ -1,12 +1,13 @@
 ---
 title: Certification professionnelle du développeur principal AEM Forms
 description: Découvrez comment devenir un développeur principal AEM Forms Adobe certifié.
-solution: Experience Manager Forms
+solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '912'
 ht-degree: 8%
@@ -119,14 +120,14 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 * [Guide de Forms Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [Intégration des données AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
-* [Tutoriels et vidéos AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr){target="_blank"}
+* [Tutoriels et vidéos d’AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 
 **Section 2 : Processus et workflows**
 
 * [Guide de Forms Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [Guide de Forms Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
-* [Gestion des points de fin](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
+* [Gestion des points d’entrée](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **Section 3 : Administration et dépannage**
 

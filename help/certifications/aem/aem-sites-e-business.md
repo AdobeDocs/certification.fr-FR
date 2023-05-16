@@ -1,12 +1,13 @@
 ---
 title: Certification d’experts professionnels
 description: Découvrez comment devenir un expert professionnel certifié en [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0b533269-0826-4921-a539-d281c74da63d
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 13%
@@ -125,7 +126,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [Introduction à l’Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=fr){target="_blank"}
 * [En savoir plus sur les fonctionnalités d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
+* [ [!DNL Experience Manager] Documentation Adobe](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
 * [Intégration à des services tiers](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
 * [Intégration de solutions](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"}
 * [[!DNL Experience Cloud] présentation des intégrations](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"}

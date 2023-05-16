@@ -1,15 +1,16 @@
 ---
 title: Certification professionnelle
 description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -125,11 +126,11 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 1 : Workflows des ressources**
 
 * [Création de modèles de processus](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=fr){target="_blank"}
 
 **Section 2 : Organisation des ressources et console des ressources**
 
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
 * [Facettes de recherche](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
 * [Rapports de ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=fr){target="_blank"}
 
@@ -142,7 +143,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 4 : Types de ressources**
 
 * [Gestion des ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [Modèles de fragment de contenu](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
+* [Modèles de fragment de contenu.](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
 * [Variations – créer du contenu de fragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
 **Section 5 : Visionneuses et fonctionnalités de ressources**

@@ -1,15 +1,16 @@
 ---
 title: Certification Developer Expert
 description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Sites] Expert.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '996'
-ht-degree: 14%
+ht-degree: 16%
 
 ---
 
@@ -107,8 +108,8 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [Présentation du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=fr){target="_blank"}
 * [Présentation de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 
@@ -131,7 +132,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 4 : Maintenance de l’environnement**
 
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
+* [Vidéos et tutoriels d’AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
 * [Déploiement et maintenance ](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
 * [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}

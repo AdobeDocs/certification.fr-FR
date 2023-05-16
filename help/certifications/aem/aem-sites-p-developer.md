@@ -1,15 +1,16 @@
 ---
 title: Certification professionnelle des développeurs
 description: Découvrez comment devenir un expert Adobe en métier certifié en [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '812'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -106,7 +107,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [Présentation des composants principaux ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
-* [Concepts de base des composants](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
+* [Concepts de base des composants](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=fr){target="_blank"}
 
 **Section 3 : Création et déploiement**
 
