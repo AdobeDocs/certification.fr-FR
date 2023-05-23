@@ -6,9 +6,10 @@ product: Magento
 role: Data Architect
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1053'
 ht-degree: 1%
 
 ---
@@ -138,7 +139,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Détails du magasin](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Ajout d’une nouvelle intégration de paiement (mode de paiement)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Authentification](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
+* Authentification [](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Présentation de GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
 **Section 2 : Réviser**
@@ -176,6 +177,10 @@ Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E718
 

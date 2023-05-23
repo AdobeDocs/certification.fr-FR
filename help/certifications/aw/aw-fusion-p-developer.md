@@ -5,9 +5,10 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1581'
 ht-degree: 0%
 
 ---
@@ -166,6 +167,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E902
 

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 7%
+source-wordcount: '978'
+ht-degree: 6%
 
 ---
 
@@ -143,7 +143,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 4 : Types de ressources**
 
 * [Gestion des ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [Modèles de fragment de contenu.](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
+* [Modèles de fragment de contenu](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
 * [Variations – créer du contenu de fragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
 **Section 5 : Visionneuses et fonctionnalités de ressources**
@@ -168,6 +168,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E129
 

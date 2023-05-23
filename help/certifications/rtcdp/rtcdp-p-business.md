@@ -6,10 +6,11 @@ role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '932'
-ht-degree: 13%
+source-wordcount: '1000'
+ht-degree: 12%
 
 ---
 
@@ -130,7 +131,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 4 : Schémas et profils**
 
 * [Présentation du système XDM](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=fr){target="_blank"}
-* [Vue d’ensemble de Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
+* [Vue d’ensemble du profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
 * [Guide de l’interface utilisateur du schéma d’union](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=fr){target="_blank"}
 
 >[!TAB Obtenir une certification]
@@ -159,6 +160,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E602
 

@@ -6,13 +6,13 @@ role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1953'
+source-wordcount: '2089'
 ht-degree: 8%
 
 ---
-
 
 # Parcours de certification pour l’Adobe [!DNL Real-Time Customer Data Platform] Expert
 
@@ -158,6 +158,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
 
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
+
 ### Numéro de l’examen : AD0-E600
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
@@ -214,7 +218,7 @@ Section 3 : Destinations (27 %)
 
 **Section 1 : Validation**
 
-* [Vue d’ensemble de Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=fr){target="_blank"}
+* [Vue d’ensemble du profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=fr){target="_blank"}
 * [Tableau de bord du profil](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
 * [Barrières de sécurité par défaut pour les données de profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
 * [Activation de Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
@@ -231,8 +235,8 @@ Section 3 : Destinations (27 %)
 * [Présentation de la gouvernance des données](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Démonstration de la gouvernance des données](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [Classification des données à l’aide d’une étiquette de gouvernance](https://video.tv.adobe.com/v/29709/){target="_blank"}
-* [Création de stratégies d’utilisation des données](https://video.tv.adobe.com/v/32977/){target="_blank"}
-* [Application des stratégies d’utilisation des données](https://video.tv.adobe.com/v/33631/){target="_blank"}
+* [Création de politiques d’utilisation des données](https://video.tv.adobe.com/v/32977/){target="_blank"}
+* [Application des politiques d’utilisation des données](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
 **Section 2 : Segmentation**
 
@@ -298,6 +302,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E601
 

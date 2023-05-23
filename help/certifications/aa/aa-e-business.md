@@ -6,9 +6,10 @@ product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1262'
 ht-degree: 11%
 
 ---
@@ -141,7 +142,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Prise en main de Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
 * [[!DNL Adobe Analytics] Tableaux de bord - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr){target="_blank"}
 * [Présentation des projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
-* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr){target="_blank"}
 * [Alertes intelligentes - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
 
 **Section 3 : Segmentation et mesure calculée**
@@ -152,7 +153,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 4 : Connaissances générales et dépannage**
 
 * [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
-* [Aperçu d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
+* [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
 
 **Section 5 : Administration**
 
@@ -187,6 +188,10 @@ Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E208
 

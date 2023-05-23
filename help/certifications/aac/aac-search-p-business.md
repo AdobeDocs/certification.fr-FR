@@ -6,9 +6,10 @@ product: Advertising Cloud
 role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '1055'
 ht-degree: 3%
 
 ---
@@ -123,7 +124,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [Prise en main d’ [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [[!DNL Campaign] Créer des rapports](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
+* [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [Créer [!DNL Analytics] Profils d’Adobe [!DNL Advertising] Activation et création de rapports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
 * [Rapport sur [!DNL Advertising] données dans Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
 * [Traitement de la période de rapport](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=fr){target="_blank"}
@@ -161,6 +162,10 @@ Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E501
 

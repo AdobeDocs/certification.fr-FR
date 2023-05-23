@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1369'
 ht-degree: 11%
 
 ---
@@ -178,6 +178,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * L’exemple offre une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 ### Numéro de l’examen : AD0-E306
 

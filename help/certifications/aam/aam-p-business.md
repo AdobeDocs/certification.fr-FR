@@ -6,10 +6,11 @@ product: Audience Manager
 role: User
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 11%
+source-wordcount: '1141'
+ht-degree: 10%
 
 ---
 
@@ -97,7 +98,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Utilisation des données de chargement en masse dans Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html?lang=en){target="_blank"}
 * [À propos des segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr){target="_blank"}
 * [Création d’une caractéristique de conversion dans [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
-* [[!DNL Audience Manager] tutoriels](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
+* Tutoriels sur [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [Guide de préparation au RGPD pour [!DNL Audience Manager] Clients (Contrôleurs de données)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
 * [Page Détails du segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
 * [Conseils aux clients - Bonnes pratiques relatives aux caractéristiques et aux segments](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
@@ -157,6 +158,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 **Numéro de l’examen : AD0-E458**
 
