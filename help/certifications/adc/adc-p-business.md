@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bad41c3fcc4529bde82b3a3742761cd24af8d3ab
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '889'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,8 @@ Découvrez comment devenir un professionnel Adobe certifié.
 Vous devez disposer des éléments suivants :
 
 * Expérience d’au moins 0 à 12 mois dans Adobe Document Cloud
+* être capable d’identifier et de communiquer les besoins de l’entreprise ;
+* Soyez en mesure d’effectuer des conseils sur l’activation du produit sur les solutions Adobe Document Cloud.
 
 >[!NOTE]
 >
@@ -135,6 +137,10 @@ Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et 
 * **[!DNL Examity]** propose une option en ligne distante
 
 Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+
+Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
+
+Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
 
