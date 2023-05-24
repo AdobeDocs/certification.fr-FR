@@ -8,14 +8,14 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 1%
+source-wordcount: '894'
+ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe Doc Cloud Business Professional
+# Parcours de certification pour Adobe Document Cloud Business Professional
 
 Découvrez comment devenir un professionnel Adobe certifié.
 
@@ -40,7 +40,6 @@ Vous devez disposer des éléments suivants :
 * Consultant en solutions
 * Analyste métier
 * Ventes
-* Développeur
 
 **Détails de l’examen :**
 
@@ -59,7 +58,7 @@ Section 1 : Découverte de cas d’utilisation (36 %)
 * Posez des questions admissibles pour identifier les opportunités de Document Cloud.
 * Définition de cas d’utilisation métier de haut niveau
 
-Section 2 : Évaluation des processus métier (34)
+Section 2 : Évaluation des processus métier (34 %)
 
 * Identifier les principaux domaines d’amélioration des processus et l’ajustement des solutions
 * Alignement des objectifs commerciaux avec les fonctionnalités de Document Cloud
