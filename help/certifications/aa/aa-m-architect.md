@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 20%
+source-wordcount: '940'
+ht-degree: 22%
 
 ---
 
@@ -137,18 +137,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 >
 >Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
-
-**Effectuer un test d’entraînement**
-
-Nous vous recommandons de passer le test d’entraînement gratuit avant de commencer. Vous disposez d’un accès illimité à tous les tests d’entraînement disponibles pour les examens de niveau expert de l’Adobe.
-
-Nos tests d’entraînement sont tous développés à partir du même plan directeur que les examens en direct. Le test d’entraînement vous aidera à comprendre les sujets couverts par l’examen en direct.
-
-N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que vous réussirez l&#39;examen de certification.
-
-Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
 
 **Passer l&#39;examen de certification**
 
