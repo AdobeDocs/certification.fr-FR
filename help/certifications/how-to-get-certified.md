@@ -4,9 +4,9 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Adobe utilise deux fournisseurs pour administrer les examens traités : [!DNL PS
 
 **Pour vous inscrire à votre examen de certification, procédez comme suit :**
 
-* **Étape 1 :** Connectez-vous à la [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Étape 1 :** Connectez-vous à la [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Étape 2 :** Revenez à ce site et cliquez sur certifications techniques.
 * **Étape 3 :** Choisissez votre solution d’Adobe, votre niveau de certification et votre rôle
 * **Étape 4 :** Suivez les étapes fournies sous **Obtenir une certification** .
@@ -50,7 +50,7 @@ Les annulations et les replanifications sont possibles si elles sont initiées a
 
 Ni l’assistance Adobe ni les fournisseurs d’examens ne peuvent traiter les demandes de replanification et d’annulation. Les annulations de moins de 48 heures sont soumises à des frais de replanification en plus des frais d&#39;examen.
 
-Une fois que vous avez terminé un examen, vous recevez une réussite ou un échec provisoire. Le score final peut prendre jusqu’à 72 heures pour être renseigné. Vous trouverez votre rapport de résultats et de scores sous l’onglet Historique dans la [Adobe Credential Manager](http://www.certmetrics.com/adobe){target="_blank"}.
+Une fois que vous avez terminé un examen, vous recevez une réussite ou un échec provisoire. Le score final peut prendre jusqu’à 72 heures pour être renseigné. Vous trouverez votre rapport de résultats et de scores sous l’onglet Historique dans la [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Si vous ne parvenez pas à réussir un examen de certification d’Adobe lors de votre première tentative, vous devez attendre au moins 24 heures avant de reprendre l’examen. Si vous ne réussissez pas à passer un examen lors de la deuxième tentative ou de toute tentative ultérieure, une période d’attente de 14 jours calendaires est nécessaire avant de reprendre l’examen. Chaque tentative entraîne des frais d&#39;examen distincts.
 
@@ -212,6 +212,6 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 
 **Questions**
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

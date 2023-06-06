@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Avantages individuels : La certification est une information d’identification 
 
 Les certifications nécessitent un engagement, sont juridiquement défendables et la validation de l’Adobe de votre expertise. Vous pouvez également inclure votre certification dans vos profils sociaux en téléchargeant votre badge à partir de [!DNL Credly].
 
-Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Les certifications sont basées sur les rôles, ce qui signifie qu’il existe p
 Il existe parfois plusieurs versions d&#39;un examen. Il est préférable de prendre la dernière version.
 
 * Si un examen prend sa retraite, une note s’affiche sur la page du parcours de certification. Cela signifie que cette version de l’examen sera bientôt supprimée, car une nouvelle version de l’examen est disponible. Nous encourageons les candidats à prendre la version la plus récente, mais vous pouvez prendre la version à la retraite si vous vous sentez plus prêt à l’accepter. Dans les deux cas, votre certification durera deux ans.
-* Si votre certification actuelle est sur le point d’expirer, vous devez la renouveler. Les options de renouvellement ont moins de questions et sont GRATUITES. Ces options couvrent les dernières fonctionnalités d’application. Si votre certification expire, vous devrez prendre la dernière version de l’examen de certification, que vous payerez. [En savoir plus sur les options de renouvellement](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Si votre certification actuelle est sur le point d’expirer, vous devez la renouveler. Les options de renouvellement ont moins de questions et sont GRATUITES. Ces options couvrent les dernières fonctionnalités d’application. Si votre certification expire, vous devrez prendre la dernière version de l’examen de certification, que vous payerez. [En savoir plus sur les options de renouvellement](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Parfois, nous retirons un examen pour un rôle. Dans ce cas, votre certification
 
 Votre certification expire et s’affiche comme ayant expiré dans [!DNL Credly] et l’un de vos profils sociaux. En outre, si votre certification expire, vous ne pouvez pas passer l’examen de renouvellement plus court ou renouveler par l’apprentissage continu.
 
-Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](ht
 
 Vous pouvez renouveler votre certification gratuitement. Vous disposez ainsi d’un moyen économique de maintenir votre certification et de maintenir à jour vos compétences en solution.
 
-Pour en savoir plus sur la manière de renouveler votre certification, accédez à [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Pour en savoir plus sur la manière de renouveler votre certification, accédez à [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ La condition finale est de transmettre la nouvelle [!DNL Marketo Engage] Examen 
 
 +++Pourquoi sont-ils Adobes ? [!DNL Commerce] Les certifications ne font pas partie du programme de redémarrage de la certification Adobe ?
 
-Il n’existe aucun détenteur de certificat expiré pour l’Adobe actuellement offert [!DNL Commerce] Certifications au 23 avril 2023. Par conséquent, tous les principaux Adobes [!DNL Commerce] Les candidats certifiés ont la possibilité de se renouveler grâce à l&#39;apprentissage continu [chemin de renouvellement de la certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+Il n’existe aucun détenteur de certificat expiré pour l’Adobe actuellement offert [!DNL Commerce] Certifications au 23 avril 2023. Par conséquent, tous les principaux Adobes [!DNL Commerce] Les candidats certifiés ont la possibilité de se renouveler grâce à l&#39;apprentissage continu [chemin de renouvellement de la certification](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

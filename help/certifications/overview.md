@@ -1,19 +1,19 @@
 ---
 title: Accueil de certification
-description: En savoir plus sur [!DNL Experience Cloud] Certification à l’Adobe. Découvrez ce que la certification peut vous apporter.
+description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. Découvrez ce que la certification peut vous apporter.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 8%
 
 ---
 
 # Bienvenue à la certification chez Adobe !
 
-Apprenez-en plus sur la certification dans Adobe et sur ce que la certification peut vous apporter.
+Apprenez-en plus sur la certification Adobe et ce qu’elle peut vous apporter.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
 
@@ -38,4 +38,4 @@ Notre programme de certification est conçu pour les professionnels de divers do
 
 Alors pourquoi attendre ? Faites le premier pas pour déverrouiller votre potentiel professionnel et découvrez dès aujourd’hui nos parcours de certification !
 
-[!BADGE Prise en main]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
+[!BADGE Prise en main]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}

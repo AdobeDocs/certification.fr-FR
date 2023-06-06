@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [API Adobe PDF Incorporer](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [Outils de PDF et de signature électronique pour votre entreprise. Acrobat l&#39;a eu.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Guide de l’utilisateur d’Adobe Acrobat](https://helpx.adobe.com/fr/acrobat/user-guide.html){target="_blank"}
-* [Présentation des intégrations - Nouveautés](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Présentation des intégrations - Nouveautés](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Signatures en ligne sécurisées et flexibles](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Section 3 : Définition des fonctionnalités de Document Cloud (DC)**
@@ -122,7 +122,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
 
@@ -163,7 +163,7 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 **Questions**
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

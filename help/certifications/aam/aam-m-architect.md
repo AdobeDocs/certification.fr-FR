@@ -6,10 +6,11 @@ product: Audience Manager
 role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 12%
+source-wordcount: '832'
+ht-degree: 11%
 
 ---
 
@@ -116,13 +117,13 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 2 : Conception de la solution et Recommendations**
 
 * Guide de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
-* [[!DNL Audience Manager] tutoriels](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=fr){target="_blank"}
+* Tutoriels sur [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 3 : Segmentation et activation**
 
 * Guide de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=fr){target="_blank"}
-* [[!DNL Audience Manager] tutoriels](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=fr){target="_blank"}
+* Tutoriels sur [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 4 : Confidentialité et gouvernance des données**
 
@@ -138,7 +139,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
@@ -164,6 +165,6 @@ Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vou
 
 **Questions**
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
