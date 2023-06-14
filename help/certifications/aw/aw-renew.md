@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement professionnel du chef de projet Workfront - AD5-833 ci-dessous.
 
 * [Renouvellement professionnel du chef de projet Workfront - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+
++++
+
++++Workfront Core Developer Professional
+
+## Instructions pour renouveler votre certification :
+
+* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: Vérification des objectifs et des ressources de l’examen
+* **Étape 3**: Réussir et réussir l&#39;examen
+
+### Préparez-vous
+
+**Détails de l’examen :**
+
+* Score de transmission : 25/35
+* Heure : 70 minutes
+* Coût : LIBRE/non-traité
+* Diffusion : À la demande
+* Langues disponibles : Anglais
+* Condition requise : certification Adobe Workfront Core Developer Professional actuelle (non expirée)
+* ID d’examen : AD5-E835
+
+**Portée et objectifs**
+
+Section 1 : Stratégie et ingestion (20 %)
+
+* Utilisation de Portfolios et de programmes
+* Utilisation des files d’attente de requête
+* Utiliser Forms personnalisé
+
+Section 2 : Budget et planification (11 %)
+
+* Utilisation des outils de planification des ressources
+
+Section 3 : Expérience utilisateur (26 %)
+
+* Illustrer les bonnes pratiques de gestion des utilisateurs lors de la création d’une expérience utilisateur appropriée
+* Dans un scénario donné, appliquez la configuration correcte pour le partage et les droits d’accès dans tout le système.
+* Décrire ce qu’est un plan directeur et savoir quand l’utiliser
+* Montrer comment créer et utiliser des feuilles de temps
+* Décrire l’objectif et la valeur des connecteurs, modules externes et modules complémentaires
+
+Section 4 : Mesures et création de rapports (14 %)
+
+* Décrire les concepts de base pour la création, l’envoi et la personnalisation des rapports
+* expliquer comment créer et personnaliser des tableaux de bord ;
+
+Section 5 : Exécution (29 %)
+
+* Montrer comment configurer des workflows d’approbation et de vérification
+* Reconnaître l’objectif de la création d’un problème pour un projet
+* Découvrez comment personnaliser les états de projet au niveau du groupe
+* Identifier les attributs nécessaires pour activer Agile dans Workfront
+* Identifier les moyens d’entrer le temps dans Workfront
+
+## Effectuer la préparation
+
+Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+
+Voici quelques suggestions de ressources pour vous aider à préparer :
+
+**Section 1 : Stratégie et ingestion**
+
+* [Portfolio Optimizer - Aperçu](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [Création et gestion des files d’attente de requête](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [Accéder aux files d’attente de demandes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [Aperçu des formulaires personnalisés](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**Section 2 : Budget et planification**
+
+* [Localisation de l’équilibreur de charge de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [Affectation du travail en masse à l’aide de l’équilibreur de charge de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Gestion des affectations utilisateur dans l’équilibreur de charge de travail](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**Section 3 : Expérience utilisateur**
+
+* [Quand et comment désactiver ou supprimer des utilisateurs](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [Partage de modèles de projet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [Actions à entreprendre après l’installation d’un plan directeur](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [Création d’une feuille de temps à usage unique](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**Section 4 : Mesures et création de rapports**
+
+* [Intégrations Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Utilisation des modules externes Adobe Workfront pour Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Envoi et partage de rapports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [Créer des tableaux de bord](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**Section 5 : Exécution**
+
+* [Convertir un problème en projet dans Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [Création ou modification d’un panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [Ajout ou suppression de membres d’un panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Présentation de la disposition de la feuille de calcul](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## Renouveler votre certification
+
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Workfront Core Developer Professional - AD5-835 ci-dessous.
+
+* [Renouveau professionnel des développeurs principaux Workfront - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >

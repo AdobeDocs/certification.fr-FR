@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '850'
 ht-degree: 17%
 
 ---
@@ -118,8 +118,8 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 4 : Maintenance de l’environnement**
 
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour le développement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=fr){target="_blank"}
-* [Tableau de bord des opérations](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
+* [Guide de l’utilisateur pour le développement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Tableau de bord des opérations](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Notes de mise à jour pour Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr){target="_blank"}
 * Vue d’ensemble de [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr)
