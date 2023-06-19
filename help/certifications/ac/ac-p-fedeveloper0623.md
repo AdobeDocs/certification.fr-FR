@@ -1,13 +1,12 @@
 ---
-title: Certification professionnelle front-end des développeurs
+title: Nouvelle certification pour les développeurs professionnels front-end
 description: Découvrez comment devenir un professionnel Adobe Developer certifié pour Adobe [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="positive"
+badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,15 +19,15 @@ Découvrez comment devenir un professionnel Adobe Developer certifié.
 
 >[!NOTE]
 >
->Mise à jour de cet examen du développeur front-end Adobe Commerce (AD0-E719) - Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 18 août 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ac-p-fedeveloper0623.md).
+>Il s’agit du dernier examen professionnel du développeur front-end d’Adobe Commerce. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ac-p-fedeveloper.md) vous avez jusqu’au 18 août 2023 pour la terminer.
 
 ## Expérience minimale
 
-Vous devriez avoir entre 0 et 12 mois d’expérience pratique avec Adobe [!DNL Commerce] Développement front-end et possibilité de travailler avec des solutions techniques pour fournir des composants individuels.
+Vous devriez disposer de 0 à 12 mois d’expérience pratique avec le développement front-end Adobe Commerce et de la possibilité de travailler avec des solutions techniques pour fournir des composants individuels.
 
 En outre, vous devez faire preuve de connaissances sur les technologies suivantes :
 
-* Forte compréhension de l’Adobe [!DNL Commerce] version 2.4.3
+* Forte compréhension d’Adobe Commerce version 2.4.6
 * Présentation de base de la structure et de la disposition frontales
 * Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et IU, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, connaissance de la base de données et gestion de contenu
 * Familiarité avec la plateforme, les blocs CMS, les widgets, les pages CMS, les pages Catégorie, les pages de produits, le panier et le passage en caisse et la zone Tableau de bord du compte.
@@ -45,6 +44,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Compréhension de base du XML
 * Compréhension de base des techniques d’optimisation et de performances d’usine pour les moteurs de recherche
 * Compréhension de base des liens canoniques, ainsi que de la fusion de code JavaScript et CSS
+* Compréhension de base de l’infrastructure cloud Adobe Commerce
 
 >[!BEGINTABS]
 
@@ -52,7 +52,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Public visé :**
 
-* Développeur
+* Développeurs
 * Développeurs front-end
 * Développeurs de pile complète
 * Développeurs PWA
@@ -60,12 +60,12 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 **Détails de l’examen :**
 
 * Niveau : Professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 31/50
+* Score de transmission : 33/50
 * Heure : 100 minutes
 * Diffusion : Suivi en ligne (nécessite un accès à la caméra)
 * Langues disponibles : Anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E719
+* ID d’examen : AD0-E721
 
 **Objectifs et portée de l’examen**
 
@@ -75,7 +75,7 @@ Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des imag
 * Démontrer la possibilité de créer ou d’étendre des thèmes existants
 * Démontrer la possibilité d’ajouter des expressions de traduction personnalisées
 
-Section 2 : Mise en page XML et modèles (28 %)
+Section 2 : Mise en page XML et modèles (30 %)
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page de base
 * Démontrer la possibilité d’utiliser des mises en page existantes ;
@@ -83,7 +83,7 @@ Section 2 : Mise en page XML et modèles (28 %)
 * Possibilité de créer et de personnaliser des modèles
 * Description de la sécurité des modèles (sortie d’échappement)
 
-Section 3 : Styles (24 %)
+Section 3 : Styles (22 %)
 
 * Décrivez l’objectif de styles-m.less, styles-l.less, print.less
 * Décrivez la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less).
@@ -92,25 +92,28 @@ Section 3 : Styles (24 %)
 * Expliquer la hiérarchie des styles ( lib, modules, thèmes)
 * Expliquer la compilation côté client et côté serveur
 
-Section 4 : JavaScript (16 %)
+Section 4 : JavaScript (18 %)
 
-* Faire la démonstration de l’utilisation de base de la gestion de contenu
-* Décrire les étapes à suivre pour appliquer/planifier un thème à une portée spécifique (site web, magasin, vue-magasin)
-* Description des étapes d’application des modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administration
+* Démontrer la possibilité d’initialiser et d’appeler des composants JavaScript ;
+* Démonstration de l’utilisation de RequireJS
+* Décrire l’utilisation des mixins
+* Décrire comment ajouter une traduction dans JS
+* Description de l’utilisation de Knockout JS
+* Description de l’utilisation des widgets jQuery
+
+Section 5 : Configuration de l’administrateur et PageBuilder (6 %)
+
+* Démontrez la possibilité de personnaliser le Créateur de pages et le contenu CMS&quot;
+* Application/planification d’un thème à une portée spécifique (site web, magasin, vue de magasin)
+* Application des modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
 * Description des étapes de personnalisation des emails transactionnels
 
-Section 5 : Configuration de l’administrateur et pagebuilder (12 %)
-
-* Faire la démonstration de l’utilisation de base de la gestion de contenu
-* Décrire les étapes à suivre pour appliquer/planifier un thème à une portée spécifique (site web, magasin, vue-magasin)
-* Décrire les étapes à suivre pour appliquer les modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
-* Description des étapes de personnalisation des emails transactionnels
-
-Section 6 : Outils (interface en ligne de commande et nombre) (6 %)
+Section 6 : Outils (interface en ligne de commande et nombre) (8 %)
 
 * Décrire l’utilisation des commandes bin/magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
 * Différenciation du cas d’utilisation approprié pour les modes de déploiement
+* Décrire les outils supplémentaires fournis par Cloud (téléchargement rapide de la base de données, déploiement du contenu)
 
 >[!TAB Effectuer la préparation]
 
@@ -118,58 +121,44 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Exemples de questions**
-
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
-
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
-
 **Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions)**
 
 * [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Outil Ligne de commande](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [Disposition](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Localisation](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
 * [Des traductions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
 **Section 2 : Mise en page XML et modèles**
 
-* [Mise en page](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Modèles](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Introduction](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html){target="_blank"}
+* [Tâches de personnalisation courantes](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Développement des composants](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Sécurité](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
 **Section 3 : Styles**
 
-* [Variables](https://lesscss.org/features/#features-overview-feature){target="_blank"}
-* [Conception web réactive](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
-* [Feuilles de style en cascade (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
-* [Guide du développeur de Frontend](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
-* [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Qu’est-ce que le créateur de pages ?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
+* [Normes de codage](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
+* [{less}](https://lesscss.org/){target="_blank"}
+* [Norme de codage LESS](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
+* [Personnalisation des styles de thème](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
 **Section 4 : JavaScript**
 
-* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Des traductions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Présentation des composants de l’interface utilisateur](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Présentation de JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
-* [widgets jQuery](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
+* [Présentation de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Concepts des composants de l’interface utilisateur](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
+* [Observables (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
 
-**Section 5 : Configuration de l’administrateur et pagebuilder**
+**Section 5 : Configuration de l’administrateur et PageBuilder**
 
-* [Guide de référence de configuration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Présentation du créateur de pages](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Présentation Partie 1 : Page simple](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
-* [Thèmes](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
-* [Présentation des catégories](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Conception](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
-* [Modèles](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
+* [Pages](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
+* [Qu’est-ce que le créateur de pages ?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
+* [Lots JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
+* [reCAPTCHA de Google](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Section 6 : Outils (interface de ligne de commande et Grunt)**
 
-* [Configuration de ligne de commande](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Présentation des options de magasin et de la gestion de la configuration](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
-* [Présentation de l’initialisation et de l’amorçage](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Guide de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
+* [Créer des variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
+* [ de Commerce sur les infrastructures cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
@@ -179,6 +168,16 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
+
+**Effectuer un test d’entraînement**
+
+Nous vous recommandons de passer le test d’entraînement gratuit avant de commencer. Vous disposez d’un accès illimité à tous les tests d’entraînement disponibles pour les examens de niveau expert de l’Adobe.
+
+Nos tests d’entraînement sont tous développés à partir du même plan directeur que les examens en direct. Le test d’entraînement vous aidera à comprendre les sujets couverts par l’examen en direct.
+
+N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que vous réussirez l&#39;examen de certification.
+
+Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
 
 **Passer l&#39;examen de certification**
 
@@ -193,9 +192,9 @@ Le nom de votre profil dans le système de gestion des informations d’identifi
 
 Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
-### Numéro de l’examen : AD0-E719
+### Numéro de l’examen : AD0-E721
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
 
 Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
