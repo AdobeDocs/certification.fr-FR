@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1162'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -163,44 +163,42 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 >[!IMPORTANT]
 >
 >Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
+## Effectuer un test d’entraînement
 
-**Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
+{{practice-test}}
 
-**Effectuer un test d’entraînement**
+## A propos de l&#39;examen
 
-Nous vous recommandons de passer le test d’entraînement gratuit avant de commencer. Vous disposez d’un accès illimité à tous les tests d’entraînement disponibles pour les examens de niveau expert de l’Adobe.
+{{about-certification-exam}}
 
-Nos tests d’entraînement sont tous développés à partir du même plan directeur que les examens en direct. Le test d’entraînement vous aidera à comprendre les sujets couverts par l’examen en direct.
+## Passer l&#39;examen (AD0-E712)
 
-N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que vous réussirez l&#39;examen de certification.
+### Options disponibles
 
-Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
+**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 
-**Passer l&#39;examen de certification**
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+<span class="spectrum-Button-label has-no-wrap">
+   Passer un examen
+</span>
+</a>
 
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
+**[!DNL Examity]** ( *en ligne* )
 
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-### Numéro de l’examen : AD0-E712
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712 newtab=true"}
-
-Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+<span class="spectrum-Button-label has-no-wrap">
+   Passer un examen
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

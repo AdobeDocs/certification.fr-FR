@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Redémarrez votre parcours de certification en passant de expiré à certifié.
 
-Ce programme à temps limité est proposé **du 24 avril 2023 au 20 octobre 2023**, vous donne la possibilité de mettre à jour vos compétences et de rester en avance sur la courbe dans un paysage numérique qui change rapidement.
-
-Les personnes dont les certifications ont expiré entre 2020 et le 23 avril 2023 sont éligibles pour cela. **free** programme.
+>[!AVAILABILITY]
+>
+> Ce programme à temps limité est proposé à partir de **24 avril 2023 au 20 octobre 2023**.  Le programme offre l&#39;opportunité de mettre à jour vos compétences et de rester en avance sur la courbe dans un paysage numérique en rapide mutation.
+>
+> ** ÉLIGIBILITÉ : Les personnes dont les certifications ont expiré entre 2020 et le 23 avril 2023 sont éligibles pour cela **free** programme.
 
 ## Introduction
 
@@ -107,7 +109,7 @@ Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les pl
 | [Exportation et démocratisation des données Adobe Analytics - Leçons 5 et 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=fr){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Filtrage de vos données avec segmentation et dates personnalisées - Leçon 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Mise en oeuvre guidée d’Analytics - Leçon 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=fr){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ Mise en oeuvre et mesure de la recherche de site interne - Leçon 3 et 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [Mise en oeuvre et mesure de la recherche de site interne - Leçon 3 et 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [API Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les pl
 
 Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+Voici quelques suggestions de ressources :
 
-[!BADGE Exemples de questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**Ressources:**
-
+* [Exemple d’examen](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentation du produit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Prise en charge des Adobes - [!DNL Experience Cloud] Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * Formation et assistance relatives à [[!DNL Experience Cloud] ](https://helpx.adobe.com/fr/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Redémarrez votre certification.**
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L’examen de redémarrage de l’expert du métier Adobe Audience Manager ADS-E826 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Souscrivez à l’examen de redémarrage ADS-E826 de l’expert du métier de Adobe Audience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Redémarrez votre certification.
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L’examen principal de redémarrage de Adobe Audience Manager Architect ADS-E825 est gratuit, libre et sans traitement. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Réalisez l’examen principal de redémarrage de Adobe Audience Manager Architect ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Redémarrez votre certification.
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage des développeurs ADS-821 est gratuit, ouvert et non traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Prenez l’Adobe [!DNL Campaign Standard] Examen de redémarrage des développeurs ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Section 4 : Administration, suivi et reporting
 
 ### Redémarrez votre certification.
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage de l’expert du professionnel ADS-822 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Prenez l’Adobe [!DNL Campaign Standard] Examen de redémarrage expert du professionnel ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Redémarrez votre certification.
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L’examen de redémarrage Adobe Campaign Classic ADS-823 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Souscrivez à l’examen de redémarrage Adobe Campaign Classic ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Redémarrez votre certification.
 
-Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L’examen de redémarrage ADS-E824de l’expert du métier de Adobe Marketo Engage est gratuit, ouvert et sans traitement. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-[!BADGE Souscrivez à l’examen de redémarrage de l’expert du métier Adobe Marketo Engage ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Passer l'examen
+</span>
+</a>
 
 >[!ENDTABS]
 
-### Questions
+## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

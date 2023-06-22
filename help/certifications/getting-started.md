@@ -4,10 +4,10 @@ description: Obtenez vos certifications  [!DNL Experience Cloud] . Découvrez le
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -72,9 +72,14 @@ Le Guide du Parcours de certification est un outil complet conçu pour vous four
 
 >[!ENDTABS]
 
-[!BADGE Obtenir une certification]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**Questions**
+<span class="spectrum-Button-label has-no-wrap">
+   Obtenir une certification
+</span>
+</a>
+
+## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
