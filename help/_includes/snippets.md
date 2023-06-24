@@ -17,7 +17,7 @@ N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que v
 
 Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
 
-## A propos de l&#39;examen de certification {#about-certification-exam}
+## A propos de l'examen de certification {#about-certification-exam}
 
 Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!DNL Examity].
 
