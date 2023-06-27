@@ -3,7 +3,7 @@ title: Présentation de la certification Target
 description: Présentation des options de certification pour Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 5%
@@ -36,7 +36,7 @@ Cependant, si vous commencez à utiliser votre certification, nous vous recomman
 
 **Master**
 
-* [Architecte - expirant le 25 août 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Architecte - expirant le 8 septembre 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Architecte NEW](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
