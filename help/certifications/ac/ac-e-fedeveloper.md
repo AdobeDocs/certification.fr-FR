@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 1%
@@ -224,7 +224,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Options disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 

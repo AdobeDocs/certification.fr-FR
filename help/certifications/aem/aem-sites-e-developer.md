@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 23%
@@ -157,7 +157,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Options disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 

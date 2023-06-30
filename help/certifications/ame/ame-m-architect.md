@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 1%
@@ -172,7 +172,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 ### Options disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 
