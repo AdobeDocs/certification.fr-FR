@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 1%
@@ -189,6 +189,8 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 ## Effectuer l&#39;examen (AD0-E719)
 
 ### Options disponibles
+
+{#PSI-note}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 

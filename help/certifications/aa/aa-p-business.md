@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '797'
+ht-degree: 12%
 
 ---
 
@@ -146,6 +146,8 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 ## Passer l&#39;examen (AD0-E212)
 
 ### Options disponibles
+
+{#PSI-note}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 

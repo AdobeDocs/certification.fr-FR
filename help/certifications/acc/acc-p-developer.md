@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1198'
+ht-degree: 16%
 
 ---
 
@@ -199,6 +199,8 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 ## Passer l&#39;examen (AD0-E331)
 
 ### Options disponibles
+
+{#PSI-note}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que v
 
 Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
 
-## A propos de l'examen de certification {#about-certification-exam}
+## A propos de l&#39;examen de certification {#about-certification-exam}
 
 Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!DNL Examity].
 
@@ -29,3 +29,9 @@ Pour planifier, replanifier ou annuler votre examen, sélectionnez simplement le
 Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 Payer votre examen de certification soit par bon, soit par carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+
+## Note PSI {#PSI-note}
+
+>[!IMPORTANT]
+>
+>À compter du 1er août 2023, la planification des examens ne sera plus disponible avec les tests d’identification personnelle. Si vous avez déjà programmé un examen avec le PSI, vous devez le passer avant le 1er août 2023. Si vous avez planifié un examen avec le PSI après le 1er août 2023, veuillez reprogrammer votre examen pour qu’il ait lieu avant cette date. Si vous ne pouvez pas ou n’êtes pas prêt à passer votre examen avant le 1er août 2023, veuillez envoyer un email à l’adresse <certif@adobe.edu> afin que nous puissions vous aider à transférer votre examen à l&#39;examen. Cela inclut les examens de langue japonaise.

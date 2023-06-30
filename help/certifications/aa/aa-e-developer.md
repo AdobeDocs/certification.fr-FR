@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 10%
@@ -190,6 +190,8 @@ Les annulations et les replanifications sont possibles si elles sont initiées a
 ## Passer l&#39;examen (AD0-E209)
 
 ### Options disponibles
+
+{#PSI-note}
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 
