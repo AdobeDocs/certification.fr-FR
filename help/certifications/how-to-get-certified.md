@@ -4,10 +4,10 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1462'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,8 @@ Découvrez comment être certifié dans Adobe. Trouvez toutes les ressources don
 >[!TAB Enregistrement]
 
 Adobe utilise deux fournisseurs pour administrer les examens traités : [!DNL PSI] et [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
 * **[!DNL Examity]:** propose une option en ligne distante
@@ -85,6 +87,8 @@ Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offr
 >[!TAB Fournisseurs de certification]
 
 L’équipe Informations d’identification de l’Adobe travaille en partenariat avec des fournisseurs pour soutenir les initiatives et les objectifs du programme.  Voici les vendeurs et leurs coordonnées :
+
+{{PSI-note}}
 
 | Nom du fournisseur | Description | Page d’assistance/courrier électronique |
 | ------- | ------- | ------- |
