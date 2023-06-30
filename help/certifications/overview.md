@@ -4,10 +4,10 @@ description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. D�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
+source-git-commit: 54141526d798a3204f5e4f12444e78c77814fd3e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -49,7 +49,6 @@ Tous les détails sur chaque certification de produit disponible sont répertori
 * [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
 * [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
 * [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
-<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
 * [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
 * [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
 * [Adobe Target](/help/certifications/at/at-overview.md)
