@@ -2,10 +2,10 @@
 user-guide-title: Certification Adobe
 breadcrumb-title: Certification Adobe
 user-guide-description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. Découvrez ce que la certification peut vous apporter.
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 46%
+source-wordcount: '261'
+ht-degree: 47%
 
 ---
 
@@ -34,11 +34,13 @@ ht-degree: 46%
       + Expert {#aa-expert}
          + [Professionnel](/help/certifications/aa/aa-e-business.md)
          + [Développeur](/help/certifications/aa/aa-e-developer.md)
-      + Master {#aa-master}
+      + Maître {#aa-master}
          + [Architecte](/help/certifications/aa/aa-m-architect.md)
       + [Renouvellement](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
       + [Présentation du Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + Professionnel {#acja-professional}
+         + [Professionnel](/help/certifications/acja/acja-p-business.md)
       + Expert {#acja-expert}
          + [Développeur](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
@@ -47,7 +49,7 @@ ht-degree: 46%
          + [Professionnel](/help/certifications/aam/aam-p-business.md)
       + Expert {#aam-expert}
          + [Professionnel](/help/certifications/aam/aam-e-business.md)
-      + Master {#aam-master}
+      + Maître {#aam-master}
          + [Architecte](/help/certifications/aam/aam-m-architect.md)
       + [Renouvellement](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
@@ -58,7 +60,7 @@ ht-degree: 46%
       + Expert {#acc-expert}
          + [Professionnel](/help/certifications/acc/acc-e-business.md)
          + [Développeur](/help/certifications/acc/acc-e-developer.md)
-      + Master {#acc-master}
+      + Maître {#acc-master}
          + [Architecte](/help/certifications/acc/acc-m-developer.md)
       + [Renouvellement](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
@@ -79,7 +81,7 @@ ht-degree: 46%
          + [Développeur](/help/certifications/ac/ac-e-developer.md)
          + [Développeur front-end](/help/certifications/ac/ac-e-fedeveloper.md)
          + [Développeur front-end (nouveau)](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + Master {#ac-master}
+      + Maître {#ac-master}
          + [Architecte](/help/certifications/ac/ac-m-architect.md)
       + [Renouvellement](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
@@ -101,7 +103,7 @@ ht-degree: 46%
          + [Ops de développement](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
-      + Master {#aem-master}
+      + Maître {#aem-master}
          + [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Renouvellement](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
@@ -110,7 +112,7 @@ ht-degree: 46%
          + [Certified Professional](/help/certifications/ame/ame-p.md)
       + Expert {#ame-expert}
          + [Professionnel](/help/certifications/ame/ame-e-business.md)
-      + Master {#ame-master}
+      + Maître {#ame-master}
          + [Architecte](/help/certifications/ame/ame-m-architect.md)
       + [Renouvellement](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -131,7 +133,7 @@ ht-degree: 46%
          + [Professionnel](/help/certifications/at/at-p-business.md)
       + Expert {#at-expert}
          + [Professionnel](/help/certifications/at/at-e-business.md)
-      + Master {#at-master}
+      + Maître {#at-master}
          + [Architecte](/help/certifications/at/at-m-architect.md)
          + [Architecte (nouveau)](/help/certifications/at/at-m-architect0623.md)
       + [Renouvellement](/help/certifications/at/at-renew.md)
