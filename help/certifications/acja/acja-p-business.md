@@ -6,9 +6,9 @@ product: Customer Journey Analytics
 role: User
 badge: label="Exam AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Découvrez comment devenir un professionnel Adobe certifié.
 
 ## Expérience minimale
 
-Le MCQ idéal est un analyste avec au moins 6 mois d’expérience en Customer Journey Analytics et une compréhension fondamentale du fonctionnement de CJA avec Adobe Experience Platform. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
+Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Customer Journey Analytics et une compréhension fondamentale du fonctionnement de CJA avec Adobe Experience Platform. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
 
 >[!NOTE]
 >
