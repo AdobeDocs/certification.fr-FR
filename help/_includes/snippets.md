@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -17,7 +17,7 @@ N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que v
 
 Accédez au [Portail Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} maintenant pour passer un test d&#39;entraînement.
 
-## A propos de l'examen de certification {#about-certification-exam}
+## A propos de l&#39;examen de certification {#about-certification-exam}
 
 Adobe utilise deux fournisseurs pour administrer les examens traités, PSI et [!DNL Examity].
 
@@ -34,4 +34,4 @@ Payer votre examen de certification soit par bon, soit par carte de crédit. Pou
 
 >[!IMPORTANT]
 >
->À compter du 1er août 2023, la planification des examens ne sera plus disponible avec les tests d’identification personnelle. Si vous avez déjà programmé un examen avec le PSI, vous devez le passer avant le 1er août 2023. Si vous avez planifié un examen avec le PSI après le 1er août 2023, veuillez reprogrammer votre examen pour qu’il ait lieu avant cette date. Si vous ne pouvez pas ou n’êtes pas prêt à passer votre examen avant le 1er août 2023, veuillez envoyer un email à l’adresse <certif@adobe.edu> afin que nous puissions vous aider à transférer votre examen à l&#39;examen. Cela inclut les examens de langue japonaise.
+>À compter du 1er août 2023, la planification des examens ne sera plus disponible avec les tests d’identification personnelle. Si vous avez déjà programmé un examen avec le PSI, vous devez le passer avant le 1er août 2023. Si vous avez planifié un examen avec le PSI après le 1er août 2023, veuillez reprogrammer votre examen pour qu’il ait lieu avant cette date. Si vous ne pouvez pas ou n’êtes pas prêt à passer votre examen avant le 1er août 2023, veuillez envoyer un email à l’adresse <certif@adobe.com> afin que nous puissions vous aider à transférer votre examen à l&#39;examen. Cela inclut les examens de langue japonaise.
