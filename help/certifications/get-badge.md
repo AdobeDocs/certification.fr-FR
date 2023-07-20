@@ -1,13 +1,13 @@
 ---
 title: Certification Adobe Real-time Customer Data Platform
 description: Vous disposez de connaissances techniques sur la segmentation de l’audience, les exportations de destination et l’activation en temps réel pour les profils unifiés conformes aux réglementations en matière de données et de confidentialité, les plateformes de données client (CDP) et la connaissance de Adobe Experience Platform.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="Comment obtenir une certification" type="positive"
-source-git-commit: 6347bf4e33aa26a8450a86b7ee5341cd975a07b9
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
