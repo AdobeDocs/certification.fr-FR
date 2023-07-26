@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 9%
 
 ---
@@ -120,13 +120,19 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 * **Étape 2**: étudier les cours en Experience League
 * **Étape 3**: sélectionnez l’une des options ci-dessous.
 
-**Option 1 :** Sélectionner **trois activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  **Option A :**
 
-**Option 2 :** Sélectionner **deux activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %. Alors, **envoyer un formulaire de référence client ;** validation de votre engagement dans un projet totalisant au moins 100 heures au cours des 12 derniers mois.
+  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-[Formulaire de référence client pour Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Option B :**
 
-L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée.
+  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+
+  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+
+  [Formulaire de référence client pour Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
 
 ### Cours et évaluations de cours pour les experts et les Principal :
 
@@ -149,13 +155,19 @@ L’équipe Informations d’identification de l’Adobe vous avertira lorsque v
 * **Étape 2**: étudier les cours en Experience League
 * **Étape 3**: sélectionnez l’une des options ci-dessous.
 
-**Option 1 :** Sélectionner **trois activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  **Option A :**
 
-**Option 2 :** Sélectionner **deux activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %. Alors, **envoyer un formulaire de référence client ;** validation de votre engagement dans un projet totalisant au moins 100 heures au cours des 12 derniers mois.
+  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-[Formulaire de référence client pour Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Option B :**
 
-L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée.
+  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+
+  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+
+  [Formulaire de référence client pour Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
 
 ### Cours et évaluations de cours pour les experts et les Principal :
 
@@ -176,13 +188,19 @@ L’équipe Informations d’identification de l’Adobe vous avertira lorsque v
 * **Étape 2**: étudier les cours en Experience League
 * **Étape 3**: sélectionnez l’une des options ci-dessous.
 
-**Option 1 :** Sélectionner **trois activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  **Option A :**
 
-**Option 2 :** Sélectionner **deux activités** compléter et transmettre les évaluations de cours associées à chacune d’elles à un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande et non suivies. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %. Alors, **envoyer un formulaire de référence client ;** validation de votre engagement dans un projet totalisant au moins 100 heures au cours des 12 derniers mois.
+  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-[Formulaire de référence client pour Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Option B :**
 
-L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée.
+  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+
+  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+
+  [Formulaire de référence client pour Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
 
 ### Cours et évaluations de cours pour les experts et les Principal :
 

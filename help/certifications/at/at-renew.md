@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '537'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!IMPORTANT]
 >
->Les liens d’évaluation de cours suivants fonctionneront : **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les liens d’évaluation de cours suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -38,44 +38,43 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Experts et Principal]
 
-Vous devez actuellement être certifié (non expiré) dans :
+## Vous devez actuellement être certifié (non expiré) dans :
 
 * [!DNL Adobe Target] Expert spécialiste des affaires
 * [!DNL Adobe Target] Principal architecte
 
 ## Instructions pour renouveler votre [!DNL Adobe Target] certification
 
-Sélectionner **trois activités** compléter et transmettre les évaluations de cours associées à chacune d’elles.
+**Étape 1 :** Connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+**Étape 2 :** Étudiez les cours en Experience League **Étape 3:**Choisissez l’une des options ci-dessous pour terminer votre renouvellement.
 
-* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: Étudier les cours en Experience League
-* **Étape 3**: Effectuez et réussissez chaque évaluation de cours avec au moins 80 %
+**Option A :**
 
-Vous pouvez également étudier deux cours, réussir deux évaluations de cours et envoyer un formulaire de référence client validant votre engagement dans un projet pour un total de 100 heures au cours des 12 derniers mois.
+Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-Pour certaines certifications Adobe Experience Cloud, le programme Adobe Credential accepte les **Références client** qui valident votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud.
+**Option B :**
 
-Dans ce cas, vous pouvez fournir une référence client confirmant que vous avez participé à au moins 100 heures de l’engagement démontré du projet au cours de l’intervalle de 2 ans du renouvellement de certification.
+Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-**Une fois votre référence client vérifiée, vous en serez informé par l’équipe d’informations d’identification de l’Adobe.**
-
-Les évaluations du cours sont gratuites. Il n&#39;est pas nécessaire de les planifier, et ils ne sont pas traités. Si vous détenez plusieurs certifications Adobe Target au niveau des experts et des Principal, vous n’aurez qu’à répondre aux exigences ci-dessous et toutes vos certifications Adobe Target à ce niveau seront renouvelées.
+Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures d’engagement de projet démontré pendant l’intervalle de 2 ans du renouvellement de certification.
 
 [Formulaire de référence client pour [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-### Cours et évaluations de cours pour les experts et les maîtres :
+L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
 
-| Cours | Évaluation du cours |
+>[!NOTE]
+>
+>Si plusieurs [!DNL Adobe Target] certifications de niveau expert et Principal, remplir les exigences de renouvellement pour une seule certification, et le reste sera renouvelé automatiquement.
+
+## Cours et évaluations de cours pour les experts et les Principal :
+
+| Cours et évaluations de cours pour experts et Principal | Évaluation du cours |
 | ------- | ------- |
 | [[!DNL Adobe Target] Présentation de la prise de décision sur les périphériques](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] Cours d’innovation en personnalisation](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [Cours sur la personnalisation et la mise en oeuvre des applications mobiles](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Cours guidé Mobile et IoT Launch pour les développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
 | [Cours guidé de lancement de site web pour les développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
-
->[!NOTE]
->
->Vous pouvez répéter jusqu’à ce que vous ayez terminé trois activités ou terminé deux activités plus le formulaire de référence du client.
 
 >[!ENDTABS]
 
