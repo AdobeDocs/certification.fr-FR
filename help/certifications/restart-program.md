@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 9%
@@ -27,7 +27,7 @@ La certification est une ressource précieuse pour les personnes qui souhaitent 
 
 Les personnes possédant des certifications expirées qui sont éligibles à ce programme doivent avoir reçu un courrier électronique du Programme de certification pour les Adobes avec l’objet &quot;Devenez un Adobe certifié à nouveau gratuitement&quot;.
 
-Si vous ne savez pas si vous êtes éligible, veuillez vérifier [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Si vous ne savez pas si vous êtes éligible, veuillez vérifier [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Pour être éligible, votre certification doit correspondre à **all** des critères suivants :
 
@@ -198,7 +198,7 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
   Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
 
-  [Formulaire de référence client pour Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Formulaire de référence client pour Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
 
