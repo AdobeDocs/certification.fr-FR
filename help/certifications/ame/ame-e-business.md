@@ -7,16 +7,16 @@ role: User
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Marketo Engage] Expert spécialiste des affaires
+# Parcours de certification pour Adobe [!DNL Marketo Engage] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert Adobe en métier.
+Découvrez comment devenir un expert Adobe en métier certifié.
 
 ## Expérience minimale
 
@@ -45,7 +45,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -66,17 +66,17 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 32/50
-* Heure : 110 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais et japonais
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais et japonais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E559
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -114,12 +114,12 @@ Section 3 : Gestion des leads (12 %)
 * Interprétation du journal des activités de piste
 * Dans un scénario, identifiez la source de création.
 
-Section 4 : Gestion des données (10 %)
+Section 4 : Data Management (10 %)
 
 * Montrer comment configurer un programme de gestion des données
 * Analyse de la qualité des données d’une instance
-* Identifier quelques éléments clés de la politique de conservation des données de Marketo en ce qui concerne les listes dynamiques
-* Résumer le fonctionnement de la segmentation
+* Identifier quelques éléments clés de la politique de conservation des données de Marketo relative aux listes dynamiques
+* Résumé du fonctionnement de la segmentation
 
 Section 5 : Rapports (4 %)
 
@@ -131,7 +131,7 @@ Section 6 : Bonnes pratiques (16 %)
 * Démontrez la pertinence du score de piste dans la collaboration marketing et commerciale
 * Illustrer les avantages de la structure de dossiers et des conventions de dénomination
 * Appliquer les bonnes pratiques relatives aux tests A/B
-* Expliquer le processus pour effectuer un contrôle qualité sur n’importe quel programme Marketo
+* Expliquer le processus pour effectuer un contrôle qualité sur un programme Marketo
 * Expliquer le processus pour effectuer un contrôle qualité sur un email
 
 >[!TAB Effectuer la préparation]
@@ -183,11 +183,11 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Modifier la valeur des données](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
 * [Définition de valeurs dans une radio ou un champ sélectionné d’un formulaire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
 * [Stratégies de conservation des données des activités Marketo](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
-* [Création d’une segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [Créer une segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Utilisation de filtres de segments dans une liste dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
 
 
-**Section 5 : Reporting**
+**Section 5 : Création de rapports**
 
 * [Présentation du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Compréhension de l’appartenance au programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
@@ -197,7 +197,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 6 : Bonnes pratiques**
 
-* [Bonne pratique : Comment organiser vos programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
+* [Bonne pratique : comment organiser vos programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
 * [Envoyer un exemple de courrier électronique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
 * [Prévisualisation d’un email avec du contenu dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
 * [Modifier le score](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
@@ -208,11 +208,11 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
@@ -228,19 +228,17 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
 
-*ANGLAIS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Passer un examen d'anglais
 </span>
 </a>
 
-*JAPONAIS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Passage à l'examen japonais
 </span>
 </a>
 
