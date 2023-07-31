@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Il est important de noter que si votre certification expire avant que vous ayez 
 
 >[!TAB Experts et Principal]
 
-## Vous devez actuellement être certifié (non expiré) dans :
+## Vous devez avoir au moins l’un des éléments suivants : **principal** certifications à renouveler :
 
 * [!DNL Adobe Target] Expert spécialiste des affaires
 * [!DNL Adobe Target] Principal architecte
@@ -50,8 +50,7 @@ Il est important de noter que si votre certification expire avant que vous ayez 
 * **Étape 3 :** Choisissez l’une des options ci-dessous pour terminer votre renouvellement.
 
   **Option A :**
-
-  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
   **Option B :**
 Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
@@ -64,7 +63,7 @@ Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluat
 
 >[!NOTE]
 >
->Si plusieurs [!DNL Adobe Target] certifications de niveau expert et Principal, remplir les exigences de renouvellement pour une seule certification, et le reste sera renouvelé automatiquement.
+>Si plusieurs [!DNL Adobe Target] certifications expertes et Principal, satisfaire aux exigences de renouvellement d’une seule certification, le reste étant renouvelé automatiquement.
 
 ## Cours et évaluations de cours pour les experts et les Principal :
 
