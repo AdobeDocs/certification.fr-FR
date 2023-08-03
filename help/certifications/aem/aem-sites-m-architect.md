@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
+source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
 workflow-type: tm+mt
-source-wordcount: '1514'
+source-wordcount: '1498'
 ht-degree: 27%
 
 ---
@@ -18,14 +18,7 @@ ht-degree: 27%
 
 >[!NOTE]
 >
->Cet examen (AD0-E117) est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. Veuillez utiliser le bouton ci-dessous pour vous inscrire et être informé lorsqu’il sera de nouveau disponible.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   M’avertir
-</span>
-</a>
+>Cet examen (AD0-E117) est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
 
 Découvrez comment devenir un Principal Architecte certifié.
 
@@ -229,14 +222,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!NOTE]
 >
->Cet examen (AD0-E117) est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. Veuillez utiliser le bouton ci-dessous pour vous inscrire et être informé lorsqu’il sera de nouveau disponible.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   M’avertir
-</span>
-</a>
+>Cet examen (AD0-E117) est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
 
 >[!ENDTABS]
 
