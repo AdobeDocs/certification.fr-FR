@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 14%
+source-wordcount: '1001'
+ht-degree: 15%
 
 ---
 
@@ -32,13 +32,13 @@ Vous devez disposer des éléments suivants :
 * Comprendre le fonctionnement de la technologie et comprendre l’implémentation d’un client (par exemple, où se trouvent les données, comment les collecter, comment elles sont suivies) d’un point de vue fonctionnel
 * Au moins un an de [!DNL Adobe Analytics] expérience pratique
 * Une compréhension de base de la manière dont l’analyse numérique filtre/structure les données
-* une prise de conscience de l&#39;intégration des [!DNL Adobe Analytics] avec d’autres solutions d’Adobe
+* une prise de conscience de l&#39;intégration des [!DNL Adobe Analytics] avec d’autres solutions Adobe
 
 ### En outre, vous devez connaître les technologies et environnements suivants :
 
 * Client FTP
 * Actuel [!DNL Adobe Analytics] Fonctionnalités de Workspace et autres options de création de rapports en dehors de Workspace (ex. planification de projets et planification de rapports)
-* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets tel qu’un débogueur Adobe, des outils de développement de navigateur, Charles)
+* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets, tel qu’un Adobe Debugger, des outils de développement de navigateur, Charles)
 * Admin Console (console d’administration de la suite de rapports Analytics et console d’administration Experience Cloud)
 * Principes de base/bases d’Adobe Launch
 * Applications, SPA, compréhension de base du site web
@@ -52,7 +52,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -79,7 +79,7 @@ Vous devez disposer des éléments suivants :
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -91,7 +91,7 @@ Section 1 : Présentation d’Analytics dans l’écosystème de Adobe Experienc
 
 Section 2 : Reporting et tableau de bord pour les projets (30 %)
 
-* Tenir compte des avantages de l’utilisation d’un outil de création de rapports en fonction d’un scénario donné
+* Tenir compte des avantages de l’utilisation d’un outil de reporting basé sur un scénario donné
 * Comparer la visualisation Abandons et Flux et les types de variables appropriés pour la création de rapports
 * Appliquez le processus pour planifier des projets et des Data Warehouse.
 * Appliquez le processus pour partager des tableaux de bord Projets et Rapports et analyses pour différents utilisateurs et/ou groupes.
@@ -112,7 +112,7 @@ Section 3 : Segmentation et mesures calculées (22 %)
 Section 4 : Connaissances générales de l’outil et résolution des problèmes (12 %)
 
 * Analyse des rapports et identification des problèmes de qualité des données
-* Définir différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements)
+* Définition de différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements)
 * Déterminer comment importer et extraire des données [!DNL Adobe Analytics]
 * Identification des informations à partir des URL marketing
 
@@ -130,7 +130,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Analyse commerciale**
+**Section 1 : Analyse des activités**
 
 * [Quel [!DNL Adobe Analytics] dois-je utiliser l’outil ?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=fr){target="_blank"}
 * Documentation [[!DNL Adobe Analytics] ](https://helpx.adobe.com/fr/support/analytics.html){target="_blank"}
@@ -150,7 +150,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Segmentation Analytics](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=fr){target="_blank"}
 * [Mesures calculées ou calculées avancées (dérivées)](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=fr){target="_blank"}
 
-**Section 4 : Connaissances générales et dépannage**
+**Section 4 : Connaissances générales de l’outil et résolution des problèmes**
 
 * [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
@@ -165,39 +165,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E208)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

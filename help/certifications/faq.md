@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Pour en savoir plus sur le programme de certification des Adobes, consultez les 
 
 +++Qu’est-ce que la certification et quels sont les avantages ?
 
-Avantages individuels : La certification est une information d’identification qui reconnaît les compétences et les compétences d’un individu dans une application d’Adobe. Un candidat qui réussit l’examen de certification devient un Adobe certifié professionnel, expert ou Principal.
+Avantages individuels : la certification est une information d’identification qui reconnaît les compétences et les compétences d’un individu dans une application d’Adobe. Un candidat qui réussit l’examen de certification devient un Adobe certifié professionnel, expert ou Principal.
 
 Les certifications nécessitent un engagement, sont juridiquement défendables et la validation de l’Adobe de votre expertise. Vous pouvez également inclure votre certification dans vos profils sociaux en téléchargeant votre badge à partir de [!DNL Credly].
 
@@ -32,13 +32,13 @@ Pour en savoir plus sur la gestion de vos badges dans [!DNL Credly], go [ICI](ht
 
 +++
 
-+++Comment savoir quel examen passer ?
++++Comment puis-je savoir quel examen passer ?
 
 Les certifications sont basées sur les rôles, ce qui signifie qu’il existe plusieurs examens disponibles. Consultez les pages du parcours de certification pour choisir l’examen à réaliser. Vous choisirez l&#39;examen en procédant comme suit :
 
 * Application : par exemple, [!DNL Adobe Analytics] ou [!DNL Marketo Engage]
 * Rôle : par exemple, développeur ou professionnel
-* Niveau : par exemple, professionnel, de 0 à 12 mois d&#39;expérience; ou expert 1-3 ans
+* Niveau : par exemple, professionnel, 0 à 12 mois d’expérience ou expert, 1 à 3 ans
 
 Il existe parfois plusieurs versions d&#39;un examen. Il est préférable de prendre la dernière version.
 
@@ -49,15 +49,13 @@ Il existe parfois plusieurs versions d&#39;un examen. Il est préférable de pre
 
 +++Que se passe-t-il si j&#39;ai des problèmes techniques pendant mon examen surveillé ?
 
-PSI et [!DNL Examity] sont pris en charge par chat, par e-mail et par téléphone. La prise en charge des Adobes ne peut pas vous aider en cas de problèmes techniques survenant pendant l’examen.
+[!DNL Examity] prend en charge par chat, par e-mail et par téléphone. La prise en charge des Adobes ne peut pas vous aider en cas de problèmes techniques survenant pendant l’examen.
 
-[!DNL Examity] Support technique - `adobepartnersupport@examity.com`
-
-Prise en charge PSI - `psisupport@psionline.com`
+[!DNL Examity] Support technique: `adobepartnersupport@examity.com`
 
 La ressource d&#39;aide la plus rapide est par le biais de leur conversation. Tous les candidats aux tests doivent s’assurer que leur ordinateur a la configuration requise adéquate avant de passer leur examen.
 
-Pour plus d’informations, voir : PSI et [!DNL Examity] pour gérer les examens et la configuration technique.
+Pour plus d’informations, voir [!DNL Examity] pour gérer les examens et la configuration technique.
 
 +++
 
@@ -85,15 +83,15 @@ Pour les candidats qui ne réussissent pas l&#39;examen de certification d&#39;A
 
 +++Comment puis-je obtenir une copie de mon rapport de score ?
 
-* Étape 1 : Connectez-vous au [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Connectez-vous à l’aide de votre identifiant ou de votre adresse électronique et de votre mot de passe.
-* Étape 2 : Cliquez sur Transcripts.
-* Étape 3 : Faites défiler votre historique de transcription et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
+* Étape 1 : connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Connectez-vous à l’aide de votre identifiant ou de votre adresse électronique et de votre mot de passe.
+* Étape 2 : cliquez sur Transcripts.
+* Étape 3 : faites défiler votre historique de transcription et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
 
 +++
 
 +++Comment effectuer le suivi de mon état de certification ?
 
-Vous pouvez suivre votre état de certification en accédant à [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} sous l’onglet certifications .
+Vous pouvez suivre votre état de certification en accédant à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"} sous l’onglet certifications .
 
 +++
 
@@ -117,9 +115,7 @@ Puisque nous devons nous assurer que les personnes certifiées Adobe sont au cou
 
 +++Les examens sont-ils disponibles dans d’autres langues que l’anglais ?
 
-{{PSI-note}}
-
-Certains examens sont disponibles en japonais via PSI (un de nos vendeurs). Si l’examen est disponible en japonais, il sera noté dans les détails de l’examen pour cet examen. Les détails des examens se trouvent dans l’onglet &quot;Préparer&quot; des pages du parcours de certification.
+Certains examens sont disponibles en japonais. Si l’examen est disponible en japonais, il sera noté dans les détails de l’examen pour cet examen. Les détails des examens se trouvent dans l’onglet &quot;Préparer&quot; des pages du parcours de certification.
 
 +++
 
@@ -170,7 +166,7 @@ Pour en savoir plus sur la manière de renouveler votre certification, accédez 
 
 +++Où puis-je voir ma date d’expiration de certification ? Est-ce que je vais recevoir un avis ?
 
-Se connecter à [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Vous pouvez y voir quand vous avez obtenu vos informations d’identification et quand elles expireront. Vous devez également vérifier votre profil et confirmer que vos coordonnées, e-mail secondaire et informations de tâche sont correctes.
+Se connecter à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"}. Vous pouvez y voir quand vous avez obtenu vos informations d’identification et quand elles expireront. Vous devez également vérifier votre profil et confirmer que vos coordonnées, e-mail secondaire et informations de tâche sont correctes.
 
 Vous recevrez une notification par courrier électronique un mois avant l’expiration de votre certification. Mais si vous avez modifié des tâches et n’avez pas mis à jour votre email, il se peut que vous ne soyez pas averti. Ajoutez un courrier électronique secondaire (Gmail, Hotmail, Yahoo, etc.) dans votre compte CertMetrics, de sorte que vous receviez un courrier électronique de rappel d’expiration de certification, même si vous changez de société.
 
@@ -178,7 +174,7 @@ Vous recevrez une notification par courrier électronique un mois avant l’expi
 
 +++Quel examen dois-je passer pour mon renouvellement ?
 
-Pour savoir quel examen vous devrez passer, connectez-vous à la fonction [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} à l’aide de votre Adobe ID, cliquez sur Certifications, puis sélectionnez le nom de la certification. L’examen de renouvellement est répertorié sous **obligation de rester à jour**.
+Pour savoir quel examen vous devrez passer, connectez-vous à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"} à l’aide de votre Adobe ID, cliquez sur Certifications, puis sélectionnez le nom de la certification. L’examen de renouvellement est répertorié sous **obligation de rester à jour**.
 
 +++
 
@@ -198,11 +194,11 @@ Non, il n&#39;est pas possible de reprendre le même examen pour le renouvelleme
 
 +++Qu’est-ce que le programme de renouvellement de la certification d’Adobe par l’apprentissage continu ?
 
-Adobe offre des activités d’apprentissage et d’engagement continu afin que les candidats puissent rester principaux et prolonger leur statut de certification de 2 ans de plus. Cette option est uniquement proposée pour des applications sélectionnées.
+Adobe offre des activités d’apprentissage et d’engagement continu afin que les candidats puissent rester actifs et prolonger leur statut de certification de 2 ans de plus. Cette option est uniquement proposée pour des applications sélectionnées.
 
 +++
 
-+++ ma certification a déjà expiré ; puis-je poursuivre les activités d&#39;apprentissage continu et d&#39;engagement en vue du renouvellement?
++++Mon certificat a déjà expiré ; puis-je poursuivre les activités d’apprentissage continu et d’engagement pour le renouvellement ?
 
 Non, cette option de renouvellement s’applique uniquement aux candidats Analytics, Experience Manager, Commerce et Target actuellement certifiés par l’Adobe.
 
@@ -222,7 +218,7 @@ Les candidats se verront offrir 5 à 7 cours à la demande. Le critère pour ren
 
 +++Qu’est-ce qu’un formulaire de référence client dans le contexte des renouvellements de certification ?
 
-Formulaire qu’un candidat peut envoyer dans le cadre des activités d’apprentissage et d’engagement continu de l’Adobe pour renouveler sa certification. Le formulaire doit être signé par un client, indiquant que le candidat a passé au moins 100 heures sur un projet au cours des 12 derniers mois liés au produit pour lequel il renouvelle sa certification. En incluant cette option dans le cadre des exigences de renouvellement de la certification, nous voulons reconnaître votre engagement continu comme un moyen de valider vos compétences et connaissances afin que votre certification reste principale.
+Formulaire qu’un candidat peut envoyer dans le cadre des activités d’apprentissage et d’engagement continu de l’Adobe pour renouveler sa certification. Le formulaire doit être signé par un client, indiquant que le candidat a passé au moins 100 heures sur un projet au cours des 12 derniers mois liés au produit pour lequel il renouvelle sa certification. En incluant cette option dans le cadre des exigences de renouvellement de la certification, nous voulons reconnaître votre engagement continu comme un moyen de valider vos compétences et connaissances afin que votre certification reste active.
 
 +++
 
@@ -232,7 +228,7 @@ Non. Toutes les activités sont accessibles gratuitement via Adobe Credential Ma
 
 +++
 
-+++ Dois-je réussir les évaluations et envoyer un formulaire de référence client ?
++++Dois-je réussir les évaluations et envoyer un formulaire de référence client ?
 
 Non, envoyer un formulaire de référence client est facultatif et l’une des activités que les candidats peuvent compléter pour renouveler leur certification. Par exemple : [!DNL Adobe Analytics] le renouvellement de la certification nécessite la réalisation d’au moins 3 activités d’une liste donnée. La liste inclut 6 évaluations transmises et l’envoi d’un formulaire de référence client. Le candidat peut transmettre 2 évaluations et envoyer un formulaire de référence client répondant ainsi aux 3 exigences minimales de renouvellement.
 
@@ -268,7 +264,7 @@ Le programme durera six mois, du 24 avril au 20 octobre 2023.
 
 +++L&#39;Adobe proposera-t-il à nouveau ce type de programme à l&#39;avenir ?
 
-Actuellement, nous n’avons pas l’intention d’offrir à nouveau cette fonctionnalité. Il ne s’agit que d’une offre ponctuelle.
+Actuellement, nous n’avons pas l’intention d’offrir à nouveau cette fonctionnalité. Il s’agit d’une offre unique.
 
 +++
 
@@ -280,7 +276,7 @@ Seules les certifications aux niveaux expert et Principal sont incluses dans le 
 
 **Éligibilité de programme**
 
-+++Qui est éligible au programme de redémarrage de la certification d’Adobe ?
++++Qui est éligible au programme de redémarrage de la certification Adobe ?
 
 Les personnes dont les certifications ont expiré de 2020 au 23 avril 2023 sont éligibles au programme Redémarrer, à condition que la certification qu’elles recherchent soit incluse dans le programme (voir la liste des examens de certification éligibles ci-dessous).
 
@@ -299,7 +295,7 @@ Parce qu’il permet aux personnes qui n’ont pas pu participer à la période 
 
 +++Quelles certifications font partie du programme de redémarrage de la certification Adobe ?
 
-Toutes les principales certifications d’Adobe, à l’exception de celles qui ont pris leur retraite, font partie du programme.
+Toutes les certifications d’Adobe actives, à l’exception de celles qui ont été retirées, font partie du programme.
 
 +++
 
@@ -371,7 +367,7 @@ Toutes les principales certifications d’Adobe, à l’exception de celles qui 
 
 +++Ma certification expire entre le 24 avril et le 20 octobre 2023, alors que ce programme est disponible. Puis-je poursuivre le programme Redémarrer pour ma certification une fois qu&#39;il expire ?
 
-Non. Tous les candidats ayant des certifications principales à la date de lancement et au-delà ont la possibilité de poursuivre la voie de renouvellement de l’apprentissage continu que nous avons annoncée en janvier 2023.
+Non. Tous les candidats avec des certifications actives à compter de la date de lancement et au-delà ont la possibilité de poursuivre la voie de renouvellement de l’apprentissage continu que nous avons annoncée en janvier 2023.
 
 Le programme de redémarrage est destiné uniquement aux certifications qui ont expiré avant le 24 avril 2023, afin d’offrir la certification aux candidats qui n’ont pas pu participer au programme d’apprentissage continu.
 
@@ -381,21 +377,21 @@ Le programme de redémarrage est destiné uniquement aux certifications qui ont 
 
 +++J’ai un [!DNL Marketo] Architecte de solution certifié (MCSA). Puis-je rétablir cela par le biais de ce programme ?
 
-Candidats dont le [!DNL Marketo] La certification Certified Solution Architect peut poursuivre le chemin de redémarrage du professionnel Marketo pour les besoins partiels vers la nouvelle [!DNL Marketo Engage] Certification architecturale.
+Candidats dont le délai d’expiration est [!DNL Marketo] La certification Certified Solution Architect peut poursuivre le chemin de redémarrage du professionnel Marketo pour les besoins partiels vers la nouvelle [!DNL Marketo Engage] Certification architecturale.
 
-La condition finale est de transmettre la nouvelle [!DNL Marketo Engage] Examen d&#39;architecture. Pour tous les titulaires de certificat expirés MCSA, nous effectuons une promotion de remise de 50 % jusqu’au 31 décembre 2023, veuillez contacter le support de certification pour plus de détails.
+L’exigence finale est de transmettre la nouvelle [!DNL Marketo Engage] Examen d&#39;architecture. Pour tous les titulaires de certificat expirés MCSA, nous effectuons une promotion de remise de 50 % jusqu’au 31 décembre 2023, veuillez contacter le support de certification pour plus de détails.
 
 +++
 
 +++Pourquoi sont-ils Adobes ? [!DNL Commerce] Les certifications ne font pas partie du programme de redémarrage de la certification Adobe ?
 
-Il n’existe aucun détenteur de certificat expiré pour l’Adobe actuellement offert [!DNL Commerce] Certifications au 23 avril 2023. Par conséquent, tous les principaux Adobes [!DNL Commerce] Les candidats certifiés ont la possibilité de se renouveler grâce à l&#39;apprentissage continu [chemin de renouvellement de la certification](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
+Il n’existe aucun détenteur de certificat expiré pour l’Adobe actuellement offert [!DNL Commerce] Certifications depuis le 23 avril 2023. Par conséquent, tous les Adobes actifs [!DNL Commerce] Les candidats certifiés ont la possibilité de se renouveler grâce à l&#39;apprentissage continu [chemin de renouvellement de la certification](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 
 **Profil Adobe Credential Manager**
 
-+++Pourquoi est-ce que je vois _Participation_ dans la section historique de mon profil dans Adobe Credential Manager ?
++++Pourquoi vois-je _Participation_ dans la section historique de mon profil dans Adobe Credential Manager ?
 
 Cela vous permet de marquer votre éligibilité au programme Redémarrer la certification Adobe. Les candidats auxquels cette participation a été affectée peuvent remplir les exigences pour redémarrer leur certification expirée, dans chaque demande.
 
