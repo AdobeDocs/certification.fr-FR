@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 10%
 
 ---
@@ -24,7 +24,7 @@ Découvrez comment devenir certifié [!DNL Analytics] Professionnel du développ
 Vous devez disposer des éléments suivants :
 
 * 6 à 12 mois d’expérience dans [!DNL Adobe Analytics] mise en oeuvre (application web et mobile)
-* Expérience en tant que lecteur prenant en charge les équipes d’implémentation d’Analytics pour établir des liens entre l’informatique et l’entreprise afin de comprendre comment les exigences de l’entreprise se traduisent en une solution technique (DTS) et en fonction des exigences fournies par l’analyste.
+* Expérience de prise en charge des équipes d’implémentation d’Analytics pour établir des liens entre l’informatique et l’entreprise afin de comprendre comment les besoins de l’entreprise se traduisent en une solution technique (SDR) et en fonction des exigences fournies par l’analyste.
 * Comprendre le type de variable nécessaire, où et comment collecter les données, concevoir le modèle de données (couche de données), configurer et gérer la solution de gestion des balises
 
 Expérience avec les tâches suivantes :
