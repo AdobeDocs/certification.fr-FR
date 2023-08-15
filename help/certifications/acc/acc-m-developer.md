@@ -7,22 +7,22 @@ role: Data Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1011'
+ht-degree: 16%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Classic] Principal architecte
+# Parcours de certification pour Adobe [!DNL Campaign Classic] Principal architecte
 
-Découvrez comment devenir un Principal architecte Adobe certifié dans [!DNL Campaign Classic].
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] Principal architecte.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Expérience avec plusieurs [!DNL Campaign] implémentations
+* Experience avec plusieurs Adobes [!DNL Campaign Classic] implémentations
 * Présentation du fonctionnement d’Adobe Campaign en tant que solution de marketing numérique et de sa mise en oeuvre en fonction des exigences du projet
 * La possibilité de créer un document de conception fonctionnelle
 * La possibilité de créer une portée fonctionnelle pour une installation Adobe Campaign
@@ -31,7 +31,7 @@ Vous devez disposer des éléments suivants :
 * Expérience avec des ateliers sur les besoins professionnels
 * Atelier de conception de solutions d’Experience Manager
 * La possibilité d’évaluer plusieurs approches de solution et de fournir des recommandations
-* La possibilité de passer en revue les campagnes et processus existants sur d’autres plateformes afin de déterminer les besoins de l’implémentation d’Adobe Campaign
+* La possibilité de passer en revue les campagnes et processus existants sur d’autres plateformes afin de déterminer les besoins de l’implémentation Adobe Campaign
 * La possibilité de décrire et de démontrer les fonctionnalités et fonctionnalités d’un produit
 * La possibilité de mapper les fonctionnalités du produit à des cas d’utilisation élevés
 * Expérience de prise en charge de l’équipe de prévente
@@ -44,12 +44,12 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
 * Responsable technique avec Adobe [!DNL Campaign Classic] background
-* Adobe Certified Expert - [!DNL Campaign Classic] Développeur
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Développeur
 * Adobe [!DNL Campaign Classic] développeur ou rôle similaire
 * Architecte de solution Martech
 
@@ -57,15 +57,15 @@ Vous devez disposer des éléments suivants :
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 30/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E328
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -81,7 +81,7 @@ Section 2 : Paysage des données (24 %)
 
 * Spécifiez les paramètres de conception du modèle de données et de la carte d’intégration pour une solution Campaign avec d’autres outils clients.
 * Dans un scénario, déterminez la conception de solution requise pour se conformer aux lois et aux réglementations.
-* Dans un scénario, déterminez la conception optimale d’un workflow technique.
+* Dans un scénario, déterminez la conception optimale du workflow technique.
 
 Section 3 : Installation et gestion (16%)
 
@@ -92,11 +92,11 @@ Section 3 : Installation et gestion (16%)
 * Dans un scénario, donnez des conseils sur l’infrastructure matérielle appropriée nécessaire lors de la conception de la solution.
 * Dans un scénario, déterminez la méthode appropriée pour la promotion de solutions dans l’environnement correspondant.
 
-Section 4 : Responsable de projet (10 %)
+Section 4 : leadership du projet (10 %)
 
 * En fonction des besoins du client, déterminez les activités et les ressources appropriées nécessaires.
 * Dans un scénario, analysez la solution globale pour déterminer les risques techniques, les hypothèses, les problèmes et les dépendances.
-* Communiquer l&#39;expertise technique du ACC aux équipes internes et externes
+* Communiquer l&#39;expertise technique du ACC aux équipes internes et externes ;
 
 Section 5 : Personnalisation (26 %)
 
@@ -119,7 +119,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Recommandations relatives au dimensionnement du matériel](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
 * [Déploiement Stand-alone](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=fr){target="_blank"}
 
-**Section 2 : Traitement des données**
+**Section 2 : Paysage des données**
 
 * [Power Booster et Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
 * [Limitation de l&#39;affichage des PII](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
@@ -129,13 +129,13 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 3 : Installation et gestion**
 
-* [Créer des emplacements d&#39;offres](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
+* [Création d&#39;emplacements d&#39;offres](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
 * [Connecteurs CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
 * [Offres sur canal entrant](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
 * [Utiliser les packages de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=fr){target="_blank"}
 * [Comptes externes](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=fr){target="_blank"}
 
-**Section 4 : Responsable du projet**
+**Section 4 : leadership du projet**
 
 * [Surveiller l’exécution des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=fr){target="_blank"}
 * [Configuration de l’identité et de l’authentification unique](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
@@ -144,7 +144,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 5 : Personnalisation**
 
-* [Utilisation des triggers Campaign et Experience Cloud](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=fr){target="_blank"}
+* [Utilisation de Campaign et Experience Cloud Triggers](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=fr){target="_blank"}
 * [Scripts et modèles JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Gestion de données importante sur Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=fr){target="_blank"}
 * [Connecteurs CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
@@ -155,25 +155,21 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E328)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E328
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

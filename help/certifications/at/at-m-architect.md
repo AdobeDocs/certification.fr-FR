@@ -7,20 +7,20 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 21%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Target] Principal architecte
 
-Découvrez comment devenir un Principal architecte Adobe certifié.
+Découvrez comment devenir certifié [!DNL Adobe Target] Principal architecte.
 
 >[!NOTE]
 >
->Cet examen, Principal Architecte Adobe Target (AD0-E407), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 8 septembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](at-m-architect0623.md).
+>Cet examen, [!DNL Adobe Target] Mise à jour du Principal Architecte (AD0-E407). Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 8 septembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](at-m-architect0623.md).
 
 ## Expérience minimale
 
@@ -51,7 +51,7 @@ Environnements:
 * Adobe Experience Cloud
 * Mise en oeuvre côté client sans gestionnaire de balises
 * Systèmes Tag Management, en particulier Launch (IF)
-* Environnements côté serveur (pour l’utilisation de l’API)
+* Environnements côté serveur (pour l’utilisation des API)
 * E-mail
 * Environnements web et mobiles
 * Environnement hébergé AMS
@@ -59,11 +59,11 @@ Environnements:
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
-* ingénieur/architecte d’optimisation du taux de conversion
+* Ingénieur/architecte de l’optimisation du taux de conversion
 * Ingénieur/architecte de personnalisation
 * Architecte de solutions numériques
 * Conseiller en transformation digitale
@@ -75,9 +75,9 @@ Environnements:
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 34/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E407
 
@@ -88,7 +88,7 @@ Section 1 : [!DNL Adobe Target] Principes de base (12 %)
 * Identifier les [!DNL Adobe Target] utilisation pour un scénario donné
 * expliquer les technologies fondamentales d’une [!DNL Adobe Target] implémentation
 
-Section 2 : Intégration avec [!DNL Adobe Target] (16 %)
+Section 2 : Intégration à [!DNL Adobe Target] (16 %)
 
 * Appliquez le processus à intégrer [!DNL Adobe Target] avec Adobe Analytics (A4T)
 * Appliquez le processus à intégrer [!DNL Adobe Target] vers Adobe Experience Manager
@@ -112,7 +112,7 @@ Section 5 : Utilisation [!DNL Adobe Target] recommandations (9 %)
 * Montrer une compréhension des recommandations, catalogues et environnements
 * Appliquez le processus de configuration des recommandations Target.
 
-Section 6 : Architecte, conception et implémentation [!DNL Adobe Target] (15 %)
+Section 6 : Architecture, conception et mise en oeuvre [!DNL Adobe Target] (15 %)
 
 * Sélectionner l’implémentation mbox appropriée
 * Démontrez la conception d’une [!DNL Adobe Target] implémentation
@@ -142,7 +142,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * Guide du professionnel [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 * [Découvrez comment utiliser [!DNL Adobe Target]](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**Section 2 : Intégration avec[!DNL Adobe Target]**
+**Section 2 : Intégration à[!DNL Adobe Target]**
 
 * Guide du professionnel [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 * [Vidéos et tutoriels sur AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
@@ -175,7 +175,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 * Guide du professionnel [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 
-**Section 6 : Architecte, conception et implémentation[!DNL Adobe Target]**
+**Section 6 : Architecture, conception et mise en oeuvre[!DNL Adobe Target]**
 
 * Guide du professionnel [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 * [Ajouter [!DNL Adobe Target] avec des balises](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
@@ -185,7 +185,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [[!DNL Adobe Target] Présentation de l’extension](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=fr){target="_blank"}
 * [Présentation de la prise de décision sur les périphériques](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Quand utiliser la prise de décision sur l’appareil ou sur le périphérique](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
-* [Résolu : JWT access token](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
+* [Résolu : jeton d’accès JWT](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Section 7 : Dépannage**
 
@@ -200,36 +200,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E407)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E407
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

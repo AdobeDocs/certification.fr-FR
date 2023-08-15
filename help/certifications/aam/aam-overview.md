@@ -4,14 +4,14 @@ description: Présentation des options de certification pour Adobe Audience Mana
 solution: Audience Manager
 product: Audience Manager
 exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '42'
 ht-degree: 7%
 
 ---
 
-# Présentation de la certification des Audiences Manager
+# Présentation de la certification Adobe Audience Manager
 
 **Professionnel**
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 * [Professionnel](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
-**Master**
+**Maître**
 
 * [Architecte](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 

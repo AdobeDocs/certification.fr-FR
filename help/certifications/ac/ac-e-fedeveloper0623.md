@@ -1,33 +1,33 @@
 ---
-title: Nouvelle certification de l’expert du développeur front-end
+title: Nouvelle certification pour les développeurs front-end
 description: Découvrez comment devenir un expert Adobe Developer certifié dans Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Exam AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1046'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Expert du développeur front-end
+# Parcours de certification pour [!DNL Adobe Commerce] Expert du développeur front-end
 
-Découvrez comment devenir un expert Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Développeur expert.
 
 >[!NOTE]
 >
->Il s’agit du dernier examen d’expert du développeur front-end d’Adobe Commerce. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ac-e-fedeveloper.md) vous avez jusqu’au 18 août 2023 pour la terminer.
+>Il s’agit de la plus récente [!DNL Adobe Commerce] Examen d’expert développeur front-end. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ac-e-fedeveloper.md) vous avez jusqu’au 18 août 2023 pour la terminer.
 
 ## Expérience minimale
 
-Le développeur Adobe Commerce Frontend est considéré comme un rôle d’expert et possède au moins 1 à 3 années d’expérience pratique dans le développement d’Adobe Commerce Frontend. Ils doivent avoir la possibilité de traduire les besoins exprimés par les exigences de tâche en une solution technique.
+La variable [!DNL Adobe Commerce] Frontend Developer est considéré comme un rôle d’expert et possède au moins 1 à 3 années d’expérience pratique dans le développement d’Adobe Commerce Frontend. Ils doivent avoir la possibilité de traduire les besoins exprimés par les exigences de tâche en une solution technique.
 
 Le candidat doit se montrer à l’aise en utilisant les technologies suivantes :
 
-* Adobe Commerce - version 2.4.6
+* [!DNL Adobe Commerce] - version 2.4.6
 * Présentation de base de la structure et de la disposition frontales
 * Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et IU, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, connaissance de la base de données et gestion de contenu
 * Familiarité avec la plateforme, les blocs CMS, les widgets, les pages CMS, les pages Catégorie, les pages de produits, le panier et le passage en caisse et la zone Tableau de bord du compte.
@@ -46,7 +46,7 @@ Le candidat doit se montrer à l’aise en utilisant les technologies suivantes 
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -56,35 +56,35 @@ Le candidat doit se montrer à l’aise en utilisant les technologies suivantes 
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E720
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
 Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions) (16 %)
 
 * décrire la structure de dossiers des thèmes Adobe Commerce et comment elle se rapporte aux thèmes basés sur les dossiers ;
-* Démontrez la possibilité de créer un thème (héritage/abandons, concevoir des exceptions, créer des propriétés de thème).
+* Démontrez la possibilité de créer un thème (héritage/abandons, concevoir des exceptions, créer des propriétés de thème)
 * Démontrer la possibilité d’étendre les thèmes existants
 * Démontrer la capacité de personnaliser les emails transactionnels
 * Démontrer la possibilité d’appliquer des traductions
-* Compte tenu d’un ensemble de cas d’utilisation, déterminez à quel moment placer des fichiers dans l’application/le code ou l’application/la conception.
+* Compte tenu d’un ensemble de cas d’utilisation, déterminez à quel moment placer des fichiers dans l’application/le code ou l’application/la conception
 
 Section 2 : Mise en page XML et modèles (modèles phtml) (22 %)
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page
-* Démonstration de la possibilité de créer de nouvelles mises en page
+* Démontrer la possibilité de créer de nouvelles mises en page
 * Comprendre la différence entre étendre/fusionner et remplacer le XML
-* Montrer comment transmettre et utiliser des arguments aux modèles
+* Démontrez comment transmettre et utiliser des arguments aux modèles
 * Possibilité de créer et de personnaliser des modèles
 * Application de la sécurité des modèles (sortie d’échappement)
 
@@ -94,7 +94,7 @@ Section 3 : Styles (18 %)
 * Décrivez la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less,).
 * Démontrer la capacité de remplacer ou d’étendre le Magento LESS
 * expliquer les concepts de base de LESS ;
-* Démonstration de la capacité à appliquer un style aux emails
+* Démontrer la capacité à appliquer un style aux emails
 * Expliquer la hiérarchie des styles ( lib, modules, thèmes)
 * Démontrez la possibilité d’implémenter et de personnaliser les composants de bibliothèque LESS
 * Identifier les différences entre la compilation côté client et côté serveur et son fonctionnement
@@ -109,18 +109,18 @@ Section 4 : JavaScript (widgets d’image, bibliothèque d’images, module de d
 * Décrire les interactions entre les composants de l’interface utilisateur
 * Démonstration de l’utilisation de Knockout JS
 * Démonstration de l’utilisation des widgets jQuery
-* Démonstration de l’utilisation des composants JS à l’aide du XML de mise en page
+* Démontrer l’utilisation des composants JS à l’aide du XML de mise en page
 
-Section 5 : Configuration de l’administration et PageBuilder (12 %)
+Section 5 : Configuration de l’administrateur et PageBuilder (12 %)
 
 * Démontrer la possibilité de personnaliser le contenu du générateur de pages&quot;
 * Description de l’optimisation frontale
 * Personnalisation des emails transactionnels
 * Démontrez l’utilisation des outils de développement d’administration
 
-Section 6 : Outils (interface en ligne de commande et nombre) (10 %)
+Section 6 : Outils (interface en ligne de commande et grille) (10 %)
 
-* Démontrez l’utilisation des commandes bin/Magento de base.
+* Montrer l’utilisation des commandes bin/Magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
 * Différenciation du cas d’utilisation approprié pour les modes de déploiement
 * Définition de la configuration et de l’utilisation du groupe
@@ -132,14 +132,14 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions)**
+**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traduction)**
 
 * [Thèmes](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
 * [Modèles](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
 * [Ajout de variables personnalisées](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
 * [Des traductions](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
 
-**Section 2 : Modèles et XML de mise en page (modèles phtml)**
+**Section 2 : Mise en page XML et modèles (modèles phtml)**
 
 * [Disposition](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Tâches de personnalisation courantes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
@@ -167,7 +167,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Lots JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
 * [reCAPTCHA de Google](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
-**Section 6 : Outils (interface de ligne de commande et Grunt)**
+**Section 6 : Outils (interface en ligne de commande et Grunt)**
 
 * [Guide de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [Présentation de l’installation sur site](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
@@ -178,32 +178,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
-> Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+> Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
 
 **Test de pratique à venir**
 
-**Passer l&#39;examen de certification**
+## A propos de l&#39;examen de certification
 
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+{{about-certification-exam}}
 
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
+## Planifier ou passer l’examen AD0-E720
 
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-### Numéro de l’examen : AD0-E720
-
-[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
-
-Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d’examen
+</span>
+</a>
 
 >[!ENDTABS]
 

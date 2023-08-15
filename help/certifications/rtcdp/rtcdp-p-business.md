@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 14%
+source-wordcount: '750'
+ht-degree: 15%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Real-Time CDP] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Real-Time CDP] Professionnel professionnel
 
-Découvrez comment devenir un Adobe certifié [!DNL Experience Platform] professionnel.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Platform] Praticien professionnel.
 
 ## Expérience minimale
 
@@ -44,7 +44,7 @@ Expérience avec des tâches qui incluent :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -61,11 +61,11 @@ Expérience avec des tâches qui incluent :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 28/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E602
 
@@ -83,7 +83,7 @@ Section 2 : Confidentialité et gouvernance des données (20 %)
 * démontrer une compréhension des stratégies DULE et de leurs impacts sur la disponibilité des données aux destinations ;
 * Veiller au respect de la vie privée et aux mesures de conformité des données
 
-Section 3 : Analyse commerciale (30 %)
+Section 3 : Analyse des activités (30 %)
 
 * Identifier les cas d’utilisation qui lient les indicateurs de performance clés de l’entreprise
 * Analyse des données sur les segments de clients dans Platform
@@ -117,12 +117,12 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Activer les données d’audience vers des destinations d’exportation de profils de diffusion en continu](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [Création d’une connexion de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=fr){target="_blank"}
 
-**Section 2 : Gouvernance des identités et des données**
+**Section 2 : Identité et gouvernance des données**
 
 * [Présentation des espaces de noms d’identité](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=fr){target="_blank"}
 * [Présentation de la gouvernance des données](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=fr){target="_blank"}
 
-**Section 3 : Analyse commerciale**
+**Section 3 : Analyse des activités**
 
 * [Présentation de Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=fr){target="_blank"}
 * [Surveillance des flux de données dans Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
@@ -139,39 +139,24 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E602)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E602
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

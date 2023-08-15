@@ -7,16 +7,16 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1000'
 ht-degree: 15%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Analytics] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert en commerce Analytics certifié.
+Découvrez comment devenir certifié [!DNL Adobe Analytics] Expert spécialiste des affaires.
 
 ## Expérience minimale
 

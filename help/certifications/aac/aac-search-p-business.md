@@ -8,23 +8,23 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '880'
 ht-degree: 5%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Advertising Search] Professionnel professionnel
+# Parcours de certification pour [!DNL Adobe Advertising Search] Professionnel professionnel
 
-Découvrez comment devenir certifié [!DNL Advertising Search] Professionnel de l’entreprise.
+Découvrez comment devenir certifié [!DNL Adobe Advertising Search] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
 * Expérience en tant que chef de programme avec 12 à 24 mois de performances de recherche payante
-* Au moins 3 à 6 mois de [!DNL Advertising Search] Expérience sur la plateforme
+* Au moins 3 à 6 mois de [!DNL Advertising Search] Expérience Platform
 * Expérience en cours d’utilisation [!DNL Advertising Search] et connaissent l&#39;automatisation des offres de recherche payante, la gestion des campagnes,
 * Une compréhension de la théorie des Portfolios
 
@@ -57,7 +57,7 @@ Expérience avec les fonctions suivantes :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -67,17 +67,17 @@ Expérience avec les fonctions suivantes :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 35/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E501
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -96,7 +96,7 @@ Section 2 : Rapports, informations et outils (14 %)
 * Déterminer l’affectation optimale du budget à l’aide des outils d’IA de Platform disponibles sur plusieurs Portfolios et appliquer si nécessaire
 * Compte tenu d’un cas d’utilisation, créez et définissez des simulations personnalisées pour l’analyse de Portfolio et la prévision.
 
-Section 3 : Administration de campagnes (22 %)
+Section 3 : Administration de campagnes (22%)
 
 * Configuration de comptes
 * Créer, gérer et organiser tous les aspects des campagnes
@@ -114,7 +114,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 1 : Portfolios et optimisations**
 
-* [Présentation de l’Adobe [!DNL Analytics] pour l’Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [Présentation de l’Adobe [!DNL Analytics] pour Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
 * [Présentation de [!DNL Analytics] pour [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=fr){target="_blank"}
 * [Optimisation des performances](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Présentation des indicateurs de performance clés dans Analytics amélioré](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
@@ -136,7 +136,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Prise en main d’ [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [Découvrez ce qui fait fonctionner la bibliothèque](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [Optimisation du marketing de recherche](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [Afficher l’ensemble du parcours client sur un seul écran](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [Affichage de l’ensemble du parcours client sur un seul écran](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
 * [Présentation des campagnes dynamiques par lots et par déclenchement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **Section 4 : Mesure**
@@ -151,36 +151,21 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E501)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E501
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

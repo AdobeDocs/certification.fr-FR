@@ -6,20 +6,20 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1057'
+source-wordcount: '888'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Professionnel du développement front-end
+# Parcours de certification pour Adobe [!DNL Commerce] Professionnel du développement front-end
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Professionnel du développement.
 
 >[!NOTE]
 >
->Il s’agit du dernier examen professionnel du développeur front-end d’Adobe Commerce. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ac-p-fedeveloper.md) vous avez jusqu’au 18 août 2023 pour la terminer.
+>Il s’agit de la plus récente [!DNL Adobe Commerce] Examen professionnel des développeurs front-end. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ac-p-fedeveloper.md) vous avez jusqu’au 18 août 2023 pour la terminer.
 
 ## Expérience minimale
 
@@ -48,7 +48,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -59,11 +59,11 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E721
 
@@ -75,7 +75,7 @@ Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des imag
 * Démontrer la possibilité de créer ou d’étendre des thèmes existants
 * Démontrer la possibilité d’ajouter des expressions de traduction personnalisées
 
-Section 2 : Mise en page XML et modèles (30 %)
+Section 2 : mise en page XML et modèles (30 %)
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page de base
 * Démontrer la possibilité d’utiliser des mises en page existantes ;
@@ -86,7 +86,7 @@ Section 2 : Mise en page XML et modèles (30 %)
 Section 3 : Styles (22 %)
 
 * Décrivez l’objectif de styles-m.less, styles-l.less, print.less
-* Décrivez la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less).
+* Décrire la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less)
 * Dans un scénario, démontrer la capacité de remplacer ou d’étendre [!DNL Magento] MOINS
 * Décrire les concepts de base de LESS
 * Expliquer la hiérarchie des styles ( lib, modules, thèmes)
@@ -108,7 +108,7 @@ Section 5 : Configuration de l’administrateur et PageBuilder (6 %)
 * Application des modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
 * Description des étapes de personnalisation des emails transactionnels
 
-Section 6 : Outils (interface en ligne de commande et nombre) (8 %)
+Section 6 : Outils (interface en ligne de commande et grille) (8 %)
 
 * Décrire l’utilisation des commandes bin/magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
@@ -121,14 +121,14 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions)**
+**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traduction)**
 
 * [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [Disposition](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Localisation](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
 * [Des traductions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
-**Section 2 : Mise en page XML et modèles**
+**Section 2 : mise en page XML et modèles**
 
 * [Tâches de personnalisation courantes](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Développement des composants](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
@@ -154,7 +154,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Lots JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
 * [reCAPTCHA de Google](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
-**Section 6 : Outils (interface de ligne de commande et Grunt)**
+**Section 6 : Outils (interface en ligne de commande et Grunt)**
 
 * [Guide de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [Créer des variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
@@ -164,33 +164,25 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
 
 **Test de pratique à venir**
 
-**Passer l&#39;examen de certification**
+## A propos de l&#39;examen de certification
 
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+{{about-certification-exam}}
 
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
+## Planifier ou passer l’examen AD0-E721
 
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-### Numéro de l’examen : AD0-E721
-
-[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
-
-Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d’examen
+</span>
+</a>
 
 >[!ENDTABS]
 

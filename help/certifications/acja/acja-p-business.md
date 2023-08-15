@@ -6,20 +6,20 @@ product: Customer Journey Analytics
 role: User
 badge: label="Exam AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '619'
 ht-degree: 13%
 
 ---
 
-# Parcours de certification pour les professionnels Adobe Customer Journey Analytics
+# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Professionnel professionnel
 
-Découvrez comment devenir un professionnel Adobe certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Customer Journey Analytics] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
-Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Customer Journey Analytics et une compréhension fondamentale du fonctionnement de CJA avec Adobe Experience Platform. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
+Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Adobe. [!DNL Customer Journey Analytics] et une compréhension fondamentale de son fonctionnement en association avec [!DNL Adobe Experience Platform]. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -42,11 +42,11 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 36/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E608
 
@@ -64,7 +64,7 @@ Section 2 : Rapports (32 %)
 * Déterminer la vue de données à utiliser en fonction de sources de données, d’identités et de périodes
 * Déterminer comment utiliser et appliquer des périodes
 
-Section 3 : Distribution (12 %)
+Section 3 : Répartition (12 %)
 
 * Planification et partage de rapports avec les principaux intervenants
 * Traiter les champs disponibles dans un rapport ou tableau de bord spécifique
@@ -89,7 +89,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Présentation des filtres](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html?lang=fr){target="_blank"}
 * [Paramètres des composants : attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
 
-**Section 2 : Reporting**
+**Section 2 : Création de rapports**
 
 * [Abandon - Aperçu](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow.html){target="_blank"}
 * [Calendrier et périodes - Aperçu](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
@@ -112,29 +112,25 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E608)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E608
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

@@ -6,14 +6,14 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Workfront] pour [!DNL Experience Manager] Expert du connecteur amélioré
+# Parcours de certification pour Adobe [!DNL Workfront] pour [!DNL Experience Manager] Expert du connecteur amélioré
 
 Découvrez comment devenir un expert certifié Adobe.
 
@@ -25,7 +25,7 @@ Vous devez avoir obtenu une ou plusieurs des certifications suivantes :
 * Expert certifié développeur AEM Sites
 * [!DNL Workfront] Core Developer Certified Expert
 
-Et vous devriez avoir :
+Vous devriez également disposer des éléments suivants :
 
 * 1 ou plus d’expérience CMS
 * 1 an ou plus AEM expérience
@@ -33,7 +33,7 @@ Et vous devriez avoir :
 * Expérience de développement Java/J2EE de 2 ans ou plus
 * Co-architecturé au moins une solution AEM
 * Utilisation directe des clients pour créer des solutions personnalisées
-* Compréhension des taxonomies et du balisage AEM, des processus AEM, de JCR, de Sling, d’OSGi et des bases de données
+* Compréhension des taxonomies et du balisage des AEM, des processus AEM, des JCR, Sling, OSGi et des bases de données
 * Une compréhension des bonnes pratiques en matière de gestion du travail
 
 >[!NOTE]
@@ -42,7 +42,7 @@ Et vous devriez avoir :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -53,11 +53,11 @@ Et vous devriez avoir :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 34/55
-* Heure : 110 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E906
 
@@ -68,7 +68,7 @@ Section 1 : Exigences techniques (25 %)
 * Utilisation [!DNL Workfront] Forms personnalisée
 * Dans un scénario, démontrer la gestion de documents
 * Démontrez les connaissances en matière de promotion du code dans tous les environnements
-* Dans un scénario, identifiez la manière dont les valeurs sont transmises à . [!DNL Workfront] formulaires personnalisés
+* Dans un scénario, identifiez la manière dont les valeurs sont transmises à [!DNL Workfront] formulaires personnalisés
 * Dépannage du code côté serveur
 
 Section 2 : Configuration (26 %)
@@ -129,7 +129,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Suivi de la progression à partir de la chronologie du projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Définition des objectifs de votre Adobe [!DNL Workfront] implémentation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
-**Section 4 : Installation et configuration du connecteur**
+**Section 4 : installation et configuration du connecteur**
 
 * [Installer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] base améliorée du connecteur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
@@ -140,36 +140,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E906)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E906
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

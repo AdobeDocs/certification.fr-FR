@@ -7,26 +7,26 @@ role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '825'
+ht-degree: 12%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager Forms] Professionnel du développeur principal
+# Parcours de certification pour Adobe [!DNL Experience Manager Forms] Professionnel du développeur principal
 
-Découvrez comment devenir certifié [!DNL Adobe AEM Forms] Professionnel du développeur principal.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Forms] Professionnel du développeur principal.
 
 ## Expérience minimale
 
-Vous devez être un développeur de formulaires d’arrière-plan et disposer des éléments suivants :
+Vous devez être un développeur de formulaires principaux et disposer des éléments suivants :
 
 * 0 à 12 mois d’expérience avec la plateforme AEM
 * 12 mois d’expérience dans l’utilisation et la configuration d’Adobe Cloud Manager
 * Configuration, implémentation et gestion des tâches d’intégration continue/de déploiement continu d’au moins 24 mois d’expérience
 
-En outre, vous devriez être à l’aise avec Adobe Managed Services et Adobe Experience Manager as a Cloud Service. peuvent configurer les environnements et l’infrastructure Adobe Experience Manager ;
+En outre, vous devriez être à l’aise avec Adobe Managed Services et Adobe Experience Manager as a Cloud Service. peuvent configurer des environnements et une infrastructure Adobe Experience Manager ;
 
 Vous devez connaître les technologies et environnements suivants :
 
@@ -37,7 +37,7 @@ Vous devez connaître les technologies et environnements suivants :
 * Convertisseur du Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
-* Environnement de test de développement
+* Environnement de développement
 * Environnement local
 
 >[!NOTE]
@@ -46,7 +46,7 @@ Vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -61,11 +61,11 @@ Vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 29/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E127
 
@@ -95,12 +95,12 @@ Section 3 : Administration et dépannage (21 %)
 * Description des étapes de configuration AEM Dispatcher pour Forms
 * Description des étapes de navigation dans différentes consoles
 
-Section 4 : Points de terminaison et intégrations API (10 %)
+Section 4 : Points de terminaison et intégrations de l’API (10 %)
 
 * Dans un scénario, décrivez le flux pour intégrer AEM formulaire à Adobe Experience Cloud.
 * Identifier les étapes de génération de différents services de point de terminaison
 
-Section 5 : Communication interactive (9 %)
+Section 5 : communication interactive (9 %)
 
 * Dans un scénario, démontrer et mettre en oeuvre des processus pour la communication interactive
 
@@ -123,7 +123,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Tutoriels et vidéos d’AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
 
-**Section 2 : Processus et workflows**
+**Section 2 : Traitements et workflows**
 
 * [Guide de Forms Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Guide de Forms Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
@@ -131,14 +131,14 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 **Section 3 : Administration et dépannage**
 
-* [Résolution des problèmes d’installation des fichiers journaux | Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
+* [Résolution des problèmes d’installation des fichiers journaux | CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
 * [Guide de l’utilisateur pour l’administration dans AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=fr){target="_blank"}
 * [Notes de mise à jour d’Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=fr){target="_blank"}
 * [Guide de Forms Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Guide de l’utilisateur pour la création dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
 
-**Section 4 : Points de terminaison et intégrations API**
+**Section 4 : Points de terminaison et intégrations de l’API**
 
 * [Documentation as a Cloud Service du Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Guide de Forms Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
@@ -147,25 +147,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E127)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

@@ -7,14 +7,14 @@ role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '600'
+ht-degree: 16%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager] Professionnel des fondations techniques
+# Parcours de certification pour Adobe [!DNL Experience Manager] Professionnel des fondations techniques
 
 Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel.
 
@@ -45,7 +45,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -54,11 +54,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 38/60
-* Heure : 120 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 120 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E132
 
@@ -112,7 +112,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
 
-**Section 2 : Implémentation**
+**Section 2 : Mise en oeuvre**
 
 * [Composants AEM - Principes de base](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Tutoriels pour Headless dans AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=fr){target="_blank"}
@@ -135,25 +135,21 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E132)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

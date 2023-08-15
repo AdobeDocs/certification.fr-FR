@@ -7,14 +7,14 @@ role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '817'
+ht-degree: 12%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager] Expert en migration as a Cloud Service
+# Parcours de certification pour Adobe [!DNL Experience Manager] Expert en migration as a Cloud Service
 
 Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Expert.
 
@@ -40,7 +40,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Outil de mappage utilisateur pour l’Adobe IMS
 * Outil cmd E/S
 * New Relic
-* SDK cloud local
+* SDK Cloud local
 * Service de développement, d’évaluation, de création de production, de publication et d’aperçu
 * Configuration du Dispatcher local à l’aide de Docker
 * Suivi des journaux Cloud dans l’environnement local
@@ -52,7 +52,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -66,11 +66,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E136
 
@@ -104,7 +104,7 @@ Section 4 : Migration (20 %)
 * Exécution de tests
 * Préparation d’une stratégie de migration des ressources
 * Préparation d’une stratégie de migration de contenu initiale/de base
-* Exécution des outils de migration (transfert de contenu, modernisation, refactorisation). Rapports et ajustements des résultats, en particulier les résultats critiques qui ne sont pas gérés par l’outil
+* Exécution des outils de migration (transfert de contenu, modernisation, refactorisation). Rapports et ajustements des résultats, en particulier les résultats critiques non traités par l’outil
 * Planification de la prise en charge post-live
 
 Section 5 : Mise en oeuvre (16 %)
@@ -130,7 +130,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 2 : Conception**
 
 * [Adobe [!DNL Experience Manager] Documentation as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr){target="_blank"}
-* [Introduction](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
+* [Introduction](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=fr){target="_blank"}
 
 **Section 3 : Déploiement**
 
@@ -144,35 +144,31 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Conditions préalables pour l’outil de transfert de contenu](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
 * [Débogage d’AEM as a Cloud Service à l’aide de journaux](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=fr){target="_blank"}
 
-**Section 5 : Implémentation**
+**Section 5 : Mise en oeuvre**
 
 * [Utiliser le pipeline CI/CD dans Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [Déploiement sur AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=fr){target="_blank"}
+* [Déploiement sur AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=fr){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l’examen (AD0-E136)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E136
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

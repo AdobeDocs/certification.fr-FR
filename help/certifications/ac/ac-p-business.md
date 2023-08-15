@@ -7,14 +7,14 @@ role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
-ht-degree: 2%
+source-wordcount: '932'
+ht-degree: 3%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Commerce] Professionnel professionnel
 
 Découvrez comment devenir un professionnel Adobe certifié.
 
@@ -39,7 +39,7 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -47,7 +47,7 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 * Chefs de projet
 * Propriétaires de produit
 * Consultants
-* [!DNL Commerce] stratèges
+* [!DNL Adobe Commerce] stratèges
 * Admin/Director/Manager/Consultants eCommerce
 * Digital Marketing Director/Manager/Developers
 * Spécialistes des solutions
@@ -55,17 +55,17 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 30/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E712
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -92,7 +92,7 @@ Section 3 : Concepts de base du marketing numérique et du commerce électroniqu
 * Expliquer les principes de base de l’optimisation pour les moteurs de recherche
 * Identifier les utilisations de base des outils d’e-commerce courants (tels que les flux d’achats)
 * Identifier les fonctionnalités clés d’un site web d’e-commerce
-* Identifier les concepts de base d’eCommerce (y compris les options de storefront)
+* Identifier les concepts de base du commerce électronique (y compris les options de storefront)
 
 Section 4 : Principes de conformité/sécurité (13 %)
 
@@ -162,39 +162,24 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E712)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

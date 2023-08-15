@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Expert spécialiste des affaires
+# Parcours de certification pour [!DNL Adobe Commerce] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert Adobe en métier.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Expert spécialiste des affaires.
 
 ## Expérience minimale
 
@@ -25,7 +25,7 @@ Vous devriez avoir entre 1 et 3 ans d&#39;activité [!DNL Commerce] expérience 
 
 Vous devez avoir de l’expérience dans :
 
-* Marketing numérique : SEO, CMS, techniques de vente comme la vente croisée et la vente incitative, compréhension des Google Analytics, modèles d’email
+* Marketing numérique : SEO, CMS, techniques de vente comme le cross-sell et le up-sell, compréhension des Google Analytics, modèles d’email
 * Les lois sur la sécurité, la conformité et la confidentialité, telles que PCI, RGPD, ADA, CAN-SPAM, PSD2
 * Ventes/stratégies marketing telles que omnicanal et multicanal
 * Expérience en gestion de projet, collecte des exigences, flux d’intégration, lois générales sur le commerce électronique, méthodologies de développement logiciel et surveillance
@@ -37,7 +37,7 @@ Et vous devriez être à l’aise avec les technologies suivantes :
 
 * Adobe [!DNL Commerce] - version 2.4
 * Outils d’analyse et de performance : Google Analytics, gestionnaire de balises, SWAT, New Relic, Fastly, Google Lighthouse
-* Outils de sécurité : Conformité PCI, ADA, RGPD, etc.
+* Outils de sécurité : conformité PCI, ADA, RGPD, etc.
 * Architecture cloud ou on-premise
 
 >[!NOTE]
@@ -46,7 +46,7 @@ Et vous devriez être à l’aise avec les technologies suivantes :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -60,17 +60,17 @@ Et vous devriez être à l’aise avec les technologies suivantes :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E708
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -83,8 +83,8 @@ Section 1 : Fonctionnalités principales/configuration générale (46 %)
 * Faire la démonstration de la connaissance du panneau d’administration et de l’emplacement des fonctionnalités communes
 * Montrer l’Adobe d’import/export [!DNL Commerce] entities
 * Comprendre comment configurer le panier et le passage en caisse de manière native
-* Évaluation des méthodes d’expédition natives disponibles dans Adobe [!DNL Commerce] et comment elles s’appliquent aux cas d’utilisation courants
-* Comprendre les méthodes de création et de publication de contenu stylisé à l’aide de l’Adobe [!DNL Commerce] Fonctionnalités CMS, y compris PageBuilder
+* Évaluation des méthodes d’expédition natives disponibles dans Adobe [!DNL Commerce] et leur application aux cas d’utilisation courants
+* Comprendre comment créer et publier du contenu stylisé à l’aide de l’Adobe [!DNL Commerce] Fonctionnalités CMS, y compris PageBuilder
 * Utilisation d’outils natifs pour gérer le cycle de vie des commandes
 * Démontrez la possibilité de configurer les différentes options de cadeau (cartes-cadeaux, emballage cadeau, envoi de messages).
 * Configuration et modification des emails transactionnels
@@ -93,7 +93,7 @@ Section 1 : Fonctionnalités principales/configuration générale (46 %)
 Section 2 : Marchandisage (10 %)
 
 * Permet de démontrer la capacité de créer des promotions pour répondre à des critères d’entreprise spécifiques et la manière dont elles déterminent le prix final.
-* Démonstration de la capacité à gérer les catégories et les produits
+* Démontrer la capacité à gérer les catégories et les produits
 * Comprendre les différentes configurations de tarification et leur impact sur le prix final
 
 Section 3 : Marketing numérique (4 %)
@@ -106,7 +106,7 @@ Section 4 : Modules complémentaires et produits supplémentaires (18 %)
 * Décrire la fonctionnalité B2B et comment elle se rapporte aux scénarios B2B communs
 * Appliquez les exigences de l’entreprise pour suggérer une solution à l’aide de MSI.
 * Expliquer les avantages et comment utiliser la BI pour l’Adobe [!DNL Commerce] solution
-* Distinguer les différences entre la recherche native et LiveSearch
+* Faire la distinction entre la recherche native et LiveSearch
 * Application des exigences commerciales pour déterminer comment appliquer des taxes, des droits et des exemptions dans un environnement B2B
 * Comprendre comment appliquer une tarification personnalisée à un client B2B
 * Comprendre les différences entre les Adobes [!DNL Commerce] recommandations de produits natifs et Adobe Sensei
@@ -120,7 +120,7 @@ Section 5 : Architecture des systèmes (10 %)
 
 Section 6 : Conformité/sécurité (12 %)
 
-* Montrer comment sécuriser l’Adobe [!DNL Commerce] accès aux données avec des rôles et des autorisations
+* Montrer comment sécuriser l’Adobe [!DNL Commerce] accès aux données avec rôles et autorisations
 * Comprendre les principes de base de la conformité aux lois sur la confidentialité et à la sécurité des paiements
 * Explication des aspects de sécurité communs d’un Adobe [!DNL Commerce] project
 * Comprendre les principes de base des lois fiscales et comment configurer
@@ -213,39 +213,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E708)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E708
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

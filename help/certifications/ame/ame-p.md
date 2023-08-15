@@ -4,17 +4,17 @@ description: Découvrez comment devenir un Adobe certifié [!DNL Marketo Engage]
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E55" type="positive"
+badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Marketo Engage] Professionnel
+# Parcours de certification pour Adobe [!DNL Marketo Engage] Professionnel
 
 Découvrez comment devenir un Adobe certifié [!DNL Marketo] Professionnel.
 
@@ -43,7 +43,7 @@ Vous devez également connaître les outils et technologies suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -63,25 +63,25 @@ Vous devez également connaître les outils et technologies suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 36/55
-* Heure : 110 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E555
+* ID d’examen : AD0-E55
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Créer et gérer des programmes (39 %)
+Section 1 : Construire et gérer les programmes (39 %)
 
 * En fonction des besoins et des questions de l’entreprise, identifiez une stratégie de création de rapports appropriée pour effectuer une analyse.
 * Analyse des données pour répondre aux questions
-* Identifier les entonnoirs de conversion (comme concept pour comprendre l’analyse commerciale)
+* Identifier les entonnoirs de conversion (en tant que concept pour comprendre l’analyse commerciale)
 * Consultez le document Solution Design Reference (SDR) pour déterminer les données disponibles dans les rapports.
 * Analyser les données du rapport pour résumer et en tirer des conclusions
 * Reconnaître les valeurs aberrantes et les anomalies dans les rapports
@@ -96,7 +96,7 @@ Section 2 : Création de ressources (19 %)
 * Faire la distinction entre les ressources préliminaires et approuvées.
 * Faire la distinction entre les ressources locales et globales.
 
-Section 3 : Définir et cibler des audiences (33 %)
+Section 3 : Définition et ciblage des audiences (33 %)
 
 * Créer/modifier des listes dynamiques.
 * Comprendre les étapes du flux de la campagne dynamique.
@@ -107,11 +107,11 @@ Section 3 : Définir et cibler des audiences (33 %)
 * expliquer comment définir les paramètres de confidentialité dans Adobe ; [!DNL Marketo Engage].
 * Différenciation entre les listes dynamiques et les listes statiques.
 * Définissez des listes dynamiques système.
-* Comparez et comparez les différents types de campagnes intelligentes.
+* Comparez et comparez les différents types de campagnes dynamiques.
 * Comprendre le fonctionnement des déclencheurs et filtres de campagne dynamique.
 * Différencier les différents imports de liste.
 
-Section 4 : Analyse et création de rapports (9 %)
+Section 4 : Analyse et construction de rapports (9 %)
 
 * Expliquer l’Adobe standard [!DNL Marketo Engage] les rapports et le moment où ils doivent être utilisés (performances des liens d’email, performances des emails, performances de la page d’entrée, performances des personnes, performances du programme, activité de page web, etc.) ;
 * Comprendre les informations et les mesures du tableau de bord (tableau de bord du programme de messagerie, tableau de bord du programme d’engagement)
@@ -142,18 +142,18 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 **Section 2 : Création de ressources**
 
 * [Présentation d’une ressource locale dans un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [Créer un formulaire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
+* [Création d’un formulaire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
 * [Présentation des jetons](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
 * [Présentation de la page d’entrée](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
 
-**Section 3 : Définir et cibler des audiences**
+**Section 3 : Définir et cibler les audiences**
 
 * [Présentation des campagnes intelligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [Bonnes pratiques relatives aux listes dynamiques](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [Création d’une segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [Bonnes pratiques relatives aux listes intelligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
+* [Créer une segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Compréhension du contenu dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
 
-**Section 4 : Analyse et création de rapports**
+**Section 4 : Analyse et construction de rapports**
 
 * [Création d’un rapport dans un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
 * [Compréhension des listes dynamiques](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
@@ -164,36 +164,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E55)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E55
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1198'
-ht-degree: 16%
+source-wordcount: '1174'
+ht-degree: 17%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Classic] Professionnel du développement
+# Parcours de certification pour Adobe [!DNL Campaign Classic] Professionnel du développement
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] Professionnel du développement.
 
 ## Expérience minimale
 
@@ -33,44 +33,44 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
-* Conseiller associé
+* Consultant associé
 * Consultant technique débutant
 * ingénieur en technologie de marketing débutant
 * Développeur de Campaign junier
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E331
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
 Section 1 : Configuration du système (25 %)
 
-* Démontrez la configuration à l’échelle du système des paramètres dans le noeud Administration
+* Démontrez la configuration à l’échelle du système des paramètres dans le noeud Administration .
 * Appliquez le processus pour étendre le schéma de destinataire prêt à l’emploi.
-* Définition des détails du schéma (clés Principales, clés Principales automatiques, index de base de données)
-* Identification des utilisations applicables des rendus de formulaire
+* Définition des détails du schéma (clés primaires, clés primaires automatiques, index de base de données)
+* Déterminer les utilisations applicables des rendus de formulaire
 * Distinguer les paramètres de configuration à l’échelle du système qui affectent le niveau de l’espace de travail/du projet
 * Identification des paramètres de configuration des comptes externes SFTP
 * Identifier les paramètres de configuration des énumérations ouvertes et fermées
 * Différenciation des types de règles de typologie
 * Identifier les exigences pour utiliser une carte Target personnalisée et ses effets sur la fonctionnalité prête à l’emploi
 * Décrire l’accès en Adobe des audiences générées en externe à partir d’autres solutions Adobe Experience Cloud [!DNL Campaign Classic]
-* Décrire le cas d’utilisation commerciale des interactions et des offres
+* Description du cas d’utilisation commercial pour les interactions et les offres
 * Décrire le cas d’utilisation commerciale de Message Center
 * Identification de la fonctionnalité d’importation des données de l’API V8
 
@@ -98,13 +98,13 @@ Section 4 : Workflows techniques (29 %)
 * Identifier les différentes sources de données auxquelles un workflow peut accéder
 * appliquer le processus de transformation des données et de manipulation de la table de travail ;
 * Énumération des activités de workflow applicables et de leurs fonctionnalités/propriétés
-* Appliquez le processus pour configurer les propriétés du workflow
+* Appliquez le processus pour configurer les propriétés du workflow.
 * Étendre la fonctionnalité des activités à l’aide de l’éditeur d’expression
 * Faire la distinction entre les workflows prêts à l’emploi et les workflows créés par l’utilisateur
 * Expliquer l’objectif des workflows prêts à l’emploi
 * Résolution des problèmes liés aux workflows personnalisés
 * Différence entre les types de variables, leur portée et leur utilisation
-* Identifier les variables prêtes à l’emploi et leur utilisation
+* Identifier les variables OOTB et leur utilisation
 * Paramétrer les alertes et les validations
 * Identifier les types de bases de données de campagnes
 
@@ -113,7 +113,7 @@ Section 5 : Maintenance de l’instance (4 %)
 * Identifier les erreurs à partir de différents journaux de service
 * Expliquer les lectures de la carte thermique des workflows
 
-Section 6 : Configuration de campagne (14 %)
+Section 6 : Configuration de Campaign (14 %)
 
 * Appliquez le processus pour créer des campagnes à l’aide de modèles de campagne.
 * Décrire le processus de création des validations
@@ -167,7 +167,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Surveiller l’exécution des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=fr){target="_blank"}
 * [Configuration et gestion du processus de validation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
 
-**Section 5 : Maintenance des instances**
+**Section 5 : Maintenance de l’instance**
 
 * [Problèmes relatifs aux logs de tracking](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
 * [Précision des logs](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
@@ -186,37 +186,22 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E331)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E331
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

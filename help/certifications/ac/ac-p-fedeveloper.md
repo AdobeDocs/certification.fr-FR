@@ -7,20 +7,20 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Professionnel du développement front-end
+# Parcours de certification pour Adobe [!DNL Commerce] Professionnel du développement front-end
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Professionnel du développement.
 
 >[!NOTE]
 >
->Mise à jour de cet examen du développeur front-end Adobe Commerce (AD0-E719) - Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 18 août 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ac-p-fedeveloper0623.md).
+>Cet examen, [!DNL Adobe Commerce] Le service professionnel des développeurs front-end (AD0-E719) a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 18 août 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ac-p-fedeveloper0623.md).
 
 ## Expérience minimale
 
@@ -48,7 +48,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -59,11 +59,11 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E719
 
@@ -75,7 +75,7 @@ Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des imag
 * Démontrer la possibilité de créer ou d’étendre des thèmes existants
 * Démontrer la possibilité d’ajouter des expressions de traduction personnalisées
 
-Section 2 : Mise en page XML et modèles (28 %)
+Section 2 : mise en page XML et modèles (28 %)
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page de base
 * Démontrer la possibilité d’utiliser des mises en page existantes ;
@@ -86,7 +86,7 @@ Section 2 : Mise en page XML et modèles (28 %)
 Section 3 : Styles (24 %)
 
 * Décrivez l’objectif de styles-m.less, styles-l.less, print.less
-* Décrivez la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less).
+* Décrire la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less)
 * Dans un scénario, démontrer la capacité de remplacer ou d’étendre [!DNL Magento] MOINS
 * Décrire les concepts de base de LESS
 * Expliquer la hiérarchie des styles ( lib, modules, thèmes)
@@ -105,10 +105,10 @@ Section 5 : Configuration de l’administrateur et pagebuilder (12 %)
 
 * Faire la démonstration de l’utilisation de base de la gestion de contenu
 * Décrire les étapes à suivre pour appliquer/planifier un thème à une portée spécifique (site web, magasin, vue-magasin)
-* Décrire les étapes à suivre pour appliquer les modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
+* Décrire les étapes à suivre pour appliquer les modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration de l’administrateur
 * Description des étapes de personnalisation des emails transactionnels
 
-Section 6 : Outils (interface en ligne de commande et nombre) (6 %)
+Section 6 : Outils (interface en ligne de commande et grille) (6 %)
 
 * Décrire l’utilisation des commandes bin/magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
@@ -126,13 +126,13 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 [Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
 
-**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions)**
+**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traduction)**
 
 * [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [Outil Ligne de commande](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
 * [Des traductions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
-**Section 2 : Mise en page XML et modèles**
+**Section 2 : mise en page XML et modèles**
 
 * [Mise en page](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
 * [Thèmes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
@@ -161,52 +161,37 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 * [Guide de référence de configuration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [Présentation du créateur de pages](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Présentation Partie 1 : Page simple](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
+* [Présentation Partie 1 : page simple](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
 * [Thèmes](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
 * [Présentation des catégories](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
 * [Conception](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
 * [Modèles](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 
-**Section 6 : Outils (interface de ligne de commande et Grunt)**
+**Section 6 : Outils (interface en ligne de commande et Grunt)**
 
 * [Configuration de ligne de commande](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Présentation des options de magasin et de la gestion de la configuration](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
+* [Présentation des options de magasin et de la gestion de configuration](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
 * [Présentation de l’initialisation et de l’amorçage](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E719)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E719
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

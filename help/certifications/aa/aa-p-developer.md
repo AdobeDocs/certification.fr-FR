@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 10%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Analytics] Professionnel du développement
 
-Découvrez comment devenir certifié [!DNL Analytics] Professionnel du développement.
+Découvrez comment devenir certifié [!DNL Adobe Analytics] Professionnel du développement.
 
 ## Expérience minimale
 
@@ -170,35 +170,20 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 >
 >En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## A propos de l&#39;examen
-
-{{about-certification-exam}}
-
 ## Effectuer un test pratique
 
 {{practice-test}}
 
-## Effectuer l&#39;examen (AD0-E213)
+## A propos de l&#39;examen de certification
 
-### Options disponibles
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

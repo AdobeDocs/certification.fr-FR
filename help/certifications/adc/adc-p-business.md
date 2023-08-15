@@ -7,24 +7,24 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour Adobe Document Cloud Business Professional
+# Parcours de certification pour [!DNL Adobe Document Cloud] Professionnel professionnel
 
-Découvrez comment devenir un professionnel Adobe certifié.
+Découvrez comment devenir certifié [!DNL Adobe Document Cloud] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Expérience d’au moins 0 à 12 mois dans Adobe Document Cloud
+* au moins 0 à 12 mois d’expérience dans [!DNL Adobe Document Cloud]
 * être capable d’identifier et de communiquer les besoins de l’entreprise ;
-* Soyez en mesure d’effectuer des conseils sur l’activation du produit sur les solutions Adobe Document Cloud.
+* être capable d’effectuer des conseils sur l’activation du produit ; [!DNL Adobe Document Cloud] solutions.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -42,17 +42,17 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 34/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-D106
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Découverte de cas d’utilisation (36 %)
+Section 1 : détection des cas d’utilisation (36 %)
 
 * Posez des questions admissibles pour identifier les opportunités de Document Cloud.
 * Définition de cas d’utilisation métier de haut niveau
@@ -63,7 +63,7 @@ Section 2 : Évaluation des processus métier (34 %)
 * Alignement des objectifs commerciaux avec les fonctionnalités de Document Cloud
 * Fournir des démonstrations de haut niveau axées sur les utilisateurs finaux des différents composants du Document Cloud
 
-Section 3 : Définition des fonctionnalités de Document Cloud (DC) (18 %)
+Section 3 : définition des fonctionnalités de Document Cloud (DC) (18 %)
 
 * Décrire les implications des besoins de conformité et de sécurité du document et de la signature électronique
 * Décrire comment le changement de processus ajoute de la valeur
@@ -78,7 +78,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Découverte de cas d’utilisation**
+**Section 1 : Découverte des cas d’utilisation**
 
 * [Présentation des services de document](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
 * [Bienvenue dans une toute nouvelle expérience de document](https://www.adobe.com/documentcloud.html){target="_blank"}
@@ -91,18 +91,18 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [API d’extraction Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 * [API PDF Services](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
-* [Guide de prise en main de Adobe Acrobat Sign](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
+* [Guide de démarrage de Adobe Acrobat Sign](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
 * [Adobe Acrobat Sign Web Forms](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
-* [API Adobe PDF Incorporer](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
+* [API intégrée Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [Outils de PDF et de signature électronique pour votre entreprise. Acrobat l&#39;a eu.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Guide de l’utilisateur d’Adobe Acrobat](https://helpx.adobe.com/fr/acrobat/user-guide.html){target="_blank"}
 * [Présentation des intégrations - Nouveautés](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Signatures en ligne sécurisées et flexibles](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
-**Section 3 : Définition des fonctionnalités de Document Cloud (DC)**
+**Section 3 : définition des fonctionnalités de Document Cloud (DC)**
 
 * [Certifications, normes et réglementations relatives à la conformité des Adobes](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
-* [Adobe Sign pour les sciences de la vie](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
+* [Adobe Sign for Life Sciences](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
 * [Conformité à la norme](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [Qu&#39;est-ce qu&#39;une signature numérique ?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [L&#39;impact économique total d&#39;Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
@@ -122,29 +122,25 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passage à l&#39;examen (AD0-D106)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

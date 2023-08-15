@@ -8,20 +8,20 @@ level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Expert du développeur front-end
+# Parcours de certification pour [!DNL Adobe Commerce] Expert du développeur front-end
 
-Découvrez comment devenir un expert Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Développeur expert.
 
 >[!NOTE]
 >
->Mise à jour de cet examen de l’expert développeur front-end Adobe Commerce (AD0-E710). Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 18 août 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ac-e-fedeveloper0623.md).
+>Cet examen [!DNL Adobe Commerce] L’expert développeur front-end (AD0-E710) a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 18 août 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ac-e-fedeveloper0623.md).
 
 ## Expérience minimale
 
@@ -46,7 +46,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -58,35 +58,35 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E710
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
 Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions) (16 %)
 
 * Description de l’Adobe [!DNL Commerce] structure de dossiers de thèmes et comment elle se rapporte aux thèmes basés sur les dossiers
-* Démontrez la possibilité de créer un thème (héritage/abandons, concevoir des exceptions, créer des propriétés de thème).
+* Démontrez la possibilité de créer un thème (héritage/abandons, concevoir des exceptions, créer des propriétés de thème)
 * Démontrer la possibilité d’étendre les thèmes existants
 * Démontrer la capacité de personnaliser les emails transactionnels
 * Démontrer la possibilité d’appliquer des traductions
-* Compte tenu d’un ensemble de cas d’utilisation, déterminez à quel moment placer des fichiers dans l’application/le code ou l’application/la conception.
+* Compte tenu d’un ensemble de cas d’utilisation, déterminez à quel moment placer des fichiers dans l’application/le code ou l’application/la conception
 
 Section 2 : Mise en page XML et modèles (modèles phtml) (24 %)
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page
-* Démonstration de la possibilité de créer de nouvelles mises en page
+* Démontrer la possibilité de créer de nouvelles mises en page
 * Comprendre la différence entre étendre/fusionner et remplacer le XML
-* Montrer comment transmettre et utiliser des arguments aux modèles
+* Démontrez comment transmettre et utiliser des arguments aux modèles
 * Possibilité de créer et de personnaliser des modèles
 * Application de la sécurité des modèles (sortie d’échappement)
 
@@ -96,7 +96,7 @@ Section 3 : Styles (18 %)
 * Décrivez la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less,).
 * Démontrer la capacité de remplacer ou d’étendre le Magento LESS
 * expliquer les concepts de base de LESS ;
-* Démonstration de la capacité à appliquer un style aux emails
+* Démontrer la capacité à appliquer un style aux emails
 * Expliquer la hiérarchie des styles ( lib, modules, thèmes)
 * Démontrez la possibilité d’implémenter et de personnaliser les composants de bibliothèque LESS
 * Identifier les différences entre la compilation côté client et côté serveur et son fonctionnement
@@ -111,9 +111,9 @@ Section 4 : JavaScript (widgets d’image, bibliothèque d’images, module de d
 * Décrire les interactions entre les composants de l’interface utilisateur
 * Démonstration de l’utilisation de Knockout JS
 * Démonstration de l’utilisation des widgets jQuery
-* Démonstration de l’utilisation des composants JS à l’aide du XML de mise en page
+* Démontrer l’utilisation des composants JS à l’aide du XML de mise en page
 
-Section 5 : Configuration de l’administration et PageBuilder (12 %)
+Section 5 : Configuration de l’administrateur et PageBuilder (12 %)
 
 * Démontrez l’utilisation de la gestion de contenu
 * Application/planification d’un thème à une portée spécifique (site web, magasin, vue de magasin)
@@ -122,9 +122,9 @@ Section 5 : Configuration de l’administration et PageBuilder (12 %)
 * Personnalisation des emails transactionnels
 * Démontrez l’utilisation des outils de développement d’administration
 
-Section 6 : Outils (interface en ligne de commande et nombre) (8 %)
+Section 6 : Outils (interface en ligne de commande et grille) (8 %)
 
-* Démontrez l’utilisation des commandes bin/Magento de base.
+* Montrer l’utilisation des commandes bin/Magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
 * Différenciation du cas d’utilisation approprié pour les modes de déploiement
 * Définition de la configuration et de l’utilisation du groupe
@@ -135,7 +135,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions)**
+**Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traduction)**
 
 * [Structure du thème](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
 * [Création d’un thème storefront](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
@@ -147,7 +147,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Des traductions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [Création de la structure de fichiers de composant](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
-**Section 2 : Modèles et XML de mise en page (modèles phtml)**
+**Section 2 : Mise en page XML et modèles (modèles phtml)**
 
 * [Instructions de mise en page](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
 * [Création d’une mise en page](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
@@ -168,7 +168,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Moins de code standard](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
 * [Modèles d&#39;email](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [Structure du thème](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [Ajout d’un préprocesseur CSS personnalisé](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
+* [Ajout du préprocesseur CSS personnalisé](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
 * [Utilisation du préprocesseur Sass et de l’exécution de tâches Gulp](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
 * [Mode Compilation](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/){target="_blank"}
 
@@ -181,7 +181,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Chaînes de thème](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/){target="_blank"}
 * [Présentation des composants de l’interface utilisateur](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
 * [Flux de configuration](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow/){target="_blank"}
-* [Liaisons personnalisées de Knockout.js](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
+* [Liaisons Custom Knockout.js](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [Syntaxe de liaison](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
 * [widgets jQuery](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
 * [Ajout d’un module JavaScript](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=fr){target="_blank"}
@@ -196,7 +196,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Lots JavaScript](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/js-bundling.html){target="_blank"}
 * [Modèles d&#39;email](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
 
-**Section 6 : Outils (interface de ligne de commande et Grunt)**
+**Section 6 : Outils (interface en ligne de commande et Grunt)**
 
 * [Outil de ligne de commande](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
 * [[!DNL Commerce] pour les développeurs : base de code](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
@@ -210,37 +210,22 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
-> Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+> Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E710)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

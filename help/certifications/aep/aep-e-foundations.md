@@ -4,18 +4,18 @@ description: Découvrez comment devenir un Adobe certifié [!DNL Experience Plat
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="Exam AD0-E600 &amp; AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 10%
+source-wordcount: '1530'
+ht-degree: 11%
 
 ---
 
 
-# Parcours de certification pour l’Adobe [!DNL Experience Platform] Expert
+# Parcours de certification pour Adobe [!DNL Experience Platform] Expert
 
 Découvrez comment devenir un Adobe certifié [!DNL Experience Platform] Expert.
 
@@ -44,7 +44,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -62,19 +62,19 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 35/50
-* Heure : 105 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Durée : 105 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
 * Langue : française
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E600
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Modélisation des données (20 %)
+Section 1 : modélisation des données (20 %)
 
-* Analyse des données source pour évaluer l’identité Principale et secondaire pour la combinaison de profils
+* Analyse des données source pour évaluer l’identité principale et secondaire pour la combinaison de profils
 * Découvrez comment utiliser l’interface utilisateur pour créer/modifier des schémas XDM.
 * Guide d’identification DULE
 
@@ -87,17 +87,17 @@ Section 2 : Ingestion de données (36 %)
 * Montrer comment effectuer une découverte de données sur les données source
 * Montrer comment transformer les données pour qu’elles correspondent à XDM
 
-Section 3 : Unifier les profils (34 %)
+Section 3 : Unification des profils (34 %)
 
 * Validation des profils et des données d’événement après l’ingestion
 * Définition des espaces de noms d’identité
 * expliquer comment les graphiques d’identités sont utilisés par le service de profil ;
-* Identifier la manière d’enrichir les profils par le biais des services de modélisation de l’espace de travail de la science des données
+* Identifier la manière d’enrichir les profils à l’aide des services de modélisation de l’espace de travail de la science des données
 * Découvrez comment créer un segment avec le créateur de segments et comment fonctionne le service de segmentation.
 
 Section 4 : Activation (10 %)
 
-* Découvrez comment configurer une destination et comment fonctionne l’activation des segments
+* Montrer comment configurer une destination et comment fonctionne l’activation des segments
 * Démonstration et compréhension de l’API d’accès aux données et export de données via Real-Time CDP
 
 Prenez un questionnaire de préparation pour savoir si vous remplissez les conditions minimales requises.
@@ -109,10 +109,10 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Modélisation des données**
+**Section 1 : modélisation des données**
 
 * [Présentation des schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr){target="_blank"}
-* [Présentation/Adobe du schéma et XDM [!DNL Experience Platform]: Modélisation des données et ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Présentation/Adobe du schéma et XDM [!DNL Experience Platform]: modélisation et ingestion de données](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Données de modèle dans les schémas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Présentation des schémas et XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=fr){target="_blank"}
 
@@ -120,9 +120,9 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [Ingestion des données](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=fr){target="_blank"}
 
-**Section 3 : Unifier les profils**
+**Section 3 : Unification des profils**
 
-* [Graphiques d’identités et d’identités](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [Graphiques des identités et des identités](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Mapping d’identités](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
 * [Étiquetage, ingestion et vérification des données d’identité](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Création d’un jeu de données pour l’exportation d’un segment ciblé](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
@@ -136,38 +136,31 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen
+## Planification ou prise de l’examen AD0-E600
 
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d’examen
+</span>
+</a>
 
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
-
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-### Numéro de l’examen : AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Condition 2 : AD7-E601 Adobe Real-Time CDP Technical Practice**
 
@@ -175,21 +168,21 @@ L’examen AD7-E601 porte sur la création, la gestion et la compréhension du p
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 25/34
-* Heure : 51 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Durée : 51 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
 * Langue : française
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD7-E601
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Étendue et objectifs de l’examen**
 
-Section 1 : Validation (41 %)
+Section 1 : validation (41 %)
 
 * L’application des concepts requis pour valider Profile comporte les attributs et les segments appropriés.
 * démontrer une compréhension de la manière de valider une stratégie de déploiement en fonction des exigences fonctionnelles ou techniques ;
@@ -200,7 +193,7 @@ Section 1 : Validation (41 %)
 Section 2 : Segmentation (32 %)
 
 * Faire la démonstration d’une compréhension de la création de segments en fonction des besoins de l’entreprise
-* Montrer une compréhension de la manière de déterminer les évaluations de segments en fonction des données ingérées
+* Démontrer une compréhension de la manière de déterminer les évaluations de segments en fonction des données ingérées.
 
 Section 3 : Destinations (27 %)
 
@@ -209,14 +202,14 @@ Section 3 : Destinations (27 %)
 
 >[!TAB Effectuer la préparation]
 
-**Section 1 : Validation**
+**Section 1 : validation**
 
 * [Vue d’ensemble du profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=fr){target="_blank"}
 * [Tableau de bord du profil](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Barrières de sécurité par défaut pour les données de profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=fr)
 * [Activation de Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Présentation de Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=fr){target="_blank"}
-* [AEP Application Services : Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
+* [Services d’applications AEP : Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Prise en main de Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Page d’accueil et tableaux de bord Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Surveillance des flux de données pour les destinations dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
@@ -256,7 +249,7 @@ Section 3 : Destinations (27 %)
 * [Types et catégories de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=fr){target="_blank"}
 * [Espace de travail de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Créer une connexion à une destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=fr){target="_blank"}
-* [CDP en temps réel : Destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
+* [CDP en temps réel : destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Présentation de la destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [Créer une destination et activer des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Présentation de l’activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
@@ -273,41 +266,27 @@ Section 3 : Destinations (27 %)
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E601)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
+
 
 >[!ENDTABS]
 

@@ -6,20 +6,20 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 15%
+source-wordcount: '943'
+ht-degree: 17%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Target] Principal architecte
 
-Découvrez comment devenir un Principal architecte Adobe certifié.
+Découvrez comment devenir certifié [!DNL Adobe Target] Principal architecte.
 
 >[!NOTE]
 >
->Il s’agit du dernier examen de Principal d’Adobe Target Architect. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](at-m-architect.md) vous avez jusqu’au 8 septembre 2023 pour la terminer.
+>Il s’agit de la plus récente [!DNL Adobe Target] Examen de Principal de l&#39;architecte. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](at-m-architect.md) vous avez jusqu’au 8 septembre 2023 pour la terminer.
 
 ## Expérience minimale
 
@@ -29,7 +29,7 @@ Vous devez disposer des éléments suivants :
 * au moins deux ans d’expérience (ou cinq engagements) dans l’implémentation, le déploiement et le dépannage d’Adobe Target ;
 * Expérience d’intégration de Target à Adobe Experience Cloud
 * Compréhension fondamentale du développement web front-end, JavaScript, HTML et CSS
-* Connaissance/connaissance des API/SDK Adobe Target, de l’intégration côté serveur, de la création de rapports et de l’administration
+* Familiarité avec les API/SDK Adobe Target, intégration côté serveur, création de rapports et administration, et connaissance de ces derniers
 * Maîtrise de l’implémentation d’Adobe Target avec les structures d’application d’une seule page (SPA), les services mobiles et de messagerie électronique, ainsi que les recommandations.
 
 Technologies :
@@ -48,7 +48,7 @@ Environnements:
 * Adobe Experience Cloud
 * Mise en oeuvre côté client sans gestionnaire de balises
 * Systèmes Tag Management, en particulier Launch (IF)
-* Environnements côté serveur (pour l’utilisation de l’API)
+* Environnements côté serveur (pour l’utilisation des API)
 * E-mail
 * Environnements web et mobiles
 * Environnement hébergé AMS
@@ -56,11 +56,11 @@ Environnements:
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
-* ingénieur/architecte d’optimisation du taux de conversion
+* Ingénieur/architecte de l’optimisation du taux de conversion
 * Ingénieur/architecte de personnalisation
 * Architecte de solutions numériques
 * Conseiller en transformation digitale
@@ -72,9 +72,9 @@ Environnements:
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 32/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E409
 
@@ -85,7 +85,7 @@ Section 1 : [!DNL Adobe Target] Principes de base (13 %)
 * Identifier les [!DNL Adobe Target] utilisation pour un scénario donné
 * expliquer les technologies fondamentales d’une [!DNL Adobe Target] implémentation
 
-Section 2 : Intégration avec [!DNL Adobe Target] (18 %)
+Section 2 : Intégration à [!DNL Adobe Target] (18 %)
 
 * Appliquez le processus à intégrer [!DNL Adobe Target] avec Adobe Analytics (A4T)
 * Appliquez le processus à intégrer [!DNL Adobe Target] vers Adobe Experience Manager
@@ -109,7 +109,7 @@ Section 5 : Utilisation [!DNL Adobe Target] recommandations (11 %)
 * Montrer une compréhension des recommandations, catalogues et critères
 * Appliquez le processus de configuration des recommandations Target.
 
-Section 6 : Architecte, conception et implémentation [!DNL Adobe Target] (18 %)
+Section 6 : Architecture, conception et mise en oeuvre [!DNL Adobe Target] (18 %)
 
 * Sélectionnez la bonne mise en oeuvre de la requête Target (globale, confirmation de commande, hybride) Évaluez et concevez une [!DNL Adobe Target] implémentation
 * Décrire la mise en oeuvre de [!DNL Adobe Target] dans les applications mobiles natives
@@ -183,30 +183,22 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Maintenant que vous êtes connecté, les liens suivants seront directement accessibles.**
 
-**Passer l&#39;examen de certification**
+## A propos de l&#39;examen de certification
 
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
+{{about-certification-exam}}
 
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
+## Planifier ou passer l’examen AD0-E409
 
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-### Numéro de l’examen : AD0-E409
-
-[!BADGE Examiner]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d’examen
+</span>
+</a>
 
 >[!ENDTABS]
 

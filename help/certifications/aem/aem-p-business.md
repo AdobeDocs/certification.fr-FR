@@ -7,26 +7,26 @@ role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '865'
+ht-degree: 21%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Experience Manager] Professionnel professionnel
 
-Découvrez comment devenir un professionnel Adobe certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Expérience d’au moins 0 à 12 mois lors de l’utilisation et de la configuration d’Adobe Cloud Manager
+* Expérience d’au moins 0 à 12 mois à l’utilisation et la configuration d’Adobe Cloud Manager
 * Expérience d’au moins 0 à 12 mois avec les fonctionnalités AEM nécessaires pour impliquer les développeurs dans la recherche de solutions commerciales
 * au moins 0 à 12 mois d’expérience pour la configuration, l’implémentation et la gestion des tâches d’intégration continue/de déploiement continu
 
-Si vous maîtrisez le travail dans Adobe Managed Services et Adobe [!DNL Experience Manager] as a Cloud Service et sont en mesure de configurer Adobe [!DNL Experience Manager] les environnements et l’infrastructure.
+Si vous êtes à l’aise avec Adobe Managed Services et Adobe [!DNL Experience Manager] as a Cloud Service et peuvent configurer Adobe [!DNL Experience Manager] les environnements et l’infrastructure.
 
 En outre, vous devez disposer des éléments suivants :
 
@@ -40,7 +40,7 @@ En outre, vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -50,11 +50,11 @@ En outre, vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 33/50
-* Heure : 110 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E126
 
@@ -73,14 +73,14 @@ Section 2 : Architecture (22 %)
 * Déterminer où définir les rôles et les autorisations
 * Dans un scénario, définissez les approches de mise en cache disponibles.
 
-Section 3 : Analyse de l’entreprise (43 %)
+Section 3 : Analyse des activités (43 %)
 
 * Dans un scénario, identifiez les modules standard d’AEM qui répondent aux problèmes de l’entreprise des clients.
 * Identifier les concepts de gestion de contenu pour les modules AEM
 * Identification des parties prenantes typiques du projet
 * Identifier des scénarios de collaboration réalistes entre les équipes impliquées
 * Dans un scénario, décrivez la méthode appropriée pour atteindre les objectifs de l’entreprise tout en respectant le budget et/ou la portée.
-* Identifier les moyens de lier les objectifs de l’entreprise à l’équipe de développement
+* Identifier les moyens de lier les objectifs commerciaux à l’équipe de développement
 
 Section 4 : Configuration et mise en oeuvre (13 %)
 
@@ -99,7 +99,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 [Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
 
-**Section 1 : Éducation**
+**Section 1 : Education**
 
 * [Présentation du guide de création](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
 * [Concepts de configuration de base](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html){target="_blank"}
@@ -116,7 +116,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**Section 3 : Analyse commerciale**
+**Section 3 : Analyse des activités**
 
 * [Guide de l’utilisateur pour la gestion d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html){target="_blank"}
 * [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
@@ -142,25 +142,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l’examen (AD0-E126)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E126
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '900'
-ht-degree: 18%
+source-wordcount: '755'
+ht-degree: 22%
 
 ---
 
@@ -39,7 +39,7 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -54,9 +54,9 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E207
 
@@ -71,13 +71,13 @@ Section 1 : Découverte (18 %)
 Section 2 : Conception de la solution (54 %)
 
 * Traduire les besoins de l’entreprise en variables et mesures
-* Démonstration de la capacité à gérer les paramètres des suites de rapports
+* Démontrer la capacité de gérer les paramètres des suites de rapports
 * Dans un scénario, recommandez les meilleures méthodes de collecte de données.
 * Écrire des spécifications techniques pour les ingénieurs de balisage
 * Écrire des spécifications techniques pour les développeurs de site
 * Créer des utilisateurs/groupes Experience Cloud
 
-Section 3 : Mise en oeuvre après (28 %)
+Section 3 : Post-mise en oeuvre (28 %)
 
 * En fonction d’un ensemble de conditions requises, validez le suivi par le biais des outils de développement du navigateur et des rapports d’Adobe.
 * appliquer des concepts de procédure pour gérer l’extraction des données et les relations ;
@@ -118,67 +118,39 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Présentation d’Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Gérer les utilisateurs individuellement](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
-**Section 3 : Post-implémentation**
+**Section 3 : post-implémentation**
 
 * [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
 * [La couche de données pilotée par un événement](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] Guide d’exportation](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=fr){target="_blank"}
-* [Adobe [!DNL Target] Guide du praticien de l’entreprise](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Target] Guide du praticien professionnel](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide d’importation](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [Processus d’insertion de données](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Tutoriel sur la mise en oeuvre de l’Experience Cloud dans les sites web avec des balises](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
+* [Tutoriel Mise en oeuvre de l’Experience Cloud dans les sites web avec des balises](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen
-
-Adobe utilise deux fournisseurs pour administrer les examens avec suivi, PSI et Examinity.
-
-* **PSI** offre le centre de test et les options d’examen japonaises (le cas échéant) ;
-* **[!DNL Examity]** propose une option en ligne distante
-
-Pour planifier, replanifier ou annuler votre examen, il vous suffit de cliquer sur le fournisseur de votre choix et de suivre les instructions affichées à l’écran. C&#39;est aussi simple que ça !
-
-Le nom de votre profil dans le système de gestion des informations d’identification d’Adobe doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
-
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
-
-## Passer l&#39;examen (AD0-E207)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E207
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

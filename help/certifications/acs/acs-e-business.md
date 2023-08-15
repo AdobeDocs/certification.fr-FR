@@ -7,27 +7,27 @@ role: User
 badge: label="Exam AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 12%
+source-wordcount: '790'
+ht-degree: 13%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Standard] Expert spécialiste des affaires
+# Parcours de certification pour Adobe [!DNL Campaign Standard] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert Adobe en métier.
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Standard] Expert spécialiste des affaires.
 
 ## Expérience minimale
 
-Vous devez avoir de l’expérience dans un environnement de diffusion de canal (email, courrier, mobile et social) ; la connaissance des tactiques de campagne marketing telles que le multipoint, le cycle de vie et la réactivation ; et une compréhension des mesures marketing telles que le retour sur investissement, les taux de clics publicitaires et les conversions.
+Vous devez avoir de l’expérience dans un environnement de diffusion de canal (email, courrier, mobile et social), une bonne connaissance des tactiques de campagne marketing telles que le multipoint, le cycle de vie et la réactivation, ainsi qu’une compréhension des mesures marketing telles que le retour sur investissement, les taux de clics et la conversion.
 
 En outre, vous devez disposer des éléments suivants :
 
-* Expérience sur le terrain avec [!DNL Campaign Standard] à fréquence régulière
+* Expérience sur le terrain avec Adobe [!DNL Campaign Standard] à fréquence régulière
 * Possibilité de traiter des fichiers de données
 * une compréhension des concepts des bases de données relationnelles, des déclencheurs, des API et des workflows techniques ;
-* Comprendre comment créer des workflows marketing et utiliser les données sous-jacentes pour lancer des workflows marketing
+* Comprendre comment créer des processus marketing et utiliser les données sous-jacentes pour lancer des processus marketing
 * Configuration des rapports d’expérience
 * Comprendre la configuration et les validations des diffusions des opérations
 
@@ -37,7 +37,7 @@ En outre, vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -48,32 +48,32 @@ En outre, vous devez disposer des éléments suivants :
 * Chargé de produit Campaign
 * Analyste de campagne
 * Gestionnaire des analyses de données
-* Gestionnaire CRM
+* gestionnaire de gestion de la relation client
 * Chargé de solutions
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 30/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais et japonais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais et japonais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E307
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Gestion des diffusions (25 %)
+Section 1 : Gestion des diffusions (25%)
 
 * Appliquer les bonnes pratiques pour configurer et déployer une diffusion
 * Déterminer la configuration de diffusion correcte
 * Application des fonctionnalités du Concepteur d’email au scénario approprié
 
-Section 2 : Gestion de campagne (25 %)
+Section 2 : Gestion de campagne (25%)
 
 * Application de configurations pour exécuter des workflows
 * Appliquer les bonnes pratiques en matière de planification, de planification et de modification d’une campagne
@@ -90,7 +90,7 @@ Section 4 : Rapports (15 %)
 * Fournissez une interprétation des résultats à partir d’exemples de données de rapport prêtes à l’emploi.
 * Appliquez le processus pour planifier et envoyer un rapport d’usine.
 
-Section 5 : Résolution des problèmes (10 %)
+Section 5 : Dépannage (10 %)
 
 * Surveiller et identifier les erreurs
 * Analyse et interprétation des résultats de déploiement
@@ -125,7 +125,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Construire un workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
 * [Gestion des utilisateurs](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
-**Section 4 : Reporting**
+**Section 4 : Création de rapports**
 
 * [Prise en main de la création de rapports dynamiques](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr){target="_blank"}
 * [Présentation du reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
@@ -147,39 +147,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E307)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E307
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

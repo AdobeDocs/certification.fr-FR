@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '823'
+ht-degree: 8%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager] Assets Developer Professional
+# Parcours de certification pour Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Découvrez comment devenir certifié [!DNL Experience Manager] Professionnel.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel des développeurs de ressources.
 
 ## Expérience minimale
 
@@ -38,7 +38,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 * Convertisseur du Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
-* Environnement de test de développement
+* Environnement de développement
 * Environnement local
 
 >[!NOTE]
@@ -47,7 +47,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -62,21 +62,21 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 30/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E129
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Workflows de ressources (24 %)
+Section 1 : Workflows des ressources (24 %)
 
 * Expliquer le processus de personnalisation des workflows prêts à l’emploi
 * Déterminer quand créer ou personnaliser des workflows de ressources pour mettre en oeuvre les exigences des clients
@@ -87,7 +87,7 @@ Section 1 : Workflows de ressources (24 %)
 Section 2 : Organisation des ressources et console des ressources (22 %)
 
 * Découvrez comment créer et organiser des ressources dans les collections
-* Démonstration de l’organisation des ressources à l’aide de balises
+* Découvrez comment organiser les ressources à l’aide de balises
 * Identifier comment tirer parti des filtres et facettes de recherche prêts à l’emploi
 * Décrire comment configurer et générer des rapports de ressources AEM
 * Description de la gestion des autorisations utilisateur sur les dossiers de ressources
@@ -103,7 +103,7 @@ Section 4 : Types de ressources (18 %)
 
 * Description des fonctionnalités prêtes à l’emploi disponibles pour les types de ressources
 * Expliquer les fragments de contenu et les modèles de fragments de contenu
-* Démontrez comment et à quel moment utiliser des variations de fragments de contenu
+* Démontrez comment et quand utiliser des variations de fragments de contenu
 
 Section 5 : Visionneuses et fonctionnalités de ressources (12 %)
 
@@ -156,25 +156,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E129)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E129
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

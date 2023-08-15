@@ -6,23 +6,23 @@ role: Developer
 badge: label="Exam AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Workfront] Responsable de projet professionnel
+# Parcours de certification pour Adobe [!DNL Workfront] Responsable de projet professionnel
 
-Découvrez comment devenir un responsable de projet Adobe certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Workfront] Responsable de projet professionnel.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
 * une compréhension du processus de travail depuis une demande de travail initiale jusqu’à la fin ou a été exposé à la gestion de projet ou de travail ;
-* Entraînement autoguidé terminé ou camp d&#39;amorçage ou ont été [!DNL Workfront] utilisateur pendant 6 à 12 mois afin qu’il comprenne les fonctionnalités de base ;
+* Entraînement autoguidé terminé ou camp d&#39;amorçage ou ont été [!DNL Workfront] utilisateur pendant 6 à 12 mois pour comprendre les fonctionnalités de base ;
 * Une compréhension de la configuration, du suivi et de la surveillance des données de rapport
 
 >[!NOTE]
@@ -31,7 +31,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -45,23 +45,23 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen - Adobe [!DNL Workfront] Chef de projet**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 45/70
-* Heure : 140 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 140 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E903
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Entrée et planification (30 %)
+Section 1 : Réception et planification (30 %)
 
-* Identifier différentes manières de notifier une demande de travail
+* Identifier différentes manières d’être informé d’une demande de travail
 * Dans le cas d’une requête, passez en revue les données personnalisées pour déterminer l’action appropriée.
 * Dans un scénario, déterminez les autorisations de partage requises pour une activité.
 * Dans un scénario, déterminez les paramètres de tâche appropriés pour planifier l’exécution d’une tâche dans une période spécifique.
@@ -71,7 +71,7 @@ Section 1 : Entrée et planification (30 %)
 * Identifier le champ approprié pour afficher une ressource affectée spécifique
 * Compte tenu d’une personne, déterminez la prise en charge ou les rapports/tableaux de bord de planification utiles à cette personne pendant la prise en charge ou l’étape de planification du projet/processus de travail.
 
-Section 2 : Exécuter (50 %)
+Section 2 : exécuter (50 %)
 
 * Identifier les moyens de comprendre, d’appliquer et de mesurer les jalons d’un projet
 * Créer [!DNL Workfront] Validations à usage unique et conditions d’utilisation d’une approbation
@@ -90,7 +90,7 @@ Section 2 : Exécuter (50 %)
 * Dans un scénario, déterminez la manière dont les types de dates et les durées affectent les conditions du projet.
 * Dans un scénario, déterminez les états personnalisés requis.
 * Identifier les différents types de rapports disponibles dans [!DNL Workfront]
-* Dans un scénario, décrivez les étapes de création d’un rapport personnalisé.
+* Dans un scénario, décrivez les étapes de création d’un rapport personnalisé
 
 Section 3 : Fermeture (20 %)
 
@@ -117,7 +117,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 **Ressources supplémentaires:**
 
-**Section 1 : Inprise et planification**
+**Section 1 : Réception et planification**
 
 * [Utiliser des notifications](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
 * [Types Durée de tâche et Durée](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
@@ -131,7 +131,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Prise en main d’Agile dans Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
 * [Création et gestion des rapports](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
 
-**Section 2 : Exécuter**
+**Section 2 : exécuter**
 
 * [Processus de validation et chemins de jalon](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
 * [Gestion des tâches](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
@@ -164,36 +164,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E903)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E903
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

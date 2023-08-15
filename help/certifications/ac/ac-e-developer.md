@@ -7,16 +7,16 @@ level: Experienced
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 2%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Développeur expert
+# Parcours de certification pour [!DNL Adobe Commerce] Développeur expert
 
-Découvrez comment devenir un expert Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Développeur expert.
 
 ## Expérience minimale
 
@@ -29,9 +29,9 @@ Vous devriez avoir au moins 1 à 3 ans d’expérience avec l’Adobe [!DNL Comm
 * Compositeur
 * SSH, base Linux
 * Redis, Elasticsearch, SQL, vernis, RabbitMQ
-* Outils de validation d’API, outils client d’API (Postman)
+* Outils de validation d’API, outils client API (Postman)
 * Logiciel de contrôle de version, tel que Git
-* Architecture de cloud
+* Architecture de Cloud
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Vous devriez avoir au moins 1 à 3 ans d’expérience avec l’Adobe [!DNL Comm
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -51,17 +51,17 @@ Vous devriez avoir au moins 1 à 3 ans d’expérience avec l’Adobe [!DNL Comm
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 41/69
-* Heure : 138 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 138 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E716
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -71,7 +71,7 @@ Section 1 : Adobe [!DNL Commerce] Techniques d’architecture et de personnalisa
 * Créer, utiliser et manipuler des attributs d’extension personnalisés
 * Recommandations de solutions pour appliquer des mises à jour personnalisées de thème aux pages de produits/catégories
 * Appliquer correctement les observateurs, les préférences et les modules externes (effets de l’ordre de tri)
-* Démontrez la possibilité d’utiliser la couche de configuration dans Adobe [!DNL Commerce]
+* Démontrer la possibilité d’utiliser la couche de configuration dans Adobe [!DNL Commerce]
 * Montrer les connaissances sur le fonctionnement des itinéraires dans Adobe [!DNL Commerce]
 * Démontrer la capacité de personnaliser pagebuilder
 * Déterminer les effets et les contraintes de la configuration de plusieurs sites sur une seule instance
@@ -79,7 +79,7 @@ Section 1 : Adobe [!DNL Commerce] Techniques d’architecture et de personnalisa
 * Description de l’ajout et de la configuration de champs dans les paramètres du magasin
 * Expliquer les cas d’utilisation des correctifs Git et les modifications au niveau du fichier dans le compositeur
 * Création de commandes dans l’interface de ligne de commande
-* Montrer comment écrire un test d’intégration
+* Démontrez comment écrire un test d’intégration
 * Identifier l’Adobe [!DNL Commerce] fonctionnalité de sécurité (CSP, séquence d’échappement, clés de formulaire, assainissement, reCAPTCHA, validation d’entrée)
 * expliquer le fonctionnement du système de planification CRON ;
 * Démontrer la capacité de charger et de manipuler des données ;
@@ -89,10 +89,10 @@ Section 2 : Utilisation des bases de données et de l’AVV (10 %)
 
 * Manipuler les attributs et les jeux d’attributs d’un fichier EV par programmation
 * Démontrer la possibilité d’étendre le schéma de base de données
-* Démontrer la possibilité d’importer/d’exporter des données à partir d’Adobe Commerce
+* Démontrer la possibilité d’importer/d’exporter des données d’Adobe Commerce
 * Décrire comment utiliser les correctifs et les configurations récurrentes pour modifier la base de données
 
-Section 3 : Développement avec administration (6 %)
+Section 3 : développement avec administration (6 %)
 
 * Démontrer la possibilité de mettre à jour et de créer des grilles et des formulaires
 * Étendre les actions de grille
@@ -104,19 +104,19 @@ Section 4 : Personnalisation du catalogue (6 %)
 * Appliquer les modifications aux types de produits existants et en créer de nouveaux
 * Modification et extension d’entités de catalogue existantes
 * Démontrez la capacité de gérer les index et de personnaliser la sortie des prix
-* Expliquer comment le stock multi-source impacte le stock (au niveau du programme)
+* Expliquer comment le stock multi-source impacte le stock (niveau programme)
 
 Section 5 : Personnalisation des opérations de vente (6 %)
 
 * Démontrer la capacité de développer de nouveaux modes de paiement ou de personnaliser les modes de paiement existants ;
-* Démontrez la possibilité d’ajouter et de personnaliser des méthodes d’expédition
+* Démontrer la possibilité d’ajouter et de personnaliser des méthodes d’expédition
 * Démontrer la possibilité de personnaliser les opérations de vente
 * expliquer comment personnaliser les totaux ;
 
 Section 6 : API et services (4 %)
 
 * Démontrer la possibilité de créer de nouvelles API ou d’étendre des API existantes ;
-* Démontrer la possibilité d’utiliser le système de file d’attente
+* Démontrer la possibilité d’utiliser le système de file d’attente.
 
 Section 7 : Adobe [!DNL Commerce] Architecture du cloud (16 %)
 
@@ -125,7 +125,7 @@ Section 7 : Adobe [!DNL Commerce] Architecture du cloud (16 %)
 * Démontrer la possibilité de configurer des magasins multi-domaines sur Adobe [!DNL Commerce] Cloud (sites multidomaines, mélange de travail de développement et de prise en charge)
 * posséder des connaissances générales des services applicatifs et comment les gérer (YAML, PHP, MariaDB, Redis, RabbitMQ, etc.) ;
 * Identifier la manière d’accéder aux différents types de journaux
-* Démonstration de la capacité de déployer un projet (étapes principales du déploiement)
+* Démontrer la capacité de déployer un projet (principales étapes du déploiement)
 * Définir les fonctionnalités fournies par les outils de la CEE
 * Identifier les utilisations pour les correctifs de la CEE (violation de sécurité)
 * Décrire comment gérer et mettre à niveau les outils de la CEE
@@ -136,7 +136,7 @@ Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud (10 %
 
 * Décrire comment configurer/configurer Adobe [!DNL Commerce] Cloud
 * Appliquer les connaissances de dépannage de base dans le cloud (hiérarchie de l’interface utilisateur web et des variables, priorité des configurations)
-* Faire la preuve de la compréhension de la gestion des utilisateurs dans le cloud et de l’interface utilisateur d’intégration
+* Faire la preuve de la compréhension de la gestion des utilisateurs cloud et de l’interface utilisateur d’intégration
 * Description de la mise à jour des variables cloud à l’aide de l’interface utilisateur
 * Description de la gestion de l’environnement à l’aide de l’interface utilisateur
 * Explication de la compréhension de l’embranchement à l’aide de l’interface utilisateur
@@ -206,10 +206,10 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Importation et exportation d’un inventaire](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
 * [Développement des données et des correctifs de schéma](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
 
-**Section 3 : Développement avec l’administrateur**
+**Section 3 : développement avec administration**
 
 * [[!DNL Commerce] pour les développeurs : création d’une page d’administration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
-* [Ajout d’une grille Admin](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
+* [Ajout d’une grille d’administration](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [Composant Liste (grille)](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [Composant de formulaire](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
 * [Composant ActionsColumn](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-actionscolumn.html){target="_blank"}
@@ -236,8 +236,8 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Ajout d’une nouvelle intégration de paiement (mode de paiement)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [Ajout d’un opérateur de livraison personnalisé](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout-add-custom-carrier.html){target="_blank"}
 * [Ajout de validations d’opérateurs de livraison personnalisées](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_carrier.html){target="_blank"}
-* [Personnalisation de l’affichage d’une étape de passage en caisse](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
-* [Ordre de tri des totaux de passage en caisse](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
+* [Personnalisation de l’affichage d’une étape de paiement](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
+* [Ordre de tri des totaux de paiement](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
 
 **Section 6 : API et services**
 
@@ -274,28 +274,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passage à l&#39;examen (AD0-E716)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+### Planification ou prise de l’examen AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

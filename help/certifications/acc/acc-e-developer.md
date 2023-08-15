@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
-ht-degree: 20%
+source-wordcount: '1117'
+ht-degree: 21%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Classic] Développeur expert
+# Parcours de certification pour Adobe [!DNL Campaign Classic] Développeur expert
 
-Découvrez comment devenir un expert Adobe Developer certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] expert développeur.
 
 ## Expérience minimale
 
@@ -28,7 +28,7 @@ Vous devez disposer des éléments suivants :
 * Expérience en architecture de base de données et connaissance du marketing en base de données
 * Possibilité de mapper les exigences à la fonctionnalité Campaign
 * Possibilité de résoudre les problèmes de mise en oeuvre de Campaign
-* Compréhension de base des configurations de serveur liées à Campaign
+* Présentation de base des configurations de serveur liées à Campaign
 
 >[!NOTE]
 >
@@ -36,27 +36,27 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
 * Consultant technique
 * ingénieur en technologie marketing
-* [!DNL Campaign Classic] développeur
+* Adobe [!DNL Campaign Classic] développeur
 
 **Détails de l’examen**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 34/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E330
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -80,7 +80,7 @@ Section 2 : Personnalisation (22 %)
 
 Section 3 : Gestion des accès (8 %)
 
-* Dans un scénario, configurez les paramètres de sécurité pour un opérateur
+* Dans un scénario, configurez les paramètres de sécurité pour un opérateur.
 * Décrire comment configurer les paramètres de gestion des accès en fonction du document de conception de solution
 * Description de la gestion des accès à l’aide du panneau de contrôle de Campaign
 * Identifier les limites du partitionnement des données et quand utiliser sysfilter
@@ -93,7 +93,7 @@ Section 4 : Intégration de données (16 %)
 * Identifier les paramètres de sécurité et réseau à intégrer à Adobe Campaign à partir d’un système externe
 * Configuration du processus CRUD sur un schéma en dehors d’Adobe Campaign
 
-Section 5 : Maintenance de l’instance (12 %)
+Section 5 : Maintenance de l&#39;instance (12 %)
 
 * Comprendre et agir sur la carte thermique des workflows
 * Démontrez le processus de création d’un workflow ou d’un rapport personnalisé, par exemple pour la surveillance.
@@ -101,7 +101,7 @@ Section 5 : Maintenance de l’instance (12 %)
 * Expliquer l’impact des services et des processus sur le système
 * Démonstration des mesures/contrôles de contrôle système de base
 
-Section 6 : Configuration de campagne (25 %)
+Section 6 : Configuration de la campagne (25 %)
 
 * Application de techniques de personnalisation avancées
 * Configuration et application de mappages de cibles personnalisés
@@ -145,7 +145,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Surveillance de la capacité du serveur](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [À propos de l’édition de schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 
-**Section 4 : Intégration de données**
+**Section 4 : Intégration des données**
 
 * [Comptes externes](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=fr){target="_blank"}
 * [Déploiement de Campaign FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
@@ -177,39 +177,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E330)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E330
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

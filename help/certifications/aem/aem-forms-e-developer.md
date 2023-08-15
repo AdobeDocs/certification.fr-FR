@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '798'
 ht-degree: 9%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager Forms] Développeur expert
+# Parcours de certification pour Adobe [!DNL Experience Manager Forms] Développeur expert
 
-Découvrez comment devenir certifié [!DNL Experience Manager Forms] Développeur expert.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Forms] Développeur expert.
 
 ## Expérience minimale
 
@@ -34,7 +34,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Création de PDF forms (statiques/dynamiques, interactifs et non interactifs)
 * Schéma ou liaison de données XML
 * Créer un fragment de formulaire
-* Créer un formulaire adaptatif
+* Création d’un formulaire adaptatif
 * Débogage d’un formulaire complexe
 * Configuration et envoi de formulaires
 * Création et déploiement d’instances AEM pour les formulaires adaptatifs
@@ -46,7 +46,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Basé sur le signe v gouvernement, CAC sait quel environnement de bureau ou serveur AEM Forms utiliser
 * Compréhension de base de Java/J2EE et de JavaScript pour écrire une logique et appeler différents services.
 * Préremplir un formulaire adaptatif
-* Compréhension ou connaissance de base d’OSGi et des composants Sling
+* Compréhension ou connaissance de base des composants OSGi et Sling
 * Utilisation de Document Services
 * AEM Designer, AEM Workbench, Espace de travail
 * Console de formulaires adaptatifs
@@ -60,7 +60,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -71,17 +71,17 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 27/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E125
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -109,12 +109,12 @@ Section 3 : Administration et dépannage (18 %)
 * Exécution de la configuration AEM Dispatcher pour Forms
 * Navigation dans différentes consoles
 
-Section 4 : Points de terminaison et intégrations API (8 %)
+Section 4 : points de terminaison et intégrations de l’API (8 %)
 
 * Intégration avec Adobe Experience Cloud
 * Générer et utiliser divers services de point de terminaison
 
-Section 5 : Communication interactive (4 %)
+Section 5 : communication interactive (4 %)
 
 * Concevoir, démontrer et mettre en oeuvre des processus pour la communication interactive
 
@@ -131,7 +131,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Présentation de la publication de formulaires](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
 * [Utilisation de bibliothèques côté client](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=fr#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
 
-**Section 2 : Processus et workflow**
+**Section 2 : Traitements et workflow**
 
 * [Tutorials et vidéos AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr){target="_blank"}
 * [Stockage personnalisé pour les brouillons et les envois](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
@@ -144,11 +144,11 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Dernières notes de mise à jour d’Adobe Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr){target="_blank"}
 * [Configuration de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=fr){target="_blank"}
 
-**Section 4 : Points de terminaison et intégrations d’API**
+**Section 4 : Points de terminaison et intégrations de l’API**
 
-* [Intégration d’Adobe Experience Manager Forms en tant que Cloud Service à Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
+* [Intégration d’Adobe Experience Manager Forms en tant que Cloud Service à Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
-**Section 5 : Communication interactive**
+**Section 5 : communication interactive**
 
 * [Présentation des communications interactives](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Conditions dans les communications interactives](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
@@ -157,37 +157,22 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E125)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E125
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

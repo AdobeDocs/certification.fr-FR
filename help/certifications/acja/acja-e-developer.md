@@ -7,20 +7,20 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 12%
+source-wordcount: '628'
+ht-degree: 13%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Customer Journey Analytics] Expert
+# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Expert
 
-Découvrez comment devenir un développeur de Parcours client Adobe Analytics certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Customer Journey Analytics] Développeur expert.
 
 ## Expérience minimale
 
-Vous devez avoir entre 12 et 24 mois d’expérience dans Adobe Customer Journey Analytics et être en mesure d’effectuer les tâches suivantes :
+Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journey Analytics]et être en mesure d’effectuer les tâches suivantes :
 
 * Lecture et compréhension du schéma XDM (classes)
 * Faire la démonstration d’une familiarité avec l’interface de Platform
@@ -28,10 +28,10 @@ Vous devez avoir entre 12 et 24 mois d’expérience dans Adobe Customer Journey
 * Comprendre les autorisations d’administrateur requises pour différents niveaux d’accès
 * Lecture et compréhension d’un script d’assurance qualité
 * Définir un script CQ à transmettre à un ingénieur AEP
-* Configurer des connexions avec des identités Principales (ID de personne)
+* Configurer des connexions avec des identités principales (ID de personne)
 * Configuration de connexions avec plusieurs jeux de données
 * Configuration d’une vue de données (configuration Mesure/dimension)
-* Configurer CJA
+* Configuration d’Adobe [!DNL Customer Journey Analytics]
 * Transformer les données au sein des dimensions et des mesures
 * Analyse des bases de Workspace (visualisations, paramètres d’attribution, filtres, mesures calculées)
 * Présentation de la gouvernance des données dans CJA (DULE)
@@ -45,7 +45,7 @@ Vous devez avoir entre 12 et 24 mois d’expérience dans Adobe Customer Journey
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -60,17 +60,17 @@ Vous devez avoir entre 12 et 24 mois d’expérience dans Adobe Customer Journey
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 33/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E604
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Connexions (22 %)
+Section 1 : connexions (22 %)
 
 * Concevoir des connexions CJA avec les paramètres appropriés
 * Création de connexions CJA à partir d’ensembles de données XDM disponibles dans AEP par environnement de test
@@ -80,7 +80,7 @@ Section 2 : Vues de données (30 %)
 * Configuration de vues de données pour la création de rapports et l’analyse
 * Modification des composants dans les vues de données
 
-Section 3 : Validation et dépannage des données (34 %)
+Section 3 : validation et dépannage des données (34 %)
 
 * Vérifier que les données sont renseignées avec précision et précision
 * Dépannage des connexions et des vues de données
@@ -99,17 +99,17 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Connexions**
+**Section 1 : connexions**
 
 * [Présentation des connexions](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=fr){target="_blank"}
 * [Création d’une connexion](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=fr){target="_blank"}
 
-**Section 2 : Vues des données**
+**Section 2 : Vues de données**
 
 * [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
 * [Paramètres de composant](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
-**Section 3 : Validation et dépannage des données**
+**Section 3 : validation et dépannage des données**
 
 * [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
 * [Création ou modification d’une vue de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=fr){target="_blank"}
@@ -119,46 +119,31 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 4 : Reporting et activation**
 
 * [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Aperçu d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E604)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E604
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

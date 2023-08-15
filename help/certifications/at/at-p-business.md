@@ -7,16 +7,16 @@ role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '867'
 ht-degree: 8%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Target] Professionnel professionnel
 
-Découvrez comment devenir un professionnel Adobe certifié.
+Découvrez comment devenir certifié [!DNL Adobe Target] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
@@ -35,7 +35,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -46,11 +46,11 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E408
 
@@ -63,20 +63,20 @@ Section 1 : Planification et stratégie (26 %)
 * Description de l’impact des variables sur une activité
 * Construire des hypothèses de test basées sur un scénario donné
 * Identifier les éléments des hypothèses
-* Décrire les mesures de succès Principales et secondaires basées sur les indicateurs de performance clés
+* Décrire les mesures de succès primaires et secondaires basées sur les indicateurs de performance clés
 * Dans un scénario, évaluez les besoins de l’audience.
 * Décrire les sources de rapports d’analyse appropriées (c.-à-d. Target ou Adobe Analytics)
 
 Section 2 : Configuration, exécution et gestion (50 %)
 
 * Expliquer l’utilisation du compositeur d’expérience d’après les formulaires par rapport au compositeur d’expérience visuelle
-* Description des procédures de création d’une expérience à l’aide du compositeur d’expérience visuelle
+* Description des procédures de création d’une expérience à l’aide du VEC
 * Description des procédures de création d’une expérience à l’aide du compositeur d’après les formulaires
 * Description des procédures de gestion des expériences au sein d’un compositeur d’expérience
 * Description du workflow qui s’applique à la création d’activités Target
 * Dans un scénario, appliquez les procédures pour créer une activité de test A/B.
 * Dans un scénario, appliquez des procédures pour créer une activité XT.
-* Dans un scénario, appliquez les procédures pour créer une activité de test multivarié.
+* Dans un scénario, appliquez les procédures pour créer une activité MVT.
 * Identifier l’utilisation de la personnalisation automatisée pour les solutions
 * Déterminer quand utiliser l’activité de recommandation
 * Description des procédures de création d’une audience dans Target
@@ -129,7 +129,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Présentation du test multivarié](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [Recommandations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [Création d’audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=fr){target="_blank"}
-* [AQ d’activité](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [QA d’activité](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **Section 3 : Analyse et reporting**
 
@@ -145,36 +145,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E408)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E408
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

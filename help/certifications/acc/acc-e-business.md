@@ -7,22 +7,22 @@ role: User
 badge: label="Exam AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '914'
+ht-degree: 25%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Classic] Expert spécialiste des affaires
+# Parcours de certification pour Adobe [!DNL Campaign Classic] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert Adobe en métier.
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] Expert spécialiste des affaires.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Au moins 2 ans de longue durée [!DNL Campaign Classic] expérience logicielle
+* Au moins 2 ans d&#39;Adobe complet [!DNL Campaign Classic] expérience logicielle
 * Expérience pluriannuelle dans le développement de campagnes marketing et de tactiques à l’aide d’un omnicanal numérique
 * Expérience d’interprétation/de traduction des besoins métier en livrables Campaign exploitables
 * Expérience avec les mesures marketing telles que le retour sur investissement, les taux de clics publicitaires et les conversions
@@ -35,7 +35,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -49,21 +49,21 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 32/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E327
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Gestion de campagne (20 %)
+Section 1 : Gestion de campagne (20%)
 
 * Appliquer les bonnes pratiques pour créer une campagne
 * Dans un scénario, déterminez le modèle d’opération approprié.
@@ -88,7 +88,7 @@ Section 3 : Gestion des données (24 %)
 * Appliquer les étapes de paramétrage d&#39;un filtre prédéfini
 * En fonction des besoins de l’entreprise, identifiez le formulaire de saisie approprié.
 
-Section 4 : Gestion des diffusions (14 %)
+Section 4 : Gestion des diffusions (14%)
 
 * appliquer les étapes de création/configuration des diffusions ;
 * Dans un scénario, sélectionnez et configurez l’audience de BAT appropriée pour les validations.
@@ -98,7 +98,7 @@ Section 5 : Rapports (12 %)
 
 * Dans un scénario, déterminez le ou les rapports à générer.
 * Interprétation des rapports natifs
-* Expliquer l’impact du nettoyage/de la purge des journaux sur la création de rapports
+* Expliquer l’impact du nettoyage/de la purge des journaux sur le reporting
 
 Section 6 : Administration (8 %)
 
@@ -146,7 +146,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [À propos des étapes de création de diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=fr){target="_blank"}
 * [Prise en main de la surveillance des diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=fr-FR){target="_blank"}
 
-**Section 5 : Reporting**
+**Section 5 : Création de rapports**
 
 * [À propos des rapports sur les diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Prise en main des rapports](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=fr){target="_blank"}
@@ -162,28 +162,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E327)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

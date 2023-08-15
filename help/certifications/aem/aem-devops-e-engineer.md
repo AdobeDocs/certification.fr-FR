@@ -7,14 +7,14 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
-ht-degree: 9%
+source-wordcount: '926'
+ht-degree: 10%
 
 ---
 
-# Parcours de certification pour l’expert ingénieur des opérations de développement Adobe Experience Manager
+# Parcours de certification pour l’expert de l’ingénieur des opérations de développement Adobe Experience Manager
 
 Découvrez comment devenir un expert ingénieur Adobe certifié.
 
@@ -36,7 +36,7 @@ Vous devez également connaître les technologies et environnements suivants :
 * Convertisseur du Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
-* Environnement de test de développement
+* Environnement de développement
 * Environnement local
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Vous devez également connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -60,27 +60,27 @@ Vous devez également connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 30/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E124
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Configuration d’Adobe Experience Manager (18 %)
+Section 1 : Configuration de Adobe Experience Manager (18 %)
 
 * Déterminer la méthode appropriée pour configurer les paramètres Adobe Experience Manager fondamentaux
 * Dans un scénario, résoudre les problèmes liés à Adobe Experience Manager
 * Déterminer la méthode appropriée pour configurer OSGi
 
-Section 2 : Utilisation de l’API Cloud Manager et Cloud Manager (20 %)
+Section 2 : utiliser l’API Cloud Manager et Cloud Manager (20 %)
 
 * Déterminer la méthode correcte pour gérer les paramètres des environnements Cloud Manager via l’interface utilisateur
 * Déterminer la méthode correcte pour configurer des programmes et des environnements sur Cloud Manager
@@ -92,7 +92,7 @@ Section 3 : Configuration de l’infrastructure de proxy web (12 %)
 * Déterminer la méthode correcte pour gérer les configurations du Dispatcher
 * Dans un scénario, résoudre les problèmes de mise en cache
 
-Section 4 : Création et déploiements (28 %)
+Section 4 : Build et déploiements (28 %)
 
 * Déterminer la méthode appropriée pour gérer les déploiements de Cloud Manager
 * Dans un scénario, analysez l’état d’un pipeline Cloud Manager.
@@ -107,7 +107,7 @@ Section 5 : Surveillance des mesures de qualité et création de rapports (14 %)
 Section 6 : Fonctionnement du Admin Console (8 %)
 
 * Déterminer la méthode appropriée pour envoyer une demande d’assistance dans le Admin Console
-* Déterminez la méthode appropriée pour configurer l’authentification unique fédérée et synchroniser les utilisateurs et groupes Adobe Experience Manager.
+* Déterminez la méthode appropriée pour configurer l’authentification unique fédérée et synchroniser les utilisateurs et groupes Adobe Experience Manager
 
 >[!TAB Effectuer la préparation]
 
@@ -115,13 +115,13 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Configuration d’Adobe Experience Manager**
+**Section 1 : Configuration de Adobe Experience Manager**
 
 * [Concepts de configuration de base](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
 * [Résolution des incidents liés à AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [Configuration d’OSGi dans AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=fr){target="_blank"}
 
-**Section 2 : Utilisation de l’API Cloud Manager et Cloud Manager**
+**Section 2 : utilisation de l’API Cloud Manager et Cloud Manager**
 
 * [Gestion des environnements](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=fr){target="_blank"}
 * [Prise en main du Parcours de migration vers AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
@@ -134,15 +134,15 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 4 : Création et déploiements**
 
-* [Déploiement du code](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
+* [Déploiement du code](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=fr){target="_blank"}
 * [Configuration des pipelines de production](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [Utilisation des modules](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=fr){target="_blank"}
 * [Structure de projet AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=fr){target="_blank"}
 
-**Section 5 : Contrôle et création de rapports sur les mesures de qualité**
+**Section 5 : Surveiller et créer des rapports sur la mesure de qualité**
 
 * [Surveillance et maintenance de votre instance AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Tough Day : Ajout de plusieurs instances du même test](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
+* [Tough Day : ajout de plusieurs instances du même test](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
 * [Présentation de l’architecture d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=fr){target="_blank"}
 * [Mise à l’échelle automatique](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
@@ -155,39 +155,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E124)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E124
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

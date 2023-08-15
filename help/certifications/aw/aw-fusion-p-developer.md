@@ -6,29 +6,29 @@ role: Developer
 badge: label="Exam AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Workfront Fusion] Professionnel du développement
+# Parcours de certification pour Adobe [!DNL Workfront Fusion] Professionnel du développement
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Workfront] Professionnel du développement.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* La possibilité d’utiliser [!DNL Workfront] API et explorateur d’API, mais pas nécessairement performant dans les appels d’API
-* La possibilité d’utiliser des appels d’API personnalisés pour travailler avec [!DNL Workfront] et autres API
+* La possibilité d’utiliser [!DNL Workfront] API et explorateur d’API, mais pas nécessairement performant dans les appels API
+* La possibilité d’utiliser des appels d’API personnalisés pour utiliser [!DNL Workfront] et autres API
 * La possibilité d’utiliser des modules pour la variable [!DNL Workfront] application et autres actions telles que créer, lire, mettre à jour, supprimer et rechercher
 * La capacité de créer des solutions viables qui produisent des résultats commerciaux sans nuire [!DNL Fusion] barrières de sécurité
 * la possibilité de sélectionner le module de déclenchement approprié pour obtenir des résultats commerciaux ;
 * Comprendre comment utiliser le contrôle de flux (itinéraires, itérateurs/agrégateurs, expliquer le flux)
 * Possibilité d’effectuer un dépannage et une gestion des erreurs de base
-* La possibilité de tester et de mettre en ligne un scénario de manière efficace
+* La possibilité de tester et de publier un scénario de manière efficace
 * La capacité de gérer les équipes de l’entreprise et les utilisateurs
 * Présentation de l’objectif et de l’utilisation des connecteurs universels pour l’API REST Oauth2
 
@@ -38,11 +38,11 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
-* Développeur, ingénieur de l’automatisation
+* Développeur, ingénieur en automatisation
 * Automatisateur, optimisation des processus et gestionnaire de l’automatisation
 * consultants en intégration, consultants, partenaires
 * Intégrateurs système/partenaires
@@ -51,11 +51,11 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 33/51
-* Heure : 102 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 102 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E902
 
@@ -68,7 +68,7 @@ Section 1 : Concepts techniques fondamentaux (39 %)
 * Identifier les moyens d’utiliser les équipes pour contrôler l’accès aux connexions et à d’autres [!DNL Fusion] features
 * Lors d’une [!DNL Fusion] , identifier les limites du système et des fonctionnalités
 * Lors d’une [!DNL Fusion] scénario qui nécessite une manipulation de fuseau horaire, une distinction entre l’utilisateur, l’organisation visible et le lieu où le remplacement du fuseau horaire est nécessaire
-* Lors d’une [!DNL Fusion] , sélectionnez la [!DNL Workfront] module(s) ou action(s)
+* Lors d’une [!DNL Fusion] , sélectionnez la [!DNL Workfront] modules ou actions
 * Lors d’une [!DNL Fusion] , sélectionnez l’expression du panneau de mappage et/ou le ou les modules qui transformeraient correctement les données d’entrée en sortie.
 * Identifiez la ou les méthodes appropriées pour utiliser la variable [!DNL Fusion] Outil de développement pour résoudre les erreurs d’exécution ou déterminer les appels et réponses effectués sur des systèmes tiers
 * Lors d’une [!DNL Fusion] scénario où les données d’un chemin sont nécessaires dans un autre chemin, fournissez une solution set-get pour rendre ces données disponibles sur des chemins de routage supplémentaires.
@@ -86,11 +86,11 @@ Section 2 : Conception et architecture du scénario (35 %)
 * Compte tenu des besoins de l’entreprise, identifiez la méthode appropriée pour suivre les [!DNL Fusion] a traité un enregistrement (et non un utilisateur) et lorsque
 * Lors d’une [!DNL Fusion] , identifiez une opportunité de simplifier la conception et/ou d’optimiser pour la maintenance.
 * Identifier [!DNL Fusion] bonnes pratiques pour documenter des scénarios
-* En cas de situation, identifiez une opportunité de réduire le flux de données par le biais d’un scénario.
+* En cas de situation, identifiez une opportunité de réduire le flux de données dans un scénario.
 * Compte tenu d’un exemple du nombre de lots affichés sur un module de recherche et d’un agrégateur suivant, expliquez les modifications du nombre d’opérations traitées et affichées par l’Inspecteur de lot.
 * Identifier les informations trouvées dans l’Inspecteur de lot
 * Description de la nécessité d’archiver un scénario pendant plus de 60 jours et de sélectionner la seule méthode possible (plan directeur d’import/export)
-* Voici un exemple d’erreur 403 : Interdit, sélectionnez correctement l&#39;origine du message d&#39;erreur et sa cause
+* Dans un exemple d&#39;erreur 403 : Interdit, sélectionnez correctement l&#39;origine du message d&#39;erreur et provoquez
 
 Section 3 : Tests et gestion des erreurs (16 %)
 
@@ -103,7 +103,7 @@ Section 3 : Tests et gestion des erreurs (16 %)
 
 Section 4 : Utilisation des API (10 %)
 
-* Compte tenu d’une API tierce qui renvoie une valeur 429 : Trop de requêtes, identifiez une solution pour prévenir ou gérer l’erreur.
+* Compte tenu d’une API tierce qui renvoie une erreur 429 : Trop de requêtes, identifiez une solution pour prévenir ou gérer l’erreur.
 * Lors d’une [!DNL Fusion] , où aucune nouvelle fonctionnalité n’est disponible dans [!DNL Workfront] , identifiez la référence et le type de module appropriés pour utiliser la nouvelle fonctionnalité.
 * Compte tenu d’un système tiers dépourvu d’application dédiée, identifiez l’application HTTP et sélectionnez le module approprié.
 * Identifier la différence entre les opérations CRUD et d’autres fonctionnalités communes des API REST
@@ -136,7 +136,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Modules dans Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 * [Fonctions en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
 * [Mise à jour des tâches et affichage des mises à jour](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
-* [Flux de mises à jour trackées par le système](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
+* [Flux de mises à jour suivies par le système](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
 * [Scénarios en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
 
 **Section 3 : Tests et gestion des erreurs**
@@ -155,36 +155,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E902)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E902
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

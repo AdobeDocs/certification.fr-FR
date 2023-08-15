@@ -8,48 +8,48 @@ level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 2%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Principal architecte
+# Parcours de certification pour [!DNL Adobe Commerce] Principal architecte
 
-Découvrez comment devenir un Principal architecte Adobe certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Principal architecte.
 
 ## Expérience minimale
 
-Vous devez avoir 3 à 5 ans d’expérience au moins [!DNL Commerce] projets de développement et sont capables de concevoir, intégrer, mettre en oeuvre et expliquer des solutions aux problèmes de l’entreprise en utilisant Adobe [!DNL Commerce] ainsi que les services associés.
+Vous devez avoir 3 à 5 ans d’expérience au moins [!DNL Commerce] projets de développement et sont capables de concevoir, intégrer, mettre en oeuvre et expliquer des solutions aux problèmes de l’entreprise en utilisant [!DNL Adobe Commerce] ainsi que les services associés.
 
 En outre, vous devez être familiarisé avec les activités et technologies suivantes :
 
 * Étendre les fonctionnalités de base
-* Configurer Adobe [!DNL Commerce] pleinement
+* Configurer [!DNL Adobe Commerce] pleinement
 * Créer un plan directeur complet de la manière dont une extension doit fonctionner, des exigences de l’entreprise à un plan de son fonctionnement, sans avoir à entrer dans le code
 * Comprendre les besoins et les fonctionnalités de l’entreprise
 * Incidences sur les performances des solutions et des extensions
 * Logique des contrats de service
 * GraphQL
 * Présentation du compositeur en tant qu’outil de dépendance
-* Installation et configuration de l’instance de travail de l’Adobe [!DNL Commerce] à partir de zéro
+* Installation et configuration de l’instance de travail d’Adobe [!DNL Adobe Commerce] à partir de zéro
 * Personnalisation du tableau de bord de l’administrateur, création de grilles et de formulaires
-* la gestion du cache et des index ; création d’un index personnalisé
+* Gestion des index et du cache ; création d’un index personnalisé
 * Création d’un type de cache
 * Dépannage et débogage de divers problèmes dans l’environnement
 * Étendre et gérer le schéma de base de données
 * Fonctionnalités de sécurité, installation et extension de développement sécurisées
-* Exécutez les services basés sur le serveur qui [!DNL Commerce] se connecte (Redis, gestion de la configuration de vernis) ;
+* Exécutez les services serveur qui [!DNL Adobe Commerce] se connecte (Redis, gestion de la configuration de vernis) ;
 * Connaître les bonnes pratiques en matière de codage, les normes de codage, le principe PSR et SOLID
-* Configuration et utilisation [!DNL Commerce] Connecteur de services (et services associés)
+* Configuration et utilisation [!DNL Adobe Commerce] Connecteur de services (et services associés)
 * Gestion de contenu intermédiaire
-* Compréhension de l’Adobe [!DNL Commerce] par défaut, lorsqu’elle est disponible et non disponible
-* Une large compréhension de tout ce qui a trait [!DNL Commerce] domain
+* Compréhension [!DNL Adobe Commerce] par défaut, lorsqu’elle est disponible et non disponible
+* Une large compréhension de tout ce qui a trait [!DNL Adobe Commerce] domain
 * Conception de l’architecture de projet
-* Optimisation des performances d’Adobe [!DNL Commerce] default
+* Optimiser les performances de [!DNL Adobe Commerce] default
 * Création et modification de B2B
-* Protocole et adaptateurs AMQP en Adobe [!DNL Commerce] (S3)
+* Protocole et adaptateurs AMQP dans [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -57,11 +57,11 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
-* Logiciel de piste/[!DNL Commerce] Architecte
+* Logiciel de piste/[!DNL Adobe Commerce] Architecte
 * Architecte technique
 * Architecte de solution
 * Responsable technique
@@ -77,15 +77,15 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 29/50
-* Heure : 120 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 120 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E718
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -105,7 +105,7 @@ Section 2 - Révision (32 %)
 * Dépannage pour identifier la cause principale des problèmes liés à Adobe [!DNL Commerce]
 * Application des normes de codage
 
-Section 3 : Configuration et déploiement (22 %)
+Section 3 : configuration et déploiement (22 %)
 
 * Configurer Adobe [!DNL Commerce] et assurez-vous que le projet est configuré de manière optimale.
 * Configuration de tous les aspects de l’Adobe [!DNL Commerce] Cloud
@@ -143,7 +143,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * Authentification [](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Présentation de GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**Section 2 : Réviser**
+**Section 2 : Révision**
 
 * [Introduction](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [Ajout d’un attribut de champ de texte personnalisé](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
@@ -152,7 +152,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Bonnes pratiques](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
 * [Configurer le vernis](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
-**Section 3 : Configuration et déploiement**
+**Section 3 : configuration et déploiement**
 
 * [Guide de référence de configuration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [Fichiers de configuration pour le déploiement](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
@@ -165,35 +165,20 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E718)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

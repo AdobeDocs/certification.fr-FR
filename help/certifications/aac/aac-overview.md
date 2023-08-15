@@ -4,14 +4,14 @@ description: Présentation des options de certification pour l’Adobe Advertisi
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: a366e8b2ba3fa0fa0a22b05ff26821a7f1fc66a4
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 2%
 
 ---
 
-# Présentation de la certification Advertising
+# Présentation de la certification Adobe Advertising
 
 Adobe offre plusieurs certifications pour les professionnels de la publicité.  Cette page contient toutes les informations dont vous aurez besoin pour commencer votre parcours de certification ou pour renouveler votre certification existante.
 

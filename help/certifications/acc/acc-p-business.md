@@ -7,29 +7,29 @@ role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1215'
+ht-degree: 21%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Campaign Classic] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Campaign Classic] Professionnel professionnel
 
-Découvrez comment devenir un professionnel Adobe certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] Professionnel de l’entreprise.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Un minimum d’une année d’expérience logicielle Campaign de base
-* Compréhension de l’exécution d’une requête
+* Une expérience logicielle Campaign fondamentale d’au moins un an
+* Comprendre comment exécuter une requête
 * Présentation de la boîte à outils qu’Adobe Campaign propose
 * Connaissance de la traduction des objectifs de l’entreprise dans un workflow
 * Présentation du ciblage et de la segmentation d’une audience
 * Expérience de test et d’envoi d’une diffusion
-* Configuration d’une expérience pratique pour la configuration de workflows personnalisés cross-canal et l’envoi de diffusions
-* Analyse et surveillance des expériences et des erreurs
+* Configuration d’une expérience pratique pour configurer des workflows personnalisés cross-canal et envoyer des diffusions
+* Analyser et surveiller les expériences et les erreurs
 * Présentation des concepts et des tactiques de marketing numérique
 * Comprendre de base l’automatisation, les mesures et les tactiques de campagne (fonctionnalités relatives à la gestion des données, aux services cloud, aux approbations, etc.)
 * Comprendre les bases de données relationnelles de base et les requêtes de ciblage dans une opération
@@ -42,7 +42,7 @@ Vous devez disposer des éléments suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -56,17 +56,17 @@ Vous devez disposer des éléments suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 32/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E329
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -82,9 +82,9 @@ Section 1 : Créer une campagne (29 %)
 * Reconnaître où trouver les résultats ou la sortie d’une diffusion
 * Différenciation entre différents types d&#39;erreur et d&#39;avertissement (diffusion, campagne et niveau de workflow)
 
-Section 2 : Fonctionnalités de gestion des workflows et de la plateforme (16 %)
+Section 2 : Gestion des workflows et fonctionnalités de la plateforme (16 %)
 
-* Dans un scénario, déterminez les activités de workflow à sélectionner.
+* Dans un scénario, déterminer les activités de workflow à sélectionner
 * Différence entre les workflows de campagne et techniques
 * Dans un scénario, déterminez la solution de workflow optimale pour les situations continue, d’attente, récurrente et d’abandon.
 * Identifier les nouvelles fonctionnalités de Campaign V8 par rapport aux versions précédentes
@@ -98,11 +98,11 @@ Section 3 : Opérations de données (20 %)
 * Dans un scénario, déterminez comment segmenter une audience et la stocker sous forme de liste et de cellules.
 * Dans un scénario, déterminez la meilleure méthode pour exporter des données vers des destinations en les configurant.
 
-Section 4 : Configuration des diffusions (28 %)
+Section 4 : Paramétrage de la diffusion (28%)
 
 * Dans un scénario, déterminez le type de diffusion correct.
 * En fonction des besoins de l’entreprise, déterminez comment créer des modèles.
-* En fonction des besoins de l’entreprise, déterminez les propriétés de diffusion appropriées.
+* En fonction des besoins de l’entreprise, déterminez les propriétés de diffusion correctes.
 * Identifier et appliquer les options de personnalisation prêtes à l&#39;emploi disponibles pour une diffusion (lien vers la page miroir, salutations, lien de suppression)
 * Dans un scénario, déterminez la règle de typologie appropriée (contrôle, filtrage, pression, capacité).
 * Identifier la cause de l&#39;exclusion d&#39;une diffusion par un destinataire dans le log et vérifier les diagnostics de diffusion
@@ -137,7 +137,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Conception et exécution de campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [À propos des modèles](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=fr){target="_blank"}
 
-**Section 2 : Fonctionnalités de gestion des workflows et de la plateforme**
+**Section 2 : Gestion des workflows et fonctionnalités des plateformes**
 
 * [Activités de ciblage dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=fr){target="_blank"}
 * [Activités d&#39;ordonnancement dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=fr){target="_blank"}
@@ -154,7 +154,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr){target="_blank"}
 * [Utilisation des sources et des destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
-**Section 4 : Configuration des diffusions**
+**Section 4 : Configuration de la diffusion**
 
 * [Créer et concevoir des diffusions par e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=fr){target="_blank"}
 * [Canaux de communication](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
@@ -175,25 +175,21 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l’examen (AD0-E329)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E329
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

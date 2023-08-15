@@ -6,20 +6,20 @@ role: Developer
 badge: label="Exam AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Workfront] Expert du développeur principal
+# Parcours de certification pour Adobe [!DNL Workfront] Expert du développeur principal
 
-Découvrez comment devenir un expert Adobe Developer certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Workfront] Core Developer Expert.
 
 ## Expérience minimale
 
-Vous devez avoir au moins 18 à 24 mois d’expérience avec [!DNL Workfront], et peuvent :
+Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfront], et peuvent :
 
 * Accédez au [!DNL Workfront] système, connaissance de l’emplacement de ses fonctionnalités
 * Configuration de tous les aspects du système
@@ -34,7 +34,7 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec [!DNL Workfront], e
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -46,21 +46,21 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec [!DNL Workfront], e
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 36/64
-* Heure : 130 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 130 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E904
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Administration et configuration du système principal (17 %)
+Section 1 : administration et configuration du système principal (17 %)
 
 * Dans un scénario, décrivez les façons de partager efficacement les autorisations et l’accès.
 * Dans un diagramme, sélectionnez l’ordre d’accès hiérarchique correct.
@@ -71,7 +71,7 @@ Section 1 : Administration et configuration du système principal (17 %)
 * Dans un scénario, indiquez si une équipe doit être standard, Kanban ou Scrum.
 * Dans un scénario donné, déterminez la bonne pratique pour déployer des storyboard personnalisés d’équipe Agile.
 
-Section 2 : Entrée, formulaires personnalisés et gestion de projet (17 %)
+Section 2 : Réception, formulaires personnalisés et gestion de projet (17 %)
 
 * Dans un scénario, identifiez les zones de configuration nécessaires pour prendre en charge les affectations de travail.
 * Dans un scénario, identifiez les paramètres nécessaires.
@@ -79,7 +79,7 @@ Section 2 : Entrée, formulaires personnalisés et gestion de projet (17 %)
 * Dans un scénario, décrivez ce qui doit être fait pour corriger les erreurs de calcul et de création de rapports.
 * Dans un scénario, identifiez les éléments de prise en charge qui se prêtent aux modèles.
 
-Section 3 : Fonctionnalité stratégique - gestion de portefeuille et de programme, gestion des ressources (13 %)
+Section 3 : Fonctionnalité stratégique - Gestion de portefeuille et de programme, gestion des ressources (13 %)
 
 * Dans un scénario, déterminez comment capturer les indicateurs de performance clés post-projet qui sont reflétés dans Portfolio Optimizer.
 * Dans le cas d’un scénario, ajustez l’analyse de cas pour tenir compte d’un changement de la portée du projet.
@@ -101,8 +101,8 @@ Section 5 : Rapports (13 %)
 * Dans un scénario, décrivez comment combiner plusieurs colonnes de données en une seule colonne.
 * Si vous définissez un rapport ou un filtre, indiquez les avantages de l’utilisation de valeurs génériques.
 * Identifiez les relations parents-enfants dans un rapport.
-* Dans un scénario, décrivez la manière dont la création de rapports facilite l’exécution efficace du travail.
-* Dans un scénario, utilisez l’exemple [!DNL Workfront] Création de rapports pour surveiller et améliorer l’adoption des utilisateurs.
+* Dans un scénario, décrivez comment la création de rapports facilite l’exécution efficace du travail.
+* Dans un scénario, utilisez la fonction [!DNL Workfront] Création de rapports pour surveiller et améliorer l’adoption des utilisateurs.
 
 Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation (20 %)
 
@@ -128,7 +128,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Administration et configuration du système principal**
+**Section 1 : administration et configuration du système principal**
 
 * [Configuration du système : groupes et utilisateurs](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
 * [Fonctionnement des niveaux d’accès et des autorisations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
@@ -152,7 +152,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Définir la priorité et gérer le travail avec les portefeuilles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Créer et modifier des risques sur les projets](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [Comprendre et mettre à jour les priorités du projet](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Afficher : Détails du problème d’origine pour les tâches et les projets](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Afficher : détails du problème d’origine pour les tâches et les projets](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
 **Section 4 : Gestion des documents et BAT**
 
@@ -161,15 +161,15 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Modification de projets](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Liaison de documents à partir d’applications externes](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 
-**Section 5 : Reporting**
+**Section 5 : Création de rapports**
 
-* [Afficher : fusionner les informations de plusieurs colonnes dans une seule colonne partagée](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
+* [Vue : fusionner les informations de plusieurs colonnes dans une seule colonne partagée](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
 * [Création de filtres avec des caractères génériques basés sur l’utilisateur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
-* [Afficher : afficher la relation parent-enfant dans une tâche en mettant en retrait les tâches ;](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
+* [Afficher : affiche la relation parent-enfant dans une tâche en mettant en retrait les tâches](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [Rapports et tableaux de bord](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
 * [Bonne pratique - Intégration et adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
-**Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation**
+**Section 6 : Méthodologie / bonnes pratiques / cas pratiques**
 
 * [Suivi de la progression à partir de la chronologie du projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Définir la priorité de votre travail dans [!DNL Workfront] Accueil](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
@@ -178,10 +178,10 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Créer un processus d’approbation pour les tâches](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Présentation des processus automatisés](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 
-**Section 7 : Business Consulting**
+**Section 7 : Conseil commercial**
 
 * [Présentation de l’effort de travail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html){target="_blank"}
-* [Modification d’un modèle de workflow automatisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
+* [Modifier un modèle de workflow automatisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
 * [Convertir des problèmes en d’autres éléments de travail](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
 * [Configuration des paramètres globaux par défaut du projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [Définition des objectifs de votre Adobe [!DNL Workfront] implémentation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
@@ -191,39 +191,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E904)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

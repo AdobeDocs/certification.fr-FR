@@ -7,16 +7,16 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 10%
+source-wordcount: '940'
+ht-degree: 11%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Audience Manager] Expert spécialiste des affaires
+# Parcours de certification pour [!DNL Adobe Audience Manager] Expert spécialiste des affaires
 
-Découvrez comment devenir certifié [!DNL Audience Manager] Expert spécialiste des affaires.
+Découvrez comment devenir certifié [!DNL Adobe Audience Manager] Expert spécialiste des affaires.
 
 ## Expérience minimale
 
@@ -26,14 +26,14 @@ Vous devez disposer des éléments suivants :
 
 * 1 à 2 ans d&#39;expérience dans le domaine des technologies marketing
 * 3 à 6 mois d’expérience avec l’activation de l’audience
-* Expérience avec logique booléenne, jargon de marketing numérique, analyse de données et stratégies
+* Expérience avec la logique booléenne, le jargon de marketing numérique, l’analyse des données et les stratégies
 * Connaissance des objectifs commerciaux et des indicateurs de performance clés, connaissance des piles de technologies de marketing numérique et des diverses intégrations de plateformes, et compréhension des flux de données (types d’identifiants, synchronisations des identifiants, suivi des pixels, destinations basées sur les personnes).
 
 Vous devez connaître les technologies et environnements suivants :
 
 Technologies :
 
-* Plateforme de DSP (bureau commercial, gestionnaire d’offres à double clic, etc.)
+* Plateforme DSP (bureau commercial, gestionnaire d’offres Double-cliquez, etc.)
 * Excel
 * Tableau et outils similaires (PowerBI, Qlik)
 * Serveur d’annonces (Double-cliquez sur Gestionnaire de campagnes)
@@ -53,7 +53,7 @@ Environnements:
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -67,17 +67,17 @@ Environnements:
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 36/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) et 150 $ (Inde)
 * ID d’examen : AD0-E457
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -86,7 +86,7 @@ Section 1 : Création et syndication de segments (25 %)
 * Déterminer la méthode appropriée pour créer des segments à l’aide de données propriétaires, de deuxième et de troisième niveau à des fins de ciblage et d’analyse
 * Dans un scénario, recommandez des segments pour l’activation qui correspondent aux objectifs de l’entreprise ou de la campagne.
 * Déterminer la méthode appropriée pour organiser les segments vers les destinations en vue de l’activation
-* Différence entre les différents types de destinations
+* Différenciation entre les différents types de destinations
 
 Section 2 : Création de caractéristiques (17 %)
 
@@ -102,7 +102,7 @@ Section 4 : Dépannage et administration (26 %)
 
 * Dans un scénario, vérifiez les informations de diffusion de l’audience pour vous assurer que la diffusion est planifiée
 * Déterminer la pratique appropriée pour valider les fichiers entrants hors ligne
-* Dans un scénario, déterminez la méthode correcte pour effectuer une vérification de la qualité par rapport à la synchronisation des identifiants.
+* Dans un scénario, déterminez la méthode correcte pour effectuer une AQ par rapport à la synchronisation des identifiants.
 * Déterminer la méthode appropriée pour naviguer et activer à partir de l’Audience Marketplace d’Adobe
 
 Section 5 : Taxonomie (10%)
@@ -133,7 +133,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Gestion des règles de caractéristiques](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
 * [Création de caractéristiques basées sur des règles ou intégrées](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**Section 3 : Reporting et mesures**
+**Section 3 : Rapports et mesures**
 
 * [Rapport de tendances sur les segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
 * [Surveiller et générer des rapports sur l’utilisation des activités](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
@@ -143,7 +143,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 4 : Dépannage et administration**
 
-* [Partage de segments Experience Platform avec [!DNL Audience Manager] et d’autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
+* [Partage de segments Experience Platform avec [!DNL Audience Manager] et autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
 * [Procédure d’ingestion de données basées sur un fichier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
 * [Exigences en matière de nom et de contenu pour les fichiers de synchronisation d’identifiants](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
 * [Création et gestion de l’activation des données dans [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
@@ -160,37 +160,22 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E457)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

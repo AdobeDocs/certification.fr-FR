@@ -7,16 +7,16 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 19%
+source-wordcount: '1098'
+ht-degree: 20%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager Sites] Expert spécialiste des affaires
+# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Expert spécialiste des affaires
 
-Découvrez comment devenir un expert Adobe en métier.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Expert spécialiste des affaires.
 
 ## Expérience minimale
 
@@ -38,7 +38,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Workflows
 * Lancements
 * CRXDE Lite
-* Administration des utilisateurs
+* Administration des utilisateurs et utilisatrices
 * Gestion multisite
 * Outils de surveillance
 * Contrôle de version
@@ -55,7 +55,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -70,11 +70,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-Niveau : Score de transmission d’expert (1 à 3 ans) : 32/50 Time : Diffusion 100 minutes : Traités en ligne (nécessite un accès caméra) ou centre de test piloté Langues disponibles : Coût anglais et japonais : $225 (global) / $150 (Inde) ID d’examen : AD0-E121
+Niveau : expert (1 à 3 ans d’expérience) Score de passage : 32/50 Temps : 100 minutes Diffusion : En ligne (nécessite un accès caméra) ou centre de test traité Langues disponibles : anglais et japonais Coût : 225 $ (global) / 150 $ (Inde) ID d’examen : AD0-E121
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -86,19 +86,19 @@ Section 1 : Éducation (22 %)
 
 Section 2 : Architecture (24 %)
 
-* Recommandez une architecture d’informations afin d’exploiter AEM fonctionnalités standard pour répondre aux besoins de l’entreprise à l’aide de l’environnement hébergé sur site ou sur Adobe (cloud).
+* Recommandez une architecture d’informations afin d’exploiter AEM fonctionnalités standard pour répondre aux besoins de l’entreprise en utilisant l’environnement hébergé sur site ou sur Adobe (cloud).
 * Décrire comment AEM s’intègre aux services tiers
 * Déterminer comment définir des rôles et des autorisations
 * Description des approches de mise en cache
 
-Section 3 : Analyse de l’entreprise (38 %)
+Section 3 : Analyse des activités (38 %)
 
 * Mappage des modules d’AEM standard à différents problèmes commerciaux pour le client
 * Application des concepts de gestion de contenu aux modules AEM
 * Identification des parties prenantes typiques du projet
 * Appliquer les concepts de procédure nécessaires pour soutenir la collaboration de toutes les parties concernées
 * Déterminer comment atteindre les objectifs principaux de l’entreprise tout en respectant le budget et/ou la portée
-* Déterminer comment répondre aux questions des développeurs en ce qui concerne les objectifs de l’entreprise
+* Déterminer comment répondre aux questions des développeurs en ce qui concerne les objectifs commerciaux
 
 Section 4 : Configuration et mise en oeuvre (16 %)
 
@@ -111,15 +111,15 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Éducation**
+**Section 1 : Education**
 
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
-* [En savoir plus sur les fonctionnalités d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [En savoir plus sur les fonctionnalités AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] vidéos et tutoriels](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
 * [Lancements](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=fr){target="_blank"}
-* [Premières étapes pour les auteurs](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [Premières étapes pour les auteurs et autrices](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [Bonnes pratiques relatives à l&#39;édition de contenu](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
-* [Création et organisation des pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=fr){target="_blank"}
+* [Créer et organiser des pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=fr){target="_blank"}
 * [Concept de création et de publication](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
 **Section 2 : Architecture**
@@ -130,7 +130,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Intégration à des services tiers](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
 * [Intégration de solutions](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
 * [[!DNL Experience Cloud] présentation des intégrations](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
-* [Gestion des rôles utilisateur et des autorisations](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
+* [Gestion des rôles et des autorisations des utilisateurs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
 * [Rôles et autorisations](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
 * [Utilisateurs, rôles et autorisations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=fr){target="_blank"}
 * [Gestion des utilisateurs, des groupes et des rôles utilisateur](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
@@ -139,10 +139,10 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Chapitre 2 - Infrastructure](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html?lang=fr){target="_blank"}
 * [Chapitre 3 - Rubriques de mise en cache avancée](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html?lang=fr){target="_blank"}
 
-**Section 3 : Analyse commerciale**
+**Section 3 : Analyse des activités**
 
 * [Développer des sites web globaux dans AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [Concepts de base d’AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=fr){target="_blank"}
+* [Concepts de base AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=fr){target="_blank"}
 * [Présentation des composants](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [Architecture de contenu](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [Gestion des projets : liste de contrôle des meilleures pratiques](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
@@ -171,39 +171,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E121)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E121
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

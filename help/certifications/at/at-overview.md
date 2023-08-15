@@ -3,20 +3,20 @@ title: Présentation de la certification Target
 description: Présentation des options de certification pour Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 5%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Présentation de la certification Target
+# [!DNL Adobe Target] Présentation de la certification
 
 ## Nouveautés
 
-La certification du Principal Adobe Target Architect a été mise à jour.
+La variable [!DNL Adobe Target] La certification du Principal architecte a été mise à jour.
 
-La version actuelle est la suivante :
+La version actuelle est :
 
 * [Principal Architecte Adobe Target (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
@@ -34,7 +34,7 @@ Cependant, si vous commencez à utiliser votre certification, nous vous recomman
 
 * [Professionnel](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**Master**
+**Maître**
 
 * [Architecte - expirant le 8 septembre 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Architecte NEW](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->

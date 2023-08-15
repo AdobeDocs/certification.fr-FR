@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1348'
+ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Commerce] Professionnel du développement
+# Parcours de certification pour Adobe [!DNL Commerce] Professionnel du développement
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir certifié [!DNL Adobe Commerce] Professionnel du développement.
 
 ## Expérience minimale
 
@@ -36,7 +36,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -48,17 +48,17 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 50/77
-* Heure : 154 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 154 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E717
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -84,7 +84,7 @@ Section 2 : Architecture (29 %)
 * Décrivez la variable [!DNL Magento] système de mise en cache
 * Décrire les magasins, les sites web et les vues des magasins (compréhension de base)
 
-Section 3 : VEC/base de données (13 %)
+Section 3 : EAR/base de données (13%)
 
 * Dans un scénario, modifiez/ajoutez/supprimez des jeux d’attributs et/ou des attributs.
 * Description des différents types d’attributs
@@ -97,7 +97,7 @@ Section 4 : Disposition/interface utilisateur (15 %)
 * Appliquer les modifications aux types de produits existants et en créer de nouveaux
 * Modification et extension d’entités de catalogue existantes
 * Démontrez la capacité de gérer les index et de personnaliser la sortie des prix
-* Expliquer comment le stock multi-source impacte le stock (au niveau du programme)
+* Expliquer comment le stock multi-source impacte le stock (niveau programme)
 
 Section 5 : Passage en caisse et ventes (8 %)
 
@@ -125,7 +125,7 @@ Section 7 : Adobe [!DNL Commerce] Architecture du cloud (12 %)
 * Décrire comment gérer et mettre à niveau les outils de la CEE
 * Identifier le moment où appeler l’assistance *Fichiers et limitations Yaml (DIY par rapport aux tickets d’assistance)
 
-Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud (4 %)
+Section 8 : Configuration de l’Adobe [!DNL Commerce] Cloud (4 %)
 
 * Identifier comment configurer/configurer Adobe [!DNL Commerce] Cloud
 * Définition de la résolution des problèmes de base dans le cloud (hiérarchie de l’interface utilisateur web et des variables, priorité des configurations)
@@ -136,7 +136,7 @@ Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud (4 %)
 
 Section 9 : [!DNL Commerce] Outil d’interface de ligne de commande du cloud (Gestion des parties) (6 %)
 
-* Description des fonctionnalités exclusives de l’Adobe [!DNL Commerce] Outil d’interface de ligne de commande Cloud (fonctions exclusives de l’interface de ligne de commande) : activer les emails, les environnements de base, instantané, vidage de la base, configuration de l’environnement local) ;
+* Description des fonctionnalités exclusives de l’Adobe [!DNL Commerce] Outil d’interface de ligne de commande Cloud (fonctionnalités exclusives de l’interface de ligne de commande : activation des emails, des environnements de base, des instantanés, du vidage de la base, de la configuration de l’environnement local)
 * Description de l&#39;embranchement à l&#39;aide de l&#39;Adobe [!DNL Commerce] Outil d’interface de ligne de commande du cloud
 * Identifier les moyens de se connecter aux services cloud ? (My SQL, Redis, tunnel:info)
 
@@ -185,7 +185,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Présentation des attributs de produit](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
 * [Présentation du schéma déclaratif](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
 
-**Section 4 : Disposition/interface utilisateur**
+**Section 4 : Mise en page/interface utilisateur**
 
 * [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Disposition](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
@@ -214,7 +214,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Règles de prix du catalogue](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
 * [Tarifs avancés](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**Section 7 : Adobe [!DNL Commerce] Architecture de cloud**
+**Section 7 : Adobe [!DNL Commerce] Architecture de Cloud**
 
 * [[!DNL Commerce] sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=fr){target="_blank"}
 * [Architecture du cloud pour [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
@@ -222,7 +222,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Architecture Pro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Architecture évolutive](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud**
+**Section 8 : Configuration de l’Adobe [!DNL Commerce] Cloud**
 
 * [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Propriétés pour la configuration de l’application](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
@@ -239,26 +239,22 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E717)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

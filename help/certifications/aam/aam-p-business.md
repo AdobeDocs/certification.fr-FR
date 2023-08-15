@@ -8,14 +8,14 @@ level: Experienced
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '907'
 ht-degree: 15%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Audience Manager] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Audience Manager] Professionnel professionnel
 
 Découvrez comment devenir certifié en tant que [!DNL Audience Manager] Professionnel de l’entreprise.
 
@@ -25,7 +25,7 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -39,11 +39,11 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E458
 
@@ -53,7 +53,7 @@ Section 1 : Création et syndication de segments (32 %)
 
 * Identifier les moyens d’utiliser les données propriétaires, secondaires et tierces à des fins de ciblage et d’analyse
 * Description du processus de base d’activation des objectifs de l’entreprise ou de la campagne
-* Différenciation des méthodes d’activation des segments
+* Différenciation des méthodes pour l’activation des segments
 * Identification des différents types de destinations
 * Identifier les différents types de sources
 
@@ -67,7 +67,7 @@ Section 3 : Rapports et mesures (16 %)
 * Dans un scénario, générez des rapports pour mesurer les objectifs d’activation ou de campagne.
 * Dans un scénario, comparez les audiences en fonction des taux de correspondance.
 
-Section 4 : Résolution des problèmes (10 %)
+Section 4 : Dépannage (10 %)
 
 * Dans un scénario, résolvez les problèmes liés aux données entrantes provenant de différentes sources et types de sources.
 * Validation du format des fichiers de données entrants
@@ -77,10 +77,10 @@ Section 5 : Taxonomie (12%)
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
 
-Section 6 : Fusion de profils, synchronisation des identifiants et Audience Marketplace
+Section 6 : fusion de profils, synchronisation des identifiants et Audience Marketplace
 
 * Organiser les caractéristiques utilisateur en un seul profil unifié pour créer des audiences basées sur les appareils ou les ménages
-* Identification de l’activation à l’aide de l’Audience Marketplace
+* Identification de l’activation à l’aide d’Audience Marketplace
 
 >[!TAB Effectuer la préparation]
 
@@ -108,14 +108,14 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 * [Signaux, caractéristiques et segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=fr){target="_blank"}
 * [Segments : objectif, composition et règles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [Partage de segments Experience Platform avec [!DNL Audience Manager] et d’autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
+* [Partage de segments Experience Platform avec [!DNL Audience Manager] et autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
 * [Référence de qualification des caractéristiques et des segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Données sur la population de segment et les caractéristiques dans le créateur de segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=fr){target="_blank"}
 
-**Section 3 : Reporting et mesures**
+**Section 3 : Rapports et mesures**
 
 * [Utilisation des rapports dʼAudience Optimization pour comprendre les performances des médias](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [Partage de segments Experience Platform avec [!DNL Audience Manager] et d’autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
+* [Partage de segments Experience Platform avec [!DNL Audience Manager] et autres solutions Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=fr){target="_blank"}
 * [Présentation des taux de correspondance](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Création d’une source de données pour les données Analytics](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -135,7 +135,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Création d’une taxonomie des caractéristiques](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=fr){target="_blank"}
 * [Compréhension de la segmentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
 
-**Section 6 : Fusion de profils, synchronisation des identifiants et Audience Marketplace**
+**Section 6 : fusion de profils, synchronisation des identifiants et Audience Marketplace**
 
 * [Impact des améliorations apportées aux règles de fusion de profils sur la segmentation, l’activation et la création de rapports](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
 * [Création d’une caractéristique de conversion dans [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
@@ -146,24 +146,20 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E458)
-
-### Options disponibles
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou examen AD0-E458
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 24%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 24%
 >
 >**Questions ?** Voir notre [FAQ](#AEM-FAQ) au bas de cette page.
 
-Découvrez comment devenir un Principal Architecte certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Sites] Principal architecte.
 
 ## Expérience minimale
 
@@ -213,13 +213,11 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 >
 >En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l&#39;examen (AD0-E117)
-
-### Options disponibles
+## Planification ou prise de l’examen AD0-E117
 
 >[!NOTE]
 >

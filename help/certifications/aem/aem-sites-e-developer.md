@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '789'
 ht-degree: 23%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager Sites] Développeur expert
+# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Développeur expert
 
-Découvrez comment devenir un expert Adobe Experience Manager certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Développeur expert.
 
 ## Expérience minimale
 
@@ -45,7 +45,7 @@ En outre, vous connaissez les technologies et environnements suivants :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -55,17 +55,17 @@ En outre, vous connaissez les technologies et environnements suivants :
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 26/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E134
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -77,7 +77,7 @@ Section 1 : Configurations (22 %)
 * Dans un scénario, déterminez la méthode appropriée pour créer et gérer des index OAK personnalisés.
 * Déterminer les étapes appropriées pour configurer l’intégration SAML et LDAP prêtes à l’emploi
 
-Section 2 : Développement AEM (44 %)
+Section 2 : développement AEM (44 %)
 
 * Déterminer les étapes appropriées pour implémenter SPA structure, modèles et composants
 * Dans une conception, créez des composants personnalisés, y compris le HTL, les modèles et les services.
@@ -86,7 +86,7 @@ Section 2 : Développement AEM (44 %)
 * Dans un scénario, déterminez l’approche pour toute intégration tierce.
 * Déterminer l’approche de mise en oeuvre d’une mise en oeuvre hybride ou sans interface
 
-Section 3 : Build et déploiement (14 %)
+Section 3 : création et déploiement (14 %)
 
 * Identifier les étapes de configuration et de maintenance de la gestion des dépendances front-end et back-end
 * Déterminer l’archétype correct lors de la création de projets
@@ -113,7 +113,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 
-**Section 2 : Développement AEM**
+**Section 2 : AEM développement**
 
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
 * [Prise en main d’AEM Sites - Tutoriel WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=fr){target="_blank"}
@@ -121,7 +121,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 
-**Section 3 : Création et déploiement**
+**Section 3 : création et déploiement**
 
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
@@ -141,39 +141,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l’examen (AD0-E134)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E134
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

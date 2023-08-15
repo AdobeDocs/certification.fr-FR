@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 13%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Audience Manager] Principal architecte
+# Parcours de certification pour [!DNL Adobe Audience Manager] Principal architecte
 
-Découvrez comment devenir certifié [!DNL Audience Manager] Principal architecte.
+Découvrez comment devenir certifié [!DNL Adobe Audience Manager] Principal architecte.
 
 ## Expérience minimale
 
@@ -39,7 +39,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -58,19 +58,19 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 29/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E454
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
-Section 1 : Analyse de mise en oeuvre (26 %)
+Section 1 : Analyse de l’implémentation (26 %)
 
 * Déterminer comment guider et prendre en charge la mise en oeuvre d’AAM en tant que produit autonome ou dans le cadre d’une solution cloud
 * Analyser les options de destination sortante et recommander une approche AAM mise en oeuvre
@@ -78,11 +78,11 @@ Section 1 : Analyse de mise en oeuvre (26 %)
 * Identifiez les fonctionnalités telles que la visionneuse de profils du visiteur, les balises, le reporting (RBAC), etc., afin de vous aligner sur les objectifs de l’entreprise.
 * Déterminer comment concevoir et tester les pixels requis pour créer des segments et des caractéristiques
 
-Section 2 : Conception et recommandations des solutions (18 %)
+Section 2 : Conception de la solution et recommandations (18 %)
 
 * Déterminer les fonctionnalités AAM en fonction du cas d’utilisation client pour l’audience et l’activation
 * appliquer des concepts de procédure afin d’utiliser les solutions d’identité de l’audience en complément de l’architecture de conception ;
-* Identifiez les données d’attribut et de comportement et mappez-les à des cas d’utilisation spécifiques de l’entreprise.
+* Identifiez les données d’attribut et de comportement et mappez-les à des cas d’utilisation professionnels spécifiques.
 * Application de concepts de procédure à la convention de conception de la taxonomie et de l’affectation des noms des dossiers
 
 Section 3 : Segmentation et activation (30 %)
@@ -96,7 +96,7 @@ Section 3 : Segmentation et activation (30 %)
 
 Section 4 : Confidentialité et gouvernance des données (8 %)
 
-* Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité
+* Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité ;
 * Identifier les stratégies de données client conformes aux réglementations gouvernementales
 
 Section 5 : Performances et création de rapports (18 %)
@@ -140,35 +140,20 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E454)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E454
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

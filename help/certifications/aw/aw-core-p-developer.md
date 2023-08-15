@@ -1,21 +1,21 @@
 ---
-title: Certification Core Developer Professional
+title: Certification professionnelle des développeurs principaux
 description: Découvrez comment devenir un professionnel Adobe Developer certifié dans Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 2%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Workfront] Core Developer Professional
+# Parcours de certification pour Adobe [!DNL Workfront] Core Developer Professional
 
-Découvrez comment devenir un professionnel Adobe Developer certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Workfront] Professionnel du développeur principal.
 
 ## Expérience minimale
 
@@ -26,12 +26,12 @@ Vous devez disposer des éléments suivants :
 * Une compréhension approfondie de l&#39;Adobe [!DNL Workfront] types d’objets, y compris les formulaires personnalisés et les workflows d’approbation, les modèles, les durées, les heures de travail/prévues
 * Une compréhension approfondie de l&#39;Adobe [!DNL Workfront] Configuration, y compris les niveaux d’accès, les modèles de mise en page, les préférences du projet et d’autres méthodes pour simplifier la conception de l’utilisateur final
 * Compréhension et expérience du mappage de processus
-* Une compréhension des différents Adobes [!DNL Workfront] personas et comment vous engager dans l&#39;assistance
+* Une compréhension des différents Adobes [!DNL Workfront] personas et comment s&#39;engager dans l&#39;assistance
 
-Et vous devriez avoir :
+Vous devriez également disposer des éléments suivants :
 
-* Familiarité avec [!DNL Workfront] API et explorateur d’API, mais pas nécessairement performant dans les appels d’API
-* La possibilité d’utiliser des appels d’API personnalisés pour travailler avec [!DNL Workfront] et autres API
+* Familiarité avec [!DNL Workfront] API et explorateur d’API, mais pas nécessairement performant dans les appels API
+* La possibilité d’utiliser des appels d’API personnalisés pour utiliser [!DNL Workfront] et autres API
 * Familiarité avec l’Adobe [!DNL Workfront]
 * Connaissance des connecteurs natifs et autres Adobes [!DNL Workfront] produits et services
 * Familiarisez-vous avec la gestion de projet, y compris la gestion agile et en cascade, et les concepts de gestion des ressources
@@ -42,7 +42,7 @@ Et vous devriez avoir :
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -58,17 +58,17 @@ Et vous devriez avoir :
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 44/70
-* Heure : 140 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 140 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E905
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
@@ -104,7 +104,7 @@ Section 5. Exécution (24 %)
 * Reconnaître l’objectif de la création d’un problème pour un projet
 * Découvrez comment personnaliser les états de projet au niveau du groupe
 * Identifiez les attributs nécessaires pour activer Agile dans [!DNL Workfront]
-* Identifier les moyens d’entrer du temps dans [!DNL Workfront]
+* Identifier les moyens de saisir le temps [!DNL Workfront]
 * Identifier les éléments du suivi financier dans [!DNL Workfront]
 
 >[!TAB Effectuer la préparation]
@@ -157,44 +157,29 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 * [Gestion des workflows](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
 * [État d’avancement du projet - Aperçu](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
-* [Création d’une équipe agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [Créer une équipe agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Suivi des coûts](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 >[!TAB Obtenir une certification]
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
 
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E905)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

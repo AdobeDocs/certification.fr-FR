@@ -6,14 +6,14 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '733'
 ht-degree: 13%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Journey Optimizer] Développeur expert
+# Parcours de certification pour Adobe [!DNL Journey Optimizer] Développeur expert
 
 Découvrez comment devenir un Adobe certifié [!DNL Journey Optimizer] Développeur expert.
 
@@ -21,7 +21,7 @@ Découvrez comment devenir un Adobe certifié [!DNL Journey Optimizer] Développ
 
 Vous devez disposer d’au moins un an d’expérience dans l’utilisation de divers systèmes de CDP et d’automatisation du marketing, et être en mesure d’effectuer les tâches suivantes :
 
-* Configuration des autorisations utilisateur
+* Configuration des autorisations d’utilisateur
 * Création et gestion des environnements de test
 * Configuration des marques
 * Présentation des concepts de conception de schéma
@@ -43,7 +43,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -57,23 +57,23 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 31/51
-* Heure : 110 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : Anglais
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E603
 
 **Auto-évaluation de la préparation**
 
-Procédez comme suit : [questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
 
 **Objectifs et portée de l’examen**
 
 Section 1 : Administration et configuration (17 %)
 
-* Identifier les rôles et les autorisations qui s’appliquent à chaque rôle
+* Identifier les rôles et les autorisations applicables à chaque rôle
 * Décrire comment attribuer/réinitialiser/supprimer un environnement de test
 * Faire la démonstration d’une compréhension de l’administration des canaux
 * Montrer une compréhension des événements/actions/sources de données
@@ -86,14 +86,14 @@ Section 2 : Adobe Experience Platform Foundation (33 %)
 * expliquer comment configurer des schémas pour AJO ;
 * Déterminer le comportement du profil client en temps réel sur AJO
 
-Section 3 : offer decisioning (11 %)
+Section 3 : Offer decisioning (11 %)
 
 * Faire la démonstration d’une compréhension de la création et de la gestion des offres et des composants
 * Montrer comment utiliser les profils de test pour exécuter la simulation d&#39;offres
 
 Section 4 : Création de contenu (20 %)
 
-* Montrer une compréhension de la création d’emails, de SMS, de messages in-app et de notifications push
+* Démontrer comment créer des emails, des SMS, des messages in-app et des notifications push
 * Démontrer une compréhension de la manipulation et de la personnalisation du contenu à l’aide des fonctions d’assistance ;
 * démontrer une compréhension de la validation, de la vérification et de la publication d’un message ;
 
@@ -101,7 +101,7 @@ Section 5 : Journey Orchestration (19 %)
 
 * Expliquer le processus de création d’un parcours multicanal
 * Identifier l’emplacement d’accès aux tableaux de bord des rapports
-* Montrer comment tester et valider un parcours
+* Démonstration du test et de la validation d’un parcours
 
 >[!TAB Effectuer la préparation]
 
@@ -122,14 +122,14 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Présentation des sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr){target="_blank"}
 
 
-**Section 2 : AEP Foundation**
+**Section 2 : Fondation AEP**
 
 * [Documentation Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
    * Guide XDM
    * Guide sur Real-time Customer Profile
    * Guide de Platform Identity Service
-   * configuration d’un flux de données
+   * configurer un flux de données
    * Guide des connecteurs source
    * Guide Data Ingestion
    * Guide de Segmentation Service
@@ -140,7 +140,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Cours sur l’ingestion de données pour les ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=fr){target="_blank"}
 * [Plans directeurs de l’expérience digitale](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
 
-**Section 3 : offer decisioning**
+**Section 3 : Offer decisioning**
 
 * [Documentation Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
@@ -173,39 +173,24 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## Effectuer un test d’entraînement
+## Effectuer un test pratique
 
 {{practice-test}}
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Passer l&#39;examen (AD0-E603)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en ligne* )
+## Planification ou prise de l’examen AD0-E603
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 

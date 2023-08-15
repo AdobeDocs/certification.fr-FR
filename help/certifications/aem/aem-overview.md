@@ -3,14 +3,14 @@ title: Présentation de la certification du Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Présentation de la certification du Experience Manager
+# Adobe [!DNL Experience Manager] Présentation de la certification
 
 Sélectionnez votre niveau et votre rôle professionnel pour obtenir plus d’informations sur la certification qui vous intéresse.
 
@@ -36,7 +36,7 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 
 >[!NOTE]
 >
->La variable **Examen de Principal Adobe Experience Manager Architect Sites (AD0-E117)** est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
+>La variable **Examen de Principal de Adobe Experience Manager Architect Sites (AD0-E117)** est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
 >
 >**Questions ?** Voir notre [FAQ](#AEM-FAQ) au bas de cette page.
 

@@ -7,16 +7,16 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '697'
 ht-degree: 20%
 
 ---
 
-# Parcours de certification pour l’Adobe [!DNL Experience Manager Sites] Professionnel du développement
+# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Professionnel du développement
 
-Découvrez comment devenir un expert Adobe en métier certifié.
+Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Sites] Professionnel du développement.
 
 ## Expérience minimale
 
@@ -32,7 +32,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 >[!BEGINTABS]
 
->[!TAB Préparez-vous]
+>[!TAB Préparer]
 
 **Public visé :**
 
@@ -42,11 +42,11 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 **Détails de l’examen :**
 
-* Niveau : Professionnel (0 à 12 mois d&#39;expérience)
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
-* Heure : 100 minutes
-* Diffusion : Suivi en ligne (nécessite un accès à la caméra)
-* Langues disponibles : Anglais
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E123
 
@@ -54,20 +54,20 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 Section 1 : Configurations (26 %)
 
-* Reconnaître l’objectif d’AEM des configurations et de la mise en cache du Dispatcher
+* Reconnaître l’objectif AEM les configurations et la mise en cache du Dispatcher
 * Déterminer les étapes correctes pour configurer plusieurs sites dans AEM
 * expliquer comment créer et gérer des configurations OSGi ;
 * Déterminer les étapes appropriées pour gérer les index OAK personnalisés
 * Déterminer les étapes appropriées pour configurer l’intégration SAML ou IMS prête à l’emploi
 
-Section 2 : Développement AEM (40 %)
+Section 2 : développement AEM (40 %)
 
 * Déterminer les étapes correctes pour implémenter les composants basés sur le noyau
 * Fonctionnalité de connexion des composants, y compris HTL, les modèles et les services
 * Dans un scénario, déterminez les étapes appropriées pour développer des workflows
-* Dans un scénario, indiquez l’objectif des fragments de contenu ou des fragments d’expérience.
+* Dans un scénario, indiquez l’objectif des fragments de contenu ou d’expérience.
 
-Section 3 : Build et déploiement (12 %)
+Section 3 : création et déploiement (12 %)
 
 * Définition de la structure de projet Maven
 * Configuration de projets à partir d’archetypes
@@ -97,7 +97,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=fr){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**Section 2 : Développement AEM**
+**Section 2 : AEM développement**
 
 * [Guide de l’utilisateur pour l’administration dans AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
@@ -105,7 +105,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
 * [Concepts de base des composants](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
 
-**Section 3 : Création et déploiement**
+**Section 3 : création et déploiement**
 
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
 * [Prise en main d’ [!DNL AEM Sites] - Tutoriel WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=fr){target="_blank"}
@@ -126,28 +126,20 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only**  après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
 
-## A propos de l&#39;examen
+## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Effectuer l’examen (AD0-E123)
-
-### Options disponibles
-
-{{PSI-note}}
-
-**PSI** (*Centre de test/options d’examen japonaises (le cas échéant)*)
-
-**[!DNL Examity]** ( *en ligne* )
+## Planifier ou passer l’examen AD0-E123
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Passer un examen
+   Accédez au portail d’examen
 </span>
 </a>
 
