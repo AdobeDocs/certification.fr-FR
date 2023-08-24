@@ -8,14 +8,14 @@ level: Experienced
 badge: label="Exam AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
+source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '797'
 ht-degree: 2%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Commerce] Principal architecte
+# Parcours de certification pour Adobe [!DNL Commerce] Principal architecte
 
 Découvrez comment devenir certifié [!DNL Adobe Commerce] Principal architecte.
 
