@@ -4,10 +4,10 @@ description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. D�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 903900ef4da1023d88f1c5dd9ac58fe09834cb06
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 15%
+source-wordcount: '396'
+ht-degree: 12%
 
 ---
 
@@ -48,17 +48,17 @@ Déverrouillez votre potentiel professionnel dès aujourd’hui en découvrant l
 
 Tous les détails sur chaque certification de produit disponible sont répertoriés dans la table des matières située à gauche et dans la liste ci-dessous :
 
-* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
-* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
-* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
-* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
-* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
-* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
-* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
-* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
-* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
-* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
-* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
-* [Adobe Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
-* [Adobe Target](/help/certifications/at/at-overview.md)
-* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md)
+* [Adobe [!DNL Advertising Cloud]](/help/certifications/aac/aac-overview.md)
+* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md)
+* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md)
+* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md)
+* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md)
+* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md)
+* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md)
+* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md)
+* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md)
+* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md)
+* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md)
+* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md)
+* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md)
