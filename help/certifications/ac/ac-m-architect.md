@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 30/50
-* Durée : 120 minutes
+* Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
@@ -111,12 +111,6 @@ Section 3 : configuration et déploiement (22 %)
 * Configuration de tous les aspects de l’Adobe [!DNL Commerce] Cloud
 * Surveillance et amélioration du processus de déploiement
 * Résolution des problèmes d’infrastructure et de configuration
-
-Section 4 : Principes de conformité/sécurité (13 %)
-
-* Comprendre les principes de base de la conformité aux lois sur la confidentialité et à la sécurité des paiements
-* Identifier les aspects de sécurité communs d’un Adobe [!DNL Commerce] project
-* Identifier les bonnes pratiques et les exigences légales relatives à la conformité à l’accessibilité
 
 >[!TAB Effectuer la préparation]
 
