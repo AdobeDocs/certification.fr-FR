@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Principal architecte
 
 Découvrez comment devenir un Adobe certifié [!DNL Marketo Engage] Principal architecte.
+
+>[!NOTE]
+>
+>Cet examen, [!DNL Adobe Marketo Engage] Mise à jour du Principal Architecte (AD0-E556). Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 31 octobre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-E560)](ame-m-architect-23-08.md).
 
 Le programme Adobe Credential a lancé un nouvel Adobe. [!DNL Marketo Engage] Faire appel à la certification Architect pour les candidats souhaitant obtenir le titre de Principal certifié. Il remplace le précédent processus d’entretien de certification de Marketo Certified Solution Architect (MCSA) . [En savoir plus](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 

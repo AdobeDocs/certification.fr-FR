@@ -6,36 +6,35 @@ product: Marketo
 role: Data Architect
 badge: label="Exam AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '992'
 ht-degree: 1%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E560 information-->
-
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Principal architecte
 
 Découvrez comment devenir un Adobe certifié [!DNL Marketo Engage] Principal architecte.
 
-Le programme Adobe Credential a lancé un nouvel Adobe. [!DNL Marketo Engage] Faire appel à la certification Architect pour les candidats souhaitant obtenir le titre de Principal certifié. Il remplace le précédent processus d’entretien de certification de Marketo Certified Solution Architect (MCSA) . [En savoir plus](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>Il s’agit de la plus récente [!DNL Adobe Marketo Engage] Examen de Principal de l&#39;architecte. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](ame-m-architect.md), vous devez terminer l’examen avant le 31 octobre 2023.
 
 ## Expérience minimale
 
 Vous devez disposer des éléments suivants :
 
-* Une certification actuelle en Adobe [!DNL Marketo Engage] Expert certifié professionnel
-* Au moins cinq années d&#39;expérience de préférence avec plusieurs instances d&#39;Adobe [!DNL Marketo Engage]
+* Une certification actuelle en tant qu’expert Marketo Engage certifié en métier
+* Au moins cinq années d’expérience de préférence avec plusieurs instances de Marketo Engage
 * Comprendre l’impact sur l’entreprise et expliquer/communiquer efficacement leur solution aux parties prenantes (techniques et non techniques) à différents niveaux
-* La possibilité de conceptualiser une solution et de la traduire en une [!DNL Marketo Engage] architecture, comprendre les processus d’entreprise affectés par les intégrations
+* La possibilité de conceptualiser une solution et de la traduire en architecture de Marketo Engage, de comprendre les processus d’entreprise affectés par les intégrations
 * Connaître les principes de l&#39;architecture d&#39;une instance
 
 En outre, vous devez connaître les outils et technologies suivants :
 
-* Adobe [!DNL Marketo Engage] fonctionnalités et applications
+* Fonctionnalités, fonctionnalités et applications Adobe Marketo Engage
 * Systèmes de base de données
 * Connectivité de l’API
 * Plateforme CRM
@@ -68,15 +67,15 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 **Détails de l’examen :**
 
-* Condition préalable : Adobe Certified Expert - [!DNL Marketo Engage] Expert spécialiste des affaires
+* Condition préalable : Adobe actuel (non expiré) [!DNL Marketo Engage] Certification d’experts professionnels
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Certification du praticien
 * Score de transmission : 30/50
-* Durée : 150 minutes
+* Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
 * Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E556
+* ID d’examen : AD0-E560
 
 **Auto-évaluation de la préparation**
 
@@ -84,14 +83,14 @@ Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/laun
 
 **Objectifs et portée de l’examen**
 
-Section 1 : leadership du projet (16 %)
+**Section 1 : leadership du projet (16 %)**
 
 * Lors d’une étude de cas, identifiez les parties prenantes appropriées.
 * Évaluer un ensemble d’exigences et recommander les limites du projet, le budget, les ressources et la portée
 * Selon un processus modifié, déterminez qui a besoin d’une activation et d’un plan de déploiement efficace.
 * Évaluer un audit et recommander des priorités et un calendrier
 
-Section 2 : [!DNL Marketo Engage] Conception de l’architecture (48 %)
+**Section 2 : Conception de l’architecture du Marketo Engage (48 %)**
 
 * Rassemblez les exigences et les besoins et recommandez une gestion des pistes et une conception du cycle de vie.
 * Examiner une mise en oeuvre existante et fournir des résultats
@@ -103,17 +102,17 @@ Section 2 : [!DNL Marketo Engage] Conception de l’architecture (48 %)
 * Dans un scénario, définissez les différentes étapes du cycle de vie des personnes affectées par les modifications/exigences proposées.
 * Évaluer un ensemble d’exigences et recommander une approche de la logique de campagne
 
-Section 3 : Création de rapports et attribution (20 %)
+**Section 3 : Création de rapports et attribution (20 %)**
 
 * Compte tenu d’un modèle à réviser, expliquez le concept de détours dans le calque de modélisation de cycle de vie
 * Compte tenu d’une publicité en ligne ou d’un contenu ou d’un contenu social organique, recommander une approche pour la création de rapports
-* Illustration de la validation [!DNL Marketo Engage] création de rapports dans le suivi des modifications du cycle de vie
+* Illustration de la validation des rapports de Marketo Engage dans le suivi des modifications du cycle de vie
 * Identification des mesures à utiliser dans un type de rapport donné
 * Identifier le suivi de l’attribution multicanal pour évaluer le retour sur investissement
 * Identifier et décrire les avantages et les inconvénients des différents modèles d’attribution
 * En fonction des besoins de l’entreprise, décrivez les effets de la configuration de canal pour la création de rapports.
 
-Section 4 : Opérations avancées (16 %)
+**Section 4 : Opérations avancées (16 %)**
 
 * Dans un scénario donné, identifiez les étapes appropriées pour améliorer la gestion ou la gouvernance.
 * Compte tenu de l’ensemble des exigences, il est conseillé d’utiliser un schéma de données efficace.
@@ -142,6 +141,7 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 **Section 2 : Adobe [!DNL Marketo Engage] conception d’architecture**
 
+* [Présentation des rapports](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [Instructions pour la création d’une règle de synchronisation personnalisée](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [Guide définitif pour la notation des pistes](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -161,19 +161,17 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-
+>En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous en plus de payer des frais d&#39;examen supplémentaires.
 
 ## A propos de l&#39;examen de certification
 
 {{about-certification-exam}}
 
-## Planification ou prise de l’examen AD0-E556
+## Planification ou prise de l’examen AD0-E560
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Accédez au portail d’examen
