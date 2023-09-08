@@ -6,20 +6,16 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 17%
+source-wordcount: '917'
+ht-degree: 18%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Target] Principal architecte
 
 Découvrez comment devenir certifié [!DNL Adobe Target] Principal architecte.
-
->[!NOTE]
->
->Il s’agit de la plus récente [!DNL Adobe Target] Examen de Principal de l&#39;architecte. Si vous avez déjà commencé à étudier ou avez planifié la [ancienne version](at-m-architect.md) vous avez jusqu’au 8 septembre 2023 pour la terminer.
 
 ## Expérience minimale
 
