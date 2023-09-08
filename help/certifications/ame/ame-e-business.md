@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1388'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -220,14 +220,25 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 {{about-certification-exam}}
 
-## Planification ou prise de l’examen AD0-E559
+## Planification ou examen AD0-E559 (anglais)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
+   Accédez à Portail d’examen - Examen d’anglais
 </span>
 </a>
+
+## Planification ou examen AD0-E559-J (japonais)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d'examen - Examen japonais
+</span>
+</a>
+
+[Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 

@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 15%
+source-wordcount: '1031'
+ht-degree: 14%
 
 ---
 
@@ -135,7 +135,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Quel [!DNL Adobe Analytics] dois-je utiliser l’outil ?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=fr){target="_blank"}
 * Documentation [[!DNL Adobe Analytics] ](https://helpx.adobe.com/fr/support/analytics.html){target="_blank"}
 * [Collecte de données](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=fr){target="_blank"}
-* [Flux de données Analytics - Aperçu](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=fr){target="_blank"}
+* [Vue d’ensemble des flux de données Analytics](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=fr){target="_blank"}
 
 **Section 2 : Reporting et tableau de bord pour les projets**
 
@@ -143,7 +143,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [[!DNL Adobe Analytics] Tableaux de bord - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr){target="_blank"}
 * [Présentation des projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=fr){target="_blank"}
 * [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr){target="_blank"}
-* [Alertes intelligentes - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
+* [Vue d’ensemble des alertes intelligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
 
 **Section 3 : Segmentation et mesure calculée**
 
@@ -177,14 +177,25 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 {{about-certification-exam}}
 
-## Planifier ou passer l’examen AD0-E208
+## Planifier ou passer l’examen AD0-E208 (en anglais)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
+   Accédez à Portail d’examen - Examen d’anglais
 </span>
 </a>
+
+## Planification ou examen AD0-E208-J (japonais)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d'examen - Examen japonais
+</span>
+</a>
+
+[Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
