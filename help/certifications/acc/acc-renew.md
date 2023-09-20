@@ -7,16 +7,16 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '923'
+ht-degree: 13%
 
 ---
 
 # Renouveler votre Adobe [!DNL Campaign Classic] certification
 
-Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
 
 Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
 
@@ -26,7 +26,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,37 +34,37 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!NOTE]
 >
->Renouveau professionnel à venir.
+>Le renouvellement professionnel est en cours d&#39;élaboration. Les personnes dont les certifications arrivent à expiration recevront une extension afin qu’elles puissent continuer à utiliser cette méthode de renouvellement gratuit lorsqu’elle sera disponible.
 
 >[!TAB Experts et Principal]
 
 Vous devez actuellement être certifié (non expiré) dans :
 
 * **Adobe [!DNL Campaign Classic] Développeur expert**
-* **Adobe [!DNL Campaign Classic] Expert spécialiste des pratiques commerciales**
+* **Adobe [!DNL Campaign Classic] Expert spécialiste des affaires**
 * **Adobe [!DNL Campaign Classic] Architecte maître**
 
 ## Comment renouveler votre certification :
 
-* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: Vérification des objectifs et des ressources de l’examen
-* **Étape 3**: Réussir et réussir l&#39;examen
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
 
-### Préparez-vous
+### Préparer
 
 **Détails de l’examen**
 
 * Score de transmission : 42/55
-* Heure : 110 minutes
-* Coût : LIBRE/non-traité
-* Diffusion : À la demande
-* Langues disponibles : Anglais
-* Condition requise : Adobe actuel (non expiré) [!DNL Campaign Classic] certification d’expert et/ou de maître
+* Durée : 110 minutes
+* Coût : GRATUIT/non-traité
+* Diffusion : On-demand
+* Langues disponibles : anglais
+* Condition préalable : Adobe actuel (non expiré) [!DNL Campaign Classic] certification d’expert/maître
 * ID d’examen : AD5-E823
 
 **Portée et objectifs**
 
-Section 1 : Installation et configuration du système (23 %)
+Section 1 : installation et configuration du système (23%)
 
 * Dans un scénario, déterminez les options à utiliser (c’est-à-dire déplacer les éléments d’une étape à l’autre).
 * Possibilité d’utiliser des packages pour la migration entre instances
@@ -91,7 +91,7 @@ Section 3 : Architecture des données (22 %)
 * Dans un scénario, expliquez comment créer des schémas personnalisés (comment utiliser d’autres modèles de schémas, filtres système, verrouillage des données, liens).
 * Expliquer l&#39;intégration entre différentes solutions et Campaign telles que Adobe Experience Platform et Journey Optimizer
 
-Section 4 : Campagne, workflow, diffusion et création de rapports (37 %)
+Section 4 : Campagne, workflow, diffusion et reporting (37 %)
 
 * Appliquer les bonnes pratiques pour créer une campagne
 * Dans un scénario, analyser les erreurs d’un workflow
@@ -111,7 +111,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Installation et configuration du système**
+**Section 1 : installation et configuration du système**
 
 * [Gestion des packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [Utiliser les packages de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=fr){target="_blank"}
@@ -132,7 +132,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [API de campagne FFDA spécifiques](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
 * [À propos des Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-**Section 4 : Campagne, workflow, diffusion et création de rapports**
+**Section 4 : Campagne, workflow, diffusion et reporting**
 
 * [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=fr){target="_blank"}
 * [Configuration et gestion du processus de validation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
@@ -141,7 +141,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ### Renouveler votre certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement du Campaign Classic - AD5-823 ci-dessous.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement du Campaign Classic - AD5-823 ci-dessous.
 
 [Prenez l&#39;Adobe [!DNL Campaign Classic] renouvellement pour les examens professionnels, développeur et architecte maintenant - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 

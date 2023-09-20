@@ -6,7 +6,7 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
 source-wordcount: '860'
 ht-degree: 1%
@@ -33,7 +33,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Commande de l’interface de ligne de commande (nettoyage du cache, configuration:mise à niveau, indexeurs, mode de déploiement) et Grunt
 * Technologies de mise en cache, navigateur côté client, compréhension des stockages (cookies, stockage local)
 * Comprendre le responsive design et les requêtes multimédias
-* WYSIWYG/Créateur de pages
+* WYSIWYG/Page Builder
 * Compréhension des modules de code
 * Mise en oeuvre de la traduction
 * Comprendre comment utiliser les modèles d’email
