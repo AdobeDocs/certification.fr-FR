@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%
@@ -69,7 +69,7 @@ Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/laun
 
 **Objectifs et portée de l’examen**
 
-Section 1 : [!DNL Magento Open Source] fonction principale (49 %)
+Section 1 : [!DNL Magento Open Source] fonctionnalités principales (49 %)
 
 * Identifier les fonctionnalités de [!DNL Magento Open Source]
 * Déterminer la portée correcte et le moment d’utilisation de chaque
