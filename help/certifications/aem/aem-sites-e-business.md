@@ -7,18 +7,49 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 20%
+source-wordcount: '981'
+ht-degree: 23%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Experience Manager Sites] Expert spécialiste des affaires
 
-Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Expert spécialiste des affaires.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 32/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais, japonais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E121 (anglais), AD0-E121-J (japonais)
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Consultant en solutions
+* Professionnels de l’expérience client
+* Propriétaires de produit de la solution en cours de conception et de mise en oeuvre
+* Analystes professionnels
+* Architectes de solutions
+* Personnes dans des organisations partenaires et des indépendants qui jouent un rôle d’analyste pour les solutions AEM
+* Spécialistes du marketing qui connaissent les fonctionnalités nécessaires pour impliquer les développeurs dans la définition d’une solution pour les besoins de l’entreprise
+* Clients qui utilisent le produit (c.-à-d. Utilisateurs experts)
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -49,49 +80,26 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Compréhension générale du Web
 * Concepts de conception web réactifs
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Consultant en solutions
-* Professionnels de l’expérience client
-* Propriétaires de produit de la solution en cours de conception et de mise en oeuvre
-* Analystes professionnels
-* Architectes de solutions
-* Personnes dans des organisations partenaires et des indépendants qui jouent un rôle d’analyste pour les solutions AEM
-* Spécialistes du marketing qui connaissent les fonctionnalités nécessaires pour impliquer les développeurs dans la définition d’une solution pour les besoins de l’entreprise
-* Clients qui utilisent le produit (c.-à-d. Utilisateurs experts)
-
-**Détails de l’examen :**
-
-Niveau : expert (1 à 3 ans d’expérience) Score de passage : 32/50 Temps : 100 minutes Diffusion : En ligne (nécessite un accès caméra) ou centre de test traité Langues disponibles : anglais et japonais Coût : 225 $ (global) / 150 $ (Inde) ID d’examen : AD0-E121
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Éducation (22 %)
+**Section 1 : Éducation (22 %)**
 
 * Répertorier les fonctionnalités AEM pertinentes
 * Recommander comment tirer parti des fonctionnalités AEM pour répondre aux besoins de l’entreprise
 * Appliquer les concepts de procédure nécessaires à la formation des éditeurs de contenu
 
-Section 2 : Architecture (24 %)
+**Section 2 : Architecture (24 %)**
 
 * Recommandez une architecture d’informations afin d’exploiter AEM fonctionnalités standard pour répondre aux besoins de l’entreprise en utilisant l’environnement hébergé sur site ou sur Adobe (cloud).
 * Décrire comment AEM s’intègre aux services tiers
 * Déterminer comment définir des rôles et des autorisations
 * Description des approches de mise en cache
 
-Section 3 : Analyse des activités (38 %)
+**Section 3 : Analyse des activités (38 %)**
 
 * Mappage des modules d’AEM standard à différents problèmes commerciaux pour le client
 * Application des concepts de gestion de contenu aux modules AEM
@@ -100,16 +108,38 @@ Section 3 : Analyse des activités (38 %)
 * Déterminer comment atteindre les objectifs principaux de l’entreprise tout en respectant le budget et/ou la portée
 * Déterminer comment répondre aux questions des développeurs en ce qui concerne les objectifs commerciaux
 
-Section 4 : Configuration et mise en oeuvre (16 %)
+**Section 4 : Configuration et mise en oeuvre (16 %)**
 
 * Déterminer comment configurer et utiliser les composants de contenu pour afficher les bonnes pratiques d’AEM
 * Vérifier la bonne mise en oeuvre des fonctionnalités, localiser et décrire les erreurs survenues
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Education**
 
@@ -167,19 +197,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Fonctions de localisation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=fr){target="_blank"}
 * [Fonctionnalité de recherche](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 [Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

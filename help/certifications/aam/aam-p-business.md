@@ -8,36 +8,24 @@ level: Experienced
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 15%
+source-wordcount: '804'
+ht-degree: 17%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Audience Manager] Professionnel professionnel
 
-Découvrez comment devenir certifié en tant que [!DNL Audience Manager] Professionnel de l’entreprise.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Vous devez avoir une compréhension de base des flux de données, des objectifs commerciaux et des indicateurs de performance clés, avec une certaine expérience de l’analyse et des stratégies des données.
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Préparer]
-
-**Public visé :**
-
-* Spécialiste du marketing numérique
-* Consultant en technologie marketing
-* Stratège d’audience
-* Consultant comportemental
-* Analyste de marketing numérique
-* Analyste de données marketing
-* Gestionnaire des plateformes de données
-
-**Détails de l’examen :**
+### Détails de l’examen {#exam-details}
 
 * Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
@@ -47,9 +35,31 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E458
 
-**Objectifs et portée de l’examen**
+<br>
 
-Section 1 : Création et syndication de segments (32 %)
+### Audience prévue {#intended-audience}
+
+* Spécialiste du marketing numérique
+* Consultant en technologie marketing
+* Stratège d’audience
+* Consultant comportemental
+* Analyste de marketing numérique
+* Analyste de données marketing
+* Gestionnaire des plateformes de données
+
+<br>
+
+### Expérience minimale {#minimum-experience}
+
+Vous devez avoir une compréhension de base des flux de données, des objectifs commerciaux et des indicateurs de performance clés, avec une certaine expérience de l’analyse et des stratégies des données.
+
+<br>
+
+### Objectifs et portée de l’examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1 : Création et syndication de segments (32 %)**
 
 * Identifier les moyens d’utiliser les données propriétaires, secondaires et tierces à des fins de ciblage et d’analyse
 * Description du processus de base d’activation des objectifs de l’entreprise ou de la campagne
@@ -57,42 +67,50 @@ Section 1 : Création et syndication de segments (32 %)
 * Identification des différents types de destinations
 * Identifier les différents types de sources
 
-Section 2 : Création de caractéristiques (16 %)
+**Section 2 : Création de caractéristiques (16 %)**
 
 * Dans un scénario, identifiez des signaux, des caractéristiques, des segments et des audiences.
 * Identifier les utilisations de différents types de caractéristiques
 
-Section 3 : Rapports et mesures (16 %)
+**Section 3 : Rapports et mesures (16 %)**
 
 * Dans un scénario, générez des rapports pour mesurer les objectifs d’activation ou de campagne.
 * Dans un scénario, comparez les audiences en fonction des taux de correspondance.
 
-Section 4 : Dépannage (10 %)
+**Section 4 : Dépannage (10 %)**
 
 * Dans un scénario, résolvez les problèmes liés aux données entrantes provenant de différentes sources et types de sources.
 * Validation du format des fichiers de données entrants
 
-Section 5 : Taxonomie (12%)
+**Section 5 : Taxonomie (12%)**
 
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
 
-Section 6 : fusion de profils, synchronisation des identifiants et Audience Marketplace
+**Section 6 : fusion de profils, synchronisation des identifiants et Audience Marketplace**
 
 * Organiser les caractéristiques utilisateur en un seul profil unifié pour créer des audiences basées sur les appareils ou les ménages
 * Identification de l’activation à l’aide d’Audience Marketplace
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
 
-**Exemples de questions**
++++Étape 1 : Création de votre compte
 
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+{{create-your-account}}
 
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Création et syndication de segments**
 
@@ -142,15 +160,35 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Activation des segments d’audience à la demande vers des destinations par lots via l’API d’activation ad hoc](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Activation de profils et de segments vers une destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+**Exemples de questions**
 
+{{sample-questions}}
 
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+

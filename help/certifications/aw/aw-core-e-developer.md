@@ -6,22 +6,50 @@ role: Developer
 badge: label="Exam AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Workfront] Expert du développeur principal
 
-Découvrez comment devenir un Adobe certifié [!DNL Workfront] Core Developer Expert.
+{{intro}}
 
 >[!NOTE]
 >
 >Cet examen, Adobe [!DNL Workfront] Core Developer Expert (AD0-E904), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 6 novembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-907)](aw-core-e-developer-23-08.md).
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 36/64
+* Durée : 130 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E904
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* [!DNL Workfront] Administrateurs système spécialisés dans la mise en oeuvre et configuration d’instance nouvelle ou mise à jour
+* Concepteur/architecte de processus
+* Analyste métier
+* Consultant technique
+* Consultant de configuration
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfront], et peuvent :
 
@@ -32,39 +60,13 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfro
 * Comprendre et appliquer les cas d&#39;utilisation marketing et MO
 * Recommander et créer des rapports qui prennent en charge les processus client
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* [!DNL Workfront] Administrateurs système spécialisés dans la mise en oeuvre et configuration d’instance nouvelle ou mise à jour
-* Concepteur/architecte de processus
-* Analyste métier
-* Consultant technique
-* Consultant de configuration
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 36/64
-* Durée : 130 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E904
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : administration et configuration du système principal (17 %)
+**Section 1 : administration et configuration du système principal (17 %)**
 
 * Dans un scénario, décrivez les façons de partager efficacement les autorisations et l’accès.
 * Dans un diagramme, sélectionnez l’ordre d’accès hiérarchique correct.
@@ -75,7 +77,7 @@ Section 1 : administration et configuration du système principal (17 %)
 * Dans un scénario, indiquez si une équipe doit être standard, Kanban ou Scrum.
 * Dans un scénario donné, déterminez la bonne pratique pour déployer des storyboard personnalisés d’équipe Agile.
 
-Section 2 : Réception, formulaires personnalisés et gestion de projet (17 %)
+**Section 2 : Réception, formulaires personnalisés et gestion de projet (17 %)**
 
 * Dans un scénario, identifiez les zones de configuration nécessaires pour prendre en charge les affectations de travail.
 * Dans un scénario, identifiez les paramètres nécessaires.
@@ -83,7 +85,7 @@ Section 2 : Réception, formulaires personnalisés et gestion de projet (17 %)
 * Dans un scénario, décrivez ce qui doit être fait pour corriger les erreurs de calcul et de création de rapports.
 * Dans un scénario, identifiez les éléments de prise en charge qui se prêtent aux modèles.
 
-Section 3 : Fonctionnalité stratégique - Gestion de portefeuille et de programme, gestion des ressources (13 %)
+**Section 3 : Fonctionnalité stratégique - Gestion de portefeuille et de programme, gestion des ressources (13 %)**
 
 * Dans un scénario, déterminez comment capturer les indicateurs de performance clés post-projet qui sont reflétés dans Portfolio Optimizer.
 * Dans le cas d’un scénario, ajustez l’analyse de cas pour tenir compte d’un changement de la portée du projet.
@@ -93,14 +95,14 @@ Section 3 : Fonctionnalité stratégique - Gestion de portefeuille et de program
 * Dans un scénario, déterminez la cause racine.
 * Dans un scénario, déterminez la raison pour laquelle un utilisateur est sur-alloué.
 
-Section 4 : Gestion des documents et BAT (13%)
+**Section 4 : Gestion des documents et BAT (13%)**
 
 * Dans un scénario, indiquez quand utiliser la gestion des documents plutôt que la vérification
 * Dans un scénario donné, identifiez les bonnes pratiques relatives à l’utilisation de la visionneuse de vérification, des paramètres et de la fonctionnalité de balisage.
 * Dans un scénario, indiquez comment modifier et définir des autorisations sur un fichier.
 * Dans un scénario, indiquez comment configurer le stockage de documents externes avec des restrictions de sécurité.
 
-Section 5 : Rapports (13 %)
+**Section 5 : Rapports (13 %)**
 
 * Dans un scénario, décrivez comment combiner plusieurs colonnes de données en une seule colonne.
 * Si vous définissez un rapport ou un filtre, indiquez les avantages de l’utilisation de valeurs génériques.
@@ -108,7 +110,7 @@ Section 5 : Rapports (13 %)
 * Dans un scénario, décrivez comment la création de rapports facilite l’exécution efficace du travail.
 * Dans un scénario, utilisez la fonction [!DNL Workfront] Création de rapports pour surveiller et améliorer l’adoption des utilisateurs.
 
-Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation (20 %)
+**Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation (20 %)**
 
 * Selon un scénario dans [!DNL Workfront], démontrer la fonctionnalité de configuration du suivi des livrables faisant partie d’une seule campagne.
 * Selon un scénario dans [!DNL Workfront], démontrer la fonctionnalité de définition des priorités stratégiques et de justification du travail.
@@ -118,7 +120,7 @@ Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation (20 %)
 * Dans un scénario donné, recommandez une structure de gouvernance pour l’administration du système lors de l’extension de l’instance d’un client.
 * Dans un scénario, identifiez les zones à prendre en compte lors du développement de l’instance d’un client afin de permettre à des équipes supplémentaires de travailler ensemble.
 
-Section 7 : Consultants commerciaux (8 %)
+**Section 7 : Consultants commerciaux (8 %)**
 
 * Dans un scénario, décrivez le processus nécessaire pour soutenir pleinement cet effort.
 * Dans le cas d’un scénario, expliquez comment adapter un workflow existant pour répondre à un changement récent dans un processus d’exploitation critique et inopérant.
@@ -126,11 +128,33 @@ Section 7 : Consultants commerciaux (8 %)
 * Dans un scénario donné, identifiez les principaux facteurs à prendre en compte pour gérer le changement d’une [!DNL Workfront] implémentation
 * Dans le cas d’un scénario, fournissez une recommandation.
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : administration et configuration du système principal**
 
@@ -191,19 +215,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Définition des objectifs de votre Adobe [!DNL Workfront] implémentation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [Bonne pratique - Planification des ressources](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -216,7 +254,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

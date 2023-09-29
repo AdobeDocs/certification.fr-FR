@@ -7,18 +7,50 @@ role: User
 badge: label="Exam AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 13%
+source-wordcount: '637'
+ht-degree: 16%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Campaign Standard] Expert spécialiste des affaires
 
-Découvrez comment devenir un Adobe certifié [!DNL Campaign Standard] Expert spécialiste des affaires.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 30/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais et japonais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E307
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Chargé du marketing par e-mail
+* Digital Marketing Manager
+* Spécialiste Campaign
+* Responsable des opérations marketing
+* Chargé de produit Campaign
+* Analyste de campagne
+* Gestionnaire des analyses de données
+* gestionnaire de gestion de la relation client
+* Chargé de solutions
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez avoir de l’expérience dans un environnement de diffusion de canal (email, courrier, mobile et social), une bonne connaissance des tactiques de campagne marketing telles que le multipoint, le cycle de vie et la réactivation, ainsi qu’une compréhension des mesures marketing telles que le retour sur investissement, les taux de clics et la conversion.
 
@@ -31,81 +63,73 @@ En outre, vous devez disposer des éléments suivants :
 * Configuration des rapports d’expérience
 * Comprendre la configuration et les validations des diffusions des opérations
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Chargé du marketing par e-mail
-* Digital Marketing Manager
-* Spécialiste Campaign
-* Responsable des opérations marketing
-* Chargé de produit Campaign
-* Analyste de campagne
-* Gestionnaire des analyses de données
-* gestionnaire de gestion de la relation client
-* Chargé de solutions
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 30/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais et japonais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E307
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Gestion des diffusions (25%)
+**Section 1 : Gestion des diffusions (25%)**
 
 * Appliquer les bonnes pratiques pour configurer et déployer une diffusion
 * Déterminer la configuration de diffusion correcte
 * Application des fonctionnalités du Concepteur d’email au scénario approprié
 
-Section 2 : Gestion de campagne (25%)
+**Section 2 : Gestion de campagne (25%)**
 
 * Application de configurations pour exécuter des workflows
 * Appliquer les bonnes pratiques en matière de planification, de planification et de modification d’une campagne
 
-Section 3 : Analyse des exigences (10 %)
+**Section 3 : Analyse des exigences (10 %)**
 
 * Concevoir un nouveau workflow en fonction des besoins de l’entreprise/de la campagne
 * Interprétation des exigences du client
 
-Section 4 : Rapports (15 %)
+**Section 4 : Rapports (15 %)**
 
 * En fonction des besoins du client, déterminez le rapport approprié à générer.
 * Dans un scénario donné, personnalisez un rapport dynamique d’usine.
 * Fournissez une interprétation des résultats à partir d’exemples de données de rapport prêtes à l’emploi.
 * Appliquez le processus pour planifier et envoyer un rapport d’usine.
 
-Section 5 : Dépannage (10 %)
+**Section 5 : Dépannage (10 %)**
 
 * Surveiller et identifier les erreurs
 * Analyse et interprétation des résultats de déploiement
 
-Section 6 : Gestion et administration des données (15 %)
+**Section 6 : Gestion et administration des données (15 %)**
 
 * Expliquer les ressources du modèle de données
 * Effectuer [!DNL Campaign Standard] administration
 * Appliquez le processus pour créer des audiences ciblées
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Gestion des diffusions**
 
@@ -143,19 +167,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [ [!DNL Campaign Standard] Prise en main du modèle de données](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Prise en main d’ [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -168,10 +206,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+

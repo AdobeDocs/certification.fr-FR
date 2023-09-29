@@ -7,18 +7,49 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 10%
+source-wordcount: '769'
+ht-degree: 13%
 
 ---
 
 # Parcours de certification pour l’expert de l’ingénieur des opérations de développement Adobe Experience Manager
 
-Découvrez comment devenir un expert ingénieur Adobe certifié.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 30/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E124
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* consultants en solutions
+* Professionnels de l’expérience client
+* Propriétaires de produit de la solution en cours de conception et de mise en oeuvre
+* Analystes professionnels
+* Architectes de solutions
+* Personnes dans des organisations partenaires et des indépendants qui jouent un rôle d’analyste pour les solutions AEM
+* Spécialistes du marketing qui connaissent les fonctionnalités nécessaires pour impliquer les développeurs dans la définition d’une solution pour les besoins de l’entreprise
+* Clients qui utilisent le produit (c’est-à-dire, utilisateurs experts)
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -27,7 +58,7 @@ Vous devez disposer des éléments suivants :
 
 Vous devez être à l’aise avec Adobe Managed Services et Adobe Experience Manager as a Cloud Service et être en mesure de configurer des environnements et une infrastructure Adobe Experience Manager.
 
-Vous devez également connaître les technologies et environnements suivants :
+En outre, vous devez connaître les technologies et environnements suivants :
 
 * Cloud Manager
 * Interface de ligne de commande d’Adobe IO
@@ -39,81 +70,72 @@ Vous devez également connaître les technologies et environnements suivants :
 * Environnement de développement
 * Environnement local
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* consultants en solutions
-* Professionnels de l’expérience client
-* Propriétaires de produit de la solution en cours de conception et de mise en oeuvre
-* Analystes professionnels
-* Architectes de solutions
-* Personnes dans des organisations partenaires et des indépendants qui jouent un rôle d’analyste pour les solutions AEM
-* Spécialistes du marketing qui connaissent les fonctionnalités nécessaires pour impliquer les développeurs dans la définition d’une solution pour les besoins de l’entreprise
-* Clients qui utilisent le produit (c’est-à-dire, utilisateurs experts)
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 30/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E124
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Configuration de Adobe Experience Manager (18 %)
+**Section 1 : Configuration de Adobe Experience Manager (18 %)**
 
 * Déterminer la méthode appropriée pour configurer les paramètres Adobe Experience Manager fondamentaux
 * Dans un scénario, résoudre les problèmes liés à Adobe Experience Manager
 * Déterminer la méthode appropriée pour configurer OSGi
 
-Section 2 : utiliser l’API Cloud Manager et Cloud Manager (20 %)
+**Section 2 : utiliser l’API Cloud Manager et Cloud Manager (20 %)**
 
 * Déterminer la méthode correcte pour gérer les paramètres des environnements Cloud Manager via l’interface utilisateur
 * Déterminer la méthode correcte pour configurer des programmes et des environnements sur Cloud Manager
 * Déterminer la méthode appropriée pour la migration vers Adobe Experience Manager as a Cloud Service
 * Déterminer la méthode appropriée pour configurer des intégrations sur Adobe I/O
 
-Section 3 : Configuration de l’infrastructure de proxy web (12 %)
+**Section 3 : Configuration de l’infrastructure de proxy web (12 %)**
 
 * Déterminer la méthode correcte pour gérer les configurations du Dispatcher
 * Dans un scénario, résoudre les problèmes de mise en cache
 
-Section 4 : Build et déploiements (28 %)
+**Section 4 : Build et déploiements (28 %)**
 
 * Déterminer la méthode appropriée pour gérer les déploiements de Cloud Manager
 * Dans un scénario, analysez l’état d’un pipeline Cloud Manager.
 * Déterminer la méthode appropriée pour gérer les packages de contenu sur plusieurs instances Adobe Experience Manager
 * Déterminer la méthode appropriée pour apporter des modifications aux fichiers Maven afin de prendre en charge les pipelines
 
-Section 5 : Surveillance des mesures de qualité et création de rapports (14 %)
+**Section 5 : Surveillance des mesures de qualité et création de rapports (14 %)**
 
 * Déterminer la méthode correcte pour collecter des mesures de performances et des rapports
 * Déterminer la méthode appropriée pour dimensionner l’infrastructure
 
-Section 6 : Fonctionnement du Admin Console (8 %)
+**Section 6 : Fonctionnement du Admin Console (8 %)**
 
 * Déterminer la méthode appropriée pour envoyer une demande d’assistance dans le Admin Console
 * Déterminez la méthode appropriée pour configurer l’authentification unique fédérée et synchroniser les utilisateurs et groupes Adobe Experience Manager
 
->[!TAB Effectuer la préparation]
+### Questionnaire de préparation
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+{{readiness}}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Configuration de Adobe Experience Manager**
 
@@ -151,19 +173,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Prise en charge IMS d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=fr#accessing-cloud-manager){target="_blank"}
 * [Groupes d’utilisateurs et AEM Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
++++
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+<br>
 
-## Effectuer un test pratique
++++Étape 3 : Planifier et payer l’examen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

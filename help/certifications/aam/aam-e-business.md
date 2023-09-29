@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 11%
+source-wordcount: '815'
+ht-degree: 12%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Audience Manager] Expert spécialiste des affaires
 
-Découvrez comment devenir certifié [!DNL Adobe Audience Manager] Expert spécialiste des affaires.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 36/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) et 150 $ (Inde)
+* ID d’examen : AD0-E457
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Spécialiste du marketing numérique
+* Consultant en technologie marketing
+* Stratège d’audience
+* Consultant comportemental
+* Analyste de marketing numérique
+* Analyste de données marketing
+* Gestionnaire des plateformes de données
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -47,74 +75,68 @@ Environnements:
 * Marketing numérique
 * Données et analyses
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Spécialiste du marketing numérique
-* Consultant en technologie marketing
-* Stratège d’audience
-* Consultant comportemental
-* Analyste de marketing numérique
-* Analyste de données marketing
-* Gestionnaire des plateformes de données
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 36/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) et 150 $ (Inde)
-* ID d’examen : AD0-E457
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Création et syndication de segments (25 %)
+**Section 1 : Création et syndication de segments (25 %)**
 
 * Déterminer la méthode appropriée pour créer des segments à l’aide de données propriétaires, de deuxième et de troisième niveau à des fins de ciblage et d’analyse
 * Dans un scénario, recommandez des segments pour l’activation qui correspondent aux objectifs de l’entreprise ou de la campagne.
 * Déterminer la méthode appropriée pour organiser les segments vers les destinations en vue de l’activation
 * Différenciation entre les différents types de destinations
 
-Section 2 : Création de caractéristiques (17 %)
+**Section 2 : Création de caractéristiques (17 %)**
 
 * Caractéristiques recommandées pour une stratégie d’audience donnée
 * Déterminer la méthode appropriée pour créer et mettre à jour des caractéristiques basées sur des règles et/ou intégrées
 
-Section 3 : Rapports et mesures (22%)
+**Section 3 : Rapports et mesures (22%)**
 
 * Dans un scénario, analysez les rapports afin de définir les étapes suivantes permettant d’atteindre les objectifs de l’entreprise.
 * Dans un scénario, analyser l’optimisation de l’audience
 
-Section 4 : Dépannage et administration (26 %)
+**Section 4 : Dépannage et administration (26 %)**
 
 * Dans un scénario, vérifiez les informations de diffusion de l’audience pour vous assurer que la diffusion est planifiée
 * Déterminer la pratique appropriée pour valider les fichiers entrants hors ligne
 * Dans un scénario, déterminez la méthode correcte pour effectuer une AQ par rapport à la synchronisation des identifiants.
 * Déterminer la méthode appropriée pour naviguer et activer à partir de l’Audience Marketplace d’Adobe
 
-Section 5 : Taxonomie (10%)
+**Section 5 : Taxonomie (10%)**
 
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Création et syndication de segments**
 
@@ -156,17 +178,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Classification de caractéristiques avec une taxonomie commune](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [À propos des caractéristiques de dossier](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

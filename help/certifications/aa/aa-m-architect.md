@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 22%
+source-wordcount: '573'
+ht-degree: 29%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Analytics] Principal architecte
 
-Découvrez comment devenir certifié [!DNL Analytics] Principal architecte.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : Principal (3 à 5 ans d’expérience)
+* Score de transmission : 33/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E207
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Architecte de solutions
+* Gestionnaire technique
+* Architecte de données
+* Ingénieur Analytics
+* Stratège Analytics
+* Ingénieur multi-solutions
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez avoir au moins 3 à 4 ans d’expérience dans la conception [!DNL Adobe Analytics] l’architecture, les spécifications de couche de données et la gestion des balises, ainsi qu’une compréhension de base du code JavaScript.
 
@@ -33,42 +62,19 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 * Outils d’optimisation
 * Éditeurs de code
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Architecte de solutions
-* Gestionnaire technique
-* Architecte de données
-* Ingénieur Analytics
-* Stratège Analytics
-* Ingénieur multi-solutions
-
-**Détails de l’examen :**
-
-* Niveau : Principal (3 à 5 ans d’expérience)
-* Score de transmission : 33/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E207
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Découverte (18 %)
+**Section 1 : Découverte (18 %)**
 
 * Démontrer la capacité de contrôler les sites
 * Examiner les besoins du client pour créer les besoins de l’entreprise
 * Selon un scénario, créez une structure de mesure.
 
-Section 2 : Conception de la solution (54 %)
+**Section 2 : Conception de la solution (54 %)**
 
 * Traduire les besoins de l’entreprise en variables et mesures
 * Démontrer la capacité de gérer les paramètres des suites de rapports
@@ -77,7 +83,7 @@ Section 2 : Conception de la solution (54 %)
 * Écrire des spécifications techniques pour les développeurs de site
 * Créer des utilisateurs/groupes Experience Cloud
 
-Section 3 : Post-mise en oeuvre (28 %)
+**Section 3 : Post-mise en oeuvre (28 %)**
 
 * En fonction d’un ensemble de conditions requises, validez le suivi par le biais des outils de développement du navigateur et des rapports d’Adobe.
 * appliquer des concepts de procédure pour gérer l’extraction des données et les relations ;
@@ -85,17 +91,25 @@ Section 3 : Post-mise en oeuvre (28 %)
 * Dans un scénario, gérez les sources de données et les connecteurs.
 * Configuration des segments et des mesures calculées nécessaires pour répondre aux besoins de l’entreprise
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
 
-**Exemples de questions**
++++Étape 1 : Création de votre compte
 
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+{{create-your-account}}
 
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Découverte**
 
@@ -132,16 +146,35 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Processus d’insertion de données](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Tutoriel Mise en oeuvre de l’Experience Cloud dans les sites web avec des balises](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+**Exemples de questions**
 
+{{sample-questions}}
 
-## A propos de l&#39;examen de certification
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Autres questions ? Veuillez envoyer un e-mail `certif@adobe.com`
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+

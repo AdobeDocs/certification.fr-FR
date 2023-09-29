@@ -7,18 +7,48 @@ role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 12%
+source-wordcount: '678'
+ht-degree: 15%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Experience Manager] Expert en migration as a Cloud Service
 
-Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Expert.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 31/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E136
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Développeurs ayant de l’expérience avec l’Adobe [!DNL Experience Manager]
+* Développeurs ayant participé à au moins une migration vers le cloud
+* Adobe [!DNL Experience Manager] Développeurs de sites
+* Adobe [!DNL Experience Manager] Architecte de sites
+* Adobe [!DNL Experience Manager] Développeurs de ressources
+* Adobe [!DNL Experience Manager] Développeurs Forms
+* Développeurs/DevOps/Leads/Architects ayant participé à plusieurs déploiements d’AEM avec un minimum de 2 à 3 ans d’expérience de développement d’applications web à l’aide d’Adobe [!DNL Experience Manager]
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -46,37 +76,13 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Suivi des journaux Cloud dans l’environnement local
 * Interfaces de la console Cloud
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Développeurs ayant de l’expérience avec l’Adobe [!DNL Experience Manager]
-* Développeurs ayant participé à au moins une migration vers le cloud
-* Adobe [!DNL Experience Manager] Développeurs de sites
-* Adobe [!DNL Experience Manager] Architecte de sites
-* Adobe [!DNL Experience Manager] Développeurs de ressources
-* Adobe [!DNL Experience Manager] Développeurs Forms
-* Développeurs/DevOps/Leads/Architects ayant participé à plusieurs déploiements d’AEM avec un minimum de 2 à 3 ans d’expérience de développement d’applications web à l’aide d’Adobe [!DNL Experience Manager]
-
-**Détails de l’examen**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 31/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E136
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Évaluation (32 %)
+**Section 1 : Évaluation (32 %)**
 
 * Utilisation de l’application d’une seule page
 * Préparation et estimation d’un plan de migration
@@ -87,19 +93,19 @@ Section 1 : Évaluation (32 %)
 * Expliquer l’implémentation relative aux ressources et son impact
 * Identification des exigences liées à Dispatcher
 
-Section 2 : Conception (16 %)
+**Section 2 : Conception (16 %)**
 
 * Vérifier les composants existants et valider avec la dernière version
 * Préparation de la configuration des microservices de ressources
 * expliquer la stratégie de mise en cache ;
 
-Section 3 : Déploiement (16 %)
+**Section 3 : Déploiement (16 %)**
 
 * Configuration des pipelines de Cloud Manager et association de l’ aux environnements
 * Configuration des environnements AEMaaCS (développement, évaluation, production - création, publication, aperçu)
 * Gérer le processus de déploiement à l’aide de l’interface de ligne de commande d’Adobe IO
 
-Section 4 : Migration (20 %)
+**Section 4 : Migration (20 %)**
 
 * Exécution de tests
 * Préparation d’une stratégie de migration des ressources
@@ -107,21 +113,34 @@ Section 4 : Migration (20 %)
 * Exécution des outils de migration (transfert de contenu, modernisation, refactorisation). Rapports et ajustements des résultats, en particulier les résultats critiques non traités par l’outil
 * Planification de la prise en charge post-live
 
-Section 5 : Mise en oeuvre (16 %)
+**Section 5 : Mise en oeuvre (16 %)**
 
 * Fusionner plusieurs projets dans un seul projet à déployer via le pipeline Adobe
 * Gestion des scripts repointit pour l’autorisation utilisateur/groupe
 * Configuration des SDK locaux
 * Mise à jour des configurations en fonction des modes d’exécution disponibles sur AEM as a Cloud Service
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Évaluation**
-
 
 * [[!DNL Experience Manager] Guide de l’utilisateur as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [ [!DNL Experience Manager] Guide de migration vers Adobe as a Cloud Service pour les partenaires](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Utiliser le pipeline CI/CD dans Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Déploiement sur AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
++++
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+<br>
 
++++Étape 3 : Planifier et payer l’examen
 
+{{schedule-and-pay}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

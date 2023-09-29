@@ -6,18 +6,50 @@ role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Workfront] Core Developer Professional
 
-Découvrez comment devenir un Adobe certifié [!DNL Workfront] Professionnel du développeur principal.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 44/70
+* Durée : 140 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E905
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Consultant technique
+* Administrateur système
+* Chef de projet
+* coordinateur de projet
+* Stratège
+* Resource Manager
+* Analyste
+* spécialiste informatique
+* [!DNL Workfront] conseiller en implémentation/responsable
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -36,55 +68,25 @@ Vous devriez également disposer des éléments suivants :
 * Connaissance des connecteurs natifs et autres Adobes [!DNL Workfront] produits et services
 * Familiarisez-vous avec la gestion de projet, y compris la gestion agile et en cascade, et les concepts de gestion des ressources
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Consultant technique
-* Administrateur système
-* Chef de projet
-* coordinateur de projet
-* Stratège
-* Resource Manager
-* Analyste
-* spécialiste informatique
-* [!DNL Workfront] conseiller en implémentation/responsable
-
-**Détails de l’examen :**
-
-* Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 44/70
-* Durée : 140 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais
-* Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E905
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1. Stratégie et prise en charge (24 %)
+**Section 1. Stratégie et prise en charge (24 %)**
 
 * Utilisation de portefeuilles et de programmes
 * Utilisation des files d’attente de requête
 * Utilisation de formulaires personnalisés
 * Utiliser les validations de base
 
-Section 2. Budget et planification (11 %)
+**Section 2. Budget et planification (11 %)**
 
 * Utilisation du planificateur de ressources
 * Selon un scénario/un ensemble d’exigences, appliquez les configurations pour configurer un modèle de projet.
 
-Section 3. Expérience utilisateur (25 %)
+**Section 3. Expérience utilisateur (25 %)**
 
 * Illustrer les bonnes pratiques de gestion des utilisateurs lors de la création d’une expérience utilisateur appropriée
 * Dans un scénario donné, appliquez la configuration correcte pour le partage et les droits d’accès dans tout le système.
@@ -92,13 +94,13 @@ Section 3. Expérience utilisateur (25 %)
 * Montrer comment créer et utiliser des feuilles de temps
 * Décrire l’objectif et la valeur des connecteurs, modules externes et modules complémentaires
 
-Section 4. Mesures et rapports (16 %)
+**Section 4. Mesures et rapports (16 %)**
 
 * Décrire les concepts de base pour la création, l’envoi et la personnalisation des rapports
 * expliquer comment créer et personnaliser des tableaux de bord ;
 * Montrer comment configurer des vues fonctionnelles des rapports
 
-Section 5. Exécution (24 %)
+**Section 5. Exécution (24 %)**
 
 * Montrer comment configurer des workflows d’approbation et de vérification
 * Reconnaître l’objectif de la création d’un problème pour un projet
@@ -107,17 +109,33 @@ Section 5. Exécution (24 %)
 * Identifier les moyens de saisir le temps [!DNL Workfront]
 * Identifier les éléments du suivi financier dans [!DNL Workfront]
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
 
-**Exemples de questions**
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+<br>
 
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Stratégie et ingestion**
 
@@ -160,17 +178,35 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Créer une équipe agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Suivi des coûts](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+**Exemples de questions**
 
+{{sample-questions}}
 
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

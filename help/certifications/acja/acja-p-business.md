@@ -6,30 +6,36 @@ product: Customer Journey Analytics
 role: User
 badge: label="Exam AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 13%
+source-wordcount: '482'
+ht-degree: 17%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Professionnel professionnel
 
-Découvrez comment devenir un Adobe certifié [!DNL Customer Journey Analytics] Professionnel de l’entreprise.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Adobe. [!DNL Customer Journey Analytics] et une compréhension fondamentale de son fonctionnement en association avec [!DNL Adobe Experience Platform]. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
+{{exam-description}}
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Détails de l’examen {#exam-details}
 
->[!TAB Préparer]
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 36/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E608
 
-**Public visé :**
+<br>
+
+### Audience prévue {#intended-audience}
 
 * Analystes professionnels
 * Consultants commerciaux
@@ -40,47 +46,61 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 * Propriétaires et gestionnaires de produits
 * Spécialistes des conversions/optimisations
 
-**Détails de l’examen :**
+<br>
 
-* Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 36/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais
-* Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E608
+### Expérience minimale {#minimum-experience}
 
-**Objectifs et portée de l’examen**
+Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Adobe. [!DNL Customer Journey Analytics] et une compréhension fondamentale de son fonctionnement en association avec [!DNL Adobe Experience Platform]. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
 
-Section 1 : Composants (30 %)
+<br>
+
+### Objectifs et portée de l’examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1 : Composants (30 %)**
 
 * Traduire les questions commerciales en composants pertinents
 * Créer un sous-ensemble de données à l’aide de composants et de filtres appropriés
 * Créer des composants non-administrateurs pour répondre aux questions métier
 
-Section 2 : Rapports (32 %)
+**Section 2 : Rapports (32 %)**
 
 * Déterminer les visualisations ou les tableaux appropriés pour répondre aux questions de l’entreprise
 * Déterminer la vue de données à utiliser en fonction de sources de données, d’identités et de périodes
 * Déterminer comment utiliser et appliquer des périodes
 
-Section 3 : Répartition (12 %)
+**Section 3 : Répartition (12 %)**
 
 * Planification et partage de rapports avec les principaux intervenants
 * Traiter les champs disponibles dans un rapport ou tableau de bord spécifique
 * Organiser les projets de manière logique
 
-Section 4 : Analyse des données (26 %)
+**Section 4 : Analyse des données (26 %)**
 
 * Exécution d’une analyse exploratoire et interprétation des résultats afin de fournir des informations
 * Évaluation des audiences à partager avec d’autres outils AEP
 * Sélection des composants appropriés pour l’analyse
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Composants**
 
@@ -108,20 +128,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr){target="_blank"}
 * [Filtrage des opérateurs](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -134,7 +167,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

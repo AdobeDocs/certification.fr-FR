@@ -7,18 +7,47 @@ role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 15%
+source-wordcount: '930'
+ht-degree: 17%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Campaign Standard] Développeur expert
 
-Découvrez comment devenir un Adobe certifié [!DNL Campaign Standard] Développeur expert.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 29/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E306
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Administrateur de l’automatisation marketing
+* Développeur Adobe Experience Cloud
+* Analyste de marketing par e-mail
+* Développeur d’applications
+* Développeur de campagne
+* Développeur Martech
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -40,40 +69,13 @@ Vous devez disposer des éléments suivants :
 * Expérience de la messagerie transactionnelle et de la diffusion des messages sur plusieurs canaux
 * Expérience avec les packages gérés
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Administrateur de l’automatisation marketing
-* Développeur Adobe Experience Cloud
-* Analyste de marketing par e-mail
-* Développeur d’applications
-* Développeur de campagne
-* Développeur Martech
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 29/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E306
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : modélisation et gestion des données (26 %)
+**Section 1 : modélisation et gestion des données (26 %)**
 
 * Dans un scénario, transformez une exigence client en ressource personnalisée.
 * Déterminer comment configurer les définitions d’écran et de filtre
@@ -82,7 +84,7 @@ Section 1 : modélisation et gestion des données (26 %)
 * Résolution des problèmes de modélisation des données
 * Déterminer l’approche appropriée pour créer des workflows techniques
 
-Section 2 : Gestion de campagne (50%)
+**Section 2 : Gestion de campagne (50%)**
 
 * Dépannage des erreurs de workflow
 * Déterminer l’approche appropriée pour créer des campagnes
@@ -95,7 +97,7 @@ Section 2 : Gestion de campagne (50%)
 * Déterminer l’approche appropriée pour créer des emails à l’aide de creative designer
 * Déterminer l’approche appropriée pour créer des rapports personnalisés
 
-Section 3 : Administration (24 %)
+**Section 3 : Administration (24 %)**
 
 * Déterminer l’approche appropriée pour créer des groupes de sécurité utilisateur et des entités organisationnelles
 * Déterminer l’approche appropriée pour gérer et déployer des modules
@@ -104,9 +106,33 @@ Section 3 : Administration (24 %)
 * Déterminer l’approche appropriée pour créer des marques
 * Déterminer l’approche appropriée pour développer des configurations de canal
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
+
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Modélisation et gestion des données**
 
@@ -151,19 +177,33 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 * [À propos de la configuration des canaux](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Prise en main des canaux de communication](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

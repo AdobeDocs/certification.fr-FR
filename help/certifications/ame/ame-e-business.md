@@ -7,20 +7,55 @@ role: User
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Expert spécialiste des affaires
 
-Découvrez comment devenir un Adobe certifié [!DNL Marketo Engage] Expert spécialiste des affaires.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Vous devez disposer des éléments suivants :
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 32/50
+* Durée : 110 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais, japonais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E559 (anglais), AD0-E559-J (japonais)
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Responsable des opérations marketing/spécialiste/expert/analyste
+* Responsable marketing numérique/spécialiste/expert/analyste
+* Responsable de campagne/spécialiste/expert/analyste
+* [!DNL Marketo Engage] consultants
+* Responsable de l&#39;automatisation digitale/marketing/spécialiste/expert/analyste
+* Responsable des systèmes marketing
+* Gestionnaire de génération de demande
+* Chargé du marketing par e-mail
+* Gestionnaire des opérations chiffre
+* Responsable des opérations de croissance
+* Architecte de Martech
+* Responsable de la technologie marketing
+* Chargés de campagne intégrés
+* Analyste de système d’entreprise
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 * Environ 18 mois d’expérience avec Adobe [!DNL Marketo Engage] fonctionnalités nécessaires pour créer des campagnes marketing et utiliser les données de comportement client
 
@@ -39,48 +74,13 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Microsoft Office 
 * HTML de base
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Responsable des opérations marketing/spécialiste/expert/analyste
-* Responsable marketing numérique/spécialiste/expert/analyste
-* Responsable de campagne/spécialiste/expert/analyste
-* [!DNL Marketo Engage] consultants
-* Responsable de l&#39;automatisation digitale/marketing/spécialiste/expert/analyste
-* Responsable des systèmes marketing
-* Gestionnaire de génération de demande
-* Chargé du marketing par e-mail
-* Gestionnaire des opérations chiffre
-* Responsable des opérations de croissance
-* Architecte de Martech
-* Responsable de la technologie marketing
-* Chargés de campagne intégrés
-* Analyste de système d’entreprise
-
-**Détails de l’examen :**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 32/50
-* Durée : 110 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais et japonais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E559
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Administration et maintenance (12 %)
+**Section 1 : Administration et maintenance (12 %)**
 
 * Déterminer le processus de mappage entre Marketo et CRM
 * Identification de ce qui est arrivé à une ressource à l’aide du journal d’audit
@@ -89,7 +89,7 @@ Section 1 : Administration et maintenance (12 %)
 * Identification des plateformes CRM avec synchronisation Marketo native
 * Dans un scénario, recherchez l’emplacement de référence des informations.
 
-Section 2 : Activités marketing/Campaign Management (46 %)
+**Section 2 : Activités marketing/Campaign Management (46 %)**
 
 * Faire la preuve d’une compréhension des campagnes intelligentes, de la logique, des contraintes et des étapes de flux
 * Dans un scénario, définissez l’étape suivante.
@@ -106,7 +106,7 @@ Section 2 : Activités marketing/Campaign Management (46 %)
 * Dépannage des limites de communication
 * Utiliser les informations du fournisseur de webinaires dans un programme d’événement
 
-Section 3 : Gestion des leads (12 %)
+**Section 3 : Gestion des leads (12 %)**
 
 * Décrire les points de décision clés lors de la définition du modèle de cycle de vie
 * appliquer les bonnes pratiques relatives à la notation des pistes ;
@@ -114,19 +114,19 @@ Section 3 : Gestion des leads (12 %)
 * Interprétation du journal des activités de piste
 * Dans un scénario, identifiez la source de création.
 
-Section 4 : Data Management (10 %)
+**Section 4 : Data Management (10 %)**
 
 * Montrer comment configurer un programme de gestion des données
 * Analyse de la qualité des données d’une instance
 * Identifier quelques éléments clés de la politique de conservation des données de Marketo relative aux listes dynamiques
 * Résumé du fonctionnement de la segmentation
 
-Section 5 : Rapports (4 %)
+**Section 5 : Rapports (4 %)**
 
 * En fonction du résultat d’une campagne, déterminez comment configurer un programme afin de générer les meilleurs rapports.
 * Selon un scénario, être en mesure d’étudier et d’attribuer le programme d’acquisition approprié
 
-Section 6 : Bonnes pratiques (16 %)
+**Section 6 : Bonnes pratiques (16 %)**
 
 * Démontrez la pertinence du score de piste dans la collaboration marketing et commerciale
 * Illustrer les avantages de la structure de dossiers et des conventions de dénomination
@@ -134,11 +134,33 @@ Section 6 : Bonnes pratiques (16 %)
 * Expliquer le processus pour effectuer un contrôle qualité sur un programme Marketo
 * Expliquer le processus pour effectuer un contrôle qualité sur un email
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Administration et maintenance**
 
@@ -204,19 +226,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Guide définitif pour la notation des pistes](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [Présentation des dossiers](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -240,10 +276,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 [Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+

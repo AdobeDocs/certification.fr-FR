@@ -7,18 +7,44 @@ role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 21%
+source-wordcount: '961'
+ht-degree: 24%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Campaign Classic] Développeur expert
 
-Découvrez comment devenir un Adobe certifié [!DNL Campaign Classic] expert développeur.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 34/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E330
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Consultant technique
+* ingénieur en technologie marketing
+* Adobe [!DNL Campaign Classic] développeur
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -30,37 +56,13 @@ Vous devez disposer des éléments suivants :
 * Possibilité de résoudre les problèmes de mise en oeuvre de Campaign
 * Présentation de base des configurations de serveur liées à Campaign
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Consultant technique
-* ingénieur en technologie marketing
-* Adobe [!DNL Campaign Classic] développeur
-
-**Détails de l’examen**
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 34/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E330
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Configuration du système (16 %)
+**Section 1 : Configuration du système (16 %)**
 
 * Application des paramètres et des valeurs par défaut de configuration à l’échelle du système
 * Compte tenu de divers paramètres, sélectionnez la fonction Adobe Campaign appropriée pour mettre en oeuvre un cas d’utilisation.
@@ -68,7 +70,7 @@ Section 1 : Configuration du système (16 %)
 * Mise en oeuvre de configurations personnalisées
 * Identification des fonctionnalités de configuration du Panneau de Contrôle Campaign
 
-Section 2 : Personnalisation (22 %)
+**Section 2 : Personnalisation (22 %)**
 
 * Compte tenu d’un ensemble d’exigences, appliquez les bonnes pratiques pour concevoir un modèle de données.
 * Décrire l’implémentation des API dans Campaign
@@ -78,14 +80,14 @@ Section 2 : Personnalisation (22 %)
 * Dans un scénario, comprenez comment utiliser des scripts SQL dans Adobe. [!DNL Campaign Classic]
 * Description des fonctions prêtes à l’emploi les plus fréquemment utilisées
 
-Section 3 : Gestion des accès (8 %)
+**Section 3 : Gestion des accès (8 %)**
 
 * Dans un scénario, configurez les paramètres de sécurité pour un opérateur.
 * Décrire comment configurer les paramètres de gestion des accès en fonction du document de conception de solution
 * Description de la gestion des accès à l’aide du panneau de contrôle de Campaign
 * Identifier les limites du partitionnement des données et quand utiliser sysfilter
 
-Section 4 : Intégration de données (16 %)
+**Section 4 : Intégration de données (16 %)**
 
 * Dans un scénario, sélectionnez la meilleure approche à intégrer aux sources de données externes.
 * Mise en oeuvre des bonnes pratiques pour le traitement des données de workflow
@@ -93,7 +95,7 @@ Section 4 : Intégration de données (16 %)
 * Identifier les paramètres de sécurité et réseau à intégrer à Adobe Campaign à partir d’un système externe
 * Configuration du processus CRUD sur un schéma en dehors d’Adobe Campaign
 
-Section 5 : Maintenance de l&#39;instance (12 %)
+**Section 5 : Maintenance de l&#39;instance (12 %)**
 
 * Comprendre et agir sur la carte thermique des workflows
 * Démontrez le processus de création d’un workflow ou d’un rapport personnalisé, par exemple pour la surveillance.
@@ -101,7 +103,7 @@ Section 5 : Maintenance de l&#39;instance (12 %)
 * Expliquer l’impact des services et des processus sur le système
 * Démonstration des mesures/contrôles de contrôle système de base
 
-Section 6 : Configuration de la campagne (25 %)
+**Section 6 : Configuration de la campagne (25 %)**
 
 * Application de techniques de personnalisation avancées
 * Configuration et application de mappages de cibles personnalisés
@@ -112,11 +114,33 @@ Section 6 : Configuration de la campagne (25 %)
 * Décrire les pratiques de workflow qui ont un impact négatif sur les performances
 * Compte tenu du cas pratique, recommander une conception de workflow de ciblage complexe
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Configuration du système**
 
@@ -136,7 +160,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [À propos des services web](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
 * [Conception et exécution de campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Activités d&#39;action dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=fr){target="_blank"}
-* [Prise en main des workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
+* [Commencer avec les workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
 
 **Section 3 : Gestion des accès**
 
@@ -150,7 +174,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Comptes externes](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=fr){target="_blank"}
 * [Déploiement de Campaign FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
 * [Commencer avec l&#39;import et de l&#39;export de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=fr){target="_blank"}
-* [Prise en main des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
+* [Commencer avec les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
 * [FTP (classe)](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
 * [Architecture générale](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
 
@@ -173,19 +197,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [À propos des modèles](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=fr){target="_blank"}
 * [Utilisation d’une table des destinataires personnalisée](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
++++
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+<br>
 
-## Effectuer un test pratique
++++Étape 3 : Planifier et payer l’examen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

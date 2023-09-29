@@ -7,40 +7,24 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 20%
+source-wordcount: '518'
+ht-degree: 27%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Experience Manager Sites] Professionnel du développement
 
-Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Sites] Professionnel du développement.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Vous devez être un développeur d’applications et disposer des éléments suivants :
+{{exam-description}}
 
-* 0 à 12 mois d’expérience avec l’AEM [!DNL Platform]
-* La possibilité d’effectuer le développement de composants
-* Une compréhension de base de la structure MVC, des structures de cycle de vie et des bibliothèques dans AEM
+<br>
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
-
->[!BEGINTABS]
-
->[!TAB Préparer]
-
-**Public visé :**
-
-* AEM développeurs
-* Développeurs front-end
-* Ingénieurs logiciels
-
-**Détails de l’examen :**
+### Détails de l’examen {#exam-details}
 
 * Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 31/50
@@ -50,9 +34,31 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-E123
 
-**Objectifs et portée de l’examen**
+<br>
 
-Section 1 : Configurations (26 %)
+### Audience prévue {#intended-audience}
+
+* AEM développeurs
+* Développeurs front-end
+* Ingénieurs logiciels
+
+<br>
+
+### Expérience minimale {#minimum-experience}
+
+Vous devez être un développeur d’applications et disposer des éléments suivants :
+
+* 0 à 12 mois d’expérience avec l’AEM [!DNL Platform]
+* La possibilité d’effectuer le développement de composants
+* Une compréhension de base de la structure MVC, des structures de cycle de vie et des bibliothèques dans AEM
+
+<br>
+
+### Objectifs et portée de l’examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1 : Configurations (26 %)**
 
 * Reconnaître l’objectif AEM les configurations et la mise en cache du Dispatcher
 * Déterminer les étapes correctes pour configurer plusieurs sites dans AEM
@@ -60,36 +66,44 @@ Section 1 : Configurations (26 %)
 * Déterminer les étapes appropriées pour gérer les index OAK personnalisés
 * Déterminer les étapes appropriées pour configurer l’intégration SAML ou IMS prête à l’emploi
 
-Section 2 : développement AEM (40 %)
+**Section 2 : développement AEM (40 %)**
 
 * Déterminer les étapes correctes pour implémenter les composants basés sur le noyau
 * Fonctionnalité de connexion des composants, y compris HTL, les modèles et les services
 * Dans un scénario, déterminez les étapes appropriées pour développer des workflows
 * Dans un scénario, indiquez l’objectif des fragments de contenu ou d’expérience.
 
-Section 3 : création et déploiement (12 %)
+**Section 3 : création et déploiement (12 %)**
 
 * Définition de la structure de projet Maven
 * Configuration de projets à partir d’archetypes
 
-Section 4 : Maintenance de l’environnement (22 %)
+**Section 4 : Maintenance de l’environnement (22 %)**
 
 * Dans un scénario, déterminez les étapes requises pour déboguer des problèmes dans AEM environnements.
 * Expliquer AEM versions de maintenance
 * Identifier la configuration des AEM sur les topologies
 * Déterminer les étapes requises pour la planification et la migration vers AEM as a Cloud Service
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
 
-**Exemples de questions**
++++Étape 1 : Création de votre compte
 
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+{{create-your-account}}
 
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Configurations**
 
@@ -117,20 +131,40 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Guide de l’utilisateur pour le développement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [Tableau de bord des opérations](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Notes de mise à jour pour Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr){target="_blank"}
-* Vue d’ensemble de [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
+* Vue d’ensemble des [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr)
 * [[!DNL AEM as Cloud Service] vidéos et tutoriels](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Experience Manager] Mises à jour de version et feuille de route](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+**Exemples de questions**
 
-## A propos de l&#39;examen de certification
+{{sample-questions}}
+
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+

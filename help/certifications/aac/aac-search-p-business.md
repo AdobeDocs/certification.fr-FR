@@ -8,18 +8,44 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 5%
+source-wordcount: '732'
+ht-degree: 7%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Advertising Search] Professionnel professionnel
 
-Découvrez comment devenir certifié [!DNL Adobe Advertising Search] Professionnel de l’entreprise.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 35/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E501
+
+<br>
+
+### Audience prévue {#intended-audience}
+
+* Chargés de campagnes marketing de recherche
+* Professionnels du marketing de recherche
+* Les personnes qui utilisent régulièrement la fonction Rechercher pour exécuter et gérer des campagnes de recherche
+
+<br>
+
+### Expérience minimale {#minimum-experience}
 
 Vous devez disposer des éléments suivants :
 
@@ -28,7 +54,7 @@ Vous devez disposer des éléments suivants :
 * Expérience en cours d’utilisation [!DNL Advertising Search] et connaissent l&#39;automatisation des offres de recherche payante, la gestion des campagnes,
 * Une compréhension de la théorie des Portfolios
 
-Expérience avec les fonctions suivantes :
+Vous devez également avoir l’expérience de l’utilisation des fonctions suivantes :
 
 * Création de chaque aspect du Portfolio
 * Création de simulations personnalisées pour déterminer quand les portefeuilles sont prêts pour l’optimisation
@@ -51,37 +77,13 @@ Expérience avec les fonctions suivantes :
 * Modificateur d’offre d’audience
 * Ajustement de l&#39;offre d&#39;emplacement
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+<br>
 
->[!BEGINTABS]
+### Objectifs et portée de l’examen {#exam-objectives}
 
->[!TAB Préparer]
+{{exam-objectives}}
 
-**Public visé :**
-
-* Chargés de campagnes marketing de recherche
-* Professionnels du marketing de recherche
-* Les personnes qui utilisent régulièrement la fonction Rechercher pour exécuter et gérer des campagnes de recherche
-
-**Détails de l’examen :**
-
-* Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 35/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langues disponibles : anglais
-* Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E501
-
-**Auto-évaluation de la préparation**
-
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
-
-**Objectifs et portée de l’examen**
-
-Section 1 : Portfolios et optimisations (54 %)
+**Section 1 : Portfolios et optimisations (54 %)**
 
 * Dans un scénario, sélectionnez et configurez des stratégies d’offre automatisées.
 * Compte tenu des stratégies commerciales, définir et créer des objectifs IPC Portfolios
@@ -90,27 +92,49 @@ Section 1 : Portfolios et optimisations (54 %)
 * Selon un scénario, évaluez les performances de Portfolio et résolvez les problèmes
 * Dans un scénario, déterminez comment ajuster en permanence les paramètres du Portfolio
 
-Section 2 : Rapports, informations et outils (14 %)
+**Section 2 : Rapports, informations et outils (14 %)**
 
 * appliquer des concepts de procédure pour créer et planifier des rapports en fonction des besoins de l’entreprise ;
 * Déterminer l’affectation optimale du budget à l’aide des outils d’IA de Platform disponibles sur plusieurs Portfolios et appliquer si nécessaire
 * Compte tenu d’un cas d’utilisation, créez et définissez des simulations personnalisées pour l’analyse de Portfolio et la prévision.
 
-Section 3 : Administration de campagnes (22%)
+**Section 3 : Administration de campagnes (22%)**
 
 * Configuration de comptes
 * Créer, gérer et organiser tous les aspects des campagnes
 
-Section 4 : Mesure (10 %)
+**Section 4 : Mesure (10 %)**
 
 * Selon un scénario d’entreprise, déterminez une approche pour le suivi des conversions de campagne et appliquez
 * Dans un scénario, résolvez les problèmes liés aux mesures de conversion de campagne
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
+
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Portfolios et optimisations**
 
@@ -147,16 +171,27 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Documentation d’aide de Marketo Measure](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [Variables de conversion (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB Obtenir une certification]
++++
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+<br>
 
++++Étape 3 : Planifier et payer l’examen
 
-## A propos de l&#39;examen de certification
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+
+
+

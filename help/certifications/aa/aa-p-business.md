@@ -4,38 +4,39 @@ description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analyt
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E212" type="positive"
+badge: label="Exam AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 12%
+source-wordcount: '582'
+ht-degree: 16%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Analytics] Professionnel professionnel
+# Parcours de certification pour Adobe [!DNL Analytics] Professionnel professionnel
 
-Découvrez comment devenir certifié [!DNL Adobe Analytics] Professionnel de l’entreprise.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et l’expérience suivante :
+{{exam-description}}
 
-* Un arrière-plan marketing ou provient d’un rôle marketing, mais peut provenir de divers rôles de travail.
-* Une connaissance de base des mesures et dimensions d’analyse numérique.
-* La possibilité d’utiliser Analytics pour créer des rapports et répondre à des questions professionnelles, ainsi que pour communiquer les résultats.
-* Une compréhension des concepts d’analyse numérique de base tels que la segmentation, la création de rapports, les définitions de mesures standard.
+<br>
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
+### Détails de l’examen {#exam-details}
 
->[!BEGINTABS]
+* Niveau : professionnel (0 à 12 mois d&#39;expérience)
+* Score de transmission : 31/50
+* Durée : 100 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais
+* Coût : 125 $ (global) / 95 $ (Inde)
+* ID d’examen : AD0-E212
 
->[!TAB Préparer]
+<br>
 
-**Public visé :**
+### Audience prévue {#intended-audience}
 
 * Marketing numérique
 * Analystes professionnels
@@ -48,23 +49,24 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 * Analystes de l’interface utilisateur
 * Conversion/spécialistes de l’optimisation
 
-**Détails de l’examen :**
+<br>
 
-* Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 31/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais
-* Coût : 125 $ (global) / 95 $ (Inde)
-* ID d’examen : AD0-E212
+### Expérience minimale {#minimum-experience}
 
-**Auto-évaluation de la préparation**
+Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et l’expérience suivante :
 
-Procédez comme suit : [questionnaire en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} pour voir si votre expérience actuelle correspond à la qualification minimale recommandée.
+* Un arrière-plan marketing ou provient d’un rôle marketing, mais peut provenir de divers rôles de travail.
+* Une connaissance de base des mesures et dimensions d’analyse numérique.
+* La possibilité d’utiliser Analytics pour créer des rapports et répondre à des questions professionnelles, ainsi que pour communiquer les résultats.
+* Une compréhension des concepts d’analyse numérique de base tels que la segmentation, la création de rapports, les définitions de mesures standard.
 
-**Objectifs et portée de l’examen**
+<br>
 
-Section 1 : Analyse des entreprises (34 %)
+### Objectifs et portée de l’examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1 : Analyse des entreprises (34 %)**
 
 * En fonction des besoins et des questions de l’entreprise, identifiez une stratégie de création de rapports appropriée pour effectuer une analyse.
 * Analyse des données pour répondre aux questions
@@ -73,7 +75,7 @@ Section 1 : Analyse des entreprises (34 %)
 * Analyser les données du rapport pour résumer et en tirer des conclusions
 * Reconnaître les valeurs aberrantes et les anomalies dans les rapports
 
-Section 2 : Reporting et tableau de bord pour les projets (38 %)
+**Section 2 : Reporting et tableau de bord pour les projets (38 %)**
 
 * Tenir compte des avantages de l’utilisation de visualisations spécifiques en fonction d’un scénario donné
 * Comparaison de la visualisation Abandons et Flux
@@ -83,29 +85,45 @@ Section 2 : Reporting et tableau de bord pour les projets (38 %)
 * Dans un scénario, déterminez l’élément à utiliser.
 * Rapport sur les performances des campagnes marketing
 
-Section 3 : Segmentation et mesures calculées (19 %)
+**Section 3 : Segmentation et mesures calculées (19 %)**
 
 * Déterminer comment développer et configurer des segments de base à l’aide des bonnes pratiques
 * appliquer le processus pour partager des segments avec d’autres membres de l’entreprise ;
 * Application de segments aux projets et aux composants
 * Appliquez le processus pour générer des mesures calculées et/ou segmentées de base.
 
-Section 4 : Connaissances générales de l’outil et résolution des problèmes (9 %)
+**Section 4 : Connaissances générales de l’outil et résolution des problèmes (9 %)**
 
 * Présentation des différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (evars, props et événements)
 * Déterminer comment exporter des données depuis [!DNL Adobe Analytics]
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+### Questionnaire de préparation
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{readiness}}
 
-**Exemples de questions**
+[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
-Les exemples de questions vous permettent de voir le type et le format des éléments que vous rencontrerez dans l’examen réel. Aucune connexion n’est nécessaire. Les résultats des exemples de questions ne sont pas stockés et ne prédisent pas les résultats réels du test.
+<br>
 
-[Voir des exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+## Comment obtenir une certification {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Analyse des activités**
 
@@ -131,15 +149,35 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 * [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [Guide des composants Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
+**Exemples de questions**
 
-## A propos de l&#39;examen de certification
+{{sample-questions}}
+
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -152,7 +190,23 @@ Les exemples de questions vous permettent de voir le type et le format des élé
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

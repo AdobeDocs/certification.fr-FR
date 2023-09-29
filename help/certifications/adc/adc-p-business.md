@@ -7,40 +7,24 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '552'
+ht-degree: 2%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Document Cloud] Professionnel professionnel
 
-Découvrez comment devenir certifié [!DNL Adobe Document Cloud] Professionnel de l’entreprise.
+{{intro}}
 
-## Expérience minimale
+## Description de l’export {#exam-description}
 
-Vous devez disposer des éléments suivants :
+{{exam-description}}
 
-* au moins 0 à 12 mois d’expérience dans [!DNL Adobe Document Cloud]
-* être capable d’identifier et de communiquer les besoins de l’entreprise ;
-* être capable d’effectuer des conseils sur l’activation du produit ; [!DNL Adobe Document Cloud] solutions.
+<br>
 
->[!NOTE]
->
->Votre certification est valable pendant deux ans à compter de votre réussite. Nous vous recommandons d’utiliser la version la plus récente dans la mesure du possible, car elle couvre les nouvelles fonctionnalités du produit.
-
->[!BEGINTABS]
-
->[!TAB Préparer]
-
-**Public visé :**
-
-* Consultant en solutions
-* Analyste métier
-* Ventes
-
-**Détails de l’examen :**
+### Détails de l’examen {#exam-details}
 
 * Niveau : professionnel (0 à 12 mois d&#39;expérience)
 * Score de transmission : 34/50
@@ -50,33 +34,69 @@ Vous devez disposer des éléments suivants :
 * Coût : 125 $ (global) / 95 $ (Inde)
 * ID d’examen : AD0-D106
 
-**Objectifs et portée de l’examen**
+<br>
 
-Section 1 : détection des cas d’utilisation (36 %)
+### Audience prévue {#intended-audience}
+
+* Consultant en solutions
+* Analyste métier
+* Ventes
+
+<br>
+
+### Expérience minimale {#minimum-experience}
+
+Vous devez disposer des éléments suivants :
+
+* au moins 0 à 12 mois d’expérience dans [!DNL Adobe Document Cloud]
+* être capable d’identifier et de communiquer les besoins de l’entreprise ;
+* être capable d’effectuer des conseils sur l’activation du produit ; [!DNL Adobe Document Cloud] solutions.
+
+<br>
+
+### Objectifs et portée de l’examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1 : détection des cas d’utilisation (36 %)**
 
 * Posez des questions admissibles pour identifier les opportunités de Document Cloud.
 * Définition de cas d’utilisation métier de haut niveau
 
-Section 2 : Évaluation des processus métier (34 %)
+**Section 2 : Évaluation des processus métier (34 %)**
 
 * Identifier les principaux domaines d’amélioration des processus et l’ajustement des solutions
 * Alignement des objectifs commerciaux avec les fonctionnalités de Document Cloud
 * Fournir des démonstrations de haut niveau axées sur les utilisateurs finaux des différents composants du Document Cloud
 
-Section 3 : définition des fonctionnalités de Document Cloud (DC) (18 %)
+**Section 3 : définition des fonctionnalités de Document Cloud (DC) (18 %)**
 
 * Décrire les implications des besoins de conformité et de sécurité du document et de la signature électronique
 * Décrire comment le changement de processus ajoute de la valeur
 
-Section 4 : Solution recommandée (12 %)
+**Section 4 : Solution recommandée (12 %)**
 
 * Conception recommandée de la solution Document Cloud
 
->[!TAB Effectuer la préparation]
+<br>
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+## Comment obtenir une certification {#how-to-get-certified}
 
-Voici quelques suggestions de ressources pour vous aider à préparer :
+{{how-to-get-certified-intro}}
+
++++Étape 1 : Création de votre compte
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Étape 2 : Préparation de votre examen
+
+**Documents d&#39;étude**
+
+{{study-materials-intro}}
 
 **Section 1 : Découverte des cas d’utilisation**
 
@@ -118,20 +138,33 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Fonctionnalités Et Outils Adobe Acrobat](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [Configuration des workflows de signature](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB Obtenir une certification]
+<br>
 
->[!IMPORTANT]
->
->Les sections et liens suivants fonctionneront : **only**  après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->En outre, votre nom de profil dans la variable [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} doit correspondre exactement à votre ID de gouvernement. Si vous ne disposez pas d&#39;informations identiques ou d&#39;une discordance, le prestataire mettra fin à l&#39;examen et vous obligera à reprogrammer votre rendez-vous, en plus de payer des frais d&#39;examen supplémentaires.*
-
-
-## Effectuer un test pratique
+**Effectuer un test pratique**
 
 {{practice-test}}
 
-## A propos de l&#39;examen de certification
++++
+
+<br>
+
++++Étape 3 : Planifier et payer l’examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Étape 4 : avant et après l’examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Étape 5 : passer l&#39;examen
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Étape 6 : Gestion de vos badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renouvellement de votre certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
-
