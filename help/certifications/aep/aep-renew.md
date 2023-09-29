@@ -4,11 +4,11 @@ description: Découvrez comment renouveler votre Adobe [!DNL Experience Platform
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
-badge: label="Adobe Journey Optimizer Renewal" type="positive"
+badge: label="Renouvellement Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
 
-Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certification grâce à un nouveau format, sans frais. Il s’agit d’utiliser des cours et des tutoriels Experience League à la demande. Il vous suffit de suivre trois activités pour renouveler votre certification sans frais. Vous devez renouveler votre certificat avant l’expiration de celui-ci, ou vous devrez passer l’examen complet pour être à nouveau certifié.
+Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certification grâce à un nouveau format, sans frais. Il s’agit d’utiliser des cours et des tutoriels Experience League à la demande. Il vous suffit de terminer trois activités pour renouveler votre certification sans frais. Vous devez renouveler votre certificat avant l’expiration de celui-ci, ou vous devrez passer l’examen complet pour être à nouveau certifié.
 
 >[!NOTE]
 >Renouvellement des experts bientôt disponible.

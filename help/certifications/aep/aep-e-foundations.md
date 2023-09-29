@@ -4,12 +4,12 @@ description: Découvrez comment devenir un Adobe certifié [!DNL Experience Plat
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Exam AD0-E600 &amp; AD7-E601" type="positive"
+badge: label="Exam AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 12%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 12%
 >[!IMPORTANT]
 >
 >L&#39;Adobe [!DNL Experience Platform] La certification d’expert nécessite actuellement deux examens : **Adobe [!DNL Experience Platform] Fondations techniques (AD0-E600)** et **Adobe [!DNL Real-Time CDP] Praticien technique (AD7-E601)**. A compter du 1er novembre 2023, un nouvel examen sera lancé, qui ne sera requis que pour cette certification.
+
+<br>
+
+[Accéder aux informations spécifiques à la condition 1](#req-1)
+
+[Accéder aux informations spécifiques à la condition 2](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ Vous devez disposer des éléments suivants :
 * La possibilité de déterminer les attributs de profil nécessaires
 * Connaissance de la fréquence d’envoi des segments par le biais des destinations
 * Connaissance de la fréquence de mise à jour de l’appartenance à un segment
-
-<br>
-
-[Accès aux informations pour l’exigence 1](#req-1)
-
-[Accès aux informations pour l’exigence 2](#req-2)
 
 <br>
 
