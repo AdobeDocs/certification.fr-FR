@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ Non, vous devez uniquement répondre aux exigences répertoriées pour la soluti
 +++Ai-je besoin de passer en revue les cours ou puis-je simplement commencer à faire des évaluations ?
 
 Les évaluations sont basées sur les cours en Experience League et leur examen préparera les candidats à les réussir. Toutefois, la condition clé du renouvellement est simplement de réussir les évaluations.
+
++++
+
+>[!TAB  Bons]
+
++++Quand les bons d’examen expirent-ils ? Pendant combien de temps sont-ils bons ?
+
+Les bons d’examen d’Adobe expirent 12 mois après l’achat. Les bons ne peuvent pas être étendus au-delà de leur date d’expiration. Les inscriptions aux examens doivent être planifiées, payées et prises avant la date d’expiration du bon d’examen.
+
++++
+
++++Les bons peuvent-ils être remboursés ou crédités ?
+
+_Toutes les ventes sont finales._ Les retours et les remboursements ne sont pas acceptés. Les bons d’examen d’Adobe sont achetés à un niveau d’examen, et non pour des examens spécifiques, ce qui offre une certaine flexibilité.
+
+* Exemple : lorsque vous achetez 10 bons d’examen de niveau Adobe Certified Expert et que vous les distribuez, vous n’avez pas besoin de savoir à l’avance qui va passer l’examen d’expert.
+* Les administrateurs peuvent affecter le bon à un utilisateur et déterminer si le bon a été affiché, consommé ou à quel moment l’examen est programmé ou a eu lieu.
+
++++
+
++++Quels types de paiements sont acceptés ?
+
+Le paiement peut être effectué par (toutes les principales) cartes de crédit. Les paiements par carte de crédit nécessitent l’acceptation d’un accord de retour automatique à la ligne. Les différentes options de paiement sont les suivantes :
+
+* Wire, bon de commande ou ACH : créez un bon de commande dans le système Xvoucher qui peut être imprimé et envoyé au service des comptes créditeurs. Cette ordonnance sera approuvée à réception du transfert ou de la vérification de transfert de fil.
+* Carte de crédit : toutes les principales cartes de crédit sont acceptées.
+* XWallet : cela soustrait le montant de la commande de votre pool XWallet.
+
++++
+
++++Y a-t-il un nombre minimal ou maximal de bons que je peux acheter ?
+
+Non, il n’y a pas de minimum ou de maximum. Les achats des clients ne sont limités que par les fonds disponibles, comme une limite de carte de crédit ou le solde du compte bancaire pour les transferts bancaires.
+
++++
+
++++Combien de temps faudra-t-il pour accéder aux bons après ma commande ?
+
+Les bons seront disponibles immédiatement après l’achat si vous payez par carte de crédit ou par Xwallet.
+
+* Si vous effectuez votre achat vous-même, les codes de bons seront fournis à l’écran et par e-mail.
+* Si vous achetez pour d’autres personnes, connectez-vous à votre compte Xvoucher et distribuez les bons à vos utilisateurs finaux à partir de celui-ci.
+* Si vous payez par câble ou par commande, les bons de commande seront émis lorsque Xvoucher aura reçu les fonds.
+
+[Aide en ligne](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++Comment accéder à mon compte Xvoucher ?
+
+Connectez-vous simplement à votre compte [here](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++Comment accéder à mon bon d’Adobe ?
+
+Une fois qu’un bon vous a été attribué, vous recevrez un courrier électronique de support@xvoucher.com avec un code de bon et des instructions sur la manière de l’échanger. Si vous n’avez pas reçu de courrier électronique, vérifiez votre dossier de messages indésirables. Si vous ne parvenez toujours pas à trouver l’email, vous pouvez vous connecter à votre compte Xvoucher.
+
++++
+
++++Les bons peuvent-ils être remboursés ou crédités ?
+
+Toutes les ventes sont finales. Les retours et les remboursements ne sont pas acceptés. Les bons d’examen d’Adobe sont achetés à un niveau d’examen, et non pour des examens spécifiques, ce qui offre une grande flexibilité.
 
 +++
 
