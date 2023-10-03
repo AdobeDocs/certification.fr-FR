@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Expert]
 
-Vous devez actuellement être certifié (non expiré) dans :
+## Vous devez actuellement être certifié (non expiré) dans :
 
 * expert du métier de Adobe Marketo Engage
 
