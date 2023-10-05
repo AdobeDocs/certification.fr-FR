@@ -6,24 +6,26 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '339'
 ht-degree: 3%
 
 ---
 
 # Renouveler votre certification {#renew}
 
-Pour conserver votre certification d’Adobe, vous devez la renouveler tous les 24 mois. Si vous ne renouvelez pas votre certification dans les délais impartis, son expiration sera effective et vous devrez passer à nouveau l’examen complet de certification pour être récertifié.
+Pour maintenir votre certification d&#39;Adobe, vous devez la renouveler tous les 2 ans. Si vous ne renouvellez pas votre certification avant qu’elle n’expire, vous devrez à nouveau passer l’examen de certification complet pour être récertifié.
 
-Pour éviter toute interruption de votre statut de certification, veuillez suivre votre date de renouvellement de certification et vous assurer que vous avez terminé le processus de renouvellement avant la date d’expiration.
-
-Consultez vos certifications actuelles et expirées sous l’onglet certifications , dans la [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Affichez vos certifications actuelles et expirées sous le **Certifications** , dans le [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Comment renouveler ma certification ?
 
-Renouveler votre certification d&#39;Adobe est facile ! En fonction de votre niveau de certification, de votre solution ou de votre rôle professionnel, vous terminerez votre renouvellement en effectuant des activités d’apprentissage continu et en réussissant des évaluations, ou en passant un examen de rôle professionnel non traité et à la demande.
+Renouveler votre certification d&#39;Adobe est facile ! Selon la certification que vous détenez, vous terminerez votre renouvellement en menant des activités d’apprentissage continu et en réussissant des évaluations, ou en réussissant un examen de rôle d’emploi non rémunéré et à la demande.
+
+## Ressources d&#39;étude
+
+Avec l’aide de l’Adobe, le renouvellement d’une certification Adobe Experience Cloud est un processus simple qui vous permet de maintenir votre expertise et de rester compétitif sur le marché numérique.
 
 Adobe propose diverses ressources et outils pour vous aider à renouveler votre certification, notamment :
 
@@ -33,24 +35,21 @@ Adobe propose diverses ressources et outils pour vous aider à renouveler votre 
 
 ## Combien cela coûte-t-il ?
 
-Vous pouvez renouveler votre certification **gratuit**. Vous disposez ainsi d’un moyen économique de maintenir votre certification et de maintenir à jour vos compétences en solution.
+La plupart des certifications peuvent être renouvelées **gratuit**. Certaines certifications ne disposent pas encore d’une option de renouvellement gratuite. Pour renouveler ces certifications, vous devrez passer à nouveau l’examen de certification complet.
 
-Avec l’aide et les ressources de l’Adobe, le renouvellement d’une certification Adobe Experience Cloud est un processus simple qui vous permet de maintenir votre expertise et de rester compétitif sur le marché numérique.
+## Options de renouvellement gratuit
 
-## Options de renouvellement disponibles
+Les certifications trouvées sous les liens ci-dessous peuvent être renouvelées gratuitement, soit par un apprentissage continu, soit en passant un examen de renouvellement à la demande. Si vous ne trouvez pas votre certification ici, vous devrez la renouveler en reprenant l’examen de certification complet.
 
-Vous pouvez maintenant renouveler votre certification soit par l’apprentissage continu, soit en passant un examen de renouvellement à la demande. Pour savoir comment renouveler votre certification actuelle avant qu’elle n’expire, sélectionnez une solution ci-dessous.
 
-### Solutions
-
-* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
-* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
-* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html){target="_blank"}
+* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
+* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
 
 ## Questions
