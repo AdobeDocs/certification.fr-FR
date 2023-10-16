@@ -2,10 +2,10 @@
 title: Présentation de la certification du Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
-exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '101'
 ht-degree: 1%
 
 ---
@@ -34,31 +34,6 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 
 **Maître**
 
->[!NOTE]
->
->La variable **Examen de Principal de Adobe Experience Manager Architect Sites (AD0-E117)** est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
->
->**Questions ?** Voir notre [FAQ](#AEM-FAQ) au bas de cette page.
-
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-
-
-## Questions fréquentes sur l’Principal d’architecte Adobe Experience Manager Sites (AD0-E117) {#AEM-FAQ}
-
-L’examen de certification AD0-E117 est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
-
-**Que se passe-t-il si j&#39;ai déjà programmé mon examen ?**
-
-Tous les examens AD0-E117 programmés ont été annulés. Les candidats qui sont affectés devront planifier à nouveau l’examen lorsque la nouvelle version est disponible.
-
-**J&#39;ai déjà payé l&#39;examen. Vais-je recevoir un remboursement ?**
-
-* Si vous avez payé votre examen avec une carte de crédit via l&#39;examen, vous serez entièrement remboursé.  
-* Si vous avez payé avec un bon, votre code sera réinitialisé et vous pourrez l’appliquer à votre nouveau rendez-vous d’examen.  
-* Si votre bon expire avant que vous ne puissiez l’utiliser, nous vous enverrons un nouveau bon une fois que vous êtes prêt à le planifier.
-
-**Je dois renouveler ma certification avant octobre ; cela aura-t-il une incidence sur mon renouvellement ?**
-
-Non. Vous pourrez vous renouveler grâce à l&#39;apprentissage continu. Veillez à suivre les instructions et le processus fournis sous [Renouveler votre certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
+Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.

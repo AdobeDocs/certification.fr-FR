@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 11%
+source-wordcount: '2061'
+ht-degree: 12%
 
 ---
 
@@ -102,7 +102,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 1**
 
 * [Cookies Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=fr)
-* [Ajout d’un élément de données, d’une règle et d’une bibliothèque](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Ajout d’un élément de données, d’une règle et d’une bibliothèque](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html?lang=fr){target="_blank"}
 * [Ajouter du code incorporé](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=fr){target="_blank"}
 
 **Section 2**
@@ -147,11 +147,96 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 +++
 
-+++[!DNL Adobe Analytics] Professionnel professionnel
+## Instructions pour renouveler votre certification :
+
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
+
+### Préparer
+
+**Détails de l’examen :**
+
+* Score de transmission : 26/35
+* Durée : 70 minutes
+* Coût : GRATUIT/non-traité
+* Diffusion : On-demand
+* Langues disponibles : anglais
+* Condition préalable : certification professionnelle actuelle (non expirée) du professionnel de l’entreprise Adobe Analytics
+* ID d’examen : AD5-E832
+
+**Portée et objectifs**
+
+Section 1 : Analyse des activités
+
+1.1 Compte tenu des besoins et des questions de l’entreprise, identifiez la stratégie de création de rapports la plus appropriée afin d’effectuer une analyse 4 % 1.2 Analysez les données pour répondre aux questions de l’entreprise et recommandez de nouvelles hypothèses d’optimisation 4 % 1.3 Identifiez les entonnoirs de conversion (comme concept pour comprendre l’analyse de l’entreprise) 4 % 1.4 Interpréter la référence de conception de solution (DTS) pour déterminer les données) pour déterminer les données disponibles dans les rapports 4 % 1.5 % 1.5 Recherche des valeurs aberrantes et des anomalies dans les rapports 4 %
+
+Section 2 : Création de rapports et tableau de bord pour les projets
+
+2.1 Tenez compte des avantages de l’utilisation d’un outil de création de rapports basé sur un scénario donné 2 % 2.2 Comparer la visualisation Abandons et Flux et les types de variables appropriés pour la création de rapports 4 % 2.3 Appliquez le processus pour planifier des projets et Data Warehouse 2 % 2.4 Appliquez le processus pour partager les projets et les tableaux de bord Rapports et analyses pour différents utilisateurs et/ou groupes (le partage a changé) 2.5 processus de recherche des dimensions/composants (prédéfinis et personnalisés) 4 % 2.7 Appliquez le processus pour créer une visualisation 6 % 2.8 Dans un scénario, déterminez l’élément approprié à utiliser 6 % 2.9 Appliquez le processus pour créer, configurer et utiliser des Fiches d’évaluation mobiles 2 %
+
+Section 3 : Segmentation et mesures calculées
+
+3.1 Déterminer comment développer et configurer des segments à l’aide des bonnes pratiques 6 % 3.2 Appliquer le processus pour partager des segments avec d’autres membres de l’organisation 4 % 3.3 Comparer des segments 4 % 3.4 Appliquer des segments aux projets et aux composants 4 % 3.5 Appliquer le processus pour générer des mesures calculées et/ou segmentées 4 %
+
+Section 4 : Connaissances générales de l’outil et dépannage
+
+4.1 Analyser les rapports et différencier un problème de qualité des données par rapport à un problème d’implémentation 4 % 4.2 Définir différents types de dimensions et de paramètres existant dans Adobe Analytics (evars, props et événements) 4 % 4.3 Déterminer comment importer des données dans et hors d’Adobe Analytics 2 % 4.4 Identifier les informations provenant des URL marketing 2 %
+
+Section 5 : Administration
+
+5.1 Appliquez le processus de configuration des rapports Canal marketing avec les règles de traitement Canal marketing 2 % 5.2 Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles 2 % 5.3 Appliquez le processus de configuration d’une suite de rapports virtuelle à partir d’un segment existant 2 % 5.4 Utilisez l’interface utilisateur d’administration du Gestionnaire de flux de données 2 % 5.5 Compréhension de la gouvernance des données 2 %
+
+## Effectuer la préparation
+
+Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
+
+Voici quelques suggestions de ressources pour vous aider à préparer :
+
+Section 1
+
+[Analyse des contributions - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=fr)
+[Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
+[Entonnoir de conversion](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Dimensions d’entrée](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Section 2
+
+[Partage de projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=fr)
+[Présentation des composants](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=fr)
+[Générateur d’alertes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Création d’une fiche d’évaluation mobile](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=fr)
+
+Section 3
+
+[Comparaison des segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=fr)
+[Créer des mesures](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr)
+[Utilisation de filtres de liste déroulante dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=fr)
+[Balisage des segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Section 4
+
+[Dépannage des pics et des baisses de données](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Événements personnalisés](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=fr)
+[Téléchargement de fichiers PDF ou CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=fr)
+[Guide des paramètres d’URL pour les débutants](https://www.semrush.com/blog/url-parameters/)
+
+Section 5
+
+[Règles de traitement des canaux marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Présentation des classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=fr)
+[Création de suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=fr)
+[FAQ sur les réglementations relatives à la confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Renouveler votre certification
+
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien AD5-E832 Adobe Analytics Business Practice Renewal Exam (AD5-E832) ci-dessous.
+
+* [AD5-E832 Examen de renouvellement professionnel du professionnel du professionnel des professionnels d’Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Renouvellement bientôt disponible.
+>Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 +++
 
