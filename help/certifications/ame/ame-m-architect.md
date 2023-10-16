@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 1%
+source-wordcount: '886'
+ht-degree: 2%
 
 ---
 
@@ -31,6 +31,10 @@ Le programme Adobe Credential a lancé un nouvel Adobe. [!DNL Marketo Engage] Fa
 <br>
 
 ### Détails de l’examen {#exam-details}
+
+>[!IMPORTANT]
+>
+>Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification afin de prendre l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
 
 * Condition préalable : Adobe Certified Expert - [!DNL Marketo Engage] Expert spécialiste des affaires
 * Niveau : Principal (3 à 5 ans d’expérience)
@@ -209,6 +213,10 @@ En outre, vous devez connaître les outils et technologies suivants :
 {{about-certification-exam}}
 
 ## Planification ou prise de l’examen AD0-E556
+
+>[!IMPORTANT]
+>
+>Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification afin de prendre l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
