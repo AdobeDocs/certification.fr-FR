@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 12%
 
 ---
 
-# Renouvelez votre [!DNL Adobe Analytics] certification
+# Renouveler votre Adobe [!DNL Analytics] certification
 
 Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
 
@@ -32,7 +32,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Professionnel]
 
-+++[!DNL Adobe Analytics] Professionnel du développement
++++Adobe [!DNL Analytics] Professionnel du développement
 
 ## Instructions pour renouveler votre certification :
 
@@ -146,6 +146,8 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 >Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 +++
+
++++Adobe [!DNL Analytics] Professionnel professionnel
 
 ## Instructions pour renouveler votre certification :
 
