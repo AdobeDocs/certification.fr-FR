@@ -6,16 +6,20 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 17%
+source-wordcount: '673'
+ht-degree: 15%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Journey Optimizer] Développeur expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ajo-e-developer-23-10.md).
 
 ## Description de l’export {#exam-description}
 
@@ -162,7 +166,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 * [Présentation de l’Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=fr){target="_blank"}
 * [Prise en main d’Adobe [!DNL Experience Platform] cours destiné aux ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=fr){target="_blank"}
 * [Cours sur l’ingestion de données pour les ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=fr){target="_blank"}
-* [Plans directeurs de l’expérience digitale](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
+* [Plans directeurs d’expérience digitale](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
 
 **Section 3 : Offer decisioning**
 
@@ -224,6 +228,10 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 {{about-certification-exam}}
 
 ## Planification ou prise de l’examen AD0-E603
+
+>[!NOTE]
+>
+>Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
