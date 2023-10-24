@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 9%
@@ -33,7 +34,7 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 * Il doit avoir expiré entre le 1er janvier 2020 et le 23 avril 2023.
 * Il doit s’agir d’un expert ou d’un Principal.
-* Il doit avoir un examen actuel disponible. (Si la certification n’a plus de principal examen, elle n’est pas éligible au programme de redémarrage.)
+* Il doit avoir un examen actuel disponible. (Si la certification ne comporte plus d’examen actif, elle n’est pas éligible au programme de redémarrage.)
 * Il doit apparaître dans la liste des certifications éligibles ci-dessous :
 
 +++Afficher les certifications éligibles
@@ -416,7 +417,7 @@ L’examen de redémarrage du Principal Adobe Audience Manager Architect ADS-E82
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
 * Coût : GRATUIT
-* ID d’examen : ADS-E821 - Redémarrage de l’expert développeur Adobe Campaign Standard
+* ID d’examen : ADS-E821 - Redémarrage de l’expert du développeur Adobe Campaign Standard
 
 **Portée et objectifs :**
 
@@ -479,7 +480,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Tracking et suivi d&#39;une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
 * [Synthèse des diffusions](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
 * [Découvrir le concepteur d’email (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [Concepteur d&#39;e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
+* [Concepteur d’e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
 * [Personnaliser vos rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 * [Prise en main des rapports dynamiques](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr){target="_blank"}
 
