@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6790d5bdc7a3a8f77463f917c169f2c202d1438b
+source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 **Détails de l’examen :**
 
-* Score de transmission : 25/34
+* Score de transmission : 26/34
 * Durée : 68 minutes
 * Coût : GRATUIT/non-traité
 * Diffusion : On-demand
@@ -239,7 +239,7 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 **Détails de l’examen :**
 
-* Score de transmission : 25/35
+* Score de transmission : 27/35
 * Durée : 70 minutes
 * Coût : GRATUIT/non-traité
 * Diffusion : On-demand
