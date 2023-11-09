@@ -1,10 +1,10 @@
 ---
 title: Certificats techniques experts
 description: Présentation des options de certification pour les utilisateurs experts
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 35%
+ht-degree: 53%
 
 ---
 
@@ -41,11 +41,11 @@ ht-degree: 35%
 
 **Experience Manager**
 
-* [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionnels (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [Ops de développement](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Outils de migration de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Marketo Engage**
 
@@ -68,4 +68,3 @@ ht-degree: 35%
 >
 >* [Certificats techniques professionnels](professional.md)
 >* [Certificats techniques de Principal](master.md)
-

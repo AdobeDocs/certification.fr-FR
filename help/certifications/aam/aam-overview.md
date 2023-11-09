@@ -1,17 +1,17 @@
 ---
-title: Présentation de la certification des Audiences Manager
+title: Présentation d’Audience Manager
 description: Présentation des options de certification pour Adobe Audience Manager
 solution: Audience Manager
 product: Audience Manager
-exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: aeeef127-446c-4d22-8791-b93ea755545a
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
-# Présentation de la certification Adobe Audience Manager
+# Présentation de l’extension Adobe Audience Manager
 
 **Professionnel**
 

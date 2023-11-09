@@ -3,10 +3,10 @@ title: Présentation de la certification du Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -26,11 +26,11 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 
 **Expert**
 
-* [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionnels (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [Ops de développement](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Outils de migration de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Maître**
 

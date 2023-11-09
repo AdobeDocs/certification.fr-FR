@@ -3,15 +3,15 @@ title: Présentation de la certification Analytics
 description: Présentation des options de certification pour Adobe Analytics
 solution: Analytics
 product: Analytics
-exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 12%
+ht-degree: 21%
 
 ---
 
-# Présentation de la certification Adobe Analytics
+# Présentation de lʼextension Adobe Analytics
 
 **Professionnel**
 
