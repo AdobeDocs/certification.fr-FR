@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 >[!BEGINTABS]
 
 >[!TAB Professionnel]
+
+>[!NOTE]
+>
+>La méthode de renouvellement de l’apprentissage continu pour toutes les certifications professionnelles Adobe Commerce sera : **arrêté le 10 novembre 2023**. Un renouvellement gratuit sera toujours disponible pour ces certifications par le biais d’examens de renouvellement.
 
 ## Un renouvellement gratuit de l’apprentissage continu est disponible pour :
 
