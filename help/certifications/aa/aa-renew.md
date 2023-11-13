@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2067'
-ht-degree: 12%
+source-wordcount: '2098'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,10 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 >[!TAB Professionnel]
 
 +++Adobe [!DNL Analytics] Professionnel du développement
+
+## Pour renouveler, vous devez disposer de la certification active suivante :
+
+* Adobe [!DNL Analytics] Professionnel du développement
 
 ## Instructions pour renouveler votre certification :
 
@@ -149,13 +153,17 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 +++Adobe [!DNL Analytics] Professionnel professionnel
 
+## Vous devez disposer des éléments suivants : **active** certification à renouveler à l’aide de cette méthode :
+
+* Adobe [!DNL Analytics] Professionnel professionnel
+
 ## Instructions pour renouveler votre certification :
 
 * **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
 * **Étape 2**: revoir les objectifs et les ressources de l’examen ;
 * **Étape 3**: réussir l’examen
 
-### Préparer
+## Préparer
 
 **Détails de l’examen :**
 
@@ -171,23 +179,47 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 Section 1 : Analyse des activités
 
-1.1 Compte tenu des besoins et des questions de l’entreprise, identifiez la stratégie de création de rapports la plus appropriée afin d’effectuer une analyse 4 % 1.2 Analysez les données pour répondre aux questions de l’entreprise et recommandez de nouvelles hypothèses d’optimisation 4 % 1.3 Identifiez les entonnoirs de conversion (comme concept pour comprendre l’analyse de l’entreprise) 4 % 1.4 Interpréter la référence de conception de solution (DTS) pour déterminer les données) pour déterminer les données disponibles dans les rapports 4 % 1.5 % 1.5 Recherche des valeurs aberrantes et des anomalies dans les rapports 4 %
+* 1.1 Compte tenu des besoins et des questions de l’entreprise, identifiez la stratégie de création de rapports la plus appropriée pour effectuer une analyse 4 %
+* 1.2 Analyser les données pour répondre aux questions de l’entreprise et recommander de nouvelles hypothèses d’optimisation 4 %
+* 1.3 Identification des entonnoirs de conversion (concept pour comprendre l’analyse commerciale) 4 %
+* 1.4 Interprétation de la référence de conception de solution (DTS) pour déterminer les données disponibles dans les rapports 4 %
+* 1.5 Analyse des données du rapport pour résumer et tirer des conclusions 6 %
+* 1.6 Recherche des valeurs aberrantes et des anomalies dans les rapports 4 %
 
 Section 2 : Création de rapports et tableau de bord pour les projets
 
-2.1 Tenez compte des avantages de l’utilisation d’un outil de création de rapports basé sur un scénario donné 2 % 2.2 Comparer la visualisation Abandons et Flux et les types de variables appropriés pour la création de rapports 4 % 2.3 Appliquez le processus pour planifier des projets et Data Warehouse 2 % 2.4 Appliquez le processus pour partager les projets et les tableaux de bord Rapports et analyses pour différents utilisateurs et/ou groupes (le partage a changé) 2.5 processus de recherche des dimensions/composants (prédéfinis et personnalisés) 4 % 2.7 Appliquez le processus pour créer une visualisation 6 % 2.8 Dans un scénario, déterminez l’élément approprié à utiliser 6 % 2.9 Appliquez le processus pour créer, configurer et utiliser des Fiches d’évaluation mobiles 2 %
+* 2.1 Tenir compte des avantages de l’utilisation d’un outil de reporting basé sur un scénario donné 2 %
+* 2.2 Comparaison de la visualisation Abandons et Flux et des types de variables appropriés pour la création de rapports 4 %
+* 2.3 Appliquez le processus pour planifier des projets et Data Warehouse 2 %
+* 2.4 Application du processus de partage des tableaux de bord Projets et Rapports et analyses pour différents utilisateurs et/ou groupes (le partage a changé) 2 %
+* 2.5 Application du processus pour définir les alertes 2 %
+* 2.6 Appliquez le processus pour rechercher les dimensions/composants (prédéfinis et personnalisés) 4 %
+* 2.7 Appliquez le processus pour créer une visualisation à 6 %
+* 2.8 Dans le cas d’un scénario, déterminez l’élément approprié pour utiliser 6 %.
+* 2.9 Appliquez le processus pour créer, configurer et utiliser des Fiches d’évaluation mobiles 2 %
 
 Section 3 : Segmentation et mesures calculées
 
-3.1 Déterminer comment développer et configurer des segments à l’aide des bonnes pratiques 6 % 3.2 Appliquer le processus pour partager des segments avec d’autres membres de l’organisation 4 % 3.3 Comparer des segments 4 % 3.4 Appliquer des segments aux projets et aux composants 4 % 3.5 Appliquer le processus pour générer des mesures calculées et/ou segmentées 4 %
+* 3.1 Déterminer comment développer et configurer des segments à l’aide des bonnes pratiques 6 %
+* 3.2 Application du processus pour partager des segments avec d’autres membres de l’organisation 4 %
+* 3.3 Comparaison des segments 4 %
+* 3.4 Application de segments aux projets et aux composants 4 %
+* 3.5 Appliquez le processus pour générer des mesures calculées et/ou segmentées 4 %
 
 Section 4 : Connaissances générales de l’outil et dépannage
 
-4.1 Analyser les rapports et différencier un problème de qualité des données par rapport à un problème d’implémentation 4 % 4.2 Définir différents types de dimensions et de paramètres existant dans Adobe Analytics (evars, props et événements) 4 % 4.3 Déterminer comment importer des données dans et hors d’Adobe Analytics 2 % 4.4 Identifier les informations provenant des URL marketing 2 %
+* 4.1 Analyse des rapports et différenciation d’un problème de qualité des données par rapport à un problème d’implémentation 4 %
+* 4.2 Définition de différents types de dimensions et de paramètres existant dans Adobe Analytics (evars, props et événements) 4 %
+* 4.3 Déterminer comment importer et exporter des données dans Adobe Analytics 2 %
+* 4.4 Identifier les informations provenant des URL marketing 2 %
 
 Section 5 : Administration
 
-5.1 Appliquez le processus de configuration des rapports Canal marketing avec les règles de traitement Canal marketing 2 % 5.2 Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles 2 % 5.3 Appliquez le processus de configuration d’une suite de rapports virtuelle à partir d’un segment existant 2 % 5.4 Utilisez l’interface utilisateur d’administration du Gestionnaire de flux de données 2 % 5.5 Compréhension de la gouvernance des données 2 %
+* 5.1 Application de la procédure de configuration des rapports Canal marketing avec les règles de traitement Canal marketing 2 %
+* 5.2 Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles 2 %
+* 5.3 Appliquez le processus de configuration d’une suite de rapports virtuelle en fonction d’un segment existant : 2 %
+* 5.4 Utilisation de 2 % de l’interface utilisateur d’administration du Gestionnaire de flux de données
+* 5.5 Compréhension de la gouvernance des données 2 %
 
 ## Effectuer la préparation
 
@@ -195,40 +227,40 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-Section 1
+**Section 1**
 
-[Analyse des contributions - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=fr)
-[Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
-[Entonnoir de conversion](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
-[Dimensions d’entrée](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+* [Vue d’ensemble de l’analyse des contributions](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=fr)
+* [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
+* [Entonnoir de conversion](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Dimensions d’entrée](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-Section 2
+**Section 2**
 
-[Partage de projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=fr)
-[Présentation des composants](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=fr)
-[Générateur d’alertes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
-[Création d’une fiche d’évaluation mobile](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=fr)
+* [Partage de projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=fr)
+* [Aperçu des composants](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=fr)
+* [Générateur d’alertes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Création dʼune carte de performance mobile](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=fr)
 
-Section 3
+**Section 3**
 
-[Comparaison des segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=fr)
-[Créer des mesures](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr)
-[Utilisation de filtres de liste déroulante dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=fr)
-[Balisage des segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [Comparaison des segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=fr)
+* [Création de mesures](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr)
+* [Utilisation de filtres déroulants dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=fr)
+* [Balisage des segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-Section 4
+**Section 4**
 
-[Dépannage des pics et des baisses de données](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-[Événements personnalisés](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=fr)
-[Téléchargement de fichiers PDF ou CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=fr)
-[Guide des paramètres d’URL pour les débutants](https://www.semrush.com/blog/url-parameters/)
+* [Résolution des problèmes liés aux pics et aux baisses de données](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Événements personnalisés](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=fr)
+* [Téléchargement de fichiers PDF ou CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=fr)
+* [Guide des paramètres d’URL pour les débutants](https://www.semrush.com/blog/url-parameters/)
 
-Section 5
+**Section 5**
 
-[Règles de traitement des canaux marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-[Présentation des classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=fr)
-[Création de suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=fr)
-[FAQ sur les réglementations relatives à la confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+* [Règles de traitement des canaux marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Présentation des classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=fr)
+* [Création des suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=fr)
+* [FAQ sur les réglementations relatives à la confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## Renouveler votre certification
 
@@ -244,7 +276,7 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 >[!TAB Experts et Principal]
 
-## Vous devez avoir au moins l’un des éléments suivants : **active** certifications à renouveler :
+## Vous devez avoir au moins l’un des éléments suivants : **active** certification à renouveler à l’aide de cette méthode :
 
 * Expert développeur d’Adobe Analytics
 * Expert spécialiste des affaires Adobe Analytics

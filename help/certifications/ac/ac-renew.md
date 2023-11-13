@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2490'
+source-wordcount: '2044'
 ht-degree: 2%
 
 ---
@@ -32,73 +32,19 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Professionnel]
 
->[!NOTE]
->
->La méthode de renouvellement de l’apprentissage continu pour toutes les certifications professionnelles Adobe Commerce sera : **arrêté le 10 novembre 2023**. Un renouvellement gratuit sera toujours disponible pour ces certifications par le biais d’examens de renouvellement.
++++ Adobe [!DNL Commerce] Professionnel professionnel
 
-## Un renouvellement gratuit de l’apprentissage continu est disponible pour :
+## Vous devez disposer des éléments suivants : **active** certification à renouveler à l’aide de cette méthode :
 
-[!DNL Adobe Commerce] Professionnel professionnel
-[!DNL Adobe Commerce] Professionnel du développement
-[!DNL Adobe Commerce] Responsable du développement front-end
+* Adobe [!DNL Commerce] Professionnel professionnel
 
-+++Affichage des détails de l’apprentissage continu
-
-### Vous devez avoir au moins l’un des éléments suivants : **active** certifications à renouveler :
-
-* [!DNL Adobe Commerce] Professionnel professionnel
-* [!DNL Adobe Commerce] Professionnel du développement
-* [!DNL Adobe Commerce] Responsable du développement front-end
-
-### Instructions pour renouveler votre [!DNL Adobe Commerce] certification
-
-* **Étape 1 :** Connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2 :** Étudier les cours en Experience League
-* **Étape 3 :** Choisissez l’une des options ci-dessous pour terminer votre renouvellement.
-
-  **Option A :**
-Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
-
-  **Option B :**
-Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
-
-  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures d’engagement de projet démontré pendant l’intervalle de 2 ans du renouvellement de certification.
-
-  [Formulaire de référence client pour [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
-
-  L’équipe Informations d’identification de l’Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
-
->[!NOTE]
->
->Si plusieurs [!DNL Adobe Commerce] certifications expertes et Principal, satisfaire aux exigences de renouvellement d’une seule certification, le reste étant renouvelé automatiquement.
-
-### Cours et évaluations de cours pour les professionnels :
-
-| Cours pour professionnels | Évaluation du cours |
-| ------- | ------- |
-| [Adobe [!DNL Commerce] Tendances du commerce électronique](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] Personnalisation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] Automatisation de l’IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]: intégrations de données à Experience Platform et au-delà](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]: Commerce composite sur Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
-
-+++
-
-## Le renouvellement gratuit et à la demande des examens est disponible pour l’Adobe [!DNL Commerce] Professionnel professionnel
-
-+++Affichage des détails de l’examen
-
-### Vous devez disposer des éléments suivants : **active** certification à renouveler à l’aide de cette méthode :
-
-Professionnel du commerce Adobe Commerce
-
-### Instructions pour renouveler votre certification :
+## Instructions pour renouveler votre certification :
 
 * **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
 * **Étape 2**: revoir les objectifs et les ressources de l’examen ;
 * **Étape 3**: réussir l’examen
 
-### Préparer
+## Préparer
 
 **Détails de l’examen :**
 
@@ -112,21 +58,36 @@ Professionnel du commerce Adobe Commerce
 
 **Portée et objectifs :**
 
-**Section 1 : Fonctionnalités principales du Magento Open Source (54 %)**
+Section 1 : Fonctionnalités principales du Magento Open Source (54 %)
 
-Identifier les fonctionnalités du Magento Open Source Identifier la portée correcte et à quel moment utiliser chaque démonstration Connaissance de la gestion du catalogue Manipuler la tarification à l’aide des fonctionnalités du Magento Open Source Décrire le parcours client standard Décrire le cycle de vie de la commande standard Décrire les tâches quotidiennes impliquées dans la maintenance du magasin Expliquer les différents types d’éléments de contenu et quand utiliser
+* Identifier les fonctionnalités de Magento Open Source
+* Déterminer la portée correcte et le moment d’utilisation de chaque
+* Faire la démonstration de la connaissance de la gestion des catalogues
+* Manipulation des tarifs à l’aide des fonctionnalités de Magento Open Source
+* Décrire le parcours client standard
+* Décrire le cycle de vie standard d’une commande
+* Décrire les tâches quotidiennes impliquées dans la maintenance du magasin
+* Expliquer les différents types d’éléments de contenu et quand utiliser
 
-**Section 2 : Concepts de base d’Adobe Commerce (14 %)**
+Section 2 : Concepts de base d’Adobe Commerce (14 %)
 
-Identifier les fonctionnalités clés disponibles dans Adobe Commerce Identifier les modules complémentaires de service dans Adobe Commerce Identifier les options d’hébergement pour Adobe Commerce
+* Identifier les fonctionnalités clés disponibles dans Adobe Commerce
+* Identification des modules complémentaires de service dans Adobe Commerce
+* Identification des options d’hébergement pour Adobe Commerce
 
-**Section 3 : Principes fondamentaux du marketing numérique et du commerce électronique (22 %)**
+Section 3 : Principes fondamentaux du marketing numérique et du commerce électronique (22 %)
 
-Identifier les principales fonctionnalités disponibles dans Adobe Commerce Identifier les modules complémentaires de service dans Adobe Commerce Identifier les options d’hébergement pour Adobe Commerce Identifier les principales fonctionnalités d’un site web d’e-commerce Identifier les concepts de base d’e-commerce
+* Identifier les fonctionnalités clés disponibles dans Adobe Commerce
+* Identification des modules complémentaires de service dans Adobe Commerce
+* Identification des options d’hébergement pour Adobe Commerce
+* Identifier les fonctionnalités clés d’un site web d’e-commerce
+* Identifier les concepts de base d’eCommerce
 
-**Section 4 : Principes de conformité/sécurité (10 %)**
+Section 4 : Principes de conformité/sécurité (10 %)
 
-Comprendre les principes de base de la conformité aux lois sur la confidentialité et à la sécurité des paiements Identifier les aspects de sécurité communs d’un projet Adobe Commerce Identifier les bonnes pratiques et les exigences juridiques de la conformité à l’accessibilité
+* Comprendre les principes de base de la conformité aux lois sur la confidentialité et à la sécurité des paiements
+* Identifier les aspects de sécurité courants d’un projet Adobe Commerce
+* Identifier les bonnes pratiques et les exigences légales relatives à la conformité à l’accessibilité
 
 ### Effectuer la préparation
 
@@ -136,10 +97,10 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 1**
 
-* [Guide de conception et de contenu d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=fr){target="_blank"}
+* [ [!DNL Commerce] Guide de conception et de contenu d’Adobe ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=fr){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Guide de gestion des catalogues Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=fr){target="_blank"}
-* [Guide d’expérience des achats et des magasins Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
 * [Marque storefront](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [Ajout de variables de client](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [Règles de prix du panier](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
@@ -168,10 +129,10 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 4**
 
 * [RGPD](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Bonnes pratiques relatives à la sécurité dans Adobe Commerce](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [Adobe [!DNL Commerce] Bonnes pratiques en matière de sécurité](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
 * [Comment rendre votre site web d’e-commerce plus conforme](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-### Renouveler votre certification
+## Renouveler votre certification
 
 Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des professionnels :
 
@@ -192,21 +153,19 @@ Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des pr
 
 +++
 
-## Le renouvellement gratuit et à la demande des examens est disponible pour l’Adobe [!DNL Commerce] Professionnel du développement
++++Adobe [!DNL Commerce] Professionnel du développement
 
-+++Affichage des détails de l’examen
-
-### Vous devez actuellement être certifié (non expiré) dans :
+## Vous devez disposer des éléments suivants : **active** certification à renouveler à l’aide de cette méthode :
 
 Adobe [!DNL Commerce] Professionnel du développement
 
-### Instructions pour renouveler votre certification :
+## Instructions pour renouveler votre certification :
 
 * **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
 * **Étape 2**: revoir les objectifs et les ressources de l’examen ;
 * **Étape 3**: réussir l’examen
 
-### Préparer
+## Préparer
 
 **Détails de l’examen :**
 
@@ -222,29 +181,60 @@ Adobe [!DNL Commerce] Professionnel du développement
 
 **Section 1 : Utilisation de l’administrateur (7 %)**
 
-Décrire comment l’ACL fonctionne avec les rôles et les ressources Identifier les composants à utiliser lors de la création ou de la modification de la grille/du formulaire d’administration Identifier les fichiers à utiliser lors de la création d’une configuration de magasin/administrateur et des éléments de menu
+* Décrire comment l’ACL fonctionne avec les rôles et les ressources
+* Identifier les composants à utiliser lors de la création ou de la modification de la grille/du formulaire d’administration
+* Identifiez les fichiers à utiliser lors de la création d’une configuration de magasin/administrateur et d’éléments de menu.
 
 **Section 2 : Architecture (36 %)**
 
-Décrire la structure de fichiers du Magento Décrire les commandes de l’interface de ligne de commande du Magento Décrire la fonctionnalité cron Compte tenu d’un scénario, décrire l’utilisation du fichier di.xml Dans un scénario, créer des contrôleurs Décrire la structure du module Décrire la fonctionnalité d’index Décrire la localisation Décrire la fonctionnalité de module externe, les préférences, les observateurs d’événement et les intercepteurs Décrire les réécritures d’URL Décrire le système de mise en cache du Magento Décrire les magasins, les sites web et les vues de magasin (compréhension de base)
+* Description de la structure de fichiers du Magento
+* Description des commandes de l’interface de ligne de commande du Magento
+* Description de la fonctionnalité cron
+* Dans un scénario, décrivez l’utilisation du fichier di.xml.
+* Dans un scénario, créez des contrôleurs
+* Description de la structure du module
+* Description de la fonctionnalité d’index
+* Description de la localisation
+* Décrire les modules externes, les préférences, les observateurs d’événement et les intercepteurs
+* Description des itinéraires de module personnalisés
+* Description des réécritures d’URL
+* Décrire le système de mise en cache du Magento
+* Décrire les magasins, les sites web et les vues des magasins (compréhension de base)
 
 **Section 3 : EAR/Base de données (17%)**
 
-Dans un scénario, modifiez/ajoutez/supprimez des ensembles d’attributs et/ou des attributs Décrivez différents types d’attributs Dans un scénario, utilisez un schéma DB pour modifier une table de base de données Décrivez les modèles, les modèles de ressources et les collections Décrivez les bases de la valeur d’attribut d’entité (EV)
+* Dans un scénario, modifiez/ajoutez/supprimez des jeux d’attributs et/ou des attributs.
+* Description des différents types d’attributs
+* Dans un scénario, utilisez un schéma DB pour modifier une table de base de données.
+* Décrire les modèles, les modèles de ressources et les collections
+* Description des principes de base de la valeur d’attribut d’entité (EV)
 
 **Section 4 : Disposition/interface utilisateur (18 %)**
 
-Décrire l’utilisation des pages et des blocs CMS Dans un scénario, modifier la mise en page Dans un scénario, modifier le style de page Décrire la structure du thème Dans un scénario, travailler avec des fichiers JavaScript (de base) Décrire l’utilisation frontale des données client
+* Décrire l’utilisation des pages et des blocs CMS
+* Dans un scénario, modifiez la disposition
+* Selon un scénario, modifiez le style de page
+* Décrire la structure du thème
+* Dans un scénario donné, utilisez des fichiers JavaScript (de base).
+* Description de l’utilisation frontale des données client
 
 **Section 5 : Passage en caisse et ventes (12 %)**
 
-Décrire les composants du panier Décrire une règle de promotion du panier Dans un scénario, décrire les modifications de base du passage en caisse Dans un scénario, décrire l’utilisation de base des données du devis Dans un scénario, configurer les méthodes de paiement et d’expédition Dans un scénario, configurer les règles de taxe, les devises, le panier et/ou le passage en caisse
+* Description des composants de panier
+* Description d’une règle de promotion de panier
+* Dans un scénario, décrivez les modifications de base du passage en caisse
+* Dans un scénario, décrivez l’utilisation de base des données de devis.
+* Dans un scénario, configurez les modes de paiement et de livraison
+* Selon un scénario, configurez les règles de taxe, les devises, le panier et/ou le passage en caisse.
 
 **Section 6 : Catalogue (10 %)**
 
-Identifier les bases de la gestion des catégories et du gestionnaire de produits Description des types de produits Description des règles de prix Description des types de prix
+* Identifier les bases de la gestion des catégories et de l’agent de gestion des produits
+* Description des types de produits
+* Description des règles de prix
+* Description des types de prix
 
-### Effectuer la préparation
+## Effectuer la préparation
 
 Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
 
@@ -301,7 +291,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Règles de prix du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
 * [Tarifs des groupes](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
-### Renouveler votre certification
+## Renouveler votre certification
 
 Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des développeurs :
 
