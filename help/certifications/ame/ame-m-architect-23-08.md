@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
+source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 1%
@@ -33,7 +33,7 @@ ht-degree: 1%
 * Condition préalable : Adobe actif (non expiré) [!DNL Marketo Engage] Certification d’experts professionnels
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Certification du praticien
-* Score de transmission : 30/50
+* Score de transmission : 32/50
 * Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais
