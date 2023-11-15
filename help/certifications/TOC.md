@@ -2,10 +2,10 @@
 user-guide-title: Certification Adobe
 breadcrumb-title: Certification Adobe
 user-guide-description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. Découvrez ce que la certification peut vous apporter.
-source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
+source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 47%
+source-wordcount: '255'
+ht-degree: 48%
 
 ---
 
@@ -111,8 +111,7 @@ ht-degree: 47%
       + Expert {#ame-expert}
          + [Professionnel](/help/certifications/ame/ame-e-business.md)
       + Maître {#ame-master}
-         + [Architecte](/help/certifications/ame/ame-m-architect.md)
-         + [Architecte - NEW](/help/certifications/ame/ame-m-architect-23-08.md)
+         + [Architecte](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Renouvellement](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Présentation de Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
