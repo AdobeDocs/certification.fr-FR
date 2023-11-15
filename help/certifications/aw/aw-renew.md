@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Section 1 : Réception et planification (29 %)
 Section 2 : exécuter (59 %)
 
 * Créez des approbations à usage unique Workfront et quand une approbation sera utilisée. (Prenez en compte les approbations de projet et de tâche, les approbations à plusieurs chemins et les approbations à plusieurs étapes.)
-* Dans un scénario, identifiez les informations que les types de date transmettent à un chef de projet. (Tenez compte des dates planifiées, des dates réelles, des dates manuelles, des dates de validation et des dates estimées)
+* Dans un scénario, identifiez les informations que les types de date transmettent à un chef de projet. (Tenez compte des dates prévues, des dates réelles, des dates de validation, des dates estimées)
 * Dans un scénario, déterminez la manière dont les différentes contraintes de tâche affectent la chronologie du projet lorsqu’elles sont utilisées. (Tenez compte de la compréhension des différentes contraintes de tâche, des différentes contraintes de tâche et du moment où les différentes contraintes de tâche sont utilisées).
 * Dans un scénario, indiquez comment trouver des équipes de projet et comment les avertir des affectations de travail, des mises à jour ou de la fin des tâches. (Tenez compte des types de notifications, des notifications de l’équipe de projet, de l’onglet Personnes, des mises à jour des projets/tâches, de quand et pourquoi s’abonner à un objet de travail et de comment modifier des notifications électroniques individuelles)
 * Identifiez les différentes manières de gérer un projet. (Prenez les chutes d’eau, les Agiles, SCRUM et Kanban.)
 * Dans un scénario, décrivez comment fournir aux parties prenantes les informations dont elles ont besoin. (Envisagez d’exporter des rapports, des fichiers, des diffusions récurrentes, etc.)
-* Dans un scénario, déterminez l’impact des types de dates et des durées sur les conditions du projet. (prenez en compte le début planifié, le début prévu, la date de validation des individus, etc.)
+* Dans un scénario, déterminez l’impact des types de dates et des durées sur les conditions du projet. (Tenez compte du début planifié, du début prévu, de la date de validation de l’individu, etc.)
 * Dans un scénario, déterminez comment mettre en oeuvre ou modifier des modifications dans les états personnalisés au niveau du système ou du groupe.
 * Dans un scénario, décrivez les étapes de création d’un rapport et déterminez le type de rapport nécessaire.
 * Dans un scénario, déterminez quand un problème doit être utilisé sur un projet.
