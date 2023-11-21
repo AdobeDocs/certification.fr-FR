@@ -7,16 +7,16 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
 
 # Renouveler votre Adobe [!DNL Audience Manager] certification
 
-Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
 
 Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
 
@@ -26,7 +26,11 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Pour partager un lien :** Si vous souhaitez partager le lien vers un examen ou une évaluation de renouvellement avec un collègue, veuillez créer un lien vers la page de renouvellement globale de l’examen, et non vers l’URL de l’examen lui-même, afin d’éviter tout problème de connexion.
 
 >[!BEGINTABS]
 
@@ -44,25 +48,25 @@ Vous devez actuellement être certifié (non expiré) dans :
 
 ## Instructions pour renouveler votre certification :
 
-* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: Vérification des objectifs et des ressources de l’examen
-* **Étape 3**: Réussir et réussir l&#39;examen
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
 
-### Préparez-vous
+### Préparer
 
 **Détails de l’examen :**
 
-* Niveau : Expert (1-3 ans d&#39;expérience)
+* Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 23/30
-* Heure : 68 minutes
-* Diffusion : On-demand/non-proctored
-* Langues disponibles : Anglais
+* Durée : 68 minutes
+* Diffusion : à la demande/non-traitée
+* Langues disponibles : anglais
 * Coût : GRATUIT
-* ID d’examen : AD5-E826 - Renouvellement d’expert du professionnel Adobe Audience Manager
+* ID d’examen : AD5-E826 - Renouvellement d’expert du métier de Adobe Audience Manager
 
 **Objectifs et portée de l’examen**
 
-**Section 1 : Création et syndication de segment (25 %)**
+**Section 1 : Création et syndication de segments (25 %)**
 
 * Déterminer la méthode appropriée pour créer des segments à l’aide de données 1p/2p/3p à des fins de ciblage et d’analyse
 * Dans un scénario, recommandez des segments pour l’activation qui correspondent aux objectifs de l’entreprise ou de la campagne.
@@ -82,14 +86,14 @@ Vous devez actuellement être certifié (non expiré) dans :
 
 * Dans un scénario, vérifiez les informations de diffusion de l’audience pour vous assurer que la diffusion est planifiée
 * Déterminer la pratique appropriée pour valider les fichiers entrants hors ligne
-* Dans un scénario, déterminez la méthode correcte pour effectuer une vérification de la qualité par rapport à la synchronisation des identifiants.
+* Dans un scénario, déterminez la méthode correcte pour effectuer une AQ par rapport à la synchronisation des identifiants.
 * Déterminer la méthode appropriée pour naviguer et activer à partir de l’Audience Marketplace d’Adobe
 
 **Section 5 : Taxonomie (11%)**
 
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
-* Différence entre les différents types de destinations
+* Différenciation entre les différents types de destinations
 
 ### Effectuer la préparation
 
@@ -106,9 +110,9 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Formation et assistance pour Adobe Experience Cloud](https://helpx.adobe.com/fr/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-**Redémarrez votre certification.**
+**Redémarrer votre certification**
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Cliquez ensuite sur le lien AD5-E826 de Adobe Audience Manager Business Practices Expert (en anglais) pour renouveler votre certification.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Cliquez ensuite sur le lien AD5-E826 de Adobe Audience Manager Business Practices Expert (en anglais) pour renouveler votre certification.
 
 [!BADGE Passer l’examen de renouvellement des experts du métier de Adobe Audience Manager AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -117,7 +121,7 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 >Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 
->[!TAB Master]
+>[!TAB Maître]
 
 Vous devez actuellement être certifié (non expiré) dans :
 
@@ -129,21 +133,21 @@ Vous devez actuellement être certifié (non expiré) dans :
 * **Étape 2** - Examiner les ressources
 * **Étape 3** - Effectuer et réussir l&#39;examen
 
-### Préparez-vous
+### Préparer
 
 **Détails de l’examen :**
 
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Score de transmission : 22/29
-* Heure : 58 minutes
-* Diffusion : On-demand/non-proctored
-* Langues disponibles : Anglais
+* Durée : 58 minutes
+* Diffusion : à la demande/non-traitée
+* Langues disponibles : anglais
 * Coût : GRATUIT
-* ID d’examen : AD5-E825 - Renouvellement du Principal Architecte de Adobe Audience Manager
+* ID de l’examen : renouvellement du Principal AD5-E825 - Architecte Adobe Audience Manager
 
 **Portée et objectifs :**
 
-Section 1 : Analyse de la mise en oeuvre (28 %)
+Section 1 : Analyse de l’implémentation (28 %)
 
 * Déterminer comment guider et prendre en charge la mise en oeuvre d’AAM en tant que produit autonome ou dans le cadre d’une solution cloud
 * Analyser les options de destination sortante et recommander une approche AAM mise en oeuvre
@@ -155,7 +159,7 @@ Section 2 : Conception de la solution et Recommendations (17 %)
 
 * Déterminer les fonctionnalités AAM en fonction du cas d’utilisation client pour l’audience et l’activation
 * appliquer des concepts de procédure afin d’utiliser les solutions d’identité d’audience pour compléter l’architecture de conception ;
-* Identifiez les données d’attribut et de comportement et mappez-les à des cas d’utilisation spécifiques de l’entreprise.
+* Identifiez les données d’attribut et de comportement et mappez-les à des cas d’utilisation professionnels spécifiques.
 * Application de concepts de procédure à la convention de conception de la taxonomie et de l’affectation des noms des dossiers
 
 Section 3 : Segmentation et activation (31 %)
@@ -169,7 +173,7 @@ Section 3 : Segmentation et activation (31 %)
 
 Section 4 : Confidentialité et gouvernance des données (7 %)
 
-* Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité
+* Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité ;
 * Identifier les stratégies de données client conformes aux réglementations gouvernementales
 
 Section 5 : Performances et création de rapports (17 %)
@@ -182,14 +186,14 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-* [AAM : Fondements techniques](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM : Série d’intégration](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM : Fonctionnalités avancées](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Formation et ressources pour Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [AAM : Fondations techniques](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM : série d’intégration](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM : fonctions avancées](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [Formation et ressources pour Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Renouveler votre certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement du Principal Architecte Adobe Audience Manager - AD5-E825 ci-dessous.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Renouvellement du Principal Architecte Adobe Audience Manager - AD5-E825 ci-dessous.
 
 [!BADGE Passage à l’examen de renouvellement du Principal Architecte Adobe Audience Manager AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 

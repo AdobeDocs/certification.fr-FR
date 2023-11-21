@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 ## Renouvellement de votre certification {#renewing-intro}
 
 Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Visitez le [Renouveler votre certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} pour plus d’informations.
+
+<!--divider-->

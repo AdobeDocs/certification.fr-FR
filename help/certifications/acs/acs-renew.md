@@ -7,16 +7,16 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 12%
 
 ---
 
 # Renouveler votre Adobe [!DNL Campaign Standard] certification
 
-Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu&#39;elle reste principale.
+Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
 
 Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
 
@@ -26,7 +26,11 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!IMPORTANT]
 >
->Les sections et liens suivants fonctionnent. **only** après un événement **connexion réussie** au [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Pour partager un lien :** Si vous souhaitez partager le lien vers un examen ou une évaluation de renouvellement avec un collègue, veuillez créer un lien vers la page de renouvellement globale de l’examen, et non vers l’URL de l’examen lui-même, afin d’éviter tout problème de connexion.
 
 >[!BEGINTABS]
 
@@ -42,24 +46,24 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 Vous devez actuellement être certifié (non expiré) dans :
 
-* Adobe [!DNL Campaign Standard] Expert spécialiste des pratiques commerciales
+* Adobe [!DNL Campaign Standard] Expert spécialiste des affaires
 
 ## Instructions pour renouveler votre certification :
 
-* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: Vérification des objectifs et des ressources de l’examen
-* **Étape 3**: Réussir et réussir l&#39;examen
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
 
-### Préparez-vous
+### Préparer
 
 **Détails de l’examen :**
 
 * Score de transmission : 23/30
-* Heure : 110 minutes
-* Coût : LIBRE/non-traité
-* Diffusion : À la demande
-* Langues disponibles : Anglais
-* Condition requise : Adobe actuel (non expiré) [!DNL Campaign Standard] Certification d’experts professionnels
+* Durée : 110 minutes
+* Coût : GRATUIT/non-traité
+* Diffusion : On-demand
+* Langues disponibles : anglais
+* Condition préalable : Adobe actuel (non expiré) [!DNL Campaign Standard] Certification d’experts professionnels
 * ID d’examen : AD5-E822
 
 **Portée et objectifs**
@@ -67,24 +71,24 @@ Vous devez actuellement être certifié (non expiré) dans :
 Section 1 : Gestion de campagne
 
 * Organisation des hiérarchies en fonction d’un cas d’utilisation donné
-* En fonction des exemples d’exigences commerciales, déterminez ce qui peut être rempli par les fonctionnalités prêtes à l’emploi.
+* En fonction des exemples d’exigences commerciales, déterminez ce qui peut être rempli par les fonctionnalités prêtes à l’emploi
 * Dans un scénario, appliquez les bonnes pratiques pour concevoir une campagne multicanal ou cross-canal.
 * Identifier les canaux (notification push, email, SMS, courrier, in-app) dans [!DNL Campaign Standard]
 
 Section 2 : Gestion des diffusions
 
-* Etant donné les exemples d&#39;exigences, concevez et configurez une diffusion
+* Selon les exemples d&#39;exigences, concevez et configurez une diffusion
 * Appliquer les bonnes pratiques en matière de conception de diffusion
 
 Section 3 : Conception et exécution des workflows
 
 * Manipuler les données à utiliser dans une campagne, configurer le ciblage, l&#39;enrichissement
-* Identifier les cibles : collecte de données, segmentation, audiences, listes, filtrage
+* Identification des cibles : collecte de données, segmentation, audiences, listes, filtrage
 * Dans un cas pratique, identifiez l’utilisation des tables principales liées au marketing.
 
 Section 4 : Administration, suivi et reporting
 
-* Interpréter les logs d&#39;erreurs d&#39;une diffusion et identifier et résoudre les erreurs d&#39;un workflow
+* Interpréter les logs d&#39;erreur de diffusion et identifier et résoudre les erreurs de workflow
 * Déterminer et mesurer le succès des diffusions et des campagnes
 * Reconnaître les droits d’accès et les droits nommés
 
@@ -106,13 +110,13 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 * [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (gestion des processus et des données, gestion des audiences, planification des messages, ajout ou extension d&#39;une ressource)
 
-**Section 4 : Administration, surveillance et création de rapports**
+**Section 4 : Administration, suivi et reporting**
 
 * [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (exécution d’un workflow, test et envoi, personnalisation des rapports, profils et audiences, utilisateurs et sécurité)
 
 ## Renouveler votre certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Cliquez ensuite sur le bouton [!DNL Campaign Standard] Renouveau du professionnel - lien AD5-822 ci-dessous.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre examen, cliquez sur le bouton [!DNL Campaign Standard] Renouveau du professionnel - lien AD5-822 ci-dessous.
 
 * [[!DNL Campaign Standard] Renouveau du professionnel - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -122,7 +126,7 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 +++
 
-+++Adobe [!DNL Campaign Standard] Renouvellement des experts du développement
++++Adobe [!DNL Campaign Standard] Renouvellement des experts du développeur
 
 Vous devez actuellement être certifié (non expiré) dans :
 
@@ -130,34 +134,34 @@ Vous devez actuellement être certifié (non expiré) dans :
 
 ## Instructions pour renouveler votre certification :
 
-* **Étape 1**: Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: Vérification des objectifs et des ressources de l’examen
-* **Étape 3**: Réussir et réussir l&#39;examen
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
 
-### Préparez-vous
+### Préparer
 
 **Détails de l’examen :**
 
 * Score de transmission : 23/30
-* Heure : 60 minutes
-* Coût : LIBRE/non-traité
-* Diffusion : À la demande
-* Langues disponibles : Anglais
-* Condition requise : Adobe actuel (non expiré) [!DNL Campaign Standard] Certification Developer Expert
+* Durée : 60 minutes
+* Coût : GRATUIT/non-traité
+* Diffusion : On-demand
+* Langues disponibles : anglais
+* Condition préalable : Adobe actuel (non expiré) [!DNL Campaign Standard] Certification Developer Expert
 * ID d’examen : AD5-E821
 
 **Portée et objectifs**
 
-Section 1 : Modélisation et gestion des données (30 %)
+Section 1 : modélisation et gestion des données (30 %)
 
-* Appliquez le processus pour utiliser l’interface d’API dans différents cas d’utilisation.
-* Appliquez le processus pour créer une ressource personnalisée
+* Appliquez le processus pour utiliser l’interface API dans différents cas d’utilisation.
+* Appliquez le processus pour créer une ressource personnalisée.
 * Déterminer la stratégie appropriée pour affecter les bonnes pratiques relatives au modèle de données
 * Approche recommandée pour l’utilisation d’un workflow d’import ou d’export
 
 Section 2 : Campaign Management (40 %)
 
-* Dans un scénario, identifiez le déclencheur d’événement.
+* Dans un scénario, identifier le déclencheur d’événement
 * Expliquer le processus de réconciliation
 * Configurer un rapport personnalisé pour une diffusion
 * Déterminer l’approche appropriée pour configurer les canaux de communication (temps réel et temps non réel)
@@ -207,7 +211,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Principales étapes pour envoyer un message](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [Suivre et surveiller](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
 * [Synthèse des diffusions](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Concepteur d&#39;e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Concepteur d’e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [Prise en main de la création de rapports dynamiques](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **Section 3 : Administration**
@@ -226,7 +230,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 ## Renouveler votre certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur l’icône [!DNL Campaign Standard] Renouvellement des développeurs - lien AD5-821 ci-dessous.
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le bouton [!DNL Campaign Standard] Renouvellement des développeurs - lien AD5-821 ci-dessous.
 
 * [[!DNL Campaign Standard] Renouveau du développeur - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
