@@ -4,7 +4,7 @@ description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. D�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 15435019e7b63e6aae44aee347559ecc939d10c1
+source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 11%
@@ -22,7 +22,6 @@ Le programme Adobe Digital Experience Credential a été créé pour vous aider 
 Adobe [!DNL Experience Cloud] est une suite de solutions de marketing numérique qui permet aux entreprises de proposer des expériences client personnalisées sur plusieurs canaux, y compris le web, les appareils mobiles, les e-mails et les médias sociaux. Adobe [!DNL Experience Cloud] inclut une gamme de produits, tels que Adobe ; [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics], etc.
 
 Démontrez vos compétences et mettez votre carrière au niveau supérieur en devenant certifiée Adobe.
-
 
 ## Pourquoi être certifié ?
 
