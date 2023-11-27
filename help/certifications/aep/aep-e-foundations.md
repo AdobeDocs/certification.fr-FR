@@ -7,13 +7,13 @@ role: Developer
 badge: label="Exam AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 12%
+source-wordcount: '1318'
+ht-degree: 14%
 
 ---
-
 
 # Parcours de certification pour Adobe [!DNL Experience Platform] Expert
 
@@ -23,9 +23,7 @@ ht-degree: 12%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->L&#39;Adobe [!DNL Experience Platform] La certification d’expert nécessite actuellement deux examens : **Adobe [!DNL Experience Platform] Fondations techniques (AD0-E600)** et **Adobe [!DNL Real-Time CDP] Praticien technique (AD7-E601)**. A compter du 1er novembre 2023, un nouvel examen sera lancé, qui ne sera requis que pour cette certification.
+
 
 <br>
 
@@ -154,7 +152,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 **Section 4 : Activation**
 
-* [Présentation des destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=fr){target="_blank"}
+* [Vue d’ensemble des destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=fr){target="_blank"}
 
 <br>
 
@@ -208,8 +206,6 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 <br>
 
 ## Exigence #2 : informations pour l’Adobe [!DNL Real-Time CDP] Praticien technique (AD7-E601) {#req-2}
-
-L’examen AD7-E601 porte sur la création, la gestion et la compréhension du profil client, la segmentation, les destinations entre les sources et d’autres sujets. L’examen valide les compétences et les connaissances fondamentales nécessaires à l’utilisation de la plateforme de données clients en temps réel pour la segmentation de l’audience, les exportations de destination et l’activation en temps réel pour les profils unifiés conformes aux réglementations en matière de données et de confidentialité. Les candidats doivent avoir une expérience de la plateforme de données client (CDP) et une connaissance de l’Adobe [!DNL Experience Platform].
 
 <br>
 
@@ -303,7 +299,7 @@ Section 3 : Destinations (27 %)
 * [Guide de l’interface utilisateur du créateur de segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=fr){target="_blank"}
 * [Segmentation en temps réel dans l’édition CDP B2B](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Créer des segments](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Présentation du créateur de segments](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Vue d’ensemble du créateur de segments](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Créer un segment](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Création de segments basés sur du contenu](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Création de segments de conversion](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -323,7 +319,7 @@ Section 3 : Destinations (27 %)
 * [Espace de travail de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Créer une connexion à une destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=fr){target="_blank"}
 * [CDP en temps réel : destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [Présentation de la destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [Présentation de la destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=fr){target="_blank"}
 * [Créer une destination et activer des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Présentation de l’activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Présentation du catalogue de destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
