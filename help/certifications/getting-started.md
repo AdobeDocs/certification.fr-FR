@@ -4,7 +4,7 @@ description: Obtenez vos certifications  [!DNL Experience Cloud] . Découvrez le
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
+source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 3%
@@ -17,11 +17,8 @@ Les certifications d’Adobe sont conçues pour valider les connaissances et les
 
 >[!TIP]
 >
->**Notre vente de fin d&#39;année commence le lundi cybernétique !** Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre.
-><br>
->Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}. Utilisez le code promotionnel Holiday2023 au passage en caisse.
-><br>
->Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.
+>**Notre vente de fin d&#39;année commence le lundi cybernétique !**<br>
+>Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr). Utiliser le code promotion **Holiday2023** au passage en caisse. <br><i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
 
 >[!BEGINTABS]
 
