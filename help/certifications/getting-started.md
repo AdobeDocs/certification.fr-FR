@@ -4,7 +4,7 @@ description: Obtenez vos certifications  [!DNL Experience Cloud] . Découvrez le
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
+source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 2%
@@ -18,9 +18,7 @@ Les certifications d’Adobe sont conçues pour valider les connaissances et les
 >[!TIP]
 >
 >**Notre vente de fin d&#39;année commence le lundi cybernétique !**<br>
-><br>
 >Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse.<br>
-><br>
 ><i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
 
 >[!BEGINTABS]
