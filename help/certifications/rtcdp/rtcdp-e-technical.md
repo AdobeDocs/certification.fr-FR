@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
-ht-degree: 11%
+source-wordcount: '1748'
+ht-degree: 10%
 
 ---
 
@@ -73,7 +73,7 @@ Vous devez disposer des éléments suivants :
 >
 ><br>
 >
->**Si vous avez déjà planifié l’examen AD0-E600**, nous vous recommandons vivement d’annuler votre rendez-vous et de reprogrammer votre date de publication du nouvel examen. Pour toute question, veuillez contacter [Prise en charge de la certification](mailto:certif@adobe.com){target="_blank"}.
+>**Si vous avez déjà planifié l’examen AD0-E600**, nous vous recommandons vivement d’annuler votre rendez-vous sur le portail des examens (voir l’étape 3 ci-dessous) et de reprogrammer votre rendez-vous lors de la sortie du nouvel examen. Pour toute question, veuillez contacter [Prise en charge de la certification](mailto:certif@adobe.com){target="_blank"}.
 
 L’examen AD0-E600 valide les compétences et les connaissances couvrant les fonctions de base et les tâches fréquemment effectuées de l’Adobe. [!DNL Experience Platform] au niveau des experts.
 
@@ -176,6 +176,14 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 +++Étape 3 : Planifier et payer l’examen
 
+>[!IMPORTANT]
+>
+>La planification de l&#39;examen AD0-E600 a été mise en attente. Cet examen est actuellement mis à jour et sera publié le **15 janvier 2024**. Après cette date, cette certification ne nécessite qu’un examen, plutôt que les deux examens actuellement requis.
+>
+><br>
+>
+>**Si vous avez déjà planifié l’examen AD0-E600**, nous vous recommandons vivement d’annuler votre rendez-vous sur le portail des examens et de reprogrammer votre date de publication du nouvel examen. Pour toute question, veuillez contacter [Prise en charge de la certification](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 {{about-certification-exam}}
 
 ## Planification ou prise de l’examen AD0-E600
+
+>[!IMPORTANT]
+>
+>La planification de l&#39;examen AD0-E600 a été mise en attente. Cet examen est actuellement mis à jour et sera publié le **15 janvier 2024**. Après cette date, cette certification ne nécessite qu’un examen, plutôt que les deux examens actuellement requis.
+>
+><br>
+>
+>**Si vous avez déjà planifié l’examen AD0-E600**, nous vous recommandons vivement d’annuler votre rendez-vous sur le portail des examens et de reprogrammer votre date de publication du nouvel examen. Pour toute question, veuillez contacter [Prise en charge de la certification](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
