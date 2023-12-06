@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 10%
+source-wordcount: '525'
+ht-degree: 1%
 
 ---
 
@@ -144,31 +144,31 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 **Section 1 : Workflows des ressources**
 
 * [Création de modèles de processus](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=fr){target="_blank"}
+* [Guide des ressources](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
 
 **Section 2 : Organisation des ressources et console des ressources**
 
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
 * [Facettes de recherche](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
 * [Rapports de ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=fr){target="_blank"}
 
 **Section 3 : Métadonnées de ressource**
 
 * [Schémas de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
-* [Présentation des concepts des métadonnées](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Présentation des concepts de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
 * [Profils de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Appuyez%20or%20click%20the et%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
 **Section 4 : Types de ressources**
 
 * [Gestion des ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
 * [Modèles de fragment de contenu](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Variations – créer du contenu de fragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
+* [Variations - création de contenu de fragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **Section 5 : Visionneuses et fonctionnalités de ressources**
 
 * [Présentation de [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=fr){target="_blank"}
 * [Formats de fichiers pris en charge](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
-* [Profils vidéo Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
+* [Profils vidéo Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
 <br>
 
@@ -176,7 +176,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 {{sample-questions}}
 
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
 
 +++
 

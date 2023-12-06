@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 7b185487be1d4d5e35c6560a46cf62677324956b
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '967'
-ht-degree: 20%
+source-wordcount: '763'
+ht-degree: 1%
 
 ---
 
@@ -156,33 +156,33 @@ Vous devez disposer des éléments suivants :
 
 * [Schémas de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
 * [Extension ou création de schémas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
-* [Structure d’un schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html?lang=fr){target="_blank"}
-* [Liste de [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=fr){target="_blank"}
+* [Structure d&#39;un schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
+* [Liste de [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html){target="_blank"}
 * [Configuration de vos comptes externes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html){target="_blank"}
 * [Règles de typologie](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **Section 2 : Personnalisation**
 
-* [Modification du schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
-* [Extension dʼun schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
-* [Personnaliser votre instance](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
-* [Cas pratique : sélection des adresses de contrôle selon des critères](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html?lang=fr){target="_blank"}
-* [À propos des processus d&#39;opt-in et d&#39;opt-out dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
+* [Edition du schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
+* [Étendre un schéma](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
+* [Personnalisation de votre instance](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
+* [Cas pratique : sélection des adresses de contrôle selon des critères](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html?lang=fr){target="_blank"}
+* [À propos des processus d’inscription et de désinscription dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
 **Section 3 : Sécurité opérationnelle**
 
-* [Création et gestion de groupes d’opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-* [Utilisation des droits nommés pour la configuration des autorisations](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=fr){target="_blank"}
-* [Création et gestion de groupes d’opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Créer et gérer des groupes d’opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Utilisation des droits nommés pour configurer les autorisations](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=fr){target="_blank"}
+* [Créer et gérer des groupes d’opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
 
 **Section 4 : Workflows techniques**
 
-* [Commencer avec l&#39;import et de l&#39;export de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=fr){target="_blank"}
-* [Utiliser les données d&#39;un workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html){target="_blank"}
-* [Description du modèle de données de Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html){target="_blank"}
+* [Prise en main de l’import et de l’export de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=fr){target="_blank"}
+* [Utilisation des données de workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html){target="_blank"}
+* [Description du modèle de données Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html){target="_blank"}
 * [Créer un workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html?lang=fr){target="_blank"}
 * [Surveiller l’exécution des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=fr){target="_blank"}
-* [Configuration et gestion du processus de validation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
+* [Configuration et gestion du processus d’approbation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
 
 **Section 5 : Maintenance de l’instance**
 
@@ -192,11 +192,11 @@ Vous devez disposer des éléments suivants :
 
 **Section 6 : Configuration de Campaign**
 
-* [Création et configuration de modèles d’opération](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
-* [Configuration et gestion du processus de validation](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=fr){target="_blank"}
-* [Journal d’audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr){target="_blank"}
+* [Créer et configurer des modèles d&#39;opération](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
+* [Configuration et gestion du processus d’approbation](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=fr){target="_blank"}
+* [Suivi](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr){target="_blank"}
 * [Utiliser des modèles](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
-* [Commencer avec les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
+* [Prise en main des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
 * [Exécution des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
 <br>
@@ -205,7 +205,7 @@ Vous devez disposer des éléments suivants :
 
 {{sample-questions}}
 
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad4-e331-adobe-campaign-classic-developer-professional-practice-exam){target="_blank"}
 
 +++
 

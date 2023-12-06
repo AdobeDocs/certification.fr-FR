@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Expert
+# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Développeur expert
 
 {{intro}}
 
@@ -62,7 +62,7 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 * Configurer des connexions avec des identités principales (ID de personne)
 * Configuration de connexions avec plusieurs jeux de données
 * Configuration d’une vue de données (configuration Mesure/dimension)
-* Configuration d’Adobe [!DNL Customer Journey Analytics]
+* Configurer Adobe [!DNL Customer Journey Analytics]
 * Transformer les données au sein des dimensions et des mesures
 * Analyse des bases de Workspace (visualisations, paramètres d’attribution, filtres, mesures calculées)
 * Présentation de la gouvernance des données dans CJA (DULE)
@@ -126,21 +126,21 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 
 **Section 2 : Vues de données**
 
-* [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
-* [Paramètres de composant](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Présentation des vues des données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
+* [Paramètres des composants](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
 **Section 3 : validation et dépannage des données**
 
-* [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
+* [Présentation des vues des données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
 * [Création ou modification d’une vue de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=fr){target="_blank"}
-* [Paramètres de composant](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Référence de composant standard](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=fr){target="_blank"}
+* [Paramètres des composants](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Référence des composants standard](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **Section 4 : Reporting et activation**
 
-* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [Présentation des vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
+* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Présentation des vues des données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=fr){target="_blank"}
 
 <br>
 

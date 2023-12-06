@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 30%
+source-wordcount: '591'
+ht-degree: 4%
 
 ---
 
@@ -110,14 +110,6 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-### Questionnaire de préparation
-
-{{readiness}}
-
-[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
-
-<br>
-
 ## Comment obtenir une certification {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
@@ -138,48 +130,48 @@ Vous devez disposer des éléments suivants :
 
 **Section 1 : Gestion de campagne**
 
-* [[!DNL Campaign Classic] Documentation v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=fr){target="_blank"}
+* [[!DNL Campaign Classic] Documentation v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=fr){target="_blank"}
 * [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr){target="_blank"}
 * [À propos des adresses de contrôle](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=fr)
 * [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr)
 * [Adobe [!DNL Campaign Classic] Tutoriels V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
-* [Utilisation d’une table des destinataires personnalisée](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=fr){target="_blank"}
+* [Utiliser une table de destinataires personnalisée](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=fr){target="_blank"}
 
 **Section 2 : Gestion des workflows**
 
-* [Commencer avec les tests AB](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
+* [Prise en main du test A/B](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
 * [Prise en main du tracking des messages](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=fr){target="_blank"}
-* [Commencer avec les workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
+* [Prise en main des workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
 * [Activités de ciblage dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=fr){target="_blank"}
-* [Requête](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=fr){target="_blank"}
+* [Requête](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 
 **Section 3 : Gestion des données**
 
 * [Schémas de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
-* [Activités d&#39;action dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=fr){target="_blank"}
+* [Activités d’action dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=fr){target="_blank"}
 * [Prise en main des processus et de la gestion des données](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
 * [Identification d’un formulaire](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [À propos de la gestion de contenu](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
+* [A propos de la gestion de contenu](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
 
 
 **Section 4 : Gestion des diffusions**
 
-* [À propos des intégrations de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
+* [A propos des intégrations de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
 * [Diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=fr){target="_blank"}
 * [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr){target="_blank"}
-* [À propos des étapes de création de diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=fr){target="_blank"}
-* [Prise en main de la surveillance des diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=fr-FR){target="_blank"}
+* [A propos des étapes de création des diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=fr){target="_blank"}
+* [Prise en main du monitoring de diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=fr-FR){target="_blank"}
 
 **Section 5 : Création de rapports**
 
-* [À propos des rapports sur les diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [Prise en main des rapports](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=fr){target="_blank"}
+* [Rapports sur les diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [Prise en main du reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=fr){target="_blank"}
 
 **Section 6 : Administration**
 
 * [Principe de configuration](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
-* [Commencer avec les autorisations](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=fr){target="_blank"}
-* [À propos de la gestion SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=fr){target="_blank"}
+* [Prise en main des autorisations](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=fr){target="_blank"}
+* [A propos de la gestion SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=fr){target="_blank"}
 
 <br>
 
