@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 29%
+source-wordcount: '545'
+ht-degree: 3%
 
 ---
 
@@ -130,36 +130,42 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 1 : Configuration**
 
-* [Présentation du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
+* [Présentation de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Guide des ressources](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 
 **Section 2 : AEM développement**
 
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
 * [Prise en main d’AEM Sites - Tutoriel WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour la création dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 
 **Section 3 : création et déploiement**
 
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Experience Manager as a Cloud Service] Vidéos et Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
 
 **Section 4 : Maintenance de l’environnement**
 
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels d’AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
-* [Déploiement et maintenance ](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
+* [Déploiement et maintenance](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
+
+<br>
+
+**Effectuer un test pratique**
+
+{{practice-test}}
 
 +++
 
