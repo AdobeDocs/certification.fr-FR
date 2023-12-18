@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exam AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 14%
+source-wordcount: '707'
+ht-degree: 2%
 
 ---
 
@@ -53,7 +53,7 @@ En tant que développeur d’Analytics, vous implémentez rarement les balises s
 
 Vous devez connaître les outils et environnements suivants :
 
-Outils:
+Outils :
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets tel que Adobe Debugger, outils de développement de navigateur, Charles)
@@ -67,7 +67,7 @@ Outils:
 * Compréhension de base des ressources disponibles [!DNL Adobe Analytics] API connexes
 * Intégration des Adobes I/O
 
-Environnements:
+Environnements :
 
 * Environnements de développement web front-end
 * Connaissance des applications mobiles (limitations et différences, par exemple, pourquoi elles sont différentes du web)
@@ -149,8 +149,8 @@ Environnements:
 
 **Section 1 : Présentation d’Analytics dans l’écosystème de Adobe Experience Cloud**
 
-* [Notes techniques d’Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
-* [Définition des Analytics ID et Experience Cloud ID ](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=fr){target="_blank"}
+* [Notes techniques Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
+* [Définition des Analytics ID et des Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=fr){target="_blank"}
 * [Vidéos et tutoriels Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"}
 
 **Section 2 : Stratégie et conception basées sur une référence de conception de solution (SDR)**
@@ -160,26 +160,26 @@ Environnements:
 
 **Section 3 : Mise en oeuvre et configuration d’Analytics**
 
-* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
-* [Comprendre et créer des suites de rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr){target="_blank"}
-* [Configuration du suivi des liens pour [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=fr){target="_blank"}
+* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Présentation et création de suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr){target="_blank"}
+* [Configuration du suivi des liens pour [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Section 4 : Systèmes de gestion des balises**
 
-* [Gestion des balises](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
-* [Aperçu](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
+* [Présentation](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
 
 **Section 5 : Services mobiles**
 
-* [Mise en œuvre d’Analytics pour les appareils mobiles](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [Mise en oeuvre d’Analytics pour les périphériques mobiles](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [Migrer les règles de traitement de Mobile Services vers [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Section 6 : Test, validation et dépannage**
 
 * [Adobe Experience Platform Debugger - Aperçu](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=fr){target="_blank"}
 * [Activation, débogage et personnalisation de la variable [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimisation des performances d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=fr){target="_blank"}
+* [Optimisation des performances d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=fr){target="_blank"}
 
 <br>
 
@@ -222,14 +222,14 @@ Environnements:
 
 ## Planification ou examen AD0-E209-J (japonais)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Accédez au portail d'examen - Examen japonais
 </span>
 </a>
-
-[Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

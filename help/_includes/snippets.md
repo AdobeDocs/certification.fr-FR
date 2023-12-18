@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -138,8 +138,8 @@ Des remises en bloc sont disponibles :
 | Quantité | Remise |
 |---|---|
 | 10-24 | 20 % |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25-49 | 25 % |
+| 50+ | 33 % |
 
 Remises pour les partenaires : les partenaires de niveau Bronze et plus reçoivent des remises sur tous les examens et classes de certification d’Adobe. Vous pouvez en savoir plus sur ces remises et sur la manière d’accéder aux avantages des partenaires sur le portail Partenaires en solution.
 
@@ -220,3 +220,9 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Visitez le [Renouveler votre certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} pour plus d’informations.
 
 <!--divider-->
+
+## Détails des examens japonais {#Japanese-exam-details}
+
+Veuillez programmer votre examen entre le dimanche et le jeudi 17h et 2h du matin pour vous assurer que nous pouvons assigner un processeur de langue japonaise. Si vous programmez en dehors de ces heures, nous ne pouvons pas garantir un processeur de langue japonaise.
+
+[Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
