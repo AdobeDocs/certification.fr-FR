@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 17%
+source-wordcount: '779'
+ht-degree: 1%
 
 ---
 
@@ -107,7 +107,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 * Déterminer comment développer et configurer des segments
 * appliquer le processus pour partager des segments avec d’autres membres de l’entreprise ;
-* Comparaison des segments
+* Comparaison de segments
 * Application de segments aux projets et aux composants
 * appliquer le processus de génération de mesures calculées et/ou segmentées ;
 
@@ -157,17 +157,17 @@ En outre, vous devez connaître les technologies et environnements suivants :
 **Section 1 : Analyse des activités**
 
 * [Quel [!DNL Adobe Analytics] dois-je utiliser l’outil ?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=fr){target="_blank"}
-* Documentation [[!DNL Adobe Analytics] ](https://helpx.adobe.com/fr/support/analytics.html){target="_blank"}
+* [[!DNL Adobe Analytics] Documentation](https://helpx.adobe.com/fr/support/analytics.html){target="_blank"}
 * [Collecte de données](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=fr){target="_blank"}
-* [Vue d’ensemble des flux de données Analytics](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=fr){target="_blank"}
+* [Flux de données Analytics - Aperçu](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=fr){target="_blank"}
 
 **Section 2 : Reporting et tableau de bord pour les projets**
 
 * [Prise en main de Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=fr){target="_blank"}
 * [[!DNL Adobe Analytics] Tableaux de bord - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr){target="_blank"}
 * [Présentation des projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=fr){target="_blank"}
-* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr){target="_blank"}
-* [Vue d’ensemble des alertes intelligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
+* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr){target="_blank"}
+* [Alertes intelligentes - Aperçu](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Section 3 : Segmentation et mesure calculée**
 
@@ -176,8 +176,8 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 4 : Connaissances générales de l’outil et résolution des problèmes**
 
-* [Guide des outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
-* [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr){target="_blank"}
+* [Guide sur les outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
+* [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Section 5 : Administration**
 

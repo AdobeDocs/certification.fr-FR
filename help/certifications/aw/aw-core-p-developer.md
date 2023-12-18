@@ -6,16 +6,20 @@ role: Developer
 badge: label="Exam AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Cet examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), a été mis à jour. Si vous avez déjà commencé à étudier cette version ou que vous prévoyez de l’utiliser, veillez à la terminer avant le 26 février 2024. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## Description de l’export {#exam-description}
 
@@ -74,19 +78,19 @@ Vous devriez également disposer des éléments suivants :
 
 {{exam-objectives}}
 
-**Section 1. Stratégie et prise en charge (24 %)**
+**Section 1. Stratégie et prise en charge (24 %)**
 
 * Utilisation de portefeuilles et de programmes
 * Utilisation des files d’attente de requête
 * Utilisation de formulaires personnalisés
 * Utiliser les validations de base
 
-**Section 2. Budget et planification (11 %)**
+**Section 2. Budget et planification (11 %)**
 
 * Utilisation du planificateur de ressources
 * Selon un scénario/un ensemble d’exigences, appliquez les configurations pour configurer un modèle de projet.
 
-**Section 3. Expérience utilisateur (25 %)**
+**Section 3. Expérience utilisateur (25 %)**
 
 * Illustrer les bonnes pratiques de gestion des utilisateurs lors de la création d’une expérience utilisateur appropriée
 * Dans un scénario donné, appliquez la configuration correcte pour le partage et les droits d’accès dans tout le système.
@@ -94,13 +98,13 @@ Vous devriez également disposer des éléments suivants :
 * Montrer comment créer et utiliser des feuilles de temps
 * Décrire l’objectif et la valeur des connecteurs, modules externes et modules complémentaires
 
-**Section 4. Mesures et rapports (16 %)**
+**Section 4. Mesures et rapports (16 %)**
 
 * Décrire les concepts de base pour la création, l’envoi et la personnalisation des rapports
 * expliquer comment créer et personnaliser des tableaux de bord ;
 * Montrer comment configurer des vues fonctionnelles des rapports
 
-**Section 5. Exécution (24 %)**
+**Section 5. Exécution (24 %)**
 
 * Montrer comment configurer des workflows d’approbation et de vérification
 * Reconnaître l’objectif de la création d’un problème pour un projet
@@ -144,7 +148,7 @@ Vous devriez également disposer des éléments suivants :
 * [Création d’une file d’attente de requête](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [Présentation des files d’attente de requête](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Aperçu des formulaires personnalisés](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Créer et partager un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [Création et partage d’un formulaire personnalisé](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **Section 2 : Budget et planification**
 
@@ -160,13 +164,13 @@ Vous devriez également disposer des éléments suivants :
 * [Bonne pratique - Intégration et adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Création d’un profil utilisateur individuel](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Configuration du système : groupes et utilisateurs](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Partager un projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=fr){target="_blank"}
+* [Partage d’un projet](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=fr){target="_blank"}
 * [Fonctionnement des niveaux d’accès et des autorisations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Import de données dans Adobe [!DNL Workfront] utilisation d’un modèle de démarrage rapide](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Section 4 : Mesures et création de rapports**
 
-* [Créer un rapport personnalisé](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [Création d’un rapport personnalisé](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Envoi et partage de rapports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [Bonne pratique - Rapports personnalisés](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
@@ -211,6 +215,10 @@ Vous devriez également disposer des éléments suivants :
 {{about-certification-exam}}
 
 ## Planification ou prise de l’examen AD0-E905
+
+>[!NOTE]
+>
+>Cet examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), a été mis à jour. Si vous avez déjà commencé à étudier cette version ou que vous prévoyez de l’utiliser, veillez à la terminer avant le 26 février 2024. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
