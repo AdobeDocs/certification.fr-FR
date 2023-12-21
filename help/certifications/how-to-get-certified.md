@@ -4,10 +4,10 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 2%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Découvrez comment être certifié dans Adobe. Trouvez toutes les ressources dont vous avez besoin avant, pendant et après votre certification.
 
->[!TIP]
+>[!NOTE]
 >
->**Notre vente de fin d&#39;année commence le lundi cybernétique !** <br><br> Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse. <br><br> <i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
+>Adobe fermé du 22 décembre 2023 au 1er janvier 2024. Veuillez vous attendre à un retard dans la réponse aux demandes d’assistance durant cette période. Nous apprécions votre patience.
+
+>[!BEGINSHADEBOX]
+>
+>**50 % de réduction sur la vente des bons !** <br><br> Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse. <br><br> <i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -63,9 +68,9 @@ Si vous ne parvenez pas à réussir un examen de certification d’Adobe lors de
 
 | Certificat d’Adobe | Prix (USD) | Inde, prix (USD) |
 | ------- | ------- | ------- |
-| Adobe certifié professionnel | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Principal certifié Adobe | $225 | $150 |
+| Adobe certifié professionnel | 125 $ | 95 $ |
+| Adobe Certified Expert | 225 $ | 150 $ |
+| Principal certifié Adobe | 225 $ | 150 $ |
 
 **Prix de renouvellement**
 
@@ -92,8 +97,8 @@ Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offr
 | Quantité | % de réduction |
 | ------- | ------- |
 | 10-24 | 20 % |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25-49 | 25 % |
+| 50+ | 33 % |
 
 >[!TAB Fournisseurs de certification]
 
@@ -101,7 +106,7 @@ L’équipe Informations d’identification de l’Adobe travaille en partenaria
 
 | Nom du fournisseur | Description | Page d’assistance/courrier électronique |
 | ------- | ------- | ------- |
-| Creative | Système de gestion des badges | [ - Support technique](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Creative | Système de gestion des badges | [Assistance](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Examiner | Tester le fournisseur de diffusion (uniquement le traitement en ligne) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Examinity (855-392-6489) |
 | Xbon - Centre des bons de certification pour les Adobes | Centre de bons pour l’achat de bons individuels ou en vrac | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Aide en ligne](https://help.xvoucher.com/hc/en-us) |
 

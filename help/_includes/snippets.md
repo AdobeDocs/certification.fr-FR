@@ -1,7 +1,7 @@
 ---
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1769'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Cette page fournit des informations sur la manière d’obtenir cette certification. Il comprend une description de l&#39;examen, du matériel d&#39;étude, des instructions étape par étape sur le processus de certification et comment renouveler votre certification.
+
+>[!WARNING]
+>
+>Adobe fermé du 22 décembre 2023 au 1er janvier 2024. Veuillez vous attendre à un retard dans la réponse aux demandes d’assistance durant cette période. Nous apprécions votre patience.
 
 <!--divider-->
 

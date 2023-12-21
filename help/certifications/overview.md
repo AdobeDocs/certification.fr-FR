@@ -1,13 +1,13 @@
 ---
 title: Accueil de certification
-description: Découvrez la certification  [!DNL Experience Cloud]  sur Adobe. Découvrez ce que la certification peut vous apporter.
+description: En savoir plus [!DNL Experience Cloud] Certification à l’Adobe. Découvrez ce que la certification peut vous apporter.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 9%
+source-wordcount: '498'
+ht-degree: 5%
 
 ---
 
@@ -17,9 +17,14 @@ Apprenez-en plus sur la certification Adobe et ce qu’elle peut vous apporter.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
+>[!NOTE]
 >
->**Notre vente de fin d&#39;année commence le lundi cybernétique !** <br><br> Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse. <br><br> <i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
+>Adobe fermé du 22 décembre 2023 au 1er janvier 2024. Veuillez vous attendre à un retard dans la réponse aux demandes d’assistance durant cette période. Nous apprécions votre patience.
+
+>[!BEGINSHADEBOX]
+>
+>**50 % de réduction sur la vente des bons !** <br><br> Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse. <br><br> <i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
+>[!ENDSHADEBOX]
 
 Le programme Adobe Digital Experience Credential a été créé pour vous aider à prouver vos compétences dans Adobe. [!DNL Experience Cloud] produits. Devenir Adobe certifié vous permet de mettre en valeur votre expertise et d’impressionner vos clients et employeurs.
 
