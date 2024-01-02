@@ -4,9 +4,9 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 0%
 # Comment obtenir une certification{#how}
 
 Découvrez comment être certifié dans Adobe. Trouvez toutes les ressources dont vous avez besoin avant, pendant et après votre certification.
-
->[!NOTE]
->
->Adobe fermé du 22 décembre 2023 au 1er janvier 2024. Veuillez vous attendre à un retard dans la réponse aux demandes d’assistance durant cette période. Nous apprécions votre patience.
-
->[!BEGINSHADEBOX]
-
-**50 % de réduction sur la vente des bons !**
-
-Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse.
-
-<i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

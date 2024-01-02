@@ -4,10 +4,10 @@ description: En savoir plus [!DNL Experience Cloud] Certification à l’Adobe. 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 5%
+source-wordcount: '397'
+ht-degree: 6%
 
 ---
 
@@ -16,20 +16,6 @@ ht-degree: 5%
 Apprenez-en plus sur la certification Adobe et ce qu’elle peut vous apporter.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
-
->[!NOTE]
->
->Adobe fermé du 22 décembre 2023 au 1er janvier 2024. Veuillez vous attendre à un retard dans la réponse aux demandes d’assistance durant cette période. Nous apprécions votre patience.
-
->[!BEGINSHADEBOX]
-
-**50 % de réduction sur la vente des bons !**
-
-Obtenez 50 % de réduction sur les bons d’examen de certification du programme d’identification de l’expérience numérique Adobe, du 27 novembre au 31 décembre. Cette offre n&#39;est valide que lorsque vous effectuez un achat via le [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe). Utiliser le code promotion **Holiday2023** au passage en caisse.
-
-<i>Cette offre n&#39;est disponible que pour la période mentionnée, s&#39;applique uniquement aux nouvelles commandes et ne peut pas être appliquée aux achats précédemment réalisés. Les codes de bon sont valides pendant un an à compter de la date d’achat.</i>
-
->[!ENDSHADEBOX]
 
 Le programme Adobe Digital Experience Credential a été créé pour vous aider à prouver vos compétences dans Adobe. [!DNL Experience Cloud] produits. Devenir Adobe certifié vous permet de mettre en valeur votre expertise et d’impressionner vos clients et employeurs.
 
