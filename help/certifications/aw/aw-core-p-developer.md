@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Cet examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), a été mis à jour. Si vous avez déjà commencé à étudier cette version ou que vous prévoyez de l’utiliser, veillez à la terminer avant le 26 février 2024. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-E908)](aw-core-p-developer-23-12.md).
+>Cet examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), a été mis à jour. Si vous avez déjà commencé à étudier cette version ou que vous prévoyez de l’utiliser, veillez à la terminer avant le 26 février 2024. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen (AD0-E908)](aw-core-p-developer-23-12.md). Si vous devez reprogrammer, vous devez passer le nouvel examen.
 
 ## Description de l’export {#exam-description}
 
