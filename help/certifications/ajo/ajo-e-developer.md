@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 15%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -139,7 +140,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 **Section 1 : Administration et configuration**
 
-* [Documentation Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
    * Contrôle d’accès
    * Configuration des messages
@@ -147,12 +148,12 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
    * Mécanismes de sécurisation
    * Parcours
 
-* [Présentation des sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr){target="_blank"}
+* [Présentation des environnements de test](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr){target="_blank"}
 
 
 **Section 2 : Fondation AEP**
 
-* [Documentation Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
    * Guide XDM
    * Guide sur Real-time Customer Profile
@@ -166,11 +167,11 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 * [Présentation de l’Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=fr){target="_blank"}
 * [Prise en main d’Adobe [!DNL Experience Platform] cours destiné aux ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=fr){target="_blank"}
 * [Cours sur l’ingestion de données pour les ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=fr){target="_blank"}
-* [Plans directeurs d’expérience digitale](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
+* [Plans directeurs d’expérience numérique](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
 
 **Section 3 : Offer decisioning**
 
-* [Documentation Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
    * Gestion des décisions
 
@@ -180,9 +181,9 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 **Section 4 : Création de contenu**
 
-* [Documentation Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
-   * Conception du contenu
+   * Concevoir du contenu
    * Parcours
    * Messages
    * Personnalisation
@@ -190,10 +191,10 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 **Section 5 : Journey Orchestration**
 
-* [Documentation Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
    * Parcours
-   * Suivre et surveiller
+   * Tracker et suivre vos diffusions
    * Segments
    * Profils et identité
 
