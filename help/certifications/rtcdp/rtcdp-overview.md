@@ -1,12 +1,12 @@
 ---
-title: Présentation de Real-Time CDP Connections
+title: Présentation de la certification Real-Time CDP
 description: Présentation des options de certification pour Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
 exl-id: 763724d3-1fac-421f-b166-b4aea210872f
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 13%
+source-wordcount: '36'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 13%
 
 **Expert**
 
-* [Praticien technique](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [Développeur](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
 Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
