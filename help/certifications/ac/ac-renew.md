@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
-ht-degree: 2%
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
@@ -99,9 +99,9 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1**
+**Section 1**
 
-* [ [!DNL Commerce] Guide de conception et de contenu d’Adobe ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=fr){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
@@ -112,17 +112,17 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [État de la commande](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
 * [Outils de Business Intelligence](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
-**Section 2**
+**Section 2**
 
 * [Présentation de Page Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
 * [Modèles d&#39;email](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [Fournir une assistance aux acheteurs](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
 * [Évaluation du contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Installation et configuration d’AEM](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [Installation et configuration](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
 * [Architecture Pro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Sécurité](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Section 3**
+**Section 3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [Présentation du SEO](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -130,7 +130,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Conformité PCI](https://business.adobe.com/fr/products/magento/pci-compliance.html){target="_blank"}
 * [Découvrez la différence entre le marketing omnicanal et multicanal](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
-**Section 4**
+**Section 4**
 
 * [RGPD](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
 * [Adobe [!DNL Commerce] Bonnes pratiques en matière de sécurité](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Professionnel du développement
 **Détails de l’examen :**
 
 * Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 228/37
+* Score de transmission : 28/37
 * Durée : 74 minutes
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
@@ -244,33 +244,33 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1**
+**Section 1**
 
 * [Création d’une règle de liste de contrôle d’accès (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
 * [Ajout d’une grille d’administration](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
 * [référence system.xml](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
-**Section 2**
+**Section 2**
 
 * [Routage](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
 * [URL rewrites](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
 * [Configuration du type de cache](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [Étendue du site, du magasin et de l’affichage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Étendue du site, du magasin et de l’affichage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr){target="_blank"}
 * [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 * [Configuration de l’injection de dépendances](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
 * [Création d’un module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=fr){target="_blank"}
 * [Indexation](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-* [Des traductions](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Traductions](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [Modules externes](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
-**Section 3**
+**Section 3**
 
 * [Jeux d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
 * [Attributs EAV et extension](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
 * [Configuration du schéma déclaratif](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
 * [Création de la structure de fichiers de composant](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
-**Section 4**
+**Section 4**
 
 * [Blocs de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
 * [Affichage des modèles](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
@@ -279,7 +279,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Appel et initialisation de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
 * [Contenu privé](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
-**Section 5**
+**Section 5**
 
 * [Configuration du panier](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
 * [Créer une règle de prix de panier](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
@@ -353,11 +353,11 @@ Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluat
 
 | Cours d’expert et de Principal | Évaluation du cours |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] Tendances du commerce électronique](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personnalisation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] Automatisation de l’IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]: intégrations de données à Experience Platform et au-delà](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Commerce composite sur Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [Adobe [!DNL Commerce] Tendances du commerce électronique](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [MARC-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personnalisation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [MARC-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] Automatisation de l’IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [MARC-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
+| [[!DNL Commerce]: intégrations de données à Experience Platform et au-delà](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [MARC-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]: Commerce composite sur Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [MARC-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 
