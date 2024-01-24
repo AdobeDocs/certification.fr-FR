@@ -6,10 +6,10 @@ role: Developer
 badge: label="Exam AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 0%
+source-wordcount: '541'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ Vous devriez également disposer des éléments suivants :
 
 * [Bonne pratique - Intégration et adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Création d’un profil utilisateur individuel](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] intégration avec Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] intégration avec Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=fr){target="_blank"}
 * [Métadonnées et mots-clés : configuration des métadonnées](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html){target="_blank"}
 * [Installer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
@@ -145,10 +145,10 @@ Vous devriez également disposer des éléments suivants :
 
 **Section 4 : installation et configuration du connecteur**
 
-* [Installer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] base améliorée du connecteur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [Configurer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] intégration avec Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
+* [Installer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=fr){target="_blank"}
+* [[!DNL Workfront] base améliorée du connecteur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=fr){target="_blank"}
+* [Configurer [!DNL Workfront] pour [!DNL Experience Manager] connecteur amélioré](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] intégration avec Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=fr){target="_blank"}
 
 <br>
 
