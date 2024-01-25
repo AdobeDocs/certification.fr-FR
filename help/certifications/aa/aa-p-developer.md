@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Exam AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 13%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -142,29 +142,29 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 **Section 1 : Analyses dans l’écosystème Adobe Experience Cloud**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
+* [Service Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
 * [Questions fréquentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
 * [Guide de l’utilisateur pour la création dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
 
 **Section 2 : Stratégie et conception Analytics basées sur une référence de conception de solution**
 
-* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
 * [Variables de liste](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [eVars de marchandisage et méthodes de recherche de produit](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
+* [eVars de marchandisage et méthodes de recherche de produits](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
 **Section 3 : Mise en oeuvre et configuration d’Analytics**
 
 * [Guide de l’outil Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
 * [Astuce rapide - Transmission de données dans les règles de Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Collecte des données Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
+* [Collecte des données d’analyse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **Section 4 : Systèmes de gestion des balises**
 
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
-* [Gestion des balises](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Analyseurs de paquets](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
 * [Référence d’objet satellite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?lang=fr){target="_blank"}
 
@@ -173,13 +173,13 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 * [[!DNL Adobe Analytics]: Étude de cas d’intégration du marketing par e-mail (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Bienvenue dans le guide d’administration des équipes et des entreprises](https://helpx.adobe.com/fr/enterprise/admin-guide.html){target="_blank"}
-* [API Reporting dans Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [API de création de rapports dans Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
 * [Fonctionnement des règles de traitement](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Section 6 : Test, validation et dépannage**
 
 * [Référence des erreurs JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Notes techniques d’Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
+* [Notes techniques Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
 * [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html?lang=fr){target="_blank"}
 * [Suivi du composant cliqué avec [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html?lang=fr){target="_blank"}
 * [[!DNL Adobe Analytics] Débogage de mise en oeuvre : outils](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
@@ -191,6 +191,12 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 {{sample-questions}}
 
 [Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Effectuer un test pratique**
+
+{{practice-test}}
 
 <br>
 
