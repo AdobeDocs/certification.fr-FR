@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 32/50
-* Durée : 110 minutes
+* Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais, japonais
 * Coût : 225 $ (global) / 150 $ (Inde)
