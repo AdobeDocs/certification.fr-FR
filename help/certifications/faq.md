@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Il existe parfois plusieurs versions d&#39;un examen. Il est préférable de pre
 
 [!DNL Examity] prend en charge par chat, par e-mail et par téléphone. La prise en charge des Adobes ne peut pas vous aider en cas de problèmes techniques survenant pendant l’examen.
 
-[!DNL Examity] Support technique: `adobepartnersupport@examity.com`
+[!DNL Examity] Assistance : `adobepartnersupport@examity.com`
 
 La ressource d&#39;aide la plus rapide est par le biais de leur conversation. Tous les candidats aux tests doivent s’assurer que leur ordinateur a la configuration requise adéquate avant de passer leur examen.
 
@@ -84,8 +84,8 @@ Pour les candidats qui ne réussissent pas l&#39;examen de certification d&#39;A
 +++Comment puis-je obtenir une copie de mon rapport de score ?
 
 * Étape 1 : connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Connectez-vous à l’aide de votre identifiant ou de votre adresse électronique et de votre mot de passe.
-* Étape 2 : cliquez sur Transcripts.
-* Étape 3 : faites défiler votre historique de transcription et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
+* Étape 2 : cliquez sur Historique.
+* Étape 3 : faites défiler votre historique et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
 
 +++
 
@@ -137,7 +137,7 @@ Pas directement, non. Mais comme la certification nécessite désormais un renou
 
 Les certifications d’Adobe expirent au bout de deux ans. Vous pouvez renouveler votre certification en prenant et en transmettant la dernière version de l’examen de certification d’Adobe applicable.
 
-Vous disposez de deux options :
+Vous disposez de deux options :
 
 * passer régulièrement un examen de certification ;
 * Prenez l’examen de renouvellement, un examen plus court qui se concentre sur les nouvelles fonctionnalités de solution ainsi que sur les éléments que vous connaissez déjà.
