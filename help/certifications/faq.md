@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Pour les candidats qui ne réussissent pas l&#39;examen de certification d&#39;A
 
 * Étape 1 : connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Connectez-vous à l’aide de votre identifiant ou de votre adresse électronique et de votre mot de passe.
 * Étape 2 : cliquez sur Historique.
-* Étape 3 : faites défiler votre historique et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
+* Étape 3 : faites défiler votre historique de transcription et sélectionnez le rapport que vous souhaitez afficher. Vous pouvez envoyer le rapport par courriel ou l’afficher à l’écran.
 
 +++
 
