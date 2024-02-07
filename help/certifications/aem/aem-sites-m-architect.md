@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
 workflow-type: tm+mt
-source-wordcount: '1470'
-ht-degree: 28%
+source-wordcount: '949'
+ht-degree: 5%
 
 ---
 
@@ -142,80 +142,80 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 **Section 1 : Découverte**
 
 * [Guide de l’utilisateur pour le développement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Guide des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur d’AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Guide des communautés](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Vidéos et tutoriels sur AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour la gestion d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [Présentation d’AEM as a Cloud Service](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels d’AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
+* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
 * [Présentation de HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
-* [Prise en main d’AEM et Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=fr){target="_blank"}
+* [Prise en main d’AEM et d’Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=fr){target="_blank"}
 
 **Section 2 : Conception de la solution**
 
-* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
 * [SPA/SEO : Guide de l’application d’une seule page pour Google](https://snipcart.com/spa-seo){target="_blank"}
 * [Configuration tenant compte du contexte Sling](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
 * [Conférence-conférence : configuration basée sur le contexte Sling](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [Vidéos et tutoriels sur AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
 * [Affichage/masquage des propriétés de page en fonction d’un modèle dans AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM des conditions de rendu personnalisées Granite](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [Prévention de XSS dans les applications React](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur d’AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [Présentation des composants principaux](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour la création dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels sur AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
+* [Vidéos et tutoriels AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
 * [Bonnes pratiques d’AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=fr){target="_blank"}
 * [Adobe de documents d’aide](https://helpx.adobe.com/fr/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [Guide d’AEM Forms 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide d’AEM 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Comment effacer le cache de Dispatcher dans AEM](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
 * [Convertisseur du Dispatcher AEM Cloud Service](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] Aperçu](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] Présentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 * [Guide HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html?lang=fr){target="_blank"}
-* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=fr){target="_blank"}
+* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
 **Section 3 : Mise en oeuvre**
 
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
-* [Documentation Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=fr){target="_blank"}
-* [Adobe [!DNL Experience Manager] Présentation de l’appli de bureau](https://experienceleague.adobe.com/?lang=frdocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [Vidéos et tutoriels d’AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr){target="_blank"}
+* [Documentation Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=fr){target="_blank"}
+* [Adobe [!DNL Experience Manager] Présentation de l’appli de bureau](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Vidéos et Tutorials d’AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr){target="_blank"}
 * [Types d’identité dans Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Vidéos et tutoriels d’AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
-* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
-* [Guide d’Adobe Target](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
+* [Vidéos et Tutorials AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=fr){target="_blank"}
+* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
+* [Guide Adobe Target](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=fr){target="_blank"}
 * [Guide de l’utilisateur pour la création dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels d’AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
-* [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=fr){target="_blank"}
+* [Guide des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
+* [Vidéos et Tutorials AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour le déploiement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Présentation de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=fr){target="_blank"}
 
 
 **Section 4 : Types de ressources**
 
-* [Guide de l’utilisateur pour l’administration dans AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
+* [Guide de l’utilisateur pour l’administration d’AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr){target="_blank"}
 * [Fichiers mappés de la mémoire Oak TarMK](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
 * [Présentation de Dispatcher](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Apache Sling : mappages pour la résolution des ressources](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [Recherche AEM par rapport à recherche Solr](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
 * [TarMK : Faits et chiffres](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
+* [Présentation de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr){target="_blank"}
 * [Cloud Manager : Prise en main](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache consomme le tas lors du chargement des ressources](https://helpx.adobe.com/fr/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Guide d’Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
-* [Tutoriel sur la mise en cache AEM Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=fr){target="_blank"}
+* [Guide des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr){target="_blank"}
+* [Tutoriel sur le cache de Dispatcher AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=fr){target="_blank"}
 * [Index Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [Guide de l’utilisateur pour le développement d’AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=fr){target="_blank"}
+* [AEM 6.4 Guide de l’utilisateur pour le développement](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
 <br>
 
@@ -292,23 +292,3 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
-
-## Questions fréquentes sur l’Principal d’architecte Adobe Experience Manager Sites (AD0-E117) {#AEM-FAQ}
-
-L’examen de certification AD0-E117 est en cours de maintenance et est temporairement indisponible. Nous nous excusons sincèrement pour le dérangement. [Inscrivez-vous pour être averti](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) lorsqu’elle est à nouveau disponible.
-
-**Que se passe-t-il si j&#39;ai déjà programmé mon examen ?**
-
-Tous les examens AD0-E117 programmés ont été annulés. Les candidats qui sont affectés devront planifier à nouveau l’examen lorsque la nouvelle version est disponible.
-
-**J&#39;ai déjà payé l&#39;examen. Vais-je recevoir un remboursement ?**
-
-* Si vous avez payé votre examen avec une carte de crédit via l&#39;examen, vous serez entièrement remboursé.  
-* Si vous avez payé avec un bon, votre code sera réinitialisé et vous pourrez l’appliquer à votre nouveau rendez-vous d’examen.  
-* Si votre bon expire avant que vous ne puissiez l’utiliser, nous vous enverrons un nouveau bon une fois que vous êtes prêt à le planifier.
-
-**Je dois renouveler ma certification avant octobre ; cela aura-t-il une incidence sur mon renouvellement ?**
-
-Non. Vous pourrez vous renouveler grâce à l&#39;apprentissage continu. Veillez à suivre les instructions et le processus fournis sous [Renouveler votre certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
-
