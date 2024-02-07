@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des professionnels :
 
-1. Connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur l’Adobe [!DNL Commerce] Lien de l’examen de renouvellement professionnel du professionnel du professionnel (AD5-E840) ci-dessous.
 
-2. Cliquez sur le bouton ci-dessous pour accéder au portail d&#39;examen et passer votre examen (AD5-E840).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
-</span>
-</a>
+[!BADGE Prenez l&#39;Adobe [!DNL Commerce] Examen de renouvellement professionnel du professionnel du professionnel des professionnels (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des développeurs :
 
-1. Connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur l’Adobe [!DNL Commerce] Lien vers l’examen de renouvellement professionnel des développeurs (AD5-E839) ci-dessous.
 
-2. Cliquez sur le bouton ci-dessous pour accéder au portail d&#39;examen et passer votre examen (AD5-E839).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
-</span>
-</a>
+[!BADGE Prenez l&#39;Adobe [!DNL Commerce] Examen de renouvellement professionnel des développeurs (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 Pour renouveler votre Adobe [!DNL Commerce] Certification professionnelle des développeurs front-end :
 
-1. Connectez-vous au [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur l’Adobe [!DNL Commerce] Lien ci-dessous : Examen de renouvellement professionnel des développeurs front-end (AD5-E844).
 
-2. Cliquez sur le bouton ci-dessous pour accéder au portail d&#39;examen et passer votre examen (AD5-E844).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
-</span>
-</a>
+[!BADGE Prenez l&#39;Adobe [!DNL Commerce] Examen de renouvellement professionnel des développeurs front-end (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
