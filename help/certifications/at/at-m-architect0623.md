@@ -6,10 +6,11 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
+source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 21%
+source-wordcount: '665'
+ht-degree: 3%
 
 ---
 
@@ -67,9 +68,9 @@ Technologies :
 * Configuration HTML, CSS, HTTP, XML
 * IDE de développement mobile natifs, principes de base du développement iOS, principes de base du développement Android
 * Outils API tels que Postman
-* Assistant de VEC 
+* Assistant de VEC
 
-Environnements:
+Environnements :
 
 * Adobe Experience Cloud
 * Mise en oeuvre côté client sans gestionnaire de balises
@@ -148,21 +149,21 @@ Environnements:
 
 {{study-materials-intro}}
 
-**Section 1**
+**Section 1**
 
-* [Types d’activités de Target](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=fr){target="_blank"}
+* [Types d’activité de Target](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=fr){target="_blank"}
 * [Présentation du test multivarié](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [Fonctions d’at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
 * [Profils de visiteur](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=fr){target="_blank"}
 
-**Section 2**
+**Section 2**
 
-* [Intégration de Target à Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=fr){target="_blank"}
-* [Adobe Analytics comme source de création de rapports pour Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=fr){target="_blank"}
-* [Audiences Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=fr){target="_blank"}
+* [Intégration de Target à Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=fr){target="_blank"}
+* [Adobe Analytics comme source des rapports pour Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=fr){target="_blank"}
+* [Audiences Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=fr){target="_blank"}
 * [Utilisation d’offres de fragments d’expérience dans Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html?lang=fr){target="_blank"}
 
-**Section 3**
+**Section 3**
 
 * [Hôtes](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html?lang=fr){target="_blank"}
 * [Utilisateurs](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
@@ -170,18 +171,18 @@ Environnements:
 * [Bonnes pratiques et limites du compositeur d’expérience visuelle](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
 
 
-**Section 4**
+**Section 4**
 
-* [Intégration de Recommandations dans la messagerie électronique](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
+* [Intégration de Recommendations à la messagerie électronique](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [Compositeur d’expérience d’après les formulaires](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html?lang=fr){target="_blank"}
-* [Créer des offres JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Création d’offres JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 
-**Section 5**
+**Section 5**
 
-* [Recommandations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Questions fréquentes relatives à Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
+* [FAQ sur Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Flux](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
-* [Personnaliser une conception à l’aide de Velocity](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
+* [Personnalisation d’une conception à l’aide de Velocity](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
 
 **Section 6**
 
@@ -192,11 +193,17 @@ Environnements:
 
 **Section 7**
 
-* [QA d’activité](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Résolution des problèmes liés à la diffusion de contenu](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [AQ d’activité](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Dépannage de la diffusion de contenu](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
 * [FAQ sur la conception](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [Questions fréquentes relatives à Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [FAQ sur Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Connexion à Adobe Analytics for Target (A4T) dans le SDK Web de Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+
+<br>
+
+**Effectuer un test pratique**
+
+{{practice-test}}
 
 +++
 
