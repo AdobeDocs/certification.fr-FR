@@ -4,9 +4,9 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Exemple :
 
 * [Comment s&#39;inscrire à un examen en ligne ?](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Comment lancer l’examen et se connecter au processeur](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Configuration requise du récepteur de test d’examen](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Passer votre examen]
 
@@ -43,9 +44,11 @@ Votre [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){t
 
 **Annulation et replanification**
 
-Les annulations et les replanifications sont possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu de l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
+Les annulations et les replanifications sont généralement possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu à l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
 Ni l’assistance aux Adobes ni l’assistance aux examens ne peuvent traiter les demandes de replanification et d’annulation. Les annulations de moins de 48 heures sont soumises à des frais de replanification en plus des frais d&#39;examen.
+
+Si vous ne parvenez pas à reprogrammer votre examen, même s’il est plus de 48 heures avant celui-ci, cela peut être dû à une nouvelle version de l’examen. Si votre rendez-vous était pour la version précédente de l&#39;examen, vous ne pourrez pas reprogrammer votre rendez-vous d&#39;examen. Nous vous recommandons de garder votre rendez-vous à l&#39;examen si possible. Si vous ne le pouvez pas, vous devrez annuler votre examen et programmer un nouveau rendez-vous pour passer le nouvel examen.
 
 **Après votre examen**
 
@@ -214,7 +217,7 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 * **Étape 2 :** Créez un compte. _(Vous devez utiliser le même e-mail que celui utilisé pour obtenir vos informations d’identification d’Adobe, sinon vous ne verrez pas votre badge.)_
 * **Étape 3 :** Acceptez et partagez votre badge.
 
-[En savoir plus](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}.
+[En savoir plus](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
 >[!ENDTABS]
 

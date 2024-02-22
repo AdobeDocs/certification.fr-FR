@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Pour plus d’informations, voir [!DNL Examity] pour gérer les examens et la co
 +++Qui puis-je contacter pour toute question ou problème concernant la certification ?
 
 Pour toute question sur l’inscription aux examens, les paiements des examens, la diffusion des tests, les centres de test, les commentaires sur les examens, les questions sur les examens, l’expérience de test, les arrangements pour les tests ou les questions sur le portail de certification, contactez `certif@adobe.com`.
+
++++
+
++++Puis-je annuler ou reprogrammer mon rendez-vous à l&#39;examen ?
+
+Les annulations et les replanifications sont généralement possibles si elles sont initiées avant 48 heures avant le rendez-vous prévu à l&#39;examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
+
+Ni l’assistance aux Adobes ni l’assistance aux examens ne peuvent traiter les demandes de replanification et d’annulation. Les annulations de moins de 48 heures sont soumises à des frais de replanification en plus des frais d&#39;examen.
+
+Si vous ne parvenez pas à reprogrammer votre examen, même s’il est plus de 48 heures avant celui-ci, cela peut être dû à une nouvelle version de l’examen. Si votre rendez-vous était pour la version précédente de l&#39;examen, vous ne pourrez pas reprogrammer votre rendez-vous d&#39;examen. Nous vous recommandons de garder votre rendez-vous à l&#39;examen si possible. Si vous ne le pouvez pas, vous devrez annuler votre examen et programmer un nouveau rendez-vous pour passer le nouvel examen.
 
 +++
 
