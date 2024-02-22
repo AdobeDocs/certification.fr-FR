@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 29%
+source-wordcount: '436'
+ht-degree: 6%
 
 ---
 
@@ -113,7 +113,7 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 **Section 1 : Découverte**
 
-* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 * [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Notes techniques](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
@@ -124,17 +124,17 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 * [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
-* [SDK iOS 4.x pour solutions Experience Cloud](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=fr){target="_blank"}
+* [SDK iOS 4.x pour solutions Experience Cloud](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide d’importation](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=fr){target="_blank"}
-* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Tutoriels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"}
 * [Rôles administratifs](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Présentation d’Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
+* [Présentation du Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Gérer les utilisateurs individuellement](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
 **Section 3 : post-implémentation**
 
-* [Implémentation de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
+* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide des composants](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=fr){target="_blank"}
 * [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
 * [La couche de données pilotée par un événement](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
@@ -148,11 +148,9 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 <br>
 
-**Exemples de questions**
+**Effectuer un test pratique**
 
-{{sample-questions}}
-
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++
 
