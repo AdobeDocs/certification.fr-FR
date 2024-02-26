@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 13%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 13%
 * Score de transmission : 30/50
 * Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais
+* Langues disponibles : anglais, japonais
 * Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E124
+* ID d’examen : AD0-E124 (anglais), AD0-E124-J (japonais)
 
 <br>
 
@@ -140,26 +140,26 @@ En outre, vous devez connaître les technologies et environnements suivants :
 **Section 1 : Configuration de Adobe Experience Manager**
 
 * [Concepts de configuration de base](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [Résolution des incidents liés à AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [AEM de dépannage](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [Configuration d’OSGi dans AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=fr){target="_blank"}
 
 **Section 2 : utilisation de l’API Cloud Manager et Cloud Manager**
 
 * [Gestion des environnements](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=fr){target="_blank"}
-* [Prise en main du Parcours de migration vers AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Prise en main du Parcours de migration pour AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Présentation de l’intégration Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **Section 3 : Configuration de l’infrastructure de proxy web**
 
-* [Configurations du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
-* [Performances de mise en cache](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
+* [Configurations du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=fr){target="_blank"}
+* [Mise en cache des performances](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **Section 4 : Création et déploiements**
 
 * [Déploiement du code](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=fr){target="_blank"}
-* [Configuration des pipelines de production](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Utilisation des modules](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=fr){target="_blank"}
-* [Structure de projet AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=fr){target="_blank"}
+* [Configuration des pipelines de production](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=fr){target="_blank"}
+* [Utilisation des modules](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [AEM structure de projet](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=fr){target="_blank"}
 
 **Section 5 : Surveiller et créer des rapports sur la mesure de qualité**
 
@@ -170,7 +170,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 6 : Fonctionnement du Admin Console**
 
-* [Prise en charge IMS d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=fr#accessing-cloud-manager){target="_blank"}
+* [Prise en charge IMS d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=fr#accessing-cloud-manager){target="_blank"}
 * [Groupes d’utilisateurs et AEM Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=fr){target="_blank"}
 
 +++
@@ -197,12 +197,23 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{about-certification-exam}}
 
-## Planification ou prise de l’examen AD0-E124
+## Planification ou examen AD0-E124 (anglais)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
+   Accédez à Portail d’examen - Examen d’anglais
+</span>
+</a>
+
+## Planification ou examen AD0-E124-J (japonais)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Accédez au portail d'examen - Examen japonais
 </span>
 </a>
 
