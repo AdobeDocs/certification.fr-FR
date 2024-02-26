@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 16%
+source-wordcount: '518'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 16%
 * Score de transmission : 30/50
 * Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais et japonais
+* Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E307
 
@@ -134,15 +134,15 @@ En outre, vous devez disposer des éléments suivants :
 **Section 1 : Gestion des diffusions**
 
 * [Gestion des Portfolios](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [À propos de la configuration des canaux](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [Surveillance d’une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=fr-FR){target="_blank"}
-* [Concepteur d&#39;e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
+* [A propos de la configuration des canaux](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Contrôler une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=fr-FR){target="_blank"}
+* [Concepteur d’email de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
 
 **Section 2 : Gestion de campagne**
 
-* [À propos de l’exécution d’un workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=fr){target="_blank"}
-* [Modification des ressources personnalisées pour les demandes d&#39;accès à des informations personnelles](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
-* [Création d&#39;une audience](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
+* [A propos de l&#39;exécution des workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=fr){target="_blank"}
+* [Modification des ressources personnalisées pour les requêtes de confidentialité](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [Créer une audience](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Section 3 : Analyse des exigences**
 
@@ -155,16 +155,16 @@ En outre, vous devez disposer des éléments suivants :
 * [Présentation du reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
 * [Personnalisation Création d’un rapport basé sur des attributs de profil personnalisés](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
 * [Prise en main des rapports dynamiques](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr){target="_blank"}
-* [Création d&#39;un rapport à partir de segments de workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
+* [Création d’un rapport à partir de segments de workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **Section 5 : Dépannage**
 
 * [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=fr){target="_blank"}
-* [Résolution des problèmes d’API](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
+* [Dépannage des API](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Section 6 : Gestion et administration des données**
 
-* [ [!DNL Campaign Standard] Prise en main du modèle de données](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Prise en main d’ [!DNL Campaign Standard] modèle de données](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Prise en main d’ [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
