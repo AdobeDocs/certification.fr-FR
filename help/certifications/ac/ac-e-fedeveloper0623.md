@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 1%
 ### Détails de l’examen {#exam-details}
 
 * Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 33/50
+* Score de transmission : 29/50
 * Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais
@@ -189,14 +190,14 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * [Pages](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
 * [Qu’est-ce que le créateur de pages ?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
 * [Lots JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [reCAPTCHA de Google](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
+* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Section 6 : Outils (interface en ligne de commande et Grunt)**
 
 * [Guide de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Présentation de l’installation sur site](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
+* [Installation sur site - Aperçu](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
 * [Créer des variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [ de Commerce sur les infrastructures cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 <br>
 
