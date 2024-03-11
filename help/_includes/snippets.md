@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Payer par bon : pour acheter un bon d’examen, rendez-vous sur : Centre des bon
 
 **Achat d’un bon**
 
-Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, accédez à la [Centre des bons de certification Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}.
+Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, accédez à la [Centre des bons de certification Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Consultez ci-dessous pour obtenir des informations de réduction sur les bons.
 
@@ -211,7 +211,7 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 * **Étape 2 :** Créez un compte. (Vous devez utiliser le même e-mail que celui utilisé pour obtenir vos informations d’identification d’Adobe, sinon vous ne verrez pas votre badge.)
 * **Étape 3 :** Acceptez et partagez votre badge.
 
-[En savoir plus](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}.
+[En savoir plus](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
 <!--divider-->
 
