@@ -1,20 +1,20 @@
 ---
 title: FAQ
-description: Obtenez des réponses aux questions sur le programme Adobe Digital Experience Credential. Découvrez les avantages de la certification, comment vous inscrire et qui vous pouvez contacter.
+description: Obtenez des réponses aux questions sur le programme de certification de l’expérience numérique Adobe. Découvrez les avantages de la certification, comment vous inscrire et qui vous pouvez contacter.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # FAQ sur la certification des Adobes
 
-Pour en savoir plus sur le programme Adobe Digital Experience Credential, reportez-vous aux questions fréquentes ci-dessous.
+Pour en savoir plus sur le programme de certification de l’expérience numérique Adobe, reportez-vous aux questions fréquentes ci-dessous.
 
 ![Bannière](/help/certifications/assets/home_banner_narrow.png)
 
