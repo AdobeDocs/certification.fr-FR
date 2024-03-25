@@ -8,17 +8,20 @@ level: Experienced
 badge: label="Exam AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Commerce] Principal architecte
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/388) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -141,42 +144,20 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 
 {{study-materials-intro}}
 
-**Section 1 : Conception**
-
-* [Création d’un produit](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Mise en cache des pages](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [Introduction à [!DNL Commerce] Gestion des clients](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [Événements et observateurs](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [Présentation du SEO](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Détails du magasin](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Ajout d’une nouvelle intégration de paiement (mode de paiement)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Authentification](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [Présentation de GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**Section 2 : Révision**
-
-* [Introduction](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Ajout d’un attribut de champ de texte personnalisé](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Introduction au guide des tests d’application](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Développement des composants](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Bonnes pratiques](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Configurer le vernis](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**Section 3 : configuration et déploiement**
-
-* [Guide de référence de configuration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Fichiers de configuration pour le déploiement](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Configuration de Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Devise](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Présentation de l’initialisation et de l’amorçage](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Présentation des services rapides](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Afficher le guide de préparation d’examen
+</span>
+</a>
 
 +++
 

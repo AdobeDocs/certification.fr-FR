@@ -7,16 +7,20 @@ level: Experienced
 badge: label="Exam AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1707'
-ht-degree: 2%
+source-wordcount: '853'
+ht-degree: 0%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Commerce] Développeur expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/387) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -181,123 +185,20 @@ Vous devriez avoir au moins 1 à 3 ans d’expérience avec l’Adobe [!DNL Comm
 
 {{study-materials-intro}}
 
-**Section 1 : Adobe [!DNL Commerce] techniques d&#39;architecture et de personnalisation**
-
-* [[!DNL Commerce] pour les développeurs - Aperçu](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - Workflow de développement](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs : base de code](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - Exercices](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
-* [Principes de développement de Magento 2](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
-* [Adobe [!DNL Commerce] Cloud : Magento Commerce - Développeur principal](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
-* [Adobe [!DNL Commerce] 2.4 Guide du développeur](https://devdocs.magento.com/){target="_blank"}
-* [Mise en cache partielle](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
-* [Mise en cache des pages](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-* [Ajout d’attributs d’extension aux entités](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
-* [Catégories - Paramètres de conception](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [Création d’un module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=fr){target="_blank"}
-* [Développement des composants](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - principes de base du développement](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs : post-installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - Routage](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
-* [Création d’une page](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
-* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Présentation du générateur de page](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
-* [Configuration de plusieurs sites web ou magasins](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
-* [Plusieurs sites web ou magasins](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [Exemple d’injection de dépendance](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=fr){target="_blank"}
-* [Référence System.xml](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
-* [Appliquer les correctifs](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
-* [Ajout de commandes d’interface de ligne de commande](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
-* [Test d’intégration](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
-* [Sécurité](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [Cron (tâches planifiées)](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}
-* [Configuration des tâches cron](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html){target="_blank"}
-* [Tâches Cron](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/crons/custom-cron.html){target="_blank"}
-* [Propriété Cron](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/crons-property.html){target="_blank"}
-* [Présentation des calques architecturaux](https://developer.adobe.com/commerce/php/architecture/layers/){target="_blank"}
-* [Modules et zones](https://developer.adobe.com/commerce/php/architecture/modules/areas/){target="_blank"}
-
-**Section 2 : Utilisation de bases de données et d’EAV**
-
-* [Création d’un attribut de produit](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=fr){target="_blank"}
-* [Attributs EAV et extension](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
-* [Comment ajouter un nouvel attribut de produit](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
-* [Ajout d’un attribut de champ de texte personnalisé](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] pour les développeurs - Schéma déclaratif](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
-* [Ajouter une nouvelle table à une base de données](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
-* [Schéma déclaratif](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
-* [Transfert de données](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [Entité d’importation personnalisée](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
-* [Importation et exportation d’un inventaire](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
-* [Développement des données et des correctifs de schéma](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
-
-**Section 3 : développement avec administration**
-
-* [[!DNL Commerce] pour les développeurs : création d’une page d’administration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
-* [Ajout d’une grille d’administration](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
-* [Composant Liste (grille)](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
-* [Composant de formulaire](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
-* [Composant ActionsColumn](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-actionscolumn.html){target="_blank"}
-* [modificateurs PHP](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/ui_comp_modifier_concept.html){target="_blank"}
-* [Personnalisation à l’aide d’une classe de modificateur](https://devdocs.magento.com/guides/v2.4/howdoi/customize-modifier-class.html){target="_blank"}
-* [Création d’une règle de liste de contrôle d’accès (ACL)](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html){target="_blank"}
-
-**Section 4 : Personnalisation du catalogue**
-
-* [Création de produits](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Ajout d’attributs d’extension aux entités](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
-* [Indexation](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html){target="_blank"}
-* [Optimisation de l’indexeur](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexer-optimization.html){target="_blank"}
-* [Création d’un indexeur personnalisé](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing-custom.html){target="_blank"}
-* [Gestion des indexeurs](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html){target="_blank"}
-* [Gestion des index](https://docs.magento.com/user-guide/system/index-management.html){target="_blank"}
-* [Prix du rendu en front-end](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/howto/price_rendering.html){target="_blank"}
-* [Présentation d’Inventory management](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-
-**Section 5 : Personnalisation des opérations de vente**
-
-* [Personnalisation du passage en caisse](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Ajout d’un mode de paiement personnalisé à l’extraction](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_payment.html){target="_blank"}
-* [Ajout d’une nouvelle intégration de paiement (mode de paiement)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Ajout d’un opérateur de livraison personnalisé](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout-add-custom-carrier.html){target="_blank"}
-* [Ajout de validations d’opérateurs de livraison personnalisées](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_carrier.html){target="_blank"}
-* [Personnalisation de l’affichage d’une étape de paiement](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
-* [Ordre de tri des totaux de paiement](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
-
-**Section 6 : API et services**
-
-* [Prise en main d’Adobe [!DNL Commerce] API web](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-* [Présentation de l’API REST](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html){target="_blank"}
-* [Utilisation des services SOAP](https://devdocs.magento.com/guides/v2.4/soap/bk-soap.html){target="_blank"}
-* [Présentation de GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/){target="_blank"}
-* [Files d&#39;attente des messages](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html){target="_blank"}
-* [Opérations en bloc](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html){target="_blank"}
-
-**Section 7 : Adobe [!DNL Commerce] Architecture du cloud**
-
-* [Workflow du projet Pro](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
-* [Interface de ligne de commande du cloud](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=fr){target="_blank"}
-* [Module d’outils CEE](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
-
-**Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud**
-
-* [Gestion de l’accès des utilisateurs](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
-* [Connexions sécurisées à des environnements distants](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
-* [Projet d’infrastructure cloud](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
-* [Gestion des branches à l’aide de l’interface de ligne de commande](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
-
-**Section 9 : [!DNL Commerce] Outil d’interface de ligne de commande du cloud (partie de gestion)**
-
-* [Instantanés et gestion des sauvegardes](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
-* [Gestion de l’espace disque](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/387" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Afficher le guide de préparation d’examen
+</span>
+</a>
 
 +++
 

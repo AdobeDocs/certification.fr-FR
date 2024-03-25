@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Les certifications expirent au bout de deux ans. Pour maintenir votre certificat
 Veuillez programmer votre examen entre le dimanche et le jeudi 17h et 2h du matin pour vous assurer que nous pouvons assigner un processeur de langue japonaise. Si vous programmez en dehors de ces heures, nous ne pouvons pas garantir un processeur de langue japonaise.
 
 [Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Prends un cours gratuit. {#take-course}
+
+Ce cours gratuit à la demande vous aide à vous préparer à votre examen avec des explications sur les concepts clés, des démonstrations pratiques et des contrôles de connaissances.
+
+## Guide de préparation d’exportation {#exam-prep-guide}
+
+Le guide gratuit de préparation d’examen vous permet de suivre un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.

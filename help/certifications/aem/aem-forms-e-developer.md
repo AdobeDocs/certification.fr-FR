@@ -7,16 +7,20 @@ role: Developer
 badge: label="Exam AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 11%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Experience Manager Forms] Développeur expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/372) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -61,7 +65,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Création de PDF forms (statiques/dynamiques, interactifs et non interactifs)
 * Schéma ou liaison de données XML
 * Créer un fragment de formulaire
-* Création d’un formulaire adaptatif
+* Créer un formulaire adaptatif
 * Débogage d’un formulaire complexe
 * Configuration et envoi de formulaires
 * Création et déploiement d’instances AEM pour les formulaires adaptatifs
@@ -91,7 +95,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 * Créer Forms
 * Configuration du modèle de données Forms
-* Personnaliser AEM Forms
+* Personnalisation d’AEM Forms
 * Développer et utiliser l’API GuideBridge de la bibliothèque cliente JavaScript
 
 **Section 2 : Traitements et workflows (34 %)**
@@ -113,7 +117,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 4 : points de terminaison et intégrations de l’API (8 %)**
 
-* Intégration avec Adobe Experience Cloud
+* Intégration à Adobe Experience Cloud
 * Générer et utiliser divers services de point de terminaison
 
 **Section 5 : communication interactive (4 %)**
@@ -148,40 +152,20 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : Création et gestion de Forms**
-
-* [Guide de Forms Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [Intégration des données AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
-* [Présentation de la publication de formulaires](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
-* [Utilisation de bibliothèques côté client](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=fr#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
-
-**Section 2 : Traitements et workflow**
-
-* [Tutorials et vidéos AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr){target="_blank"}
-* [Stockage personnalisé pour les brouillons et les envois](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [Service Output](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
-
-**Section 3 : Administration et dépannage**
-
-* [Débogage d’AEM as a Cloud Service à l’aide de journaux](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [Activation de la journalisation pour HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
-* [Dernières notes de mise à jour d’Adobe Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=fr){target="_blank"}
-* [Configuration de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=fr){target="_blank"}
-
-**Section 4 : Points de terminaison et intégrations de l’API**
-
-* [Intégration d’Adobe Experience Manager Forms en tant que Cloud Service à Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
-
-**Section 5 : communication interactive**
-
-* [Présentation des communications interactives](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
-* [Conditions dans les communications interactives](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Afficher le guide de préparation d’examen
+</span>
+</a>
 
 +++
 
