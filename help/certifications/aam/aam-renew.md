@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Professionnel]
 
+## Instructions pour renouveler votre certification :
+
+* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
+* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
+* **Étape 3**: réussir l’examen
+
 ### Adobe [!DNL Audience Manager] Examen de renouvellement professionnel du professionnel du professionnel
 
 Vous devez actuellement être certifié (non expiré) dans :
 
 * Adobe [!DNL Audience Manager] Professionnel professionnel
-
-### Instructions pour renouveler votre certification :
-
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
 
 ### Préparer
 
@@ -163,15 +163,15 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 >[!TAB Expert]
 
-Vous devez actuellement être certifié (non expiré) dans :
-
-* expert du métier de Adobe Audience Manager
-
-### Instructions pour renouveler votre certification :
+## Instructions pour renouveler votre certification :
 
 * **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
 * **Étape 2**: revoir les objectifs et les ressources de l’examen ;
 * **Étape 3**: réussir l’examen
+
+### Vous devez actuellement être certifié (non expiré) dans :
+
+* expert du métier de Adobe Audience Manager
 
 ### Préparer
 
@@ -244,15 +244,15 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 >[!TAB Maître]
 
-### Vous devez actuellement être certifié (non expiré) dans :
-
-* Adobe Audience Manager Architect master
-
-### Instructions pour renouveler votre certification
+## Instructions pour renouveler votre certification
 
 * **Étape 1** - Vérification des objectifs de l’examen
 * **Étape 2** - Examiner les ressources
 * **Étape 3** - Effectuer et réussir l&#39;examen
+
+### Vous devez actuellement être certifié (non expiré) dans :
+
+* Adobe Audience Manager Architect master
 
 ### Préparer
 
