@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!TAB Professionnel]
 
-## Adobe [!DNL Audience Manager] Examen de renouvellement professionnel du professionnel du professionnel
+### Adobe [!DNL Audience Manager] Examen de renouvellement professionnel du professionnel du professionnel
 
 Vous devez actuellement être certifié (non expiré) dans :
 
@@ -60,9 +60,9 @@ Vous devez actuellement être certifié (non expiré) dans :
 * Coût : GRATUIT
 * ID d’examen : Adobe AD5-E852 [!DNL Audience Manager] Examen de renouvellement professionnel du professionnel du professionnel
 
-### Objectifs et portée de l’examen**
+### Objectifs et portée de l’examen
 
-**Création et syndication de segments 32 %**
+**Section 1 : Création et syndication de segments (32 %)**
 
 * Identifier les moyens d’utiliser les données propriétaires, secondaires et tierces à des fins de ciblage et d’analyse
 * Description du processus de base d’activation des objectifs de l’entreprise ou de la campagne
@@ -70,27 +70,27 @@ Vous devez actuellement être certifié (non expiré) dans :
 * Identification des différents types de destinations
 * Identifier les différents types de sources
 
-**Création de caractéristiques 16 %**
+**Section 2 : Création de caractéristiques (16 %)**
 
 * Dans un scénario, identifiez des signaux, des caractéristiques, des segments et des audiences.
 * Identifier les utilisations de différents types de caractéristiques
 
-**Rapports et mesures 16 %**
+**Section 3 : Rapports et mesures (16 %)**
 
 * Dans un scénario, générez des rapports pour mesurer les objectifs d’activation ou de campagne.
 * Dans un scénario, comparez les audiences en fonction des taux de correspondance.
 
-**Résolution des problèmes 10 %**
+**Section 4 : Dépannage (10 %)**
 
 * Dans un scénario, résolvez les problèmes liés aux données entrantes provenant de différentes sources et types de sources.
 * Validation du format des fichiers de données entrants
 
-**Taxonomie 12%**
+**Section 5 : Taxonomie (12%)**
 
 * Identifier les bonnes pratiques pour la structure de dossiers organisée à l’aide d’une nomenclature claire et cohérente
 * Classer les caractéristiques et les segments en dossiers à l’aide d’une nomenclature cohérente et claire
 
-**Fusion de profils, synchronisation des identifiants et Audience Marketplace 14 %**
+**Section 6 : fusion de profils, synchronisation d’identifiants et Audience Marketplace (14 %)**
 
 * Organiser les caractéristiques utilisateur en un seul profil unifié pour créer des audiences basées sur les appareils ou les ménages
 * Identification de l’activation à l’aide d’Audience Marketplace
@@ -161,18 +161,13 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 >
 >Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
-
-
-
-<!--divider-->
-
 >[!TAB Expert]
 
 Vous devez actuellement être certifié (non expiré) dans :
 
 * expert du métier de Adobe Audience Manager
 
-## Instructions pour renouveler votre certification :
+### Instructions pour renouveler votre certification :
 
 * **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
 * **Étape 2**: revoir les objectifs et les ressources de l’examen ;
@@ -188,9 +183,9 @@ Vous devez actuellement être certifié (non expiré) dans :
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
 * Coût : GRATUIT
-* ID d’examen : AD5-E826 - Renouvellement d’expert du métier de Adobe Audience Manager
+* ID d’examen : AD5-E826 - Examen de renouvellement des experts du professionnel Adobe Audience Manager
 
-**Objectifs et portée de l’examen**
+### Objectifs et portée de l’examen
 
 **Section 1 : Création et syndication de segments (25 %)**
 
@@ -229,7 +224,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 [!BADGE Exemples de questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Ressources :**
+### Ressources :
 
 * [Adobe [!DNL Audience Manager] Documentation du produit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Prise en charge des Adobes - Audiences Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté
 
 >[!TAB Maître]
 
-Vous devez actuellement être certifié (non expiré) dans :
+### Vous devez actuellement être certifié (non expiré) dans :
 
 * Adobe Audience Manager Architect master
 
-## Instructions pour renouveler votre certification
+### Instructions pour renouveler votre certification
 
 * **Étape 1** - Vérification des objectifs de l’examen
 * **Étape 2** - Examiner les ressources
@@ -269,11 +264,11 @@ Vous devez actuellement être certifié (non expiré) dans :
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
 * Coût : GRATUIT
-* ID de l’examen : renouvellement du Principal AD5-E825 - Architecte Adobe Audience Manager
+* ID d’examen : AD5-E825 - Examen de renouvellement du Principal de l’architecte Adobe Audience Manager
 
-**Portée et objectifs :**
+## Objectifs et portée de l’examen :
 
-Section 1 : Analyse de l’implémentation (28 %)
+**Section 1 : Analyse de l’implémentation (28 %)**
 
 * Déterminer comment guider et prendre en charge la mise en oeuvre d’AAM en tant que produit autonome ou dans le cadre d’une solution cloud
 * Analyser les options de destination sortante et recommander une approche AAM mise en oeuvre
@@ -281,14 +276,14 @@ Section 1 : Analyse de l’implémentation (28 %)
 * Identifiez les fonctionnalités telles que la visionneuse de profils du visiteur, les balises, le reporting (RBAC), etc., afin de vous aligner sur les objectifs de l’entreprise.
 * Déterminer comment concevoir et tester les pixels requis pour créer des segments et des caractéristiques
 
-Section 2 : Conception de la solution et Recommendations (17 %)
+**Section 2 : Conception de la solution et Recommendations (17 %)**
 
 * Déterminer les fonctionnalités AAM en fonction du cas d’utilisation client pour l’audience et l’activation
 * appliquer des concepts de procédure afin d’utiliser les solutions d’identité d’audience pour compléter l’architecture de conception ;
 * Identifiez les données d’attribut et de comportement et mappez-les à des cas d’utilisation professionnels spécifiques.
 * Application de concepts de procédure à la convention de conception de la taxonomie et de l’affectation des noms des dossiers
 
-Section 3 : Segmentation et activation (31 %)
+**Section 3 : Segmentation et activation (31 %)**
 
 * appliquer des concepts de procédure pour créer des destinations dans ; [!DNL Audience Manager]
 * Identification des signaux permettant de créer des caractéristiques basées sur des règles, intégrées et algorithmiques
@@ -297,12 +292,12 @@ Section 3 : Segmentation et activation (31 %)
 * appliquer des concepts de procédure pour créer un modèle algorithmique ou prédictif ;
 * Déterminer la logique de segmentation en fonction des cas d’utilisation
 
-Section 4 : Confidentialité et gouvernance des données (7 %)
+**Section 4 : Confidentialité et gouvernance des données (7 %)**
 
 * Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité ;
 * Identifier les stratégies de données client conformes aux réglementations gouvernementales
 
-Section 5 : Performances et création de rapports (17 %)
+**Section 5 : Performances et création de rapports (17 %)**
 
 * Déterminer comment configurer des rapports dans AAM afin de rassembler les signaux, les caractéristiques et les performances des segments en fonction des besoins de l’entreprise
 
