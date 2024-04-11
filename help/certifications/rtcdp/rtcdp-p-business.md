@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/377) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>**Cours :** Si vous commencez ou avez besoin d’un rafraîchissement, prenez notre [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>
+>**Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/377) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>
+>_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -127,6 +133,17 @@ Expérience avec des tâches qui incluent :
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Suivez le cours Adobe Experience Platform Foundations
+</span>
+</a>
 
 **Guide de préparation d’exportation**
 

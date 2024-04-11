@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/383) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>**Cours**: si vous commencez, la variable [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>
+>**Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/383) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>
+>_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -137,6 +143,17 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Suivez le cours Adobe Commerce Foundations
+</span>
+</a>
 
 **Guide de préparation d’exportation**
 

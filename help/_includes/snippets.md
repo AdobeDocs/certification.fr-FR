@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Veuillez programmer votre examen entre le dimanche et le jeudi 17h et 2h du mati
 
 [Instructions japonaises pour la planification](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Prends un cours gratuit. {#take-course}
 
 Ce cours gratuit à la demande vous aide à vous préparer à votre examen avec des explications sur les concepts clés, des démonstrations pratiques et des contrôles de connaissances.
+
+<!--divider-->
 
 ## Guide de préparation d’exportation {#exam-prep-guide}
 
