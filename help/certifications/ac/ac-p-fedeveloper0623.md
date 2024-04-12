@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->**Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->**Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/384) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/384) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 

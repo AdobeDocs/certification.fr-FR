@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->**Cours :** Si vous commencez ou avez besoin d’un rafraîchissement, prenez notre [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’un rafraîchissement, prenez notre [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->**Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/375) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/375) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
