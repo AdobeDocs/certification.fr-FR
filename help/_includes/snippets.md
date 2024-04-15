@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Veuillez programmer votre examen entre le dimanche et le jeudi 17h et 2h du mati
 
 ## Prends un cours gratuit. {#take-course}
 
-Ce cours gratuit à la demande vous aide à vous préparer à votre examen avec des explications sur les concepts clés, des démonstrations pratiques et des contrôles de connaissances.
+Nos cours gratuits à la demande vous aident à vous préparer à votre examen. Les cours peuvent inclure des explications sur les concepts clés, des présentations de produits, des démonstrations pratiques et des contrôles des connaissances.
 
 <!--divider-->
 

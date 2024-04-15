@@ -2,9 +2,9 @@
 user-guide-title: Certification Adobe
 breadcrumb-title: Certification Adobe
 user-guide-description: En savoir plus [!DNL Experience Cloud] Certification à l’Adobe. Découvrez ce que la certification peut vous apporter.
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 33%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 33%
          + [Développeur](/help/certifications/acs/acs-e-developer.md)
       + [Renouvellement](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [Présentation du commerce](/help/certifications/ac/ac-overview.md)
+      + [Présentation de Commerce](/help/certifications/ac/ac-overview.md)
       + Professionnel {#ac-professional}
          + [Professionnel](/help/certifications/ac/ac-p-business.md)
          + [Développeur](/help/certifications/ac/ac-p-developer.md)
@@ -119,6 +119,8 @@ ht-degree: 33%
       + [Renouvellement](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Présentation de Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+      + Professionnel {#ajo-professional}
+         + [Professionnel](/help/certifications/ajo/ajo-p-business.md)
       + Expert {#ajo-expert}
          + [Développeur](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Renouvellement](/help/certifications/ajo/ajo-renew.md)
