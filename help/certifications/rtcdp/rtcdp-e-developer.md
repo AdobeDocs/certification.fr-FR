@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Exam AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 4%
@@ -21,6 +21,18 @@ ht-degree: 4%
 ## Description de l’export {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Détails de l’examen {#exam-details}
+
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 45/68
+* Durée : 136 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langue : française
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Vous devez être à l’aise dans ces environnements :
 
 * AEP
 * Réseau Edge
-
-<br>
-
-### Détails de l’examen {#exam-details}
-
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 45/68
-* Durée : 136 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langue : française
-* Coût : 225 $ (global) / 150 $ (Inde)
-* ID d’examen : AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ Vous devez être à l’aise dans ces environnements :
 **Section 3**
 
 * [Configuration d’un flux de données pour ingérer des données par lots à partir d’une source de stockage dans le cloud dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Présentation de l’API du serveur réseau Edge](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=fr){target="_blank"}
+* [API du serveur Edge Network - Aperçu](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=fr){target="_blank"}
 * [Ingestion de données via le SDK Web de Adobe Experience Platform](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [Diffusion de données en continu avec API HTTP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=fr){target="_blank"}
 * [Prise en main du transfert d’événement](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
