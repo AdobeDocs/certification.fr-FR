@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 1%
 
 ---
@@ -115,14 +115,14 @@ Les candidats doivent également pouvoir :
 
 {{exam-objectives}}
 
-**Section 1 : optimisation des campagnes et des Parcours**
+**Section 1 : Optimisation des campagnes et des Parcours (48 %)**
 
 * Dans un scénario, identifiez comment créer un Parcours client.
 * Dans un scénario, déterminez comment valider un Parcours client.
 * Dans un scénario relatif à une exécution après l’exécution d’un Parcours, identifiez comment évaluer le Parcours client.
 * Dans un scénario, déterminez à quel moment utiliser un événement unitaire ou un événement commercial.
 
-**Section 2 : Offer decisioning**
+**Section 2 : Offer decisioning (12 %)**
 
 * Identifier la création d’une collection d’offres
 * Identifier les étapes de l’offer decisioning
@@ -131,7 +131,7 @@ Les candidats doivent également pouvoir :
 * Dans un scénario, déterminez à quel moment utiliser l’offer decisioning ou la personnalisation à grande échelle.
 * Dans un scénario, différenciez les offres statiques des offres dynamiques
 
-**Section 3 : Création de contenu**
+**Section 3 : Création de contenu (20 %)**
 
 * Identifier la manière d’utiliser les éléments essentiels
 * Dans un scénario, identifiez comment ajouter des champs personnalisés dans des emails.
@@ -141,7 +141,7 @@ Les candidats doivent également pouvoir :
 * Identifier les types de fragments
 * Identifier comment créer un modèle d’email
 
-**Section 4 : Fondements de la PEA**
+**Section 4 : Fondements de AEP (20 %)**
 
 * Dans un scénario, déterminez quand utiliser différents types de données.
 * Déterminer où passer en revue les attributs des profils et l’appartenance à l’audience
