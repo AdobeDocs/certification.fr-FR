@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Parcours de certification pour Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouveau cours disponible :** La variable [Développeur principal Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/231) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. _Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-L&#39;Adobe [!DNL Workfront] Le développeur principal certifié professionnel dispose des éléments suivants :
+Bien que cet examen ne nécessite pas de connaissances en codage/programmation, il nécessite au moins 3 à 6 mois d’expérience pratique avec Adobe. [!DNL Workfront]
 
-* Remarque : Bien que cet examen ne nécessite pas de connaissances en codage/programmation.
-* Au moins 3 à 6 mois d’expérience pratique avec Adobe [!DNL Workfront]
+Les candidats qualifiés doivent également avoir :
+
 * Expérience avec Adobe [!DNL Workfront] fonctionnalité et connectivité par l’ingestion, l’approbation, la planification, l’exécution et le reporting
 * Compréhension approfondie de l’Adobe [!DNL Workfront] types d’objets, y compris les formulaires personnalisés et les workflows d’approbation, les modèles, les durées, les heures de travail/prévues
 * Compréhension approfondie de l’Adobe [!DNL Workfront] Configuration, y compris les niveaux d’accès, les modèles de mise en page, les préférences du projet et d’autres méthodes pour simplifier la conception de l’utilisateur final
@@ -69,19 +73,19 @@ L&#39;Adobe [!DNL Workfront] Le développeur principal certifié professionnel d
 
 {{exam-objectives}}
 
-**Section 1 : Stratégie et ingestion 23 %**
+**Section 1 : Stratégie et ingestion (23 %)**
 
 * Utilisation de Portfolios et de programmes
 * Utilisation des files d’attente de requête
 * Utiliser Forms personnalisé
 * Utilisation des approbations de base
 
-**Section 2 : budget et planification 11 %**
+**Section 2 : Budget et planification (11 %)**
 
 * Utilisation du planificateur de ressources
 * Selon un scénario/un ensemble d’exigences, appliquez les configurations pour configurer un modèle de projet.
 
-**Section 3 : Expérience utilisateur 25 %**
+**Section 3 : Expérience utilisateur (25 %)**
 
 * Illustrer les bonnes pratiques de gestion des utilisateurs lors de la création d’une expérience utilisateur appropriée
 * Dans un scénario donné, appliquez la configuration correcte pour le partage et les droits d’accès dans tout le système.
@@ -89,13 +93,13 @@ L&#39;Adobe [!DNL Workfront] Le développeur principal certifié professionnel d
 * Montrer comment créer et utiliser des feuilles de temps
 * Décrire l’objectif et la valeur des connecteurs, modules externes et modules complémentaires
 
-**Section 4 : Mesures et création de rapports 16 %**
+**Section 4 : Mesures et création de rapports (16 %)**
 
 * Décrire les concepts de base pour la création, l’envoi et la personnalisation des rapports
 * expliquer comment créer et personnaliser des tableaux de bord ;
 * Montrer comment configurer des vues fonctionnelles des rapports
 
-**Section 5 : Exécution 24 %**
+**Section 5 : Exécution (24 %)**
 
 * Montrer comment configurer des workflows d’approbation et de vérification
 * Reconnaître l’objectif de la création d’un problème pour un projet
@@ -209,6 +213,12 @@ L&#39;Adobe [!DNL Workfront] Le développeur principal certifié professionnel d
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+[Suivez le cours Adobe Workfront Core Developer - Professional .](https://app.rockinfo.com/courses/231)
 
 +++
 

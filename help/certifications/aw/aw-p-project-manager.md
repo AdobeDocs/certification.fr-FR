@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Parcours de certification pour Adobe [!DNL Workfront] Responsable de projet professionnel
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouveau cours disponible :** La variable [Gestionnaire de projet Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/230) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. _Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -181,6 +185,12 @@ Vous devez disposer des éléments suivants :
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+[Suivez le cours Gestionnaire de projets Adobe Workfront - Professionnel .](https://app.rockinfo.com/courses/230)
 
 +++
 
