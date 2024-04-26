@@ -7,16 +7,20 @@ role: User
 badge: label="Exam AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 1%
+source-wordcount: '738'
+ht-degree: 0%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Analytics] Expert spécialiste des affaires
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/533) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -26,13 +30,13 @@ ht-degree: 1%
 
 ### Détails de l’examen {#exam-details}
 
-* **Niveau :** Expert (1-3 ans d&#39;expérience)
-* **Score de transmission :** 31/50
-* **Heure :** 120 minutes
-* **Diffusion :** Suivi en ligne (nécessite un accès à la caméra)
-* **Langues disponibles :** Anglais, Japonais
-* **Coût :** 225 $ (global) / 150 $ (Inde)
-* **ID d’examen :** AD0-E208 (anglais), AD0-E208-J (japonais)
+* Niveau : expert (1 à 3 ans d’expérience)
+* Score de transmission : 31/50
+* Durée : 120 minutes
+* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
+* Langues disponibles : anglais, japonais
+* Coût : 225 $ (global) / 150 $ (Inde)
+* ID d’examen : AD0-E208 (anglais), AD0-E208-J (japonais)
 
 <br>
 
@@ -154,36 +158,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : Analyse des activités**
+**Guide de préparation d’exportation**
 
-* [Quel [!DNL Adobe Analytics] dois-je utiliser l’outil ?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=fr){target="_blank"}
-* [[!DNL Adobe Analytics] Documentation](https://helpx.adobe.com/fr/support/analytics.html){target="_blank"}
-* [Collecte de données](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=fr){target="_blank"}
-* [Flux de données Analytics - Aperçu](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=fr){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2 : Reporting et tableau de bord pour les projets**
-
-* [Prise en main de Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=fr){target="_blank"}
-* [[!DNL Adobe Analytics] Tableaux de bord - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr){target="_blank"}
-* [Présentation des projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=fr){target="_blank"}
-* [Visualisations - Aperçu](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr){target="_blank"}
-* [Alertes intelligentes - Aperçu](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Section 3 : Segmentation et mesure calculée**
-
-* [Segmentation Analytics](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=fr){target="_blank"}
-* [Mesures calculées ou calculées avancées (dérivées)](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=fr){target="_blank"}
-
-**Section 4 : Connaissances générales de l’outil et résolution des problèmes**
-
-* [Guide sur les outils Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
-* [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Section 5 : Administration**
-
-* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
-* [Questions fréquentes](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Workflow du créateur de règles de classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=fr){target="_blank"}
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/533)
 
 **Effectuer un test pratique**
 

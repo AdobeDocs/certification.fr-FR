@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="Exam AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 3%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
 # Parcours de certification pour [!DNL Adobe Target] Principal architecte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/595) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -151,61 +155,15 @@ Environnements :
 
 {{study-materials-intro}}
 
-**Section 1**
-
-* [Types d’activité de Target](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=fr){target="_blank"}
-* [Présentation du test multivarié](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Fonctions d’at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
-* [Profils de visiteur](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=fr){target="_blank"}
-
-**Section 2**
-
-* [Intégration de Target à Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=fr){target="_blank"}
-* [Adobe Analytics comme source des rapports pour Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=fr){target="_blank"}
-* [Audiences Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=fr){target="_blank"}
-* [Utilisation d’offres de fragments d’expérience dans Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html?lang=fr){target="_blank"}
-
-**Section 3**
-
-* [Hôtes](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html?lang=fr){target="_blank"}
-* [Utilisateurs](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [Configuration des autorisations d’Enterprise](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html?lang=fr){target="_blank"}
-* [Bonnes pratiques et limites du compositeur d’expérience visuelle](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
-
-
-**Section 4**
-
-* [Intégration de Recommendations à la messagerie électronique](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
-* [Compositeur d’expérience d’après les formulaires](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html?lang=fr){target="_blank"}
-* [Création d’offres JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-
-**Section 5**
-
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=fr){target="_blank"}
-* [FAQ sur Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [Flux](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
-* [Personnalisation d’une conception à l’aide de Velocity](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
-
-**Section 6**
-
-* [Déploiement hybride Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html?lang=fr){target="_blank"}
-* [Fonctionnement de Target dans les applications mobiles](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
-* [Conception d’une mise en oeuvre Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Utilisation d’Adobe Target avec le SDK Web Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html?lang=fr){target="_blank"}
-
-**Section 7**
-
-* [AQ d’activité](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Dépannage de la diffusion de contenu](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-* [FAQ sur la conception](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [FAQ sur Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [Connexion à Adobe Analytics for Target (A4T) dans le SDK Web de Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/595)
 
 +++
 

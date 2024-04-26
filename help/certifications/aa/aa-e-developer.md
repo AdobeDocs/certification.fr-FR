@@ -8,16 +8,20 @@ level: Experienced
 badge: label="Exam AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 2%
+source-wordcount: '647'
+ht-degree: 1%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Analytics] Développeur expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/530) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -147,39 +151,11 @@ Environnements :
 
 {{study-materials-intro}}
 
-**Section 1 : Présentation d’Analytics dans l’écosystème de Adobe Experience Cloud**
+**Guide de préparation d’exportation**
 
-* [Notes techniques Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=fr){target="_blank"}
-* [Définition des Analytics ID et des Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=fr){target="_blank"}
-* [Vidéos et tutoriels Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2 : Stratégie et conception basées sur une référence de conception de solution (SDR)**
-
-* [Gestion des ressources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=fr)
-
-**Section 3 : Mise en oeuvre et configuration d’Analytics**
-
-* [Mise en oeuvre [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=fr){target="_blank"}
-* [Présentation et création de suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr){target="_blank"}
-* [Configuration du suivi des liens pour [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Section 4 : Systèmes de gestion des balises**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr){target="_blank"}
-* [Présentation](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=fr){target="_blank"}
-
-**Section 5 : Services mobiles**
-
-* [Mise en oeuvre d’Analytics pour les périphériques mobiles](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrer les règles de traitement de Mobile Services vers [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Section 6 : Test, validation et dépannage**
-
-* [Adobe Experience Platform Debugger - Aperçu](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=fr){target="_blank"}
-* [Activation, débogage et personnalisation de la variable [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimisation des performances d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=fr){target="_blank"}
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

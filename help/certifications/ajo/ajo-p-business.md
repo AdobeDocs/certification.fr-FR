@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '929'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 1%
 >* La variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) vous présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
 >* La variable [Cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113) fournit une base de connaissances sur cette application spécifique.
 >* La variable [Cours professionnel de professionnels Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) tire parti du cours Fondations et vous aide à vous préparer à l’examen de certification de niveau professionnel.
+>* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/588) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -180,69 +181,15 @@ Les candidats doivent également pouvoir :
 [Suivez le cours Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
 [Suivez le cours professionnel de praticien en affaires Adobe Journey Optimizer.](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**Ressources d&#39;étude**
-
-**Section 1**
-
-* [À propos des sources de données](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/about-data-sources.html){target="_blank"}
-* [Utiliser une audience dans un parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience.html?){target="_blank"}
-* [Mettre à jour le profil](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/update-profiles.html){target="_blank"}
-* [Test de votre parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [Prise en main des expériences de contenu](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [Définition des propriétés de parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#change-properties){target="_blank"}
-* [Activité de condition](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?){target="_blank"}
-* [Création de votre premier parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?){target="_blank"}
-* [Événements généraux](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events.html?){target="_blank"}
-* [Test de votre parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [Publier votre parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publishing-the-journey.html?){target="_blank"}
-* [Point de terminaison des tâches de segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/api/segment-jobs.html){target="_blank"}
-* [Présentation d’Audience Portal et de la composition](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/introduction-to-audience-portal-and-composition.html?){target="_blank"}
-* [Prise en main du rapport en direct](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?){target="_blank"}
-* [Liste de suppression](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/deliverability/suppression-list.html?){target="_blank"}
-* [Accès aux parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#journey-access){target="_blank"}
-* [Fin d’un parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey.html?){target="_blank"}
-* [Onglet Email](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/journey-global-report.html?#email-global){target="_blank"}
-* [Prise en main du rapport global](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?){target="_blank"}
-* [Cas d’utilisation - Événement commercial](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event.html?lang=fr){target="_blank"}
-
-**Section 2**
-
-* [Création de collections](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/managing-offers-in-the-offer-library/creating-collections.html?){target="_blank"}
-* [Créer des décisions](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?){target="_blank"}
-* [À propos de la gestion des décisions](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?){target="_blank"}
-* [Ajout d’offres personnalisées](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/add-content/add-offers-email.html?){target="_blank"}
-
-**Section 3**
-
-* [Création et gestion de ressources avec Experience Manager Assets](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/assets-images/assets.html?){target="_blank"}
-* [Gestion des ressources](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?){target="_blank"}
-* [Commencer la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalize.html?){target="_blank"}
-* [Cas pratique de personnalisation : notification d’état de la commande](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case.html?){target="_blank"}
-* [Source de données Adobe Experience Platform](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/adobe-experience-platform-data-source.html?){target="_blank"}
-* [Prise en main des expériences de contenu](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [Création d’une expérience de contenu](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/content-experiment.html?){target="_blank"}
-* [Utilisation de fragments](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/fragments.html){target="_blank"}
-* [Utiliser des modèles de courrier électronique](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/start-creating-content/use-email-templates.html?){target="_blank"}
-* [Créer entièrement un modèle](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/content-templates.html?#create-template-from-scratch){target="_blank"}
-
-**Section 4**
-
-* [Types de données](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types.html?){target="_blank"}
-* [Guide de l’interface utilisateur de Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?){target="_blank"}
-* [Présentation du système XDM](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?){target="_blank"}
-* [Prise en main des identités](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/get-started-identity.html?){target="_blank"}
-* [Prise en main des audiences Adobe Experience Platform](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [FAQ sur la composition de l’audience et le téléchargement personnalisé](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?#streaming-segmentation-events-guardrails){target="_blank"}
-* [Prise en main des audiences Adobe Experience Platform](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [Activité Classement](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/audience-orchestration/composition-canvas.html?#rank){target="_blank"}
-* [Surveillance de l’ingestion des données](https://experienceleague.adobe.com/docs/experience-platform/ingestion/quality/monitor-data-ingestion.html?){target="_blank"}
-* [Ajout de libellés d’utilisation des données à un schéma](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?#add-labels-to-schema){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/588)
 
 +++
 
