@@ -4,9 +4,9 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offr
 
 >[!TAB Fournisseurs de certification]
 
-L’équipe Informations d’identification de l’Adobe travaille en partenariat avec des fournisseurs pour soutenir les initiatives et les objectifs du programme.  Voici les vendeurs et leurs coordonnées :
+Le programme Adobe Digital Experience Certification Program travaille en partenariat avec des fournisseurs pour soutenir les initiatives et les objectifs du programme. Voici les vendeurs et leurs coordonnées :
 
 | Nom du fournisseur | Description | Page d’assistance/courrier électronique |
 | ------- | ------- | ------- |
