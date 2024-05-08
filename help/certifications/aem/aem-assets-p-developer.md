@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 <br>
 
-+++Étape 2 : Préparation de votre examen
++++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
 
 **Effectuer un test pratique**
 

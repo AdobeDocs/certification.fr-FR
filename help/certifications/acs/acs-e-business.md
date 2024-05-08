@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -125,7 +125,7 @@ En outre, vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparation de votre examen
++++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
 
 **Documents d&#39;étude**
 

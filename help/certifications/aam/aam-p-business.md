@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
 
-**Section 6 : fusion de profils, synchronisation des identifiants et Audience Marketplace**
+**Section 6 : fusion de profils, synchronisation d’identifiants et Audience Marketplace (14 %)**
 
 * Organiser les caractéristiques utilisateur en un seul profil unifié pour créer des audiences basées sur les appareils ou les ménages
 * Identification de l’activation à l’aide d’Audience Marketplace
@@ -106,7 +106,7 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 <br>
 
-+++Étape 2 : Préparation de votre examen
++++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
 
 **Documents d&#39;étude**
 
