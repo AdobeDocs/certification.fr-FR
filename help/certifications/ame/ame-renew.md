@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
-ht-degree: 2%
+source-wordcount: '2421'
+ht-degree: 0%
 
 ---
 
@@ -121,7 +121,7 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1**
+**Section 1**
 
 * [Présentation des programmes d’engagement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [Score simple](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
@@ -137,7 +137,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Création d’un canal de programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [Présentation des coûts de la période](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
-**Section 2**
+**Section 2**
 
 * [Ajout d’images et de fichiers à Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
 * [Activer/désactiver dynamiquement la visibilité d’un champ de formulaire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
@@ -145,7 +145,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Approbation, désapprobation ou suppression d’une page d’entrée](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
 * [Modification de fragments de code avec du contenu dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
 
-**Section 3**
+**Section 3**
 
 * [Utilisation de la logique de règle de liste dynamique avancée](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
 * [En savoir plus sur la création d’un programme de messagerie de contenu sécurisé](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
@@ -161,7 +161,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 * [Actualisation d’une liste ou d’une liste dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
 * [Utilisation de listes dynamiques intégrées/système](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
-**Section 4**
+**Section 4**
 
 * [Présentation du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Rapport Performance de page d’entrée](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
@@ -303,7 +303,7 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous êtes connecté à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur l’Adobe [!DNL Marketo Engage] Lien de renouvellement des experts professionnels ci-dessous.
 
-[!BADGE Prenez l’Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Prenez l&#39;Adobe [!DNL Marketo Engage] Examen de renouvellement des experts professionnels AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ Vous devez actuellement être certifié (non expiré) dans :
 **Détails de l’examen :**
 
 * Niveau : expert (3 à 5 ans d’expérience)
-* Score de transmission : 27/36
+* Score de transmission : 23/36
 * Durée : 72 minutes
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
