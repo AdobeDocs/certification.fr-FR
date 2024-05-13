@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 1%
 >
 >Des cours gratuits à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen. Commencez votre parcours d’apprentissage dès aujourd’hui en choisissant le cours qui correspond le mieux à votre niveau d’expérience !
 >
->* La variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) vous présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
+>* La variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
 >* La variable [Cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113) fournit une base de connaissances sur cette application spécifique.
 >* La variable [Cours professionnel de professionnels Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) tire parti du cours Fondations et vous aide à vous préparer à l’examen de certification de niveau professionnel.
->* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/588) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/588) fournit un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous avez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -167,7 +167,7 @@ Les candidats doivent également pouvoir :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

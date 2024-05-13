@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours :** Prenez le [Cours professionnel pour les développeurs Adobe Commerce](https://app.rockinfo.com/courses/92) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous ne faites que commencer, le [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/382) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/382) fournit un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous avez besoin pour réussir votre examen.
 >
 >Si vous êtes invité à vous connecter, utilisez votre Adobe ID.
 
@@ -146,7 +146,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Reconnaître les connaissances de base sur la gestion des utilisateurs dans le cloud et l’interface utilisateur d’intégration
 * Description de la gestion de l’environnement à l’aide de l’interface utilisateur
 * Description de l’embranchement à l’aide de l’interface utilisateur
-* Identifier les fonctionnalités du plan Adobe Commerce Cloud
+* Identification des fonctionnalités du plan Adobe Commerce Cloud
 
 **Section 9 : [!DNL Commerce] Outil d’interface de ligne de commande du cloud (Gestion des parties) (6 %)**
 
@@ -176,7 +176,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

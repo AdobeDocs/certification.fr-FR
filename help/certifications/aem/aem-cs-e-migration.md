@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/373) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/373) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -59,7 +59,7 @@ Vous devez disposer des éléments suivants :
 * Une compréhension des modifications générales apportées à l’architecture et aux fonctionnalités lors du passage d’un service AEM (auto-géré, AMS ou tout cloud tiers) à AEM as a Cloud Service.
 * 1 à 3 ans d’expérience dans le développement d’applications web avec Adobe [!DNL Experience Manager]
 * Utilisation d’AEM Forms, d’Assets et de sites pour gérer l’expérience
-* La possibilité de guider les clients tout au long du processus de migration, de conseiller et de participer à toutes les phases d’un projet AEM
+* la possibilité de guider les clients tout au long du processus de migration, de conseiller et de participer à toutes les phases d’un projet AEM ;
 
 En outre, vous devez connaître les technologies et environnements suivants :
 
@@ -105,7 +105,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 3 : Déploiement (16 %)**
 
-* Configuration des pipelines de Cloud Manager et association de l’ aux environnements
+* Configuration des pipelines de Cloud Manager et liaison aux environnements
 * Configuration des environnements AEMaaCS (développement, évaluation, production - création, publication, aperçu)
 * Gérer le processus de déploiement à l’aide de l’interface de ligne de commande d’Adobe IO
 
@@ -138,7 +138,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

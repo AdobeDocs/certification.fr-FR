@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 2%
@@ -122,7 +122,7 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

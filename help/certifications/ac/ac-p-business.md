@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours**: prenez la variable [Cours professionnel de professionnel Adobe Commerce Business](https://app.rockinfo.com/courses/105) pour des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous ne faites que commencer, le [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/383) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/383) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 ### Audience prévue {#intended-audience}
 
 * Analystes professionnels
-* Chefs de projet
+* Personnes chargées de la gestion de projet
 * Propriétaires de produit
 * Consultants
 * [!DNL Adobe Commerce] stratèges
@@ -102,7 +102,7 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 
 * Identifier les utilisations de base des outils de marketing numérique (Google Analytics/Adobe Analytics, Gestionnaire de balises Google, Marketing par e-mail, Segmentation, modules externes de Social)
 * Expliquer les principes de base de l’optimisation pour les moteurs de recherche
-* Identifier les utilisations de base des outils d’e-commerce courants (tels que les flux d’achats)
+* Identifier les utilisations de base des outils d’e-commerce courants (tels que les flux d’achat)
 * Identifier les fonctionnalités clés d’un site web d’e-commerce
 * Identifier les concepts de base du commerce électronique (y compris les options de storefront)
 
@@ -134,7 +134,7 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

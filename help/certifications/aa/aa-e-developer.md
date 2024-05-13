@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/530) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/530) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez avoir une expérience en tant que consultant en mise en oeuvre dans un rôle hybride avec environ 2 ans d’expérience dans [!DNL Adobe Analytics] implémentation. Vous faites office de pont entre l’informatique et l’entreprise, traduisez les besoins de l’entreprise en une solution technique (SDR) et, en fonction des exigences fournies par l’analyste, déterminez le type de variable nécessaire, où et comment collecter les données, concevez le modèle de données (couche de données), configurez et gérez la solution de gestion des balises.
+Vous devriez avoir une expérience en tant que consultant en mise en oeuvre dans un rôle hybride avec environ 2 ans d’expérience dans [!DNL Adobe Analytics] implémentation. Vous faites office de pont entre l’informatique et l’entreprise, traduisez les besoins de l’entreprise en une solution technique (SDR) et, en fonction des exigences fournies par l’analyste, déterminez le type de variable nécessaire, l’emplacement et la méthode de collecte des données, concevez le modèle de données (couche de données), configurez et conservez la solution de gestion des balises.
 
 En tant que développeur d’Analytics, vous implémentez rarement les balises sur la page ; elles sont implémentées par l’informatique ou l’intégrateur système.
 
@@ -121,7 +121,7 @@ Environnements :
 * Dépannage des erreurs JavaScript
 * Résolution des problèmes [!DNL Adobe Analytics] variables
 * Meilleures pratiques de test et de débogage recommandées
-* Dépannage d’une [!DNL Adobe Analytics] appel au serveur tout au long de son cycle de vie (c’est-à-dire de la demande de balise à l’affichage dans le rapport)
+* Dépannage d’une [!DNL Adobe Analytics] appel au serveur tout au long de son cycle de vie (c’est-à-dire, de la requête de balise à l’affichage dans le rapport)
 
 <br>
 
@@ -145,7 +145,7 @@ Environnements :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

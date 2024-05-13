@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/386) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
-
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/386) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -88,10 +87,10 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Déterminer comment utiliser les types de produits et leurs fonctionnalités pour répondre aux besoins des clients
 * Interpréter les exigences et les maquettes afin de déterminer si elles peuvent être satisfaites avec des fonctionnalités natives
 * Faire la démonstration de la connaissance du panneau d’administration et de l’emplacement des fonctionnalités communes
-* Montrer l’Adobe d’import/export [!DNL Commerce] entities
+* Montrer la capacité d’importer/exporter un Adobe [!DNL Commerce] entities
 * Comprendre comment configurer le panier et le passage en caisse de manière native
 * Évaluation des méthodes d’expédition natives disponibles dans Adobe [!DNL Commerce] et leur application aux cas d’utilisation courants
-* Comprendre comment créer et publier du contenu stylisé à l’aide de l’Adobe [!DNL Commerce] Fonctionnalités CMS, y compris PageBuilder
+* Comprendre comment créer et publier du contenu stylisé à l’aide de l’Adobe [!DNL Commerce] Fonctionnalités CMS, notamment le générateur de page
 * Utilisation d’outils natifs pour gérer le cycle de vie des commandes
 * Démontrez la possibilité de configurer les différentes options de cadeau (cartes-cadeaux, emballage cadeau, envoi de messages).
 * Configuration et modification des emails transactionnels
@@ -154,7 +153,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

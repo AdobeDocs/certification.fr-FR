@@ -1,15 +1,15 @@
 ---
 title: Nouvelle certification pour les développeurs professionnels front-end
-description: Découvrez comment devenir un professionnel Adobe Developer certifié pour Adobe [!DNL Commerce] .
+description: Découvrez comment devenir un professionnel Adobe Developer certifié pour Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/384) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/384) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -106,7 +106,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Décrire la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less)
 * Dans un scénario, démontrer la capacité de remplacer ou d’étendre [!DNL Magento] MOINS
 * Décrire les concepts de base de LESS
-* Expliquer la hiérarchie des styles ( lib, modules, thèmes)
+* Expliquer la hiérarchie des styles (lib, modules, thèmes)
 * Expliquer la compilation côté client et côté serveur
 
 **Section 4 : JavaScript (18 %)**
@@ -118,7 +118,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Description de l’utilisation de Knockout JS
 * Description de l’utilisation des widgets jQuery
 
-**Section 5 : Configuration de l’administrateur et PageBuilder (6 %)**
+**Section 5 : Configuration de l’administrateur et Créateur de pages (6 %)**
 
 * Démontrez la possibilité de personnaliser le Créateur de pages et le contenu CMS&quot;
 * Application/planification d’un thème à une portée spécifique (site web, magasin, vue de magasin)
@@ -127,7 +127,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Section 6 : Outils (interface en ligne de commande et grille) (8 %)**
 
-* Décrire l’utilisation des commandes bin/magento de base
+* Décrire l’utilisation des commandes bin/Magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
 * Différenciation du cas d’utilisation approprié pour les modes de déploiement
 * Décrire les outils supplémentaires fournis par Cloud (téléchargement rapide de la base de données, déploiement du contenu)
@@ -146,7 +146,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

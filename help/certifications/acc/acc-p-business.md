@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 3%
@@ -61,7 +61,7 @@ Vous devez disposer des éléments suivants :
 * Configuration d’une expérience pratique pour configurer des workflows personnalisés cross-canal et envoyer des diffusions
 * Analyser et surveiller les expériences et les erreurs
 * Présentation des concepts et des tactiques de marketing numérique
-* Comprendre de base l’automatisation, les mesures et les tactiques de campagne (fonctionnalités relatives à la gestion des données, aux services cloud, aux approbations, etc.)
+* Compréhension de base de l’automatisation, des mesures et des tactiques de campagne (fonctionnalités relatives à la gestion des données, aux services cloud, aux approbations, etc.)
 * Comprendre les bases de données relationnelles de base et les requêtes de ciblage dans une opération
 * Expérience avec HTML de base et personnalisation
 * Gestion des services d’abonnements (opt-in/opt-out)
@@ -95,7 +95,7 @@ Vous devez disposer des éléments suivants :
 
 **Section 3 : Opérations de données (20 %)**
 
-* Déterminer comment modifier les colonnes d’une vue afin de tester les données/la sortie
+* Déterminer comment modifier les colonnes d’une vue pour tester les données/la sortie
 * Décrire les objectifs des activités de ciblage de workflow d’union, d’intersection, d’exclusion et de partage
 * Déterminer la méthode appropriée pour réconcilier des données, générer un complémentaire, dédupliquer et importer des données
 * Dans un scénario, identifiez la règle d’enrichissement de données à utiliser.
@@ -142,7 +142,7 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

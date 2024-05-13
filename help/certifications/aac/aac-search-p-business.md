@@ -8,7 +8,7 @@ role: User
 badge: label="Exam AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * Chargés de campagnes marketing de recherche
 * Professionnels du marketing de recherche
-* Les personnes qui utilisent régulièrement la fonction Rechercher pour exécuter et gérer des campagnes de recherche
+* Les personnes qui utilisent régulièrement la fonction de recherche pour exécuter et gérer des campagnes de recherche
 
 <br>
 
@@ -130,7 +130,7 @@ Vous devez également avoir l’expérience de l’utilisation des fonctions sui
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

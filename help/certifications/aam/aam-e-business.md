@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ Vous devez disposer des éléments suivants :
 * 1 à 2 ans d&#39;expérience dans le domaine des technologies marketing
 * 3 à 6 mois d’expérience avec l’activation de l’audience
 * Expérience avec la logique booléenne, le jargon de marketing numérique, l’analyse des données et les stratégies
-* Connaissance des objectifs commerciaux et des indicateurs de performance clés, connaissance des piles de technologies de marketing numérique et des diverses intégrations de plateformes, et compréhension des flux de données (types d’identifiants, synchronisations des identifiants, suivi des pixels, destinations basées sur les personnes).
+* Connaissance des objectifs commerciaux et des IPC
+* Familiarisez-vous avec les piles de technologies de marketing numérique et les diverses intégrations de plateformes
+* une compréhension des flux de données (types d’ID, synchronisations des identifiants, suivi des pixels, destinations basées sur les personnes) ;
 
 Vous devez connaître les technologies et environnements suivants :
 
@@ -63,7 +65,7 @@ Technologies :
 
 * Plateforme DSP (bureau commercial, gestionnaire d’offres Double-cliquez, etc.)
 * Excel
-* Tableau et outils similaires (PowerBI, Qlik)
+* Tableau et outils similaires (Power BI, Qlik)
 * Serveur d’annonces (Double-cliquez sur Gestionnaire de campagnes)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Environnements :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

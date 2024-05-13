@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/376) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/376) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -65,7 +65,7 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 * Définir un script CQ à transmettre à un ingénieur AEP
 * Configurer des connexions avec des identités principales (ID de personne)
 * Configuration de connexions avec plusieurs jeux de données
-* Configuration d’une vue de données (configuration Mesure/dimension)
+* Configurer une vue de données (configuration de mesure/dimension)
 * Configurer Adobe [!DNL Customer Journey Analytics]
 * Transformer les données au sein des dimensions et des mesures
 * Analyse des bases de Workspace (visualisations, paramètres d’attribution, filtres, mesures calculées)
@@ -117,7 +117,7 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

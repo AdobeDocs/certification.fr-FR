@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Cours :** La variable [Gestionnaire de projet Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/230) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/609) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/609) fournit un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous avez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* une compréhension du processus de travail depuis une demande de travail initiale jusqu’à la fin ou a été exposé à la gestion de projet ou de travail ;
+* Comprendre le processus de travail depuis une demande de travail initiale jusqu’à la fin ou s’est exposé à la gestion de projet ou de travail
 * Entraînement autoguidé terminé ou camp d&#39;amorçage ou ont été [!DNL Workfront] utilisateur pendant 6 à 12 mois pour comprendre les fonctionnalités de base ;
 * Une compréhension de la configuration, du suivi et de la surveillance des données de rapport
 
@@ -133,7 +133,7 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Cours de formation recommandé**
 

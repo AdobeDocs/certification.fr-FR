@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours :** Prenez une [cours de formation](https://app.rockinfo.com/courses/105) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/381) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/381) fournit un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous avez besoin pour réussir votre examen.
 >
 >Si vous êtes invité à vous connecter, utilisez votre Adobe ID.
 
@@ -70,10 +70,10 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 **Section 1 : Configurations (26 %)**
 
-* Reconnaître l’objectif AEM les configurations et la mise en cache du Dispatcher
+* Reconnaître l’objectif des configurations et de la mise en cache AEM Dispatcher
 * Déterminer les étapes correctes pour configurer plusieurs sites dans AEM
 * expliquer comment créer et gérer des configurations OSGi ;
-* Déterminer les étapes appropriées pour gérer les index OAK personnalisés
+* Déterminer les étapes appropriées pour gérer les index Oak personnalisés
 * Déterminer les étapes appropriées pour configurer l’intégration SAML ou IMS prête à l’emploi
 
 **Section 2 : développement AEM (40 %)**
@@ -109,7 +109,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

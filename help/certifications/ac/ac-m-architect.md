@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/388) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/388) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -82,7 +82,7 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 * Connaître les bonnes pratiques en matière de codage, les normes de codage, le principe PSR et SOLID
 * Configuration et utilisation [!DNL Adobe Commerce] Connecteur de services (et services associés)
 * Gestion de contenu intermédiaire
-* Compréhension [!DNL Adobe Commerce] par défaut, lorsqu’elle est disponible et non disponible
+* Compréhension [!DNL Adobe Commerce] par défaut, lorsqu’il est disponible et non disponible
 * Une large compréhension de tout ce qui a trait [!DNL Adobe Commerce] domain
 * Conception de l’architecture de projet
 * Optimiser les performances de [!DNL Adobe Commerce] default
@@ -138,7 +138,7 @@ En outre, vous devez être familiarisé avec les activités et technologies suiv
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

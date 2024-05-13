@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 1%
@@ -50,7 +50,7 @@ Vous devez disposer des éléments suivants :
 
 * au moins 0 à 12 mois d’expérience dans [!DNL Adobe Document Cloud]
 * être capable d’identifier et de communiquer les besoins de l’entreprise ;
-* être capable d’effectuer des conseils sur l’activation du produit ; [!DNL Adobe Document Cloud] solutions.
+* Pouvoir exécuter des conseils sur l’activation du produit sur [!DNL Adobe Document Cloud] solutions.
 
 <br>
 
@@ -92,7 +92,7 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

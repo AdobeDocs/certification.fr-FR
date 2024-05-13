@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/594) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/594) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous avez besoin pour réussir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -74,9 +74,9 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 Technologies :
 
-* Débogueur Marketing Cloud / également appelé Débogueur Adobe Experience Cloud
+* Débogueur Marketing Cloud/également appelé Débogueur Adobe Experience Cloud
 * Adobe Analytics comme source de création de rapports pour l’intégration de Target spécifiquement A4T
-* Console du navigateur / outils de développement du navigateur tels que la console, l’onglet réseau
+* Console du navigateur/outils de développement du navigateur tels que la console, l’onglet réseau
 * Outils réseau dans le navigateur
 * Compréhension de base des autres outils Adobe
 * Developer Console (tout navigateur web)
@@ -91,7 +91,7 @@ Technologies :
 Environnements :
 
 * Bureau/site web, y compris les ordinateurs de bureau et les appareils mobiles
-* Application mobile (compréhension de base) / Utilisation de Target pour les appareils mobiles
+* Application mobile (compréhension de base)/utilisation de Target pour les appareils mobiles
 * Staging-development
 * Production
 * Environnements de production sur les appareils mobiles, les tablettes et les ordinateurs de bureau
@@ -115,7 +115,7 @@ Environnements :
 * Analyser une hypothèse de test en fonction d’un scénario donné et identifier les aspects d’une hypothèse valide
 * Déterminer les mesures de succès primaires et secondaires basées sur les indicateurs de performance clés
 * Évaluation des besoins de l’audience
-* Déterminer les sources de rapports d’analyse appropriées (c.-à-d. Target ou Adobe Analytics)
+* Déterminer les sources de rapports d’analyse appropriées (c’est-à-dire, Target ou Adobe Analytics)
 
 **Section 2 : Configuration, exécution et gestion (42 %)**
 
@@ -163,7 +163,7 @@ Environnements :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 2%
 
 ---
@@ -56,14 +56,14 @@ Vous devez disposer des éléments suivants :
 * La possibilité de fournir la feuille de route technique, y compris les dépendances des tâches et des opérations d’apprentissage
 * la possibilité de fournir des informations techniques sur les exigences pour la portée et la chronologie du projet ;
 * Expérience avec des ateliers sur les besoins professionnels
-* Atelier de conception de solutions d’Experience Manager
+* Expérience dans les principaux ateliers de conception de solution
 * La possibilité d’évaluer plusieurs approches de solution et de fournir des recommandations
 * La possibilité de passer en revue les campagnes et processus existants sur d’autres plateformes afin de déterminer les besoins de l’implémentation Adobe Campaign
 * La possibilité de décrire et de démontrer les fonctionnalités et fonctionnalités d’un produit
 * La possibilité de mapper les fonctionnalités du produit à des cas d’utilisation élevés
-* Expérience de prise en charge de l’équipe de prévente
+* Expérience dans la prise en charge de l’équipe de prévente
 * La possibilité d’offrir un coaching au bureau (bonnes pratiques relatives aux produits, mesures de création de rapports, etc.)
-* Expérience décrivant les différences entre les modèles de déploiement
+* Expérience dans la description des différences entre les modèles de déploiement
 
 <br>
 
@@ -129,7 +129,7 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

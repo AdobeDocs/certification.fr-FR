@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification afin de prendre l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
+>Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification pour l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
 
 * Condition préalable : Adobe actif (non expiré) [!DNL Marketo Engage] Certification d’experts professionnels
 * Niveau : Principal (3 à 5 ans d’expérience)
@@ -66,7 +66,7 @@ ht-degree: 0%
 Vous devez disposer des éléments suivants :
 
 * Une certification actuelle en tant qu’expert Marketo Engage certifié en métier
-* Au moins cinq années d’expérience de préférence avec plusieurs instances de Marketo Engage
+* Au moins cinq années d’expérience, de préférence avec plusieurs instances de Marketo Engage
 * Comprendre l’impact sur l’entreprise et expliquer/communiquer efficacement leur solution aux parties prenantes (techniques et non techniques) à différents niveaux
 * La possibilité de conceptualiser une solution et de la traduire en architecture de Marketo Engage, de comprendre les processus d’entreprise affectés par les intégrations
 * Connaître les principes de l&#39;architecture d&#39;une instance
@@ -145,7 +145,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 

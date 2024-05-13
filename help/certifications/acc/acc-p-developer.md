@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Vous devez disposer des éléments suivants :
 * Au moins un an d&#39;Adobe [!DNL Campaign Classic] expérience logicielle
 * Au moins une année d’expérience combinée dans la programmation JavaScript, le développement SQL y compris ETL et les technologies web (XML, HTML et services web)
 * Une compréhension de base de l’automatisation marketing
-* Présentation des concepts de base de données relationnelle
+* une compréhension des concepts de base de données relationnelle ;
 
 <br>
 
@@ -146,7 +146,7 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec notre matériel d&#39;étude gratuit
++++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
 **Documents d&#39;étude**
 
