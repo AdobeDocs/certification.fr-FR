@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ Nos cours gratuits à la demande vous aident à vous préparer à votre examen. 
 
 ## Guide de préparation d’exportation {#exam-prep-guide}
 
-Le guide gratuit de préparation d’examen vous permet de suivre un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous avez besoin pour réussir votre examen.
+Le guide gratuit de préparation d’examen vous permet de suivre un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.

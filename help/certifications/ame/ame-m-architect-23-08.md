@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Principal architecte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/619) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -151,35 +155,15 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : leadership du projet**
-
-* [Blog des champions - Nation Marketo](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Documents produit Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"}
-* [Documentation - API REST](https://developers.marketo.com/rest-api/){target="_blank"}
-
-**Section 2 : Adobe [!DNL Marketo Engage] conception d’architecture**
-
-* [Présentation des rapports](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
-* [Instructions pour la création d’une règle de synchronisation personnalisée](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [Guide définitif pour la notation des pistes](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-
-**Section 3 : Création de rapports et attribution**
-
-* [Présentation du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Compréhension de l’attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [Blog des champions - Nation Marketo](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-
-**Section 4 : opérations avancées**
-
-* [Documents produit Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"}
-* [Suppression des soft bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Présentation des espaces de travail et des partitions de personne](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/619)
 
 +++
 
