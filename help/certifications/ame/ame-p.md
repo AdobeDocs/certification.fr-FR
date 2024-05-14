@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Professionnel
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/618) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -147,42 +151,15 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : Créer et gérer des programmes**
-
-* [Présentation des programmes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
-* [Présentation des programmes de messagerie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
-* [Présentation des programmes d’engagement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [Présentation des programmes d’événements](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [Présentation de mes jetons dans un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
-* [Glossaire Marketo](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
-* [Compréhension de l’appartenance au programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-
-**Section 2 : Création de ressources**
-
-* [Présentation d’une ressource locale dans un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [Création d’un formulaire](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
-* [Présentation des jetons](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
-* [Présentation de la page d’entrée](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
-
-**Section 3 : Définir et cibler les audiences**
-
-* [Présentation des campagnes intelligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [Bonnes pratiques relatives aux listes intelligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [Créer une segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [Compréhension du contenu dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
-
-**Section 4 : Analyse et construction de rapports**
-
-* [Création d’un rapport dans un programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
-* [Compréhension des listes dynamiques](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
-* [Présentation du type de rapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Gérer les abonnements aux rapports](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/618)
 
 +++
 
