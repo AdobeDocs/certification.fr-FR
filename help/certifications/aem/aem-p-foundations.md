@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 2%
+source-wordcount: '445'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/368) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>
+>* **Guide de préparation d’export :**  La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/368) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>
+>_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -127,6 +133,12 @@ En outre, vous devez connaître les technologies et environnements suivants :
 **Documents d&#39;étude**
 
 {{study-materials-intro}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+[Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Guide de préparation d’exportation**
 

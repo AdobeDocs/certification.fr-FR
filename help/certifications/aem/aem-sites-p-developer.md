@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Prenez une [cours de formation](https://app.rockinfo.com/courses/105) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
+>* **Cours :** Prenez le [Adobe Experience Manager Sites for Developers - Cours professionnel](https://app.rockinfo.com/courses/105), qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240), qui fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
 >* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/381) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
@@ -119,34 +119,21 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Bien sûr
-</span>
-</a>
+[Suivez le cours Adobe Experience Manager Sites for Developers - Professional .](https://app.rockinfo.com/courses/105)
 
 **Guide de préparation d’exportation**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Afficher le guide de préparation d’examen
-</span>
-</a>
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/381)
 
 **Exemples de questions**
 
 {{sample-questions}}
 
-<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Affichage d’exemples de questions
-</span>
-</a>
+[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
