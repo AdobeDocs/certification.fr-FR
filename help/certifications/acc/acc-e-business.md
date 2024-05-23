@@ -7,16 +7,20 @@ role: User
 badge: label="Exam AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 5%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Campaign Classic] Expert spécialiste des affaires
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/630) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -128,56 +132,15 @@ Vous devez disposer des éléments suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : Gestion de campagne**
-
-* [[!DNL Campaign Classic] Documentation v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=fr){target="_blank"}
-* [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr){target="_blank"}
-* [À propos des adresses de contrôle](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=fr)
-* [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr)
-* [Adobe [!DNL Campaign Classic] Tutoriels V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr)
-* [Utiliser une table de destinataires personnalisée](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=fr){target="_blank"}
-
-**Section 2 : Gestion des workflows**
-
-* [Prise en main du test A/B](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
-* [Prise en main du tracking des messages](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=fr){target="_blank"}
-* [Commencer avec les workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=fr){target="_blank"}
-* [Activités de ciblage dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=fr){target="_blank"}
-* [Requête](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
-
-**Section 3 : Gestion des données**
-
-* [Schémas de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
-* [Activités d’action dans les workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=fr){target="_blank"}
-* [Prise en main des processus et de la gestion des données](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
-* [Identification d’un formulaire](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
-* [A propos de la gestion de contenu](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=fr){target="_blank"}
-
-
-**Section 4 : Gestion des diffusions**
-
-* [A propos des intégrations de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
-* [Diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=fr){target="_blank"}
-* [Prise en main des campagnes marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=fr){target="_blank"}
-* [A propos des étapes de création des diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=fr){target="_blank"}
-* [Prise en main du monitoring de diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=fr-FR){target="_blank"}
-
-**Section 5 : Création de rapports**
-
-* [Rapports sur les diffusions](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [Prise en main du reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=fr){target="_blank"}
-
-**Section 6 : Administration**
-
-* [Principe de configuration](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
-* [Prise en main des autorisations](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=fr){target="_blank"}
-* [A propos de la gestion SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=fr){target="_blank"}
-
-<br>
-
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/630)
 
 +++
 
