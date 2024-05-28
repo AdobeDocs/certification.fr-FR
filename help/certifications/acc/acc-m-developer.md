@@ -7,16 +7,20 @@ role: Data Architect
 badge: label="Exam AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 2%
+source-wordcount: '620'
+ht-degree: 0%
 
 ---
 
 # Parcours de certification pour Adobe [!DNL Campaign Classic] Principal architecte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/635) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -135,45 +139,11 @@ Vous devez disposer des éléments suivants :
 
 {{study-materials-intro}}
 
-**Section 1 : Définition de la solution**
+**Guide de préparation d’exportation**
 
-* [Gestion des abonnements](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=fr){target="_blank"}
-* [Prise en main de la configuration du serveur Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=fr){target="_blank"}
-* [Prise en main du monitoring de diffusion](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=fr-FR){target="_blank"}
-* [Recommandations relatives au dimensionnement du matériel](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
-* [Déploiement autonome](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=fr){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2 : Paysage des données**
-
-* [Power Booster et Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
-* [Limitation de l&#39;affichage des PII](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
-* [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=fr){target="_blank"}
-* [Bonnes pratiques relatives au modèle de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [Gestion des demandes d’accès à des informations personnelles](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
-
-**Section 3 : Installation et gestion**
-
-* [Créer des emplacements d&#39;offres](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
-* [Connecteurs CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [Offres sur canal entrant](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
-* [Utilisation des packages de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=fr){target="_blank"}
-* [Comptes externes](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=fr){target="_blank"}
-
-**Section 4 : leadership du projet**
-
-* [Surveiller l’exécution des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=fr){target="_blank"}
-* [Configuration de l’identité et de l’authentification unique](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [Mappage de base de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
-* [Carte thermique des workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
-
-**Section 5 : Personnalisation**
-
-* [Utilisation de Campaign et des Triggers Experience Cloud](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=fr){target="_blank"}
-* [Scripts/Templates JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [Gestion de données importante sur Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=fr){target="_blank"}
-* [Connecteurs CRM](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
-* [Interaction et gestion des offres](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
-* [Principe de fonctionnement](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/635)
 
 +++
 
