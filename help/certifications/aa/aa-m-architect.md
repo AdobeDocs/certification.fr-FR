@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/541) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/223) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -59,7 +59,7 @@ Vous devez avoir au moins 3 à 4 ans d’expérience dans la conception [!DNL Ad
 De plus, vous êtes chargé de traduire les exigences de l’entreprise en spécifications de suivi et [!DNL Adobe Analytics] et vous connaissez les technologies et environnements suivants :
 
 * Applications Web Analytics
-* Adobe Experience Cloud
+* Adobe Experience Cloud
 * Systèmes Tag Management
 * CMS
 * Outils de développement de navigateur
@@ -115,17 +115,15 @@ De plus, vous êtes chargé de traduire les exigences de l’entreprise en spéc
 
 {{study-materials-intro}}
 
+**Effectuer un test pratique**
+
+{{practice-test}}
+
 **Guide de préparation d’exportation**
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/541)
-
-<br>
-
-**Effectuer un test pratique**
-
-{{practice-test}}
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/223)
 
 +++
 

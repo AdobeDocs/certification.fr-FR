@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Nouveau cours disponible :** La variable [Développeur principal Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/231) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/610) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/238) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -148,7 +148,7 @@ Les candidats qualifiés doivent également avoir :
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/610)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/238)
 
 +++
 

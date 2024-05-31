@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/373) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/129) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -67,10 +67,10 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Outils de conversion de workflow
 * Outils de Dispatcher
 * Réseau de diffusion de contenu (CDN)
-* Analyseur de bonnes pratiques
+* Analyseur des bonnes pratiques
 * Modernisation des AEM
 * Explorateur de référentiels
-* Developer Console
+* Developer Console
 * Outil de mappage utilisateur pour l’Adobe IMS
 * Outil cmd E/S
 * New Relic
@@ -152,12 +152,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/373" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Afficher le guide de préparation d’examen
-</span>
-</a>
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/129)
 
 +++
 

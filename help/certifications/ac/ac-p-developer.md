@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours :** Prenez le [Cours professionnel pour les développeurs Adobe Commerce](https://app.rockinfo.com/courses/92) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous ne faites que commencer, le [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/382) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/136) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >Si vous êtes invité à vous connecter, utilisez votre Adobe ID.
 
@@ -208,12 +208,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Afficher le guide de préparation d’examen
-</span>
-</a>
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/136)
 
 +++
 

@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '588'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/595) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/237) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -78,14 +78,14 @@ Technologies :
 
 Environnements :
 
-* Adobe Experience Cloud
+* Adobe Experience Cloud
 * Mise en oeuvre côté client sans gestionnaire de balises
 * Systèmes Tag Management, en particulier Launch (IF)
 * Environnements côté serveur (pour l’utilisation des API)
 * E-mail
 * Environnements web et mobiles
 * Environnement hébergé AMS
-* Adobe I/O Runtime
+* Adobe I/O Runtime
 
 <br>
 
@@ -163,7 +163,7 @@ Environnements :
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/595)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/237)
 
 +++
 

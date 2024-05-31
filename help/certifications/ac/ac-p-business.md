@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: abdf8a41272838f408ef70fe7fc36f04477a90dd
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours**: prenez la variable [Cours professionnel de professionnel Adobe Commerce Business](https://app.rockinfo.com/courses/219) pour des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous ne faites que commencer, le [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/620) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/137) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 ### Audience prévue {#intended-audience}
 
 * Analystes professionnels
-* Personnes chargées de la gestion de projet
+* Chefs de projet
 * Propriétaires de produit
 * Consultants
 * [!DNL Adobe Commerce] stratèges
@@ -156,7 +156,7 @@ En outre, vous devez avoir une compréhension de base de l’expérience eCommer
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/620)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/137)
 
 +++
 

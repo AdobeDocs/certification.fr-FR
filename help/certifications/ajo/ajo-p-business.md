@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 >* La variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
 >* La variable [Cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113) fournit une base de connaissances sur cette application spécifique.
 >* La variable [Cours professionnel de professionnels Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) tire parti du cours Fondations et vous aide à vous préparer à l’examen de certification de niveau professionnel.
->* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/588) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/232) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -189,7 +189,7 @@ Les candidats doivent également pouvoir :
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/588)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/232)
 
 +++
 

@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '720'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/532) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/217) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -144,17 +144,15 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 {{study-materials-intro}}
 
+**Effectuer un test pratique**
+
+{{practice-test}}
+
 **Guide de préparation d’exportation**
 
 {{exam-prep-guide}}
 
-[Affichage du guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/532)
-
-<br>
-
-**Effectuer un test pratique**
-
-{{practice-test}}
+[Affichage du guide de préparation d’examen](https://app.rockinfo.com/courses/217)
 
 +++
 

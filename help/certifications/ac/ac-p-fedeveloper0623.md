@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/384) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/138) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -171,12 +171,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Afficher le guide de préparation d’examen
-</span>
-</a>
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/138)
 
 +++
 

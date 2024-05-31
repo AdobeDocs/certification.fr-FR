@@ -7,10 +7,10 @@ role: Developer,Data Architect
 badge: label="Exam AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/617) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/246) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 * Score de transmission : 45/68
 * Durée : 136 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langue : française
+* Langue : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E605
 
@@ -152,17 +152,15 @@ Vous devez être à l’aise dans ces environnements :
 
 {{study-materials-intro}}
 
+**Effectuer un test pratique**
+
+{{practice-test}}
+
 **Guide de préparation d’exportation**
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/617)
-
-<br>
-
-**Effectuer un test pratique**
-
-{{practice-test}}
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/246)
 
 +++
 
