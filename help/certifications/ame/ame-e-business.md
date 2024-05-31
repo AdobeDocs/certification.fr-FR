@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 070217df98c666389b1e7a7f900e39afdfd36c5b
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/390) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/144) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -70,7 +70,7 @@ Vous devez être un spécialiste du marketing avec une expérience dans :
 
 En outre, vous devez connaître les outils et technologies suivants :
 
-* Adobe [!DNL Marketo Engage]
+* Adobe [!DNL Marketo Engage]
 * Format de fichier Excel et CSV
 * Concepts d’API
 * Concepts de base de la gestion de la relation client
@@ -174,7 +174,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/390" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/144" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Afficher le guide de préparation d’examen
