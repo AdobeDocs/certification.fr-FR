@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/playScorm/618) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/247) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -74,7 +74,7 @@ Vous devez disposer des éléments suivants :
 
 En outre, vous devez connaître les outils et technologies suivants :
 
-* Adobe [!DNL Marketo Engage]
+* Adobe [!DNL Marketo Engage]
 * Feuilles/documents Excel ou Google
 
 <br>
@@ -85,12 +85,20 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 **Section 1 : Construire et gérer les programmes (39 %)**
 
-* En fonction des besoins et des questions de l’entreprise, identifiez une stratégie de création de rapports appropriée pour effectuer une analyse.
-* Analyse des données pour répondre aux questions
-* Identifier les entonnoirs de conversion (en tant que concept pour comprendre l’analyse commerciale)
-* Consultez le document Solution Design Reference (SDR) pour déterminer les données disponibles dans les rapports.
-* Analyser les données du rapport pour résumer et en tirer des conclusions
-* Reconnaître les valeurs aberrantes et les anomalies dans les rapports
+* Déterminez quand utiliser chacun des 4 types de programmes.
+* Identifiez pourquoi/quand utiliser le programme d’événement.
+* Identifiez pourquoi/quand utiliser le programme par défaut.
+* Identifier les caractéristiques particulières du programme d&#39;engagement.
+* Identifiez les fonctionnalités spéciales du programme de messagerie.
+* Reconnaissez ce qui peut être cloné.
+* Identifiez les avantages des balises personnalisées.
+* Identifier l’objectif des canaux.
+* Décrivez l’importance des coûts de la période.
+* Reconnaissez le concept d’utilisation de la notation de piste.
+* Comprendre les limites de la communication.
+* Reconnaissance de l’adhésion au programme et de l’acquisition de programmes.
+* Comprendre les préférences du client (abonnement, communication).
+* Appliquez les bonnes pratiques pour la révision avant le lancement.
 
 **Section 2 : Création de ressources (19 %)**
 
@@ -159,7 +167,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{exam-prep-guide}}
 
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/playScorm/618)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/247)
 
 +++
 
