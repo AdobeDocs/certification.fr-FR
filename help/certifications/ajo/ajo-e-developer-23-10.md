@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 2%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Nouveau cours disponible :** La gratuité, à la demande [Cours d’expert pour les développeurs Adobe Journey Optimizer](https://app.rockinfo.com/courses/147) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. _Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>* **Cours :** La gratuité, à la demande [Cours d’expert pour les développeurs Adobe Journey Optimizer](https://app.rockinfo.com/courses/147) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
+>
+>* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/143) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>
+>_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Cours d’expert pour les développeurs Adobe Journey Optimizer
-</span>
-</a>
-
-**Ressources d&#39;étude**
-
-**Section 1 : Administration et configuration**
-
-* [Experience Platform, contrôle d’accès, guide des environnements de test](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=fr){target="_blank"}
-* [Guide AJO, configuration, canal SMS, Parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [API AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Section 2 : Journey Orchestration**
-
-* [Guide AJO, Parcours, expressions, suivi et surveillance](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-
-**Section 3 : Offer decisioning**
-
-* [Guide AJO, gestion des décisions, référence d’API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-
-**Section 4 : Création de contenu**
-
-* [Guide AJO, canal SMS, confidentialité, configuration, Parcours, expressions, gestion de contenu, suivi et surveillance, canal Notification push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr){target="_blank"}
-
-**Section 5 : Modélisation des données**
-
-* [Guide d’AJO, Configuration, Audiences, profils et identité, Data Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Experience Platform, jeux de données, guide des connecteurs source, Tutorials d’API, guide du service d’identité Platform, interface utilisateur de segmentation, Tutorials d’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
-
-<br>
+[Cours d’expert pour les développeurs Adobe Journey Optimizer](https://app.rockinfo.com/courses/147)
 
 **Effectuer un test pratique**
 
 {{practice-test}}
+
+**Guide de préparation d’exportation**
+
+{{exam-prep-guide}}
+
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/143)
 
 +++
 

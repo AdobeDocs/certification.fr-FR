@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -30,8 +30,8 @@ ht-degree: 0%
 ### Détails de l’examen {#exam-details}
 
 * Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 35/50
-* Durée : 100 minutes
+* Score de transmission : 35/53
+* Durée : 106 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
