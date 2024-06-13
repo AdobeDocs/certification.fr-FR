@@ -6,9 +6,10 @@ product: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
@@ -73,7 +74,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 * Score de transmission : 35/50
 * Durée : 105 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langue : française
+* Langue : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E600
 
@@ -136,7 +137,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 * [Présentation des schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr){target="_blank"}
 * [Présentation/Adobe du schéma et XDM [!DNL Experience Platform]: modélisation et ingestion de données](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Données de modèle dans les schémas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [Présentation des schémas et XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=fr){target="_blank"}
+* [Présentation des schémas et XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **Section 2 : Ingestion des données**
 
@@ -215,7 +216,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 * Score de transmission : 25/34
 * Durée : 51 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langue : française
+* Langue : anglais
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD7-E601
 
