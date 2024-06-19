@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Exam AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -122,11 +122,15 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 [Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/245)
 
-**Exemples de questions**
+**Effectuer un test pratique**
 
-{{sample-questions}}
+Nous vous recommandons de passer le test d’entraînement gratuit avant de commencer. Vous disposez d’un accès illimité à tous les tests d’entraînement disponibles pour les examens de niveau expert de l’Adobe.
 
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+Nos tests d’entraînement sont tous développés à partir du même plan directeur que les examens en direct. Le test d’entraînement vous aidera à comprendre les sujets couverts par l’examen en direct.
+
+N&#39;oubliez pas que réussir un test d&#39;entraînement ne garantit pas que vous réussirez l&#39;examen de certification.
+
+[Tester l’entraînement](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
