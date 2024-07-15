@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre Adobe [!DNL Advertising] certification avant son expiration.
+description: Découvrez comment renouveler votre certification d'Adobe [!DNL Advertising] avant qu'elle n'expire.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
-# Renouvelez votre [!DNL Adobe Advertising] certification
+# Renouvelez votre certification [!DNL Adobe Advertising]
 
 Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
 
@@ -22,7 +22,7 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 >[!IMPORTANT]
 >
->**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionneront **uniquement** après une **connexion réussie** à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
@@ -42,7 +42,7 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 >
 >Renouvellement des experts bientôt disponible.
 
->[!TAB Maître]
+>[!TAB Principal]
 
 >[!NOTE]
 >
@@ -52,6 +52,6 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

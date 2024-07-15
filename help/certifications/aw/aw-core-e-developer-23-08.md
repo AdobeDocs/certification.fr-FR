@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Workfront] Expert du développeur principal
+# Parcours de certification pour l’Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/241) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/241) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfront], et doit être en mesure de :
+Vous devez avoir entre 18 et 24 mois d’expérience avec l’Adobe [!DNL Workfront] et être en mesure de :
 
-* Accédez au [!DNL Workfront] système, connaissance de l’emplacement de ses fonctionnalités
+* Parcourez le système [!DNL Workfront] et déterminez où se trouve sa fonctionnalité.
 * Configuration de tous les aspects du système
 * Discuter des exigences avec les clients et les traduire en solution viable
 * Eliciter et modifier le processus existant pour l’amélioration de manière collaborative
@@ -94,32 +94,32 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfro
 * Dans un scénario, fournissez un mécanisme pour vous assurer que les projets sont entièrement dotés en utilisant les outils de gestion des ressources.
 * Dans un scénario, utilisez les outils de gestion des ressources pour déterminer pourquoi un utilisateur est suralloué.
 
-**Section 4 : Gestion des documents et BAT (13%)**
+**Section 4 : Gestion des documents et BAT (13 %)**
 
 * Dans un scénario, indiquez quand utiliser la gestion des documents plutôt que la vérification
 * Dans un scénario donné, identifiez les bonnes pratiques relatives à l’utilisation de la visionneuse de vérification, des paramètres et de la fonctionnalité de balisage.
 * Dans un scénario, indiquez comment modifier et définir des autorisations sur un fichier.
 * Dans un scénario, indiquez comment configurer le stockage de documents externes avec des restrictions de sécurité.
-* Si un scénario se produit, configurez une connexion à AEM as a Cloud Service ou AEM Assets Essentials.
+* Dans un scénario, configurez une connexion à AEM as a Cloud Service ou AEM Assets Essentials.
 
-**Section 5 : Rapports (11 %)**
+**Section 5 : Création de rapports (11 %)**
 
 * Dans un scénario, décrivez comment combiner plusieurs colonnes de données en une seule colonne.
 * Si vous définissez un rapport ou un filtre, indiquez les avantages de l’utilisation de valeurs génériques.
 * Identifiez la manière de créer des rapports sur les relations parents-enfants à l’aide des rapports natifs.
 * Dans un scénario, décrivez comment la création de rapports facilite l’exécution efficace du travail.
-* Dans un scénario, utilisez la fonction [!DNL Workfront] Création de rapports pour surveiller et améliorer l’adoption des utilisateurs.
+* Dans un scénario, illustrez la création de rapports [!DNL Workfront] pour surveiller et améliorer l’adoption des utilisateurs.
 * Dans un scénario, déterminez le mode de rendu d’un type de champ sur un rapport. (Les types de champ incluent : texte enrichi, images, sélection multiple)
 
 **Section 6 : Méthodologie / bonnes pratiques / cas d’utilisation (22 %)**
 
-* Selon un scénario dans [!DNL Workfront], démontrer la fonctionnalité de configuration du suivi des livrables faisant partie d’une seule campagne.
-* Selon un scénario dans [!DNL Workfront], démontrer la fonctionnalité de définition des priorités stratégiques et de justification du travail.
-* Selon un scénario dans [!DNL Workfront], démontrer des fonctionnalités relatives aux données financières, à l’utilisation, aux prévisions, aux taux/enregistrements de facturation ;
-* Selon un scénario dans [!DNL Workfront], démontrer la fonctionnalité de configuration des workflows et des validations.
+* Dans un scénario situé dans [!DNL Workfront], démontrer la fonctionnalité de configuration du suivi des éléments livrables qui font partie d’une seule campagne.
+* Dans un scénario situé dans [!DNL Workfront], démontrer la fonctionnalité en fonction de la hiérarchisation stratégique et de la justification du travail.
+* Compte tenu d’un scénario dans [!DNL Workfront], démontrer des fonctionnalités relatives aux données financières, à l’utilisation, aux prévisions, aux taux de facturation/aux enregistrements
+* Dans un scénario situé dans [!DNL Workfront], démontrer la fonctionnalité de configuration du workflow et des validations.
 * Dans un scénario donné, recommandez une structure de gouvernance pour l’administration du système lors de l’extension de l’instance d’un client.
 * Dans un scénario, identifiez les zones à prendre en compte lors du développement de l’instance d’un client afin de permettre à des équipes supplémentaires de travailler ensemble.
-* Dans un scénario utilisant [!DNL Workfront] Panoramas, identifiez les fonctionnalités natives pour montrer la progression.
+* Dans un scénario utilisant [!DNL Workfront] panoramas, identifiez les fonctionnalités natives pour afficher la progression.
 * Dans un scénario donné, recommandez un cadre de gouvernance pour l’administration des systèmes et des groupes.
 
 **Section 7 : Conseil commercial (11 %)**
@@ -127,7 +127,7 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfro
 * Dans un scénario, décrivez le processus nécessaire pour prendre entièrement en charge l’implémentation de [!DNL Workfront] dans un service interfonctionnel.
 * Dans le cas d’un scénario, expliquez comment adapter un workflow existant pour répondre à un changement récent dans un processus d’exploitation critique et inopérant.
 * Dans un scénario donné, identifiez les paramètres de configuration les plus difficiles à modifier pour une instance donnée.
-* Dans un scénario donné, identifiez les principaux facteurs à prendre en compte pour gérer le changement d’une [!DNL Workfront] implémentation
+* Dans un scénario, identifiez les principaux points à prendre en compte pour la gestion des modifications pour une implémentation [!DNL Workfront].
 * Dans le cas d’un scénario où un client possède plusieurs équipes, fournissez une recommandation pour accroître l’efficacité.
 
 <br>
@@ -154,11 +154,11 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfro
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -219,6 +219,6 @@ Vous devez avoir au moins 18 à 24 mois d’expérience avec Adobe [!DNL Workfro
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certification d’experts
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] expert.
+description: Découvrez comment devenir un expert  [!DNL Experience Manager] en Adobe certifié.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager] Expert en migration as a Cloud Service
+# Parcours de certification pour l’Adobe [!DNL Experience Manager] expert as a Cloud Service en migration
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/129) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/129) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### Audience prévue {#intended-audience}
 
-* Développeurs ayant de l’expérience avec l’Adobe [!DNL Experience Manager]
+* Développeurs ayant de l&#39;expérience avec l&#39;Adobe [!DNL Experience Manager]
 * Développeurs ayant participé à au moins une migration vers le cloud
-* Adobe [!DNL Experience Manager] Développeurs de sites
+* Adobe [!DNL Experience Manager] développeurs de sites
 * Adobe [!DNL Experience Manager] Architecte de sites
-* Adobe [!DNL Experience Manager] Développeurs de ressources
-* Adobe [!DNL Experience Manager] Développeurs Forms
-* Développeurs/DevOps/Leads/Architects ayant participé à plusieurs déploiements d’AEM avec un minimum de 2 à 3 ans d’expérience de développement d’applications web à l’aide d’Adobe [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager] développeurs Assets
+* Adobe [!DNL Experience Manager] développeurs Forms
+* Développeurs/DevOps/Leads/Architects ayant participé à plusieurs déploiements d’AEM avec un minimum de 2 à 3 ans d’expérience de développement d’applications web à l’aide de l’Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -57,17 +57,17 @@ ht-degree: 0%
 Vous devez disposer des éléments suivants :
 
 * Une compréhension des modifications générales apportées à l’architecture et aux fonctionnalités lors du passage d’un service AEM (auto-géré, AMS ou tout cloud tiers) à AEM as a Cloud Service.
-* 1 à 3 ans d’expérience dans le développement d’applications web avec Adobe [!DNL Experience Manager]
-* Utilisation d’AEM Forms, d’Assets et de sites pour gérer l’expérience
+* 1 à 3 ans d’expérience dans le développement d’applications web à l’aide de l’Adobe [!DNL Experience Manager]
+* Utilisation d’AEM Forms, d’Assets et de Sites
 * la possibilité de guider les clients tout au long du processus de migration, de conseiller et de participer à toutes les phases d’un projet AEM ;
 
 En outre, vous devez connaître les technologies et environnements suivants :
 
 * Outils de conversion d’index
 * Outils de conversion de workflow
-* Outils de Dispatcher
+* Outils Dispatcher
 * Réseau de diffusion de contenu (CDN)
-* Analyseur des bonnes pratiques
+* Analyseur de bonnes pratiques
 * Modernisation des AEM
 * Explorateur de référentiels
 * Developer Console
@@ -75,8 +75,8 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Outil cmd E/S
 * New Relic
 * SDK Cloud local
-* Service de développement, d’évaluation, de création de production, de publication et d’aperçu
-* Configuration du Dispatcher local à l’aide de Docker
+* Développement, évaluation, auteur de produits, Publish et service de prévisualisation
+* Configuration Dispatcher locale à l’aide de Docker
 * Suivi des journaux Cloud dans l’environnement local
 * Interfaces de la console Cloud
 
@@ -103,9 +103,9 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Préparation de la configuration des microservices de ressources
 * expliquer la stratégie de mise en cache ;
 
-**Section 3 : Déploiement (16 %)**
+**Section 3 : déploiement (16 %)**
 
-* Configuration des pipelines de Cloud Manager et liaison aux environnements
+* Configuration des pipelines Cloud Manager et connexion aux environnements
 * Configuration des environnements AEMaaCS (développement, évaluation, production - création, publication, aperçu)
 * Gérer le processus de déploiement à l’aide de l’interface de ligne de commande d’Adobe IO
 
@@ -122,7 +122,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Fusionner plusieurs projets dans un seul projet à déployer via le pipeline Adobe
 * Gestion des scripts repointit pour l’autorisation utilisateur/groupe
 * Configuration des SDK locaux
-* Mise à jour des configurations en fonction des modes d’exécution disponibles sur AEM as a Cloud Service
+* Mise à jour des configurations en fonction des modes d’exécution disponibles dans AEM as a Cloud Service
 
 <br>
 
@@ -140,15 +140,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -207,6 +207,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Workfront] Core Developer Professional
+# Parcours de certification pour l’Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Nouveau cours disponible :** La variable [Développeur principal Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/231) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
+>* **Nouveau cours disponible :** Le [cours principal développeur d’Adobe Workfront - professionnel](https://app.rockinfo.com/courses/231) comprend des explications sur les concepts clés, des démonstrations pratiques et des vérifications de connaissances.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/238) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/238) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 * Resource Manager
 * Analyste
 * spécialiste informatique
-* [!DNL Workfront] conseiller en implémentation/responsable
+* [!DNL Workfront] consultant/responsable de l’implémentation
 
 <br>
 
 ### Expérience minimale {#minimum-experience}
 
-Bien que cet examen ne nécessite pas de connaissances en codage/programmation, il nécessite au moins 3 à 6 mois d’expérience pratique avec Adobe. [!DNL Workfront]
+Bien que cet examen ne nécessite pas de connaissances en codage/programmation, il nécessite au moins 3 à 6 mois d&#39;expérience pratique en utilisant l&#39;Adobe [!DNL Workfront]
 
 Les candidats qualifiés doivent également avoir :
 
-* Expérience avec Adobe [!DNL Workfront] fonctionnalité et connectivité par l’ingestion, l’approbation, la planification, l’exécution et le reporting
-* Compréhension approfondie de l’Adobe [!DNL Workfront] types d’objets, y compris les formulaires personnalisés et les workflows d’approbation, les modèles, les durées, les heures de travail/prévues
-* Compréhension approfondie de l’Adobe [!DNL Workfront] Configuration, y compris les niveaux d’accès, les modèles de mise en page, les préférences du projet et d’autres méthodes pour simplifier la conception de l’utilisateur final
+* Expérience avec la fonctionnalité d’Adobe [!DNL Workfront] et connectivité par l’ingestion, l’approbation, la planification, l’exécution et le reporting
+* Compréhension approfondie des types d’objets [!DNL Workfront] d’Adobe, y compris les formulaires personnalisés et les workflows d’approbation, les modèles, les durées, l’effort de travail/les heures planifiées
+* Compréhension approfondie de la configuration de l’Adobe [!DNL Workfront], y compris les niveaux d’accès, les modèles de mise en page, les préférences du projet et d’autres méthodes pour obtenir la simplicité de la conception de l’utilisateur final.
 * Compréhension et expérience du mappage de processus
-* Compréhension des différents Adobes [!DNL Workfront] personas et comment s&#39;engager dans l&#39;assistance
-* Connaissance des connecteurs natifs et autres Adobes [!DNL Workfront] produits et services
+* Comprendre les différents acteurs de l&#39;Adobe [!DNL Workfront] et comment s&#39;engager dans l&#39;assistance
+* Familiarisez-vous avec les connecteurs natifs et d’autres produits et services d’Adobe [!DNL Workfront]
 * Familiarisez-vous avec la gestion de projet, y compris la gestion agile et en cascade, et les concepts de gestion des ressources
 
 <br>
@@ -110,8 +110,8 @@ Les candidats qualifiés doivent également avoir :
 * Montrer comment configurer des workflows d’approbation et de vérification
 * Reconnaître l’objectif de la création d’un problème pour un projet
 * Découvrez comment personnaliser les états de projet au niveau du groupe
-* Identifiez les attributs nécessaires pour activer Agile dans [!DNL Workfront]
-* Identifier les moyens de saisir le temps [!DNL Workfront]
+* Identifiez les attributs nécessaires pour activer Agile dans [!DNL Workfront].
+* Identifier les moyens de saisir l&#39;heure dans [!DNL Workfront]
 * Identifier les éléments du suivi financier dans [!DNL Workfront]
 
 <br>
@@ -130,11 +130,11 @@ Les candidats qualifiés doivent également avoir :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -142,9 +142,9 @@ Les candidats qualifiés doivent également avoir :
 
 {{take-course}}
 
-[Suivez le cours Adobe Workfront Core Developer - Professional .](https://app.rockinfo.com/courses/231)
+[ Suivez le cours Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -203,6 +203,6 @@ Les candidats qualifiés doivent également avoir :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

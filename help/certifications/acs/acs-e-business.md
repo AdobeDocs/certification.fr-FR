@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Standard] Expert spécialiste des affaires
+# Parcours de certification pour l’Adobe [!DNL Campaign Standard] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/255) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/255) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -73,13 +73,13 @@ En outre, vous devez disposer des éléments suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Gestion des diffusions (25%)**
+**Section 1 : Gestion des diffusions (25 %)**
 
 * Appliquer les bonnes pratiques pour configurer et déployer une diffusion
 * Déterminer la configuration de diffusion correcte
-* Application des fonctionnalités du Concepteur d’email au scénario approprié
+* Application des fonctionnalités de Designer par courrier électronique au scénario approprié
 
-**Section 2 : Gestion de campagne (25%)**
+**Section 2 : Gestion de campagne (25 %)**
 
 * Application de configurations pour exécuter des workflows
 * Appliquer les bonnes pratiques en matière de planification, de planification et de modification d’une campagne
@@ -89,7 +89,7 @@ En outre, vous devez disposer des éléments suivants :
 * Concevoir un nouveau workflow en fonction des besoins de l’entreprise/de la campagne
 * Interprétation des exigences du client
 
-**Section 4 : Rapports (15 %)**
+**Section 4 : Création de rapports (15 %)**
 
 * En fonction des besoins du client, déterminez le rapport approprié à générer.
 * Dans un scénario donné, personnalisez un rapport dynamique d’usine.
@@ -104,7 +104,7 @@ En outre, vous devez disposer des éléments suivants :
 **Section 6 : Gestion et administration des données (15 %)**
 
 * Expliquer les ressources du modèle de données
-* Effectuer [!DNL Campaign Standard] administration
+* Exécuter l&#39;administration [!DNL Campaign Standard]
 * Appliquez le processus pour créer des audiences ciblées
 
 <br>
@@ -131,15 +131,15 @@ En outre, vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -198,7 +198,7 @@ En outre, vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

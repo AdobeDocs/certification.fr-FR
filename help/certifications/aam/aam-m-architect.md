@@ -1,6 +1,6 @@
 ---
 title: Certification des Principal architectes
-description: Découvrez comment devenir certifié en tant qu’Adobe [!DNL Audience Manager] Principal architecte.
+description: Découvrez comment devenir certifié en tant que Principal d'Adobe  [!DNL Audience Manager] Architect.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Audience Manager] Principal architecte
+# Parcours de certification pour le Principal architecte [!DNL Adobe Audience Manager]
 
 {{intro}}
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 ### Audience prévue {#intended-audience}
 
-* [!DNL Audience Manager] Consultant
+* [!DNL Audience Manager] consultant
 * Architecte multi-solution
 * Responsable des pratiques d’Adobe
 * Architecte d’entreprise
@@ -60,7 +60,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 * Analyser les besoins de l’entreprise pour comprendre les données existantes et les données supplémentaires requises
 * Concevoir et développer des implémentations spécifiques pour répondre aux besoins des clients
-* Mise en oeuvre d’Adobe [!DNL Audience Manager] utilisation de différentes méthodologies
+* Mise en oeuvre de l&#39;Adobe [!DNL Audience Manager] à l&#39;aide de différentes méthodologies
 * Créer des segments
 * Activation des segments d’audience dans différentes solutions cloud d’Adobe et non d’Adobe
 * Générer et analyser différents rapports dans [!DNL Audience Manager]
@@ -74,7 +74,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 **Objectifs et portée de l’examen**
 
-**Section 1 : Analyse de l’implémentation (26 %)**
+**Section 1 : analyse de l’implémentation (26 %)**
 
 * Déterminer comment guider et prendre en charge la mise en oeuvre d’AAM en tant que produit autonome ou dans le cadre d’une solution cloud
 * Analyser les options de destination sortante et recommander une approche AAM mise en oeuvre
@@ -91,7 +91,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 **Section 3 : Segmentation et activation (30 %)**
 
-* appliquer des concepts de procédure pour créer des destinations dans ; [!DNL Audience Manager]
+* Application de concepts de procédure pour créer des destinations dans [!DNL Audience Manager]
 * Identification des signaux permettant de créer des caractéristiques basées sur des règles, intégrées et algorithmiques
 * appliquer des concepts de procédure pour créer des segments à l’aide de la fréquence/de la récence ;
 * Déterminer comment créer des segments à l’aide de règles de fusion de profils
@@ -100,7 +100,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 **Section 4 : Confidentialité et gouvernance des données (8 %)**
 
-* Recommander [!DNL Audience Manager] les capacités en matière de gouvernance, de confidentialité et de sécurité ;
+* Recommander des [!DNL Audience Manager] fonctionnalités relatives à la gouvernance, à la confidentialité et à la sécurité
 * Identifier les stratégies de données client conformes aux réglementations gouvernementales
 
 **Section 5 : Performances et création de rapports (18 %)**
@@ -113,7 +113,7 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 {{readiness}}
 
-[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[Répondez au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
 
 <br>
 
@@ -131,32 +131,32 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Section 1 : Analyse de l’implémentation**
+**Section 1 : analyse de l’implémentation**
 
 * [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
-* [Intégration d’Analytics](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=fr){target="_blank"}
+* [Intégration Analytics](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Service Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
 
 **Section 2 : Conception de la solution et Recommendations**
 
 * [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
-* Tutoriels sur [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] tutoriels](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 3 : Segmentation et activation**
 
 * [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=fr){target="_blank"}
-* Tutoriels sur [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] tutoriels](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 4 : Confidentialité et gouvernance des données**
 
 * [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [[!DNL Audience Manager] API REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
+* [Guide de l’administrateur Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 5 : Performances et création de rapports**
 
@@ -215,6 +215,6 @@ En outre, vous devriez être en mesure d’effectuer les tâches suivantes :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

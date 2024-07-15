@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Commerce] Professionnel du développement front-end
+# Parcours de certification pour le développeur front-end Adobe [!DNL Commerce]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>* **Cours** : si vous commencez ou avez besoin d’une actualisation, suivez le [ cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/138) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/138) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -63,7 +63,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 * Forte compréhension d’Adobe Commerce version 2.4.6
 * Présentation de base de la structure et de la disposition frontales
-* Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et IU, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, connaissance de la base de données et gestion de contenu
+* Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et UI, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, des connaissances de base de données et de la gestion de contenu.
 * Familiarité avec la plateforme, les blocs CMS, les widgets, les pages CMS, les pages Catégorie, les pages de produits, le panier et le passage en caisse et la zone Tableau de bord du compte.
 * Compréhension ou connaissance de base des configurations d’administrateur
 * Connaissance de l’extension et du remplacement des styles, des mises en page et des fichiers JS
@@ -77,7 +77,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Comprendre comment utiliser les modèles d’email
 * Compréhension de base du XML
 * Compréhension de base des techniques d’optimisation et de performances d’usine pour les moteurs de recherche
-* Compréhension de base des liens canoniques, ainsi que de la fusion de code JavaScript et CSS
+* Compréhension de base des liens canoniques, ainsi que de la fusion de JavaScript et de CSS
 * Compréhension de base de l’infrastructure cloud Adobe Commerce
 
 <br>
@@ -88,7 +88,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Section 1 : Gestion des thèmes (hiérarchie des thèmes, configuration des images, traductions) (14 %)**
 
-* Description de l’Adobe [!DNL Commerce] structure de dossiers de thème
+* Description de la structure de dossiers du thème d’Adobe [!DNL Commerce]
 * Démontrer la possibilité de créer ou d’étendre des thèmes existants
 * Démontrer la possibilité d’ajouter des expressions de traduction personnalisées
 
@@ -104,14 +104,14 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 * Décrivez l’objectif de styles-m.less, styles-l.less, print.less
 * Décrire la différence entre des fichiers partiels spécifiques (_étend.less,_extension.less,_theme.less,_widgets.less,_module.less)
-* Dans un scénario, démontrer la capacité de remplacer ou d’étendre [!DNL Magento] MOINS
+* Dans un scénario, démontrer la capacité à remplacer ou étendre [!DNL Magento] LESS
 * Décrire les concepts de base de LESS
 * Expliquer la hiérarchie des styles (lib, modules, thèmes)
 * Expliquer la compilation côté client et côté serveur
 
 **Section 4 : JavaScript (18 %)**
 
-* Démontrer la possibilité d’initialiser et d’appeler des composants JavaScript ;
+* Démontrer la possibilité d’initialiser et d’appeler des composants JavaScript
 * Démonstration de l’utilisation de RequireJS
 * Décrire l’utilisation des mixins
 * Décrire comment ajouter une traduction dans JS
@@ -125,7 +125,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 * Application des modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
 * Description des étapes de personnalisation des emails transactionnels
 
-**Section 6 : Outils (interface en ligne de commande et grille) (8 %)**
+**Section 6 : Outils (interface en ligne de commande et nombre) (8 %)**
 
 * Décrire l’utilisation des commandes bin/Magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
@@ -148,11 +148,11 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -167,7 +167,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 </span>
 </a>
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -226,6 +226,6 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

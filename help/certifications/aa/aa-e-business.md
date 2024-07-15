@@ -1,6 +1,6 @@
 ---
 title: Certification des professionnels
-description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analytics] Expert spécialiste des affaires
+description: Découvrez comment devenir certifié en tant qu' [!DNL Adobe Analytics] expert du métier
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Analytics] Expert spécialiste des affaires
+# Parcours de certification pour [!DNL Adobe Analytics] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/220) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/220) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -67,15 +67,15 @@ Vous devez disposer des éléments suivants :
 * La capacité de communiquer les résultats et de proposer une ligne de conduite basée sur l&#39;analyse des rapports
 * Aider les clients à comprendre comment extraire/extraire les informations de leur choix (par exemple, les aider à définir leurs questions commerciales)
 * Comprendre le fonctionnement de la technologie et comprendre l’implémentation d’un client (par exemple, où se trouvent les données, comment les collecter, comment elles sont suivies) d’un point de vue fonctionnel
-* Au moins un an de [!DNL Adobe Analytics] expérience pratique
+* Au moins un an d’expérience pratique [!DNL Adobe Analytics]
 * Compréhension de base de la manière dont Digital Analytics filtre/structure les données
-* une prise de conscience de l&#39;intégration des [!DNL Adobe Analytics] avec d’autres solutions Adobe
+* Une prise de conscience de l’intégration de [!DNL Adobe Analytics] avec d’autres solutions d’Adobe
 
 En outre, vous devez connaître les technologies et environnements suivants :
 
 * Client FTP
-* Actuel [!DNL Adobe Analytics] Fonctionnalités de Workspace et autres options de création de rapports en dehors de Workspace (ex. planification de projets et planification de rapports)
-* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets, tel qu’un Adobe Debugger, des outils de développement de navigateur, Charles)
+* Fonctionnalités Workspace actuelles et autres options de création de rapports en dehors de Workspace (ex. [!DNL Adobe Analytics] planification de projets et planification de rapports)
+* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets tel qu’un Adobe Debugger, outils de développement de navigateur, Charles)
 * Admin Console (Admin Console de suite de rapports Analytics et Admin Console Experience Cloud)
 * Principes de base/bases d’Adobe Launch
 * Applications, SPA, compréhension de base du site web
@@ -95,7 +95,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Faire la démonstration de la compréhension d’Adobe Launch
 * Faire la démonstration de la compréhension des intégrations communes dans l’écosystème de Adobe Experience Cloud
 
-**Section 2 : Reporting et tableau de bord pour les projets (30 %)**
+**Section 2 : création de rapports et intégration de tableaux de bord pour les projets (30 %)**
 
 * Tenir compte des avantages de l’utilisation d’un outil de reporting basé sur un scénario donné
 * Comparer la visualisation Abandons et Flux et les types de variables appropriés pour la création de rapports
@@ -118,16 +118,16 @@ En outre, vous devez connaître les technologies et environnements suivants :
 **Section 4 : Connaissances générales de l’outil et résolution des problèmes (12 %)**
 
 * Analyse des rapports et identification des problèmes de qualité des données
-* Définition de différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements)
-* Déterminer comment importer et extraire des données [!DNL Adobe Analytics]
+* Définissez différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements).
+* Déterminer comment importer et extraire des données dans [!DNL Adobe Analytics]
 * Identification des informations à partir des URL marketing
 
 **Section 5 : Administration (10 %)**
 
-* Appliquez le processus pour configurer la variable [!UICONTROL Canal marketing] rapports avec [!UICONTROL Canal marketing] règles de traitement
+* Appliquez le processus de configuration des rapports [!UICONTROL Canal marketing] avec les règles de traitement [!UICONTROL Canal marketing]
 * Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles
 * Appliquez le processus de configuration d’une suite de rapports virtuelle en fonction d’un segment existant.
-* Utilisez la variable [!UICONTROL Flux de données] Interface utilisateur d’administration de Manager
+* Utilisation de l’interface utilisateur d’administration du [!UICONTROL  gestionnaire de flux de données]
 * Compréhension de la gouvernance des données
 
 <br>
@@ -154,15 +154,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -232,7 +232,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

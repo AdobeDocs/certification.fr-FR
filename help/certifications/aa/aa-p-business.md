@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des professionnels de l’entreprise
-description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analytics] Professionnel du praticien de l'entreprise.
+description: Découvrez comment obtenir une certification en tant que professionnel  [!DNL Adobe Analytics] professionnel du métier.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Analytics] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Analytics] Professionnel Professionnel Professionnel
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/145) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/145) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et l’expérience suivante :
+Vous devez disposer d’un minimum de 3 mois d’expérience dans [!DNL Adobe Analytics] et de l’expérience suivante :
 
 * Un arrière-plan marketing ou provient d’un rôle marketing, mais peut provenir de divers rôles de travail.
 * Une connaissance de base des mesures et dimensions d’analyse numérique.
@@ -70,7 +70,7 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 
 {{exam-objectives}}
 
-**Section 1 : Analyse des entreprises (34 %)**
+**Section 1 : Analyse des activités (34 %)**
 
 * En fonction des besoins et des questions de l’entreprise, identifiez une stratégie de création de rapports appropriée pour effectuer une analyse.
 * Analyse des données pour répondre aux questions
@@ -79,7 +79,7 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 * Analyser les données du rapport pour résumer et en tirer des conclusions
 * Reconnaître les valeurs aberrantes et les anomalies dans les rapports
 
-**Section 2 : Reporting et tableau de bord pour les projets (38 %)**
+**Section 2 : création de rapports et intégration de tableaux de bord pour les projets (38 %)**
 
 * Tenir compte des avantages de l’utilisation de visualisations spécifiques en fonction d’un scénario donné
 * Comparaison de la visualisation Abandons et Flux
@@ -98,8 +98,8 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 
 **Section 4 : Connaissances générales de l’outil et résolution des problèmes (9 %)**
 
-* Présentation des différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (evars, props et événements)
-* Déterminer comment exporter des données depuis [!DNL Adobe Analytics]
+* Présentation des différents types de dimensions et paramètres existant dans [!DNL Adobe Analytics] (evars, props et événements)
+* Déterminer comment exporter des données de [!DNL Adobe Analytics]
 
 <br>
 
@@ -125,11 +125,11 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -199,6 +199,6 @@ Vous devez avoir au moins 3 mois d’expérience dans [!DNL Adobe Analytics] et 
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

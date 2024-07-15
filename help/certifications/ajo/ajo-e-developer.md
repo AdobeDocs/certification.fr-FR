@@ -1,6 +1,6 @@
 ---
 title: Certification d’experts
-description: Découvrez comment devenir un Adobe certifié [!DNL Journey Optimizer] Développeur expert.
+description: Découvrez comment devenir un Adobe certifié  [!DNL Journey Optimizer] Développeur expert.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 5%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Journey Optimizer] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Journey Optimizer] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ajo-e-developer-23-10.md).
+>Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre la [dernière version de cet examen](ajo-e-developer-23-10.md).
 
 ## Description de l’export {#exam-description}
 
@@ -98,7 +98,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 * Faire la démonstration d’une compréhension de la création et de la gestion des offres et des composants
 * Montrer comment utiliser les profils de test pour exécuter la simulation d&#39;offres
 
-**Section 4 : Création de contenu (20 %)**
+**Section 4 : création de contenu (20 %)**
 
 * Démontrer comment créer des emails, des SMS, des messages in-app et des notifications push
 * Démontrer une compréhension de la manipulation et de la personnalisation du contenu à l’aide des fonctions d’assistance ;
@@ -134,7 +134,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -151,7 +151,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 * [Présentation des environnements de test](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr){target="_blank"}
 
 
-**Section 2 : Fondation AEP**
+**Section 2 : AEP Foundation**
 
 * [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
@@ -159,15 +159,15 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
    * Guide sur Real-time Customer Profile
    * Guide de Platform Identity Service
    * configurer un flux de données
-   * Guide des connecteurs source
+   * Guide des connecteurs Source
    * Guide Data Ingestion
    * Guide de Segmentation Service
    * Schémas
 
-* [Présentation de l’Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=fr){target="_blank"}
-* [Prise en main d’Adobe [!DNL Experience Platform] cours destiné aux ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=fr){target="_blank"}
-* [Cours sur l’ingestion de données pour les ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=fr){target="_blank"}
-* [Plans directeurs d’expérience numérique](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr){target="_blank"}
+* [Introduction à l’Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=fr){target="_blank"}
+* [Prise en main de l’Adobe [!DNL Experience Platform] pour le cours des ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=fr){target="_blank"}
+* [Cours d’ingestion de données pour les ingénieurs de données](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=fr){target="_blank"}
+* [ {target="_blank"} ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=fr)
 
 **Section 3 : Offer decisioning**
 
@@ -179,7 +179,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
    * Créer des parcours
 
-**Section 4 : Création de contenu**
+**Section 4 : création de contenu**
 
 * [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
@@ -200,7 +200,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 <br>
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 >[!NOTE]
 >
->Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre le [la dernière version de cet examen](ajo-e-developer-23-10.md).
+>Cet examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), a été mis à jour. Si vous avez déjà commencé à étudier ou que vous prévoyez de prendre cette version, veillez à la terminer avant le 22 décembre 2023. Si vous commencez, nous vous recommandons de prendre la [dernière version de cet examen](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ Vous devez disposer d’au moins un an d’expérience dans l’utilisation de d
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des développeurs
-description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analytics] Professionnel du développement.
+description: Découvrez comment devenir certifié  [!DNL Adobe Analytics] développeur professionnel.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Analytics] Professionnel du développement
+# Parcours de certification pour [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/217) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/217) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* 6 à 12 mois d’expérience dans [!DNL Adobe Analytics] mise en oeuvre (application web et mobile)
+* 6 à 12 mois d’expérience dans l’implémentation de [!DNL Adobe Analytics] (application web et mobile)
 * Expérience de prise en charge des équipes d’implémentation d’Analytics pour établir des liens entre l’informatique et l’entreprise afin de comprendre comment les besoins de l’entreprise se traduisent en une solution technique (SDR) et en fonction des exigences fournies par l’analyste.
 * Comprendre le type de variable nécessaire, où et comment collecter les données, concevoir le modèle de données (couche de données), configurer et gérer la solution de gestion des balises
 
 Vous devez également avoir de l’expérience avec les tâches suivantes :
 
-* Interprétation d’un document de conception de solutions (DTS) et compréhension de l’objectif de tous [!DNL Adobe Analytics] variables collectées
+* Interprétation d’un document de conception de solutions (SDR) et compréhension de l’objectif de toutes les variables [!DNL Adobe Analytics] collectées
 * Comprendre et utiliser Adobe (Experience Platform) Launch
-* Compréhension de la configuration de la ligne de base [!DNL Adobe Analytics] dimensions et événements Nom de page, nom du lien, Activity Map, etc., mais travailleront avec des développeurs experts pour davantage d’implémentations client - Le mappage de variables est toujours propriété de développeurs de niveau expert.
+* Comprendre la configuration des dimensions de ligne de base [!DNL Adobe Analytics] et des événements Nom de page, Nom de lien, Activity Map, etc., mais travailler avec des développeurs experts pour davantage d’implémentations client - Le mappage de variables est toujours propriété de développeurs de niveau expert.
 * Création et configuration de règles dans Launch suite à la conception fournie par un expert AA
 * Test et validation des données capturées dans des variables et des événements déclenchés à l’aide des débogueurs de console web ou des systèmes d’applications mobiles tels que les journaux de charles
 * Comprendre ce qu’est une couche de données et savoir lire un objet JavaScript
 * Partage de rapports, de segments et du processus pour demander l’accès, mais pas de la manière de gérer les groupes d’utilisateurs, les protocoles de gouvernance, ainsi que de gérer le DTS
 * Conseils et configuration de la solution mobile/SDK
 * Présentation de la structure générale du suivi vidéo (basé sur les événements), avec la documentation de base de connaissances
-* Exécution de rapports de base à partir d’Analysis Workspace et compréhension des sorties de données disponibles à partir du [!DNL Adobe Analytics] Data Warehouse
+* Exécution de rapports de base à partir d’Analysis Workspace et compréhension des sorties de données disponibles à partir du Data Warehouse [!DNL Adobe Analytics]
 * Expérience de base avec Adobe Experience Platform Launch (Adobe Launch)
 
 <br>
@@ -77,23 +77,23 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 {{exam-objectives}}
 
-**Section 1 : Analyses dans l’écosystème de Adobe Experience Cloud (14 %)**
+**Section 1 : Analytics dans l’écosystème Adobe Experience Cloud (14 %)**
 
 * Identifiez les fonctionnalités de Adobe Experience Cloud ID.
 * Identifiez les utilisateurs d’Adobe Launch.
-* Identifier la manière d’activer/de prendre en charge [!DNL Adobe Analytics] balises dans l’écosystème Adobe Experience Cloud.
+* Identifiez comment activer/prendre en charge les balises [!DNL Adobe Analytics] dans l’écosystème Adobe Experience Cloud.
 
-**Section 2 : Stratégie et conception d’Analytics basées sur un DTS (12 %)**
+**Section 2 : Stratégie et conception Analytics basées sur un DTS (12 %)**
 
 * Lors de la définition d’une référence de conception de solution, identifiez les objets de données à renseigner.
 * Dans le cadre d’un document de spécifications techniques, identifiez la mise en oeuvre de la capture de données.
 
 **Section 3 : Mise en oeuvre et configuration d’Analytics (30 %)**
 
-* Identification des étapes à déployer [!DNL Adobe Analytics] Code.
+* Identifiez les étapes de déploiement du code [!DNL Adobe Analytics].
 * Identifiez les fonctions du code de déploiement minimal pour le suivi Analytics.
-* Identifier les étapes de configuration des différents composants dans [!DNL Adobe Analytics] Interface utilisateur.
-* Identification des fonctions de [!DNL Adobe Analytics] paramètres des suites de rapports et des variables.
+* Identifiez les étapes de configuration de divers composants dans l’interface utilisateur de [!DNL Adobe Analytics].
+* Identifiez les fonctions de la suite de rapports et les paramètres des variables [!DNL Adobe Analytics].
 * Identifiez les caractéristiques d’une couche de données et les valeurs de couche de données.
 * Identifiez les fonctions App Measurement pour le suivi des fonctionnalités telles que le suivi des liens et le suivi du commerce électronique.
 
@@ -106,15 +106,15 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 **Section 5 : composants de [!DNL Adobe Analytics] (8 %)**
 
-* Identifier les fonctions de [!DNL Adobe Analytics] API (flux de données, entrepôt, sources de données, rapports).
+* Identifiez les fonctions de l’API [!DNL Adobe Analytics] (flux de données, entrepôt, sources de données, rapports).
 * Identifier les caractéristiques des règles de traitement.
 
-**Section 6 : Tests, validation et dépannage (18 %)**
+**Section 6 : Test, validation et dépannage (18 %)**
 
 * Identifiez la signification des erreurs JavaScript courantes.
-* Identifier la signification des [!DNL Adobe Analytics] des erreurs de variables.
+* Identifiez la signification des erreurs de variables [!DNL Adobe Analytics] courantes.
 * Dans un scénario, identifiez les bonnes pratiques de test et de débogage de validation qui doivent être suivies.
-* Identifier comment effectuer le suivi d’une [!DNL Adobe Analytics] appel au serveur (c.-à-d. de la demande de balise à l’affichage dans le rapport.)
+* Identifiez comment effectuer le suivi d’un appel au serveur [!DNL Adobe Analytics] (c.-à-d. de la demande de balise à l’affichage dans le rapport.)
 
 <br>
 
@@ -140,19 +140,19 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
-[Affichage du guide de préparation d’examen](https://app.rockinfo.com/courses/217)
+[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/217)
 
 +++
 
@@ -207,7 +207,7 @@ Vous devez également avoir de l’expérience avec les tâches suivantes :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

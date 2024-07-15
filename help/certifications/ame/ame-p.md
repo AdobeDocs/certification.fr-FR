@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir un Adobe certifié [!DNL Marketo Engage] Professionnel.
+description: Découvrez comment devenir un Adobe  [!DNL Marketo Engage] professionnel certifié.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Marketo Engage] Professionnel
+# Parcours de certification pour l’Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours**: si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Marketo Engage](https://app.rockinfo.com/courses/261) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>* **Cours** : si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Marketo Engage](https://app.rockinfo.com/courses/261) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Vous disposez ainsi d’une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/247) fournit un parcours personnalisé à travers votre processus de préparation à l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/247) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
 >
->_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -89,7 +89,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Construire et gérer les programmes (39 %)**
+**Section 1 : création et gestion de programmes (39 %)**
 
 * Déterminez quand utiliser chacun des 4 types de programmes.
 * Identifiez pourquoi/quand utiliser le programme d’événement.
@@ -106,7 +106,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Comprendre les préférences du client (abonnement, communication).
 * Appliquez les bonnes pratiques pour la révision avant le lancement.
 
-**Section 2 : Création de ressources (19 %)**
+**Section 2 : création de ressources (19 %)**
 
 * Manipulation de fichiers dans Design Studio (téléchargement/remplacement d’images et de fichiers).
 * Créez/modifiez un formulaire à l’aide de l’éditeur de formulaire.
@@ -116,7 +116,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Faire la distinction entre les ressources préliminaires et approuvées.
 * Faire la distinction entre les ressources locales et globales.
 
-**Section 3 : Définition et ciblage des audiences (33 %)**
+**Section 3 : définition et ciblage des audiences (33 %)**
 
 * Créer/modifier des listes dynamiques.
 * Comprendre les étapes du flux de la campagne dynamique.
@@ -124,16 +124,16 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Interprétation des résultats d’une campagne dynamique.
 * Décrivez l’objectif d’une segmentation et son utilisation.
 * Identifiez et naviguez dans la base de données.
-* expliquer comment définir les paramètres de confidentialité dans Adobe ; [!DNL Marketo Engage].
+* Expliquer comment définir les paramètres de confidentialité dans Adobe [!DNL Marketo Engage].
 * Différenciation entre les listes dynamiques et les listes statiques.
 * Définissez des listes dynamiques système.
 * Comparez et comparez les différents types de campagnes dynamiques.
 * Comprendre le fonctionnement des déclencheurs et filtres de campagne dynamique.
 * Différencier les différents imports de liste.
 
-**Section 4 : Analyse et construction de rapports (9 %)**
+**Section 4 : analyse et création de rapports (9 %)**
 
-* Expliquer l’Adobe standard [!DNL Marketo Engage] les rapports et le moment où ils doivent être utilisés (performances des liens d’email, performances des emails, performances de la page d’entrée, performances des personnes, performances du programme, activité de page web, etc.) ;
+* Expliquer les rapports [!DNL Marketo Engage] d’Adobe standard et le moment où ils doivent être utilisés (performances des liens d’email, performances des emails, performances des pages d’entrée, performances des personnes, performances du programme, activité de page web, etc.)
 * Comprendre les informations et les mesures du tableau de bord (tableau de bord du programme de messagerie, tableau de bord du programme d’engagement)
 * Comprendre les mesures de statistiques sur les emails
 
@@ -161,11 +161,11 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -173,9 +173,9 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{take-course}}
 
-[Suivez le cours Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
+[Suivez le cours sur les fondations Adobe Marketo Engage](https://app.rockinfo.com/courses/261)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -245,6 +245,6 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

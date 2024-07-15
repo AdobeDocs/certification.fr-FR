@@ -1,6 +1,6 @@
 ---
 title: Certification de plateforme
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Platform] Expert.
+description: Découvrez comment devenir un Adobe certifié  [!DNL Experience Platform] Expert.
 solution: Experience Platform
 product: Experience Platform
 role: Developer
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Platform] Expert
+# Parcours de certification pour l&#39;expert [!DNL Experience Platform] Adobe
 
 {{intro}}
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 Vous devez disposer des éléments suivants :
 
-* Connaissance de base de [!DNL Experience Platform] et peut parcourir l’interface utilisateur.
+* Connaissances de base de [!DNL Experience Platform] et navigation dans l’interface utilisateur
 * La possibilité de créer des segments et de créer des audiences (logique incluse dans cette logique)
 * La possibilité de configurer des destinations
 * Capacité à connecter des segments aux destinations
@@ -64,9 +64,9 @@ Vous devez disposer des éléments suivants :
 
 <br>
 
-## Exigence #1 : informations pour l’Adobe [!DNL Experience Platform] Fondations techniques (AD0-E600) {#req-1}
+## Exigence #1 : informations pour les fondations techniques de l&#39;Adobe [!DNL Experience Platform] (AD0-E600) {#req-1}
 
-L’examen AD0-E600 valide les compétences et les connaissances couvrant les fonctions de base et les tâches fréquemment effectuées de l’Adobe. [!DNL Experience Platform] au niveau des experts.
+L&#39;examen AD0-E600 valide les compétences et les connaissances couvrant les fonctionnalités de base et les tâches fréquemment effectuées de l&#39;Adobe [!DNL Experience Platform] au niveau des experts.
 
 ### Détails des examens pour AD0-E600 {#exam-details-600}
 
@@ -74,7 +74,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 * Score de transmission : 35/50
 * Durée : 105 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langue : anglais
+* Langue : française
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E600
 
@@ -84,7 +84,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 {{exam-objectives}}
 
-**Section 1 : modélisation des données (20 %)**
+**Section 1 : Modélisation des données (20 %)**
 
 * Analyse des données source pour évaluer l’identité principale et secondaire pour la combinaison de profils
 * Découvrez comment utiliser l’interface utilisateur pour créer/modifier des schémas XDM.
@@ -128,28 +128,28 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
 **Section 1 : modélisation des données**
 
-* [Présentation des schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr){target="_blank"}
-* [Présentation/Adobe du schéma et XDM [!DNL Experience Platform]: modélisation et ingestion de données](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Compréhension des schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr){target="_blank"}
+* [Présentation/Adobe du schéma et XDM [!DNL Experience Platform] : modélisation des données et ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Données de modèle dans les schémas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [Présentation des schémas et XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
+* [Présentation du schéma et XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
-**Section 2 : Ingestion des données**
+**Section 2 : Ingestion de données**
 
-* [Ingestion des données](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=fr){target="_blank"}
+* [Ingestion de données](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=fr){target="_blank"}
 
 **Section 3 : Unification des profils**
 
-* [Graphiques des identités et des identités](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
-* [Mappage des identités](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Étiquetage, ingestion et vérification des données d’identité](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Graphiques d’identités et d’identités](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [Identités des cartes](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [Étiqueter, assimiler et vérifier les données d’identité](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Création d’un jeu de données pour l’exportation d’un segment ciblé](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [Création de segments appris par la machine à l’aide de Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
+* [Création de segments appris par l’ordinateur à l’aide de Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **Section 4 : Activation**
 
@@ -157,7 +157,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 <br>
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -206,7 +206,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 
 <br>
 
-## Exigence #2 : informations pour l’Adobe [!DNL Real-Time CDP] Praticien technique (AD7-E601) {#req-2}
+## Exigence #2 : informations pour le praticien technique de l’Adobe [!DNL Real-Time CDP] (AD7-E601) {#req-2}
 
 <br>
 
@@ -216,7 +216,7 @@ L’examen AD0-E600 valide les compétences et les connaissances couvrant les fo
 * Score de transmission : 25/34
 * Durée : 51 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra) ou centre de test géré
-* Langue : anglais
+* Langue : française
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD7-E601
 
@@ -268,7 +268,7 @@ Section 3 : Destinations (27 %)
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -277,64 +277,64 @@ Section 3 : Destinations (27 %)
 * [Présentation de Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=fr){target="_blank"}
 * [Tableau de bord du profil](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Barrières de sécurité par défaut pour les données de profil client en temps réel](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=fr)
-* [Activation de Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [Présentation de Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=fr){target="_blank"}
+* [Activer Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
+* [Présentation de Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=fr){target="_blank"}
 * [Services d’applications AEP : Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Prise en main de Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
-* [Page d’accueil et tableaux de bord Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [Surveillance des flux de données pour les destinations dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
-* [Création et activation de segments dans Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Page d’accueil et tableaux de bord Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
+* [Surveiller les flux de données pour les destinations dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
+* [Créer et activer des segments dans Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Présentation de la confidentialité](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
-* [Gouvernance des données dans la plateforme des données clients en temps réel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
-* [Application de la structure de gouvernance des données](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
+* [Gouvernance des données dans la plateforme de données clients en temps réel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [Appliquer la structure de gouvernance des données](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [Prise en main de la gouvernance des données](https://video.tv.adobe.com/v/333350/){target="_blank"}
 * [Présentation de la gouvernance des données](https://video.tv.adobe.com/v/29708/){target="_blank"}
-* [Démonstration de la gouvernance des données](https://video.tv.adobe.com/v/36653/){target="_blank"}
-* [Classification des données à l’aide d’une étiquette de gouvernance](https://video.tv.adobe.com/v/29709/){target="_blank"}
-* [Création de stratégies d’utilisation des données](https://video.tv.adobe.com/v/32977/){target="_blank"}
-* [Application des stratégies d’utilisation des données](https://video.tv.adobe.com/v/33631/){target="_blank"}
+* [Démo sur la gouvernance des données](https://video.tv.adobe.com/v/36653/){target="_blank"}
+* [Classification des données à l’aide de l’étiquette de gouvernance](https://video.tv.adobe.com/v/29709/){target="_blank"}
+* [ Créer des stratégies d’utilisation des données ](https://video.tv.adobe.com/v/32977/){target="_blank"}
+* [ Application des stratégies d’utilisation des données ](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
 **Section 2 : Segmentation**
 
-* [Service de segmentation dans Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
+* [Service de segmentation dans Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [Guide de l’interface utilisateur du créateur de segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=fr){target="_blank"}
-* [Segmentation en temps réel dans l’édition CDP B2B](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
-* [Création de segments](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
+* [Segmentation en temps réel dans l’édition B2B de la plateforme CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
+* [Créer des segments](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [Présentation du créateur de segments](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Créer un segment](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Création de segments basés sur du contenu](https://video.tv.adobe.com/v/333302/){target="_blank"}
-* [Création de segments de conversion](https://video.tv.adobe.com/v/333303/){target="_blank"}
-* [Création de segments à partir de segments existants](https://video.tv.adobe.com/v/333304){target="_blank"}
-* [Création de segments séquentiels](https://video.tv.adobe.com/v/333305/){target="_blank"}
-* [Création de segments dynamiques](https://video.tv.adobe.com/v/27428){target="_blank"}
+* [ Créer des segments de conversion ](https://video.tv.adobe.com/v/333303/){target="_blank"}
+* [Créer des segments à partir de segments existants](https://video.tv.adobe.com/v/333304){target="_blank"}
+* [ Création de segments séquentiels ](https://video.tv.adobe.com/v/333305/){target="_blank"}
+* [ Créer des segments dynamiques ](https://video.tv.adobe.com/v/27428){target="_blank"}
 * [Création de segments à entrées multiples](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Création de segments avec des données B2B](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Démonstration de la segmentation par flux](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Création et activation de segments dans Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Évaluation d’un segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Créer et activer des segments dans Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Évaluer un segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Section 3 : Destinations**
 
 * [Présentation de la destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=fr){target="_blank"}
-* [Types et catégories de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=fr){target="_blank"}
+* [ Types et catégories de destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=fr){target="_blank"}
 * [Espace de travail de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
-* [Création d’une connexion de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=fr){target="_blank"}
+* [Créer une connexion de destination](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=fr){target="_blank"}
 * [CDP en temps réel : destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Présentation de la destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=fr){target="_blank"}
 * [Créer une destination et activer des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Présentation de l’activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Présentation du catalogue de destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
-* [Activation de profils et de segments vers une destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
-* [Intégration de la correspondance client Google](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
-* [Configuration de la destination Azure Blob](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
-* [Configuration de la destination Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
-* [Configuration de l’espace de stockage dans le cloud basé sur les fichiers ou de la destination de marketing par e-mail](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
-* [Configuration d’une destination de réseau social](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
-* [Activation des données vers une application non Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=fr){target="_blank"}
+* [Activer les profils et les segments vers une destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
+* [Intégrer la correspondance client Google](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
+* [Configurer la destination Azure Blob](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
+* [Configurer la destination Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
+* [Configuration d’un stockage dans le cloud basé sur des fichiers ou d’une destination de marketing par e-mail](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
+* [Configurer une destination sociale](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
+* [Activer les données vers une application non-Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=fr){target="_blank"}
 
 <br>
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -391,6 +391,6 @@ Section 3 : Destinations (27 %)
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

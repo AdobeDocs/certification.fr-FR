@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des professionnels de l’entreprise
-description: Découvrez comment devenir certifié [!DNL Adobe Target] Professionnel de l’entreprise.
+description: Découvrez comment devenir un professionnel certifié  [!DNL Adobe Target] professionnel du métier.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Target] Professionnel professionnel
+# Parcours de certification pour [!DNL Adobe Target] Professionnel Professionnel Professionnel
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/235) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/235) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -79,7 +79,7 @@ Vous devez disposer des éléments suivants :
 * Dans un scénario, évaluez les besoins de l’audience.
 * Décrire les sources de rapports d’analyse appropriées (c’est-à-dire, Target ou Adobe Analytics)
 
-**Section 2 : Configuration, exécution et gestion (50 %)**
+**Section 2 : configuration, exécution et gestion (50 %)**
 
 * Expliquer l’utilisation du compositeur d’expérience d’après les formulaires par rapport au compositeur d’expérience visuelle
 * Description des procédures de création d’une expérience à l’aide du VEC
@@ -96,10 +96,10 @@ Vous devez disposer des éléments suivants :
 * Description des procédures d’AQ d’activité
 * Description des procédures de gestion des activités et des audiences dans Target
 
-**Section 3 : Analyse et reporting (16 %)**
+**Section 3 : analyse et création de rapports (16 %)**
 
 * Décrire les paramètres pour aider à définir les éléments qui apparaissent dans un rapport
-* Décrivez la différence dans [!DNL Adobe Target] Paramètres du calculateur de taille d’échantillon entre la planification et la validation
+* Décrire la différence entre les paramètres du calculateur de taille d’échantillon [!DNL Adobe Target] entre la planification et la validation
 * Décrire les problèmes courants associés aux tests A/B
 * Identifier les différences entre les rapports de synthèse Automated Personalization et les autres rapports
 * Décrire les fonctionnalités des rapports Performance de l’expérience (MVT)
@@ -127,15 +127,15 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -196,6 +196,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

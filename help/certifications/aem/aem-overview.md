@@ -1,16 +1,16 @@
 ---
-title: Présentation de la certification du Experience Manager
+title: Présentation de la certification des Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Manager] Présentation de la certification
+# Présentation de la certification d’Adobe [!DNL Experience Manager]
 
 Sélectionnez votre niveau et votre rôle professionnel pour obtenir plus d’informations sur la certification qui vous intéresse.
 
@@ -22,18 +22,18 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Développeur (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Développeur principal (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [Fondements techniques](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [Fondations Techniques](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Expert**
 
-* [Professionnels (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [Ops de développement](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [OpsDev](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Outils de migration de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
-**Maître**
+**Principal**
 
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.

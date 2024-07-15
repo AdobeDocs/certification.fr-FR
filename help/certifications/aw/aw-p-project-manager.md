@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Workfront] Responsable de projet professionnel
+# Parcours de certification pour l’Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** La variable [Gestionnaire de projet Adobe Workfront - Cours professionnel](https://app.rockinfo.com/courses/230) comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances.
+>* **Cours :** Le [responsable de projet Adobe Workfront - cours professionnel](https://app.rockinfo.com/courses/230) comprend des explications sur les concepts clés, des démonstrations pratiques et des vérifications de connaissances.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/229) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/229) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * Chef de projet, chef de travail, planificateur
 * Maître SCRUM
-* [!DNL Workfront] utilisateur de puissance
+* [!DNL Workfront] puissance utilisateur
 * Administrateur système
 * Responsable de programme, responsable de portefeuille
 * Director, gestionnaire
@@ -62,7 +62,7 @@ ht-degree: 0%
 Vous devez disposer des éléments suivants :
 
 * Comprendre le processus de travail depuis une demande de travail initiale jusqu’à la fin ou s’est exposé à la gestion de projet ou de travail
-* Entraînement autoguidé terminé ou camp d&#39;amorçage ou ont été [!DNL Workfront] utilisateur pendant 6 à 12 mois pour comprendre les fonctionnalités de base ;
+* Formation auto-guidée terminée ou camp de démarrage ou ont été utilisateurs de [!DNL Workfront] pendant 6 à 12 mois afin de comprendre les fonctionnalités de base
 * Une compréhension de la configuration, du suivi et de la surveillance des données de rapport
 
 <br>
@@ -71,7 +71,7 @@ Vous devez disposer des éléments suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Réception et planification (30 %)**
+**Section 1 : ingestion et planification (30 %)**
 
 * Identifier différentes manières d’être informé d’une demande de travail
 * Dans le cas d’une requête, passez en revue les données personnalisées pour déterminer l’action appropriée.
@@ -83,10 +83,10 @@ Vous devez disposer des éléments suivants :
 * Identifier le champ approprié pour afficher une ressource affectée spécifique
 * Compte tenu d’une personne, déterminez la prise en charge ou les rapports/tableaux de bord de planification utiles à cette personne pendant la prise en charge ou l’étape de planification du projet/processus de travail.
 
-**Section 2 : exécuter (50 %)**
+**Section 2 : Exécuter (50 %)**
 
 * Identifier les moyens de comprendre, d’appliquer et de mesurer les jalons d’un projet
-* Créer [!DNL Workfront] Validations à usage unique et conditions d’utilisation d’une approbation
+* Créer [!DNL Workfront] approbations à usage unique et quand une approbation sera utilisée
 * Identifier l’utilisation des différents types de dates par le système
 * Dans un scénario, identifiez les informations que les types de date transmettent à un chef de projet.
 * Dans un scénario, déterminez la manière dont les différentes contraintes de tâche affectent la chronologie du projet lorsqu’elles sont utilisées.
@@ -94,10 +94,10 @@ Vous devez disposer des éléments suivants :
 * Dans un scénario, décrivez comment télécharger un document et générer un BAT.
 * Identifier les différentes manières de gérer un projet
 * Dans un scénario, déterminez l’écart planifié pour un rôle de tâche spécifique au sein d’un projet individuel.
-* Dans un scénario, recherchez l’élément financier spécifique dans [!DNL Workfront]
+* Dans un scénario, recherchez l’élément financier spécifique dans [!DNL Workfront].
 * Avec un graphique Gantt, expliquez les relations de l’objet sur le graphique.
 * Comparaison des différences entre la condition et l’état de progression
-* Identifier comment [!DNL Workfront] équipes et [!DNL Workfront] les groupes peuvent être utilisés.
+* Déterminer comment [!DNL Workfront] équipes et [!DNL Workfront] groupes peuvent être utilisés
 * Dans un scénario, décrivez comment fournir aux parties prenantes les informations dont elles ont besoin.
 * Dans un scénario, déterminez la manière dont les types de dates et les durées affectent les conditions du projet.
 * Dans un scénario, déterminez les états personnalisés requis.
@@ -137,13 +137,13 @@ Vous devez disposer des éléments suivants :
 
 **Cours de formation recommandé**
 
-[Formation des équipes de base pour les planificateurs dans la nouvelle [!DNL Workfront] expérience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Formation de l’équipe principale pour les planificateurs dans la nouvelle  [!DNL Workfront] expérience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -151,9 +151,9 @@ Vous devez disposer des éléments suivants :
 
 {{take-course}}
 
-[Suivez le cours Gestionnaire de projets Adobe Workfront - Professionnel .](https://app.rockinfo.com/courses/230)
+[Prenez le responsable de projet Adobe Workfront - cours professionnel](https://app.rockinfo.com/courses/230)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -212,6 +212,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

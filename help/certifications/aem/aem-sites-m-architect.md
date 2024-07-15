@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Principal architecte
+# Parcours de certification pour le Principal Architecte de l&#39;Adobe [!DNL Experience Manager Sites]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/130) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/130) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 Vous devez disposer des éléments suivants :
 
 * Au moins 3 ans d’expérience en tant qu’architecte dans la création d’AEM Sites
-* Fonctionnalité dans Adobe Managed Services et Adobe [!DNL Experience Manager as a Cloud Service]
-* La possibilité de configurer l’Adobe [!DNL Experience Manager] environnements et infrastructure
+* Possibilité de travailler dans Adobe Managed Services et Adobe [!DNL Experience Manager as a Cloud Service]
+* La possibilité de configurer des environnements et une infrastructure d’Adobe [!DNL Experience Manager]
 
 En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes :
 
@@ -64,7 +64,7 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 * Définition d’un modèle de contenu pour le contenu/les ressources pouvant répondre à des besoins futurs
 * Définit les modèles et composants nécessaires en fonction des besoins de l’entreprise.
 * Déterminer à quel moment utiliser les composants principaux/de fonctionnalités par rapport aux composants personnalisés
-* Concevoir la mise en cache, l’équilibrage de charge et les stratégies de sécurité (Dispatcher, pare-feu, CDN)
+* Concevoir des stratégies de mise en cache, d’équilibrage de charge et de sécurité (Dispatcher, pare-feu, CDN)
 * Fournir des estimations générales de l’effort pour la configuration initiale et la diffusion des fonctionnalités
 * Définition de la fonction et des cas pratiques d’internationalisation
 * Définition de stratégies pour la prise en charge de sites multiples et de langues multiples
@@ -93,7 +93,7 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 * Dans un scénario, évaluez l’état actuel d’une architecture.
 * Déterminer les exigences techniques non fonctionnelles pour la conception de solution
 
-**Section 2 : Conception de la solution (44 %)**
+**Section 2 : Conception de solution (44 %)**
 
 * En fonction des besoins de l’entreprise, concevez une architecture détaillée et une solution
 * Dans un scénario, déterminez les solutions de sécurité appropriées pour une conception.
@@ -102,14 +102,14 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 * appliquer des concepts de procédure pour concevoir une architecture évolutive et résiliente ;
 * Dans un scénario, recommander des stratégies de migration
 
-**Section 3 : Mise en oeuvre (22 %)**
+**Section 3 : mise en oeuvre (22 %)**
 
 * Dans un scénario donné, identifiez et résolvez les problèmes de conception affichés lors de l’étape de mise en oeuvre.
 * Dans un scénario, recommandez des méthodes d’implémentation basées sur les exigences.
 * Déterminer les méthodes appropriées à utiliser pour prototyper des solutions pour la démonstration des concepts
 * Dans un scénario, diagnostiquez et résolvez les problèmes rencontrés lors de la mise en oeuvre.
 
-**Section 4 : Maintenance (16 %)**
+**Section 4 : maintenance (16 %)**
 
 * Dans un scénario, diagnostiquez et résolvez les problèmes rencontrés dans l’environnement de production.
 * Appliquer les concepts de procédure aux plans d’utilisation des nouvelles fonctionnalités et des mises à niveau
@@ -139,11 +139,11 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -213,6 +213,6 @@ En outre, vous devriez avoir la possibilité d’effectuer les tâches suivantes
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

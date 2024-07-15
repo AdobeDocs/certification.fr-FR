@@ -1,6 +1,6 @@
 ---
 title: Certification d’experts professionnels
-description: Découvrez comment devenir un expert Adobe en métier avec [!DNL Campaign Classic].
+description: Découvrez comment devenir un expert en pratique des affaires Adobe certifié avec  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Classic] Expert spécialiste des affaires
+# Parcours de certification pour l’Adobe [!DNL Campaign Classic] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/253) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/253) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* Au moins 2 ans d&#39;Adobe complet [!DNL Campaign Classic] expérience logicielle
+* Au moins 2 ans d&#39;expérience logicielle étendue d&#39;Adobe [!DNL Campaign Classic]
 * Expérience pluriannuelle dans le développement de campagnes marketing et de tactiques à l’aide d’un omnicanal numérique
 * Expérience d’interprétation/de traduction des besoins métier en livrables Campaign exploitables
 * Expérience avec les mesures marketing telles que le retour sur investissement, les taux de clics publicitaires et les conversions
@@ -69,7 +69,7 @@ Vous devez disposer des éléments suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Gestion de campagne (20%)**
+**Section 1 : Gestion de campagne (20 %)**
 
 * Appliquer les bonnes pratiques pour créer une campagne
 * Dans un scénario, déterminez le modèle d’opération approprié.
@@ -94,13 +94,13 @@ Vous devez disposer des éléments suivants :
 * Appliquer les étapes de paramétrage d&#39;un filtre prédéfini
 * En fonction des besoins de l’entreprise, identifiez le formulaire de saisie approprié.
 
-**Section 4 : Gestion des diffusions (14%)**
+**Section 4 : Gestion des diffusions (14 %)**
 
 * appliquer les étapes de création/configuration des diffusions ;
 * Dans un scénario, sélectionnez et configurez l’audience de BAT appropriée pour les validations.
 * Analyser et interpréter les audits des diffusions
 
-**Section 5 : Rapports (12 %)**
+**Section 5 : Création de rapports (12 %)**
 
 * Dans un scénario, déterminez le ou les rapports à générer.
 * Interprétation des rapports natifs
@@ -128,15 +128,15 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -195,6 +195,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

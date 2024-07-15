@@ -1,6 +1,6 @@
 ---
 title: Certification des Principal architectes
-description: Découvrez comment devenir un Principal architecte Adobe certifié dans [!DNL Campaign Classic].
+description: Découvrez comment devenir un Principal architecte Adobe certifié dans  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Classic] Principal architecte
+# Parcours de certification pour le Principal Architecte de l&#39;Adobe [!DNL Campaign Classic]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/254) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/254) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Audience prévue {#intended-audience}
 
-* Responsable technique avec Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Développeur
-* Adobe [!DNL Campaign Classic] développeur ou rôle similaire
+* Responsable technique avec arrière-plan [!DNL Campaign Classic] Adobe
+* Adobe Certified Expert - [!DNL Campaign Classic] Developer
+* Développeur d&#39;Adobe [!DNL Campaign Classic] ou rôle similaire
 * Architecte de solution Martech
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* Experience avec plusieurs Adobes [!DNL Campaign Classic] implémentations
+* Expérience avec plusieurs implémentations [!DNL Campaign Classic] d&#39;Adobes
 * Présentation du fonctionnement d’Adobe Campaign en tant que solution de marketing numérique et de sa mise en oeuvre en fonction des exigences du projet
 * La possibilité de créer un document de conception fonctionnelle
 * La possibilité de créer une portée fonctionnelle pour une installation Adobe Campaign
@@ -79,7 +79,7 @@ Vous devez disposer des éléments suivants :
 
 * En fonction des besoins spécifiques de l’entreprise, déterminez les informations relatives à la conception de solution.
 * Selon un scénario, fournissez des recommandations en termes de performances, d’infrastructure et de configuration.
-* Analyser [!DNL Campaign Classic] configurations pour conseiller les améliorations
+* Analyser les configurations [!DNL Campaign Classic] pour conseiller les améliorations
 * Déterminer les besoins de l’entreprise pour concevoir une solution de marketing numérique
 * Dans un scénario, indiquez la méthode de déploiement de produit appropriée.
 
@@ -89,10 +89,10 @@ Vous devez disposer des éléments suivants :
 * Dans un scénario, déterminez la conception de solution requise pour se conformer aux lois et aux réglementations.
 * Dans un scénario, déterminez la conception optimale du workflow technique.
 
-**Section 3 : Installation et gestion (16%)**
+**Section 3 : installation et gestion (16 %)**
 
 * Compte tenu d’un ensemble de modules clés, validez la configuration de la configuration du module
-* Dans un scénario, recommandez des solutions d’intégration pour activer les intégrations natives et tierces avec Adobe. [!DNL Campaign Classic]
+* Dans un scénario, recommandez des solutions d’intégration pour activer les intégrations natives et tierces avec Adobe [!DNL Campaign Classic].
 * Dans un scénario, déterminez les méthodes de diagnostic
 * Définition des paramètres d’intégration et de l’approche pour les intégrations d’applications Adobe et non Adobe
 * Dans un scénario, donnez des conseils sur l’infrastructure matérielle appropriée nécessaire lors de la conception de la solution.
@@ -135,11 +135,11 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -198,7 +198,7 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

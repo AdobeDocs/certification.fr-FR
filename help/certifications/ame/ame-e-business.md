@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Marketo Engage] Expert spécialiste des affaires
+# Parcours de certification pour l’Adobe [!DNL Marketo Engage] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/144) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/144) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -61,16 +61,16 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-* Environ 18 mois d’expérience avec Adobe [!DNL Marketo Engage] fonctionnalités nécessaires pour créer des campagnes marketing et utiliser les données de comportement client
+* Environ 18 mois d’expérience avec les fonctionnalités et fonctionnalités d’ [!DNL Marketo Engage] d’Adobe nécessaires pour créer des campagnes marketing et utiliser les données de comportement client
 
 Vous devez être un spécialiste du marketing avec une expérience dans :
 
 * Créer, lancer et analyser des campagnes
-* Utilisation du comportement et des technologies d&#39;email sous-jacents, notamment le HTML, les intégrations, les bases de données et la gestion de la relation client
+* Utilisation du comportement et des technologies d’email sous-jacents, notamment l’HTML, les intégrations, les bases de données et la gestion de la relation client
 
 En outre, vous devez connaître les outils et technologies suivants :
 
-* Adobe [!DNL Marketo Engage]
+* Adobe [!DNL Marketo Engage]
 * Format de fichier Excel et CSV
 * Concepts d’API
 * Concepts de base de la gestion de la relation client
@@ -103,14 +103,14 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Exemples d’utilisation de différents types de jetons
 * Résumer l’utilité des webhooks dans Marketo et leur utilisation
 * Identifier et appliquer l&#39;utilisation appropriée du PMCF
-* Explication des avantages des ressources globales et de leur utilisation
+* Explication des avantages de Global Assets et de la manière de les utiliser
 * Démonstration des fonctionnalités des formulaires
 * Exécution et analyse d’une stratégie de test A/B
 * Identifier l’endroit où un programme ou une ressource a été référencé avec &quot;Utilisé par&quot;
 * Dépannage des limites de communication
 * Utiliser les informations du fournisseur de webinaires dans un programme d’événement
 
-**Section 3 : Gestion des leads (12 %)**
+**Section 3 : Gestion des pistes (12 %)**
 
 * Décrire les points de décision clés lors de la définition du modèle de cycle de vie
 * appliquer les bonnes pratiques relatives à la notation des pistes ;
@@ -125,7 +125,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 * Identifier quelques éléments clés de la politique de conservation des données de Marketo relative aux listes dynamiques
 * Résumé du fonctionnement de la segmentation
 
-**Section 5 : Rapports (4 %)**
+**Section 5 : Création de rapports (4 %)**
 
 * En fonction du résultat d’une campagne, déterminez comment configurer un programme afin de générer les meilleurs rapports.
 * Selon un scénario, être en mesure d’étudier et d’attribuer le programme d’acquisition approprié
@@ -162,15 +162,15 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -240,7 +240,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

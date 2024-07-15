@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre Adobe [!DNL Document Cloud] certification avant son expiration.
+description: Découvrez comment renouveler votre certification d'Adobe [!DNL Document Cloud] avant qu'elle n'expire.
 solution: Document Cloud
 product: Document Cloud
 role: User
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Renouveler votre Adobe [!DNL Document Cloud] certification
+# Renouvelez votre certification d&#39;Adobe [!DNL Document Cloud]
 
 Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
 
@@ -26,7 +26,7 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 >[!IMPORTANT]
 >
->**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionneront **uniquement** après une **connexion réussie** à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
@@ -44,6 +44,6 @@ Il est important de noter que si votre certification expire, vous devrez reprend
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

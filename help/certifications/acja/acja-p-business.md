@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir un professionnel de l’Adobe certifié dans [!DNL Customer Journey Analytics]
+description: Découvrez comment devenir un Adobe professionnel certifié dans  [!DNL Customer Journey Analytics]
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Customer Journey Analytics] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/131) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/131) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’expérience en Adobe. [!DNL Customer Journey Analytics] et une compréhension fondamentale de son fonctionnement en association avec [!DNL Adobe Experience Platform]. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
+Le candidat minimum idéal est un analyste avec au moins 6 mois d’expérience dans l’Adobe [!DNL Customer Journey Analytics] et une compréhension fondamentale de son fonctionnement avec [!DNL Adobe Experience Platform]. Le candidat peut utiliser les options de création de rapports et de visualisation appropriées pour effectuer une analyse de base et avancée en fonction des besoins de l’entreprise.
 
 <br>
 
@@ -75,7 +75,7 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 * Créer un sous-ensemble de données à l’aide de composants et de filtres appropriés
 * Créer des composants non-administrateurs pour répondre aux questions métier
 
-**Section 2 : Rapports (32 %)**
+**Section 2 : Création de rapports (32 %)**
 
 * Déterminer les visualisations ou les tableaux appropriés pour répondre aux questions de l’entreprise
 * Déterminer la vue de données à utiliser en fonction de sources de données, d’identités et de périodes
@@ -109,11 +109,11 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -128,7 +128,7 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 </span>
 </a>
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -187,6 +187,6 @@ Le candidat le moins qualifié idéal est un analyste ayant au moins 6 mois d’
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

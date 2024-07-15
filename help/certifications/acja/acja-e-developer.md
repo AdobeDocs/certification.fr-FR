@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Customer Journey Analytics] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Customer Journey Analytics] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/132) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/132) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journey Analytics]et être en mesure d’effectuer les tâches suivantes :
+Vous devez avoir entre 12 et 24 mois d’expérience dans l’Adobe [!DNL Customer Journey Analytics] et être en mesure d’effectuer les tâches suivantes :
 
 * Lecture et compréhension du schéma XDM (classes)
 * Faire la démonstration d’une familiarité avec l’interface de Platform
@@ -66,7 +66,7 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 * Configurer des connexions avec des identités principales (ID de personne)
 * Configuration de connexions avec plusieurs jeux de données
 * Configurer une vue de données (configuration de mesure/dimension)
-* Configurer Adobe [!DNL Customer Journey Analytics]
+* Configurer l&#39;Adobe [!DNL Customer Journey Analytics]
 * Transformer les données au sein des dimensions et des mesures
 * Analyse des bases de Workspace (visualisations, paramètres d’attribution, filtres, mesures calculées)
 * Présentation de la gouvernance des données dans CJA (DULE)
@@ -97,7 +97,7 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 * Création ou dépannage des composants
 * Surveillez l’utilisation de pour obtenir une licence
 
-**Section 4 : Reporting et activation (14 %)**
+**Section 4 : Création de rapports et activation (14 %)**
 
 * Utilisation d’Analysis Workspace pour démontrer des parcours client cross-canal avec des visualisations appropriées
 * Envoi des membres d’un filtre CJA à une audience RTCDP
@@ -119,15 +119,15 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -186,6 +186,6 @@ Vous devriez avoir 12 à 24 mois d’expérience dans Adobe [!DNL Customer Journ
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

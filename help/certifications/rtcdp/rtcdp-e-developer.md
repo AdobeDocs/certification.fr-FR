@@ -10,17 +10,17 @@ exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Real-Time Customer Data Platform] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Real-Time Customer Data Platform] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/246) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/246) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 * Score de transmission : 45/68
 * Durée : 136 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langue : anglais
+* Langue : française
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E605
 
@@ -89,9 +89,9 @@ Vous devez être à l’aise dans ces environnements :
 
 {{exam-objectives}}
 
-**Architecture des données (19 %)**
+**Architecture de données (19 %)**
 
-* Selon un scénario, traduire le SGBDR en Adobe [!DNL RT-CDP]s, modèle de données NoSQL
+* Selon un scénario, traduisez RDBMS en modèle de données NoSQL d&#39;Adobe [!DNL RT-CDP].
 * Démonstration des bonnes pratiques pour la modélisation du profil client en temps réel
 * Concevoir la stratégie d’identité et les relations pour la modélisation
 
@@ -122,7 +122,7 @@ Vous devez être à l’aise dans ces environnements :
 
 **Gouvernance (9 %)**
 
-* Appliquer les bonnes pratiques de gouvernance dans l’Adobe [!DNL RT-CDP] implémentation
+* Appliquer les bonnes pratiques de gouvernance dans l&#39;implémentation de l&#39;Adobe [!DNL RT-CDP]
 * Décrire comment gérer les données sur les différents services
 
 **Administration (15 %)**
@@ -130,7 +130,7 @@ Vous devez être à l’aise dans ces environnements :
 * Présentation des fonctionnalités de surveillance
 * Description des alertes
 * Décrire les différentes utilisations des licences
-* Décrire les cas d’utilisation pour l’activation d’ABAC dans Adobe [!DNL RT-CDP]
+* Description des cas d’utilisation pour l’activation d’ABAC dans Adobe [!DNL RT-CDP]
 
 <br>
 
@@ -148,15 +148,15 @@ Vous devez être à l’aise dans ces environnements :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -215,6 +215,6 @@ Vous devez être à l’aise dans ces environnements :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

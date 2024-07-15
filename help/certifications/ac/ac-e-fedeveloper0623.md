@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Commerce] Expert du développeur front-end
+# Parcours de certification pour [!DNL Adobe Commerce] expert du développeur front-end
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/139) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/139) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -56,7 +56,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 * [!DNL Adobe Commerce] - version 2.4.6
 * Présentation de base de la structure et de la disposition frontales
-* Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et IU, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, connaissance de la base de données et gestion de contenu
+* Expérience et compréhension des composants HTML, CSS (et préprocesseurs), LESS, JavaScript et UI, jQuery, Underscore, Require.JS, Knockout, ainsi que des modèles PHP, des connaissances de base de données et de la gestion de contenu.
 * Familiarité avec la plateforme, les blocs CMS, les widgets, les pages CMS, les pages Catégorie, les pages de produits, le panier et le passage en caisse et la zone Tableau de bord du compte.
 * Compréhension ou connaissance de base des configurations d’administrateur
 * Connaissance de l’extension et du remplacement des styles, des mises en page et des fichiers JS
@@ -86,7 +86,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Démontrer la possibilité d’appliquer des traductions
 * Compte tenu d’un ensemble de cas d’utilisation, déterminez à quel moment placer des fichiers dans l’application/le code ou l’application/la conception
 
-**Section 2 : Mise en page XML et modèles (modèles phtml) (22 %)**
+**Section 2 : mise en page XML et modèles (modèles phtml) (22 %)**
 
 * Démontrer la possibilité d’utiliser des instructions XML de mise en page
 * Démontrer la possibilité de créer de nouvelles mises en page
@@ -108,7 +108,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 **Section 4 : JavaScript (widgets d’image, bibliothèque d’images, module de données client, modèles de masquage) (22 %)**
 
-* Démontrer la possibilité d’initialiser et d’appeler des composants JavaScript ;
+* Démontrer la possibilité d’initialiser et d’appeler des composants JavaScript
 * Cas d’utilisation distincts pour différents composants JavaScript
 * Démonstration de l’utilisation de RequireJS
 * Démontrez la possibilité de mettre en oeuvre différents types de mixins
@@ -125,7 +125,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Personnalisation des emails transactionnels
 * Démontrez l’utilisation des outils de développement d’administration
 
-**Section 6 : Outils (interface en ligne de commande et grille) (10 %)**
+**Section 6 : Outils (interface en ligne de commande et nombre) (10 %)**
 
 * Montrer l’utilisation des commandes bin/Magento de base
 * Décrire l’utilisation des commandes du compositeur (installation, mise à jour, nécessité, suppression)
@@ -157,15 +157,15 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -224,6 +224,6 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

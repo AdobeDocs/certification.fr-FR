@@ -4,7 +4,7 @@ description: Présentation des options de certification pour les utilisateurs de
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 21%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 44%
 
 **Analytics**
 
-* [Architecte](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [Architect](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
 **Audience Manager**
 
-* [Architecte](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [Architect](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 **Campaign Classic**
 
@@ -25,22 +25,21 @@ ht-degree: 44%
 
 **Commerce**
 
-* [Architecte](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
 **Experience Manager**
 
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-**Marketo Engage**
+**Marketo Engage**
 
-* [Architecte](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
+* [Architect](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
 **Target**
 
-* [Architecte](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Architect](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 >[!MORELIKETHIS]
 >
->* [Certificats techniques experts](expert.md)
->* [Certificats techniques professionnels](professional.md)
-
+>* [ certifications techniques expertes](expert.md)
+>* [ certifications techniques professionnelles ](professional.md)

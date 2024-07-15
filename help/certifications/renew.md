@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Pour maintenir votre certification d&#39;Adobe, vous devez la renouveler tous les 2 ans. Si vous ne renouvellez pas votre certification avant qu’elle n’expire, vous devrez à nouveau passer l’examen de certification complet pour être récertifié.
 
-Affichez vos certifications actuelles et expirées sous le **Certifications** , dans le [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Affichez vos certifications actuelles et expirées sous l’onglet **Certifications**, dans le [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Comment renouveler ma certification ?
 
@@ -34,7 +34,7 @@ Adobe propose diverses ressources et outils pour vous aider à renouveler votre 
 
 ## Combien cela coûte-t-il ?
 
-La plupart des certifications peuvent être renouvelées **gratuit**. Certaines certifications ne disposent pas encore d’une option de renouvellement gratuite. Pour renouveler ces certifications, vous devrez passer à nouveau l’examen de certification complet.
+La plupart des certifications peuvent être renouvelées **gratuitement**. Certaines certifications ne disposent pas encore d’une option de renouvellement gratuite. Pour renouveler ces certifications, vous devrez passer à nouveau l’examen de certification complet.
 
 ## Options de renouvellement gratuit
 
@@ -57,6 +57,6 @@ Les certifications trouvées sous les liens ci-dessous peuvent être renouvelée
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

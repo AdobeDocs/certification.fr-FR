@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des professionnels de l’entreprise
-description: Découvrez comment devenir certifié en tant qu’Adobe [!DNL Advertising Search] Professionnel de l’entreprise.
+description: Découvrez comment obtenir une certification en tant qu'Adobe  [!DNL Advertising Search] Professionnel du métier.
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
@@ -11,11 +11,11 @@ exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Advertising Search] Professionnel professionnel
+# Parcours de certification pour [!DNL Adobe Advertising Search] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -50,8 +50,8 @@ ht-degree: 1%
 Vous devez disposer des éléments suivants :
 
 * Expérience en tant que chef de programme avec 12 à 24 mois de performances de recherche payante
-* Au moins 3 à 6 mois de [!DNL Advertising Search] Expérience Platform
-* Expérience en cours d’utilisation [!DNL Advertising Search] et connaissent l&#39;automatisation des offres de recherche payante, la gestion des campagnes,
+* Au moins 3 à 6 mois d’expérience [!DNL Advertising Search] sur Platform
+* Expérience en fonctionnement dans [!DNL Advertising Search] et connaît l’automatisation des offres de recherche payante, la gestion des campagnes,
 * Une compréhension de la théorie des Portfolios
 
 Vous devez également avoir l’expérience de l’utilisation des fonctions suivantes :
@@ -92,13 +92,13 @@ Vous devez également avoir l’expérience de l’utilisation des fonctions sui
 * Selon un scénario, évaluez les performances de Portfolio et résolvez les problèmes
 * Dans un scénario, déterminez comment ajuster en permanence les paramètres du Portfolio
 
-**Section 2 : Rapports, informations et outils (14 %)**
+**Section 2 : rapports, informations et outils (14 %)**
 
 * appliquer des concepts de procédure pour créer et planifier des rapports en fonction des besoins de l’entreprise ;
 * Déterminer l’affectation optimale du budget à l’aide des outils d’IA de Platform disponibles sur plusieurs Portfolios et appliquer si nécessaire
 * Compte tenu d’un cas d’utilisation, créez et définissez des simulations personnalisées pour l’analyse de Portfolio et la prévision.
 
-**Section 3 : Administration de campagnes (22%)**
+**Section 3 : Administration de campagnes (22 %)**
 
 * Configuration de comptes
 * Créer, gérer et organiser tous les aspects des campagnes
@@ -114,7 +114,7 @@ Vous devez également avoir l’expérience de l’utilisation des fonctions sui
 
 {{readiness}}
 
-[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+[Répondez au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
 
 <br>
 
@@ -132,44 +132,44 @@ Vous devez également avoir l’expérience de l’utilisation des fonctions sui
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
 **Section 1 : Portfolios et optimisations**
 
-* [Présentation de l’Adobe [!DNL Analytics] pour Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [Présentation de [!DNL Analytics] pour [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=fr){target="_blank"}
+* [Introduction à l’Adobe [!DNL Analytics] pour l’Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [Présentation de [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [Optimisation des performances](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
-* [Présentation des indicateurs de performance clés dans Analytics amélioré](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [Comprendre les indicateurs de performance clés dans Analytics amélioré](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Ajout d’une contrainte à un filtre de liste dynamique](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
-* [Objectifs d’optimisation et utilisation](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
+* [Objectifs d’optimisation et comment les utiliser](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
-**Section 2 : Rapports, informations et outils**
+**Section 2 : rapports, informations et outils**
 
-* [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=fr){target="_blank"}
-* [Prise en main d’ [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide des outils](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Prise en main de [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Créer [!DNL Analytics] Profils d’Adobe [!DNL Advertising] Activation et création de rapports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
-* [Rapport sur [!DNL Advertising] données dans Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
+* [Créer [!DNL Analytics] Profils pour l’Adobe [!DNL Advertising] Activation et création de rapports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Rapport sur [!DNL Advertising] données en Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [Traitement de la période de rapport](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
-* [Adobe [!DNL Analytics] Créateur de Fiche d’évaluation des tableaux de bord](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Analytics] Créateur de Fiche d’évaluation de tableaux de bord](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
 
-**Section 3 : Administration de campagnes**
+**Section 3 : administration de Campaign**
 
-* [Prise en main d’ [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
-* [Découvrez ce qui fait fonctionner la bibliothèque](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
-* [Optimisation du marketing de recherche](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [Affichage de l’ensemble du parcours client sur un seul écran](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [Présentation des campagnes dynamiques par lots et par déclenchement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [Prise en main de [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [Voir ce qui le fait fonctionner](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
+* [Améliorez votre marketing de recherche](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
+* [Voir l’ensemble du parcours client sur un seul écran](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [Comprendre les campagnes dynamiques par lots et par déclenchement](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **Section 4 : Mesure**
 
-* [Créer [!DNL Analytics] Mesures personnalisées avec Adobe [!DNL Advertising] Données](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
+* [Créer [!DNL Analytics]  des mesures personnalisées avec Adobe [!DNL Advertising] Données](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [Grilles, guides et mesures en PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution et mesure](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
-* [Documentation d’aide de Marketo Measure](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [Variables de conversion (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=fr){target="_blank"}
+* [Documentation de l’aide de Marketo Measure](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
+* [Variables de conversion (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 +++
 
@@ -224,7 +224,7 @@ Vous devez également avoir l’expérience de l’utilisation des fonctions sui
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des fondations techniques
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel.
+description: Découvrez comment devenir un Adobe  [!DNL Experience Manager] professionnel certifié.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager] Professionnel des fondations techniques
+# Parcours de certification pour Adobe [!DNL Experience Manager] Technical Foundations Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :**  La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/124) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/124) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
->_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -80,7 +80,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Création de contenu (33 %)**
+**Section 1 : création de contenu (33 %)**
 
 * Gestion des pages de contenu
 * Réplication du contenu
@@ -91,7 +91,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Appliquer des concepts de procédure pour traduire du contenu
 * Utilisation de plusieurs sites et de Live Copies
 
-**Section 2 : Mise en oeuvre (42 %)**
+**Section 2 : mise en oeuvre (42 %)**
 
 * appliquer des concepts de procédure pour créer des composants ;
 * Créer des modèles modifiables
@@ -102,13 +102,13 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Étendre les composants principaux
 * Modélisation de contenu de structure
 
-**Section 3 : Configuration et déploiement (13 %)**
+**Section 3 : installation et déploiement (13 %)**
 
 * Installation des lots
 * Déploiement de packages
 * Installation des instances AEM
 
-**Section 4 : Maintenance et administration des utilisateurs (12 %)**
+**Section 4 : maintenance et administration des utilisateurs (12 %)**
 
 * Gestion de l’accès des utilisateurs
 * Modification des configurations OSGI
@@ -130,7 +130,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -140,7 +140,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 [Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -200,7 +200,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

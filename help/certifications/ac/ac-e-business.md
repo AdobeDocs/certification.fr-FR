@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Commerce] Expert spécialiste des affaires
+# Parcours de certification pour [!DNL Adobe Commerce] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/140) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/140) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez avoir entre 1 et 3 ans d&#39;activité [!DNL Commerce] expérience et une compréhension large de l’expérience du commerce électronique.
+Vous devriez avoir entre 1 et 3 ans d’expérience pratique [!DNL Commerce] et une compréhension large de l’expérience du commerce électronique.
 
 Vous devez avoir de l’expérience dans :
 
@@ -80,17 +80,17 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 {{exam-objectives}}
 
-**Section 1 : Fonctionnalités principales/configuration générale (46 %)**
+**Section 1 : principales fonctionnalités/configuration générale (46 %)**
 
-* Identifier les fonctionnalités d’Adobe [!DNL Commerce] Open Source Edition et [!DNL Commerce] Edition
-* Distinguer les différences entre toutes les éditions de l’Adobe [!DNL Commerce] products
+* Identifiez les fonctionnalités d&#39;Adobe [!DNL Commerce] Open Source Edition et [!DNL Commerce] Edition
+* Distinguer les différences entre toutes les éditions des produits d&#39;Adobe [!DNL Commerce]
 * Déterminer comment utiliser les types de produits et leurs fonctionnalités pour répondre aux besoins des clients
 * Interpréter les exigences et les maquettes afin de déterminer si elles peuvent être satisfaites avec des fonctionnalités natives
 * Faire la démonstration de la connaissance du panneau d’administration et de l’emplacement des fonctionnalités communes
-* Montrer la capacité d’importer/exporter un Adobe [!DNL Commerce] entities
+* Démontrer la capacité d&#39;importer/exporter des entités d&#39;Adobe [!DNL Commerce]
 * Comprendre comment configurer le panier et le passage en caisse de manière native
-* Évaluation des méthodes d’expédition natives disponibles dans Adobe [!DNL Commerce] et leur application aux cas d’utilisation courants
-* Comprendre comment créer et publier du contenu stylisé à l’aide de l’Adobe [!DNL Commerce] Fonctionnalités CMS, notamment le générateur de page
+* Évaluer les méthodes de livraison natives disponibles dans l&#39;Adobe [!DNL Commerce] et comment elles s&#39;appliquent aux cas d&#39;utilisation courants
+* Découvrez comment créer et publier du contenu stylisé à l’aide des fonctions CMS d’Adobe [!DNL Commerce], y compris le créateur de pages
 * Utilisation d’outils natifs pour gérer le cycle de vie des commandes
 * Démontrez la possibilité de configurer les différentes options de cadeau (cartes-cadeaux, emballage cadeau, envoi de messages).
 * Configuration et modification des emails transactionnels
@@ -102,7 +102,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Démontrer la capacité à gérer les catégories et les produits
 * Comprendre les différentes configurations de tarification et leur impact sur le prix final
 
-**Section 3 : Marketing numérique (4 %)**
+**Section 3 : Digital Marketing (4 %)**
 
 * Bonnes pratiques recommandées pour l’optimisation pour les moteurs de recherche à l’aide de fonctionnalités natives
 * Évaluation des mesures courantes en Google Analytics et BI
@@ -111,24 +111,24 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 * Décrire la fonctionnalité B2B et comment elle se rapporte aux scénarios B2B communs
 * Appliquez les exigences de l’entreprise pour suggérer une solution à l’aide de MSI.
-* Expliquer les avantages et comment utiliser la BI pour l’Adobe [!DNL Commerce] solution
+* Expliquer les avantages et comment utiliser la solution BI pour l&#39;Adobe [!DNL Commerce]
 * Faire la distinction entre la recherche native et LiveSearch
 * Application des exigences commerciales pour déterminer comment appliquer des taxes, des droits et des exemptions dans un environnement B2B
 * Comprendre comment appliquer une tarification personnalisée à un client B2B
-* Comprendre les différences entre les Adobes [!DNL Commerce] recommandations de produits natifs et Adobe Sensei
+* Comprendre les différences entre les recommandations de produits natifs d’Adobe [!DNL Commerce] et les recommandations de produits Adobe Sensei
 
 **Section 5 : Architecture des systèmes (10 %)**
 
 * Évaluer les exigences afin de déterminer quels sites web, magasins et vues de magasin sont nécessaires
 * Identifier et analyser les mesures de performances afin d’apporter des améliorations
-* Comprendre les méthodes disponibles pour intégrer un système externe à Adobe [!DNL Commerce]
+* Comprendre les méthodes disponibles pour intégrer un système externe à l’Adobe [!DNL Commerce]
 * Différence entre les approches sans tête et les approches traditionnelles
 
 **Section 6 : Conformité/sécurité (12 %)**
 
-* Montrer comment sécuriser l’Adobe [!DNL Commerce] accès aux données avec rôles et autorisations
+* Démontrez comment sécuriser l&#39;accès aux données d&#39;Adobe [!DNL Commerce] avec des rôles et des autorisations
 * Comprendre les principes de base de la conformité aux lois sur la confidentialité et à la sécurité des paiements
-* Explication des aspects de sécurité communs d’un Adobe [!DNL Commerce] project
+* Expliquer les aspects de sécurité communs d&#39;un projet d&#39;Adobe [!DNL Commerce]
 * Comprendre les principes de base des lois fiscales et comment configurer
 
 <br>
@@ -155,15 +155,15 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -222,6 +222,6 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

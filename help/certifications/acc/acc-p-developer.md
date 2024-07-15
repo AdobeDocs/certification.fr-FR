@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des développeurs
-description: Découvrez comment devenir un professionnel Adobe Developer certifié dans [!DNL Campaign Classic].
+description: Découvrez comment devenir un professionnel Adobe Developer certifié dans  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Classic] Professionnel du développement
+# Parcours de certification pour l’Adobe [!DNL Campaign Classic] développeur professionnel
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/250) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/250) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* Au moins un an d&#39;Adobe [!DNL Campaign Classic] expérience logicielle
+* Au moins un an d&#39;expérience Adobe du logiciel [!DNL Campaign Classic]
 * Au moins une année d’expérience combinée dans la programmation JavaScript, le développement SQL y compris ETL et les technologies web (XML, HTML et services web)
 * Une compréhension de base de l’automatisation marketing
 * une compréhension des concepts de base de données relationnelle ;
@@ -75,7 +75,7 @@ Vous devez disposer des éléments suivants :
 * Identifier les paramètres de configuration des énumérations ouvertes et fermées
 * Différenciation des types de règles de typologie
 * Identifier les exigences pour utiliser une carte Target personnalisée et ses effets sur la fonctionnalité prête à l’emploi
-* Décrire l’accès en Adobe des audiences générées en externe à partir d’autres solutions Adobe Experience Cloud [!DNL Campaign Classic]
+* Décrivez comment les audiences générées en externe à partir d’autres solutions Adobe Experience Cloud sont accessibles dans Adobe [!DNL Campaign Classic]
 * Description du cas d’utilisation commercial pour les interactions et les offres
 * Décrire le cas d’utilisation commerciale de Message Center
 * Identification de la fonctionnalité d’importation des données de l’API V8
@@ -114,12 +114,12 @@ Vous devez disposer des éléments suivants :
 * Paramétrer les alertes et les validations
 * Identifier les types de bases de données de campagnes
 
-**Section 5 : Maintenance de l’instance (4 %)**
+**Section 5 : maintenance de l’instance (4 %)**
 
 * Identifier les erreurs à partir de différents journaux de service
 * Expliquer les lectures de la carte thermique des workflows
 
-**Section 6 : Configuration de Campaign (14 %)**
+**Section 6 : configuration de Campaign (14 %)**
 
 * Appliquez le processus pour créer des campagnes à l’aide de modèles de campagne.
 * Décrire le processus de création des validations
@@ -152,15 +152,15 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -219,6 +219,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

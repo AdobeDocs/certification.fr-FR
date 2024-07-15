@@ -1,6 +1,6 @@
 ---
 title: Certification Developer Expert
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Sites] Expert.
+description: Découvrez comment devenir un Adobe certifié  [!DNL Experience Manager Sites] Expert.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager] Expert du développeur de sites
+# Parcours de certification pour l’Adobe [!DNL Experience Manager] Développeur de sites Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/125) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/125) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -77,10 +77,10 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 1 : Configurations (22 %)**
 
-* Identifier les étapes de création et de gestion des configurations AEM Dispatcher
+* Identifier les étapes de création et de gestion des configurations Dispatcher AEM
 * Déterminer les étapes correctes pour configurer la multi-location
 * expliquer comment créer et gérer des configurations OSGi ;
-* Dans un scénario, déterminez la méthode appropriée pour créer et gérer des index Oak personnalisés.
+* Dans un scénario, déterminez la méthode appropriée pour créer et gérer des index Oak personnalisés
 * Déterminer les étapes appropriées pour configurer l’intégration SAML et LDAP prêtes à l’emploi
 
 **Section 2 : développement AEM (44 %)**
@@ -128,15 +128,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -206,6 +206,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] Présentation de la certification
+# Présentation de la certification d’Adobe [!DNL Journey Optimizer]
 
 **Professionnel**
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 * [Développeur](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.

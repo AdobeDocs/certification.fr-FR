@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/126) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/126) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -68,7 +68,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Interface de ligne de commande d’Adobe IO
 * Interface de ligne de commande Git
 * Outils de transition dans le cloud
-* Convertisseur du Dispatcher
+* Convertisseur Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
 * Environnement de développement
@@ -88,31 +88,31 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 2 : utiliser l’API Cloud Manager et Cloud Manager (20 %)**
 
-* Déterminer la méthode correcte pour gérer les paramètres des environnements Cloud Manager via l’interface utilisateur
+* Déterminer la méthode appropriée pour gérer les paramètres des environnements Cloud Manager via l’interface utilisateur
 * Déterminer la méthode correcte pour configurer des programmes et des environnements sur Cloud Manager
 * Déterminer la méthode appropriée pour la migration vers Adobe Experience Manager as a Cloud Service
 * Déterminer la méthode appropriée pour configurer des intégrations sur Adobe I/O
 
 **Section 3 : Configuration de l’infrastructure de proxy web (12 %)**
 
-* Déterminer la méthode correcte pour gérer les configurations du Dispatcher
+* Déterminer la méthode appropriée pour gérer les configurations Dispatcher
 * Dans un scénario, résoudre les problèmes de mise en cache
 
 **Section 4 : Build et déploiements (28 %)**
 
-* Déterminer la méthode appropriée pour gérer les déploiements de Cloud Manager
+* Déterminer la méthode appropriée pour gérer les déploiements Cloud Manager
 * Dans un scénario, analysez l’état d’un pipeline Cloud Manager.
 * Déterminer la méthode appropriée pour gérer les packages de contenu sur plusieurs instances Adobe Experience Manager
 * Déterminer la méthode appropriée pour apporter des modifications aux fichiers Maven afin de prendre en charge les pipelines
 
-**Section 5 : Surveillance des mesures de qualité et création de rapports (14 %)**
+**Section 5 : Surveillez les mesures de qualité et créez des rapports sur celles-ci (14 %)**
 
 * Déterminer la méthode correcte pour collecter des mesures de performances et des rapports
 * Déterminer la méthode appropriée pour dimensionner l’infrastructure
 
-**Section 6 : Fonctionnement du Admin Console (8 %)**
+**Section 6 : Fonctionnement de l’Admin Console (8 %)**
 
-* Déterminer la méthode appropriée pour envoyer une demande d’assistance dans le Admin Console
+* Déterminer la méthode appropriée pour envoyer une demande d’assistance dans l’Admin Console
 * Déterminez la méthode appropriée pour configurer l’authentification unique fédérée et synchroniser les utilisateurs et groupes Adobe Experience Manager
 
 ### Questionnaire de préparation
@@ -137,11 +137,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -211,6 +211,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

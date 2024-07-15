@@ -1,6 +1,6 @@
 ---
 title: Certification d’experts professionnels
-description: Découvrez comment devenir un expert professionnel certifié en [!DNL Experience Manager Sites].
+description: Découvrez comment devenir un expert en commerce certifié en [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Expert spécialiste des affaires
+# Parcours de certification pour l’Adobe [!DNL Experience Manager Sites] expert du métier
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/127) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/127) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -60,7 +60,7 @@ Vous devez disposer des éléments suivants :
 * Expérience avec les fonctionnalités AEM nécessaires pour impliquer les développeurs dans la recherche de solutions commerciales
 * La possibilité d’utiliser AEM produits pour gérer le contenu afin de générer des expériences numériques
 * Compréhension des modules présents
-* Un aperçu plus détaillé des modules tels que [!DNL Sites], [!DNL Assets], et [!DNL Forms]
+* Un aperçu plus détaillé des modules tels que [!DNL Sites], [!DNL Assets] et [!DNL Forms]
 
 En outre, vous devez connaître les technologies et environnements suivants :
 
@@ -75,9 +75,9 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * CRXDE Lite
 * Administration des utilisateurs
 * Gestion multisite
-* Outils de monitoring
+* Outils de surveillance
 * Contrôle de version
-* Personnalisation et ContextHub
+* Personalization et Context hub
 * Éditeur SPA
 * Balisage
 * Utilisation du navigateur
@@ -141,15 +141,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -219,6 +219,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

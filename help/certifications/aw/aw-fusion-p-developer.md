@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Workfront Fusion] Professionnel du développement
+# Parcours de certification pour l’Adobe [!DNL Workfront Fusion] développeur professionnel
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/228) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/228) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* La possibilité d’utiliser [!DNL Workfront] API et explorateur d’API, mais pas nécessairement performant dans les appels API
-* La possibilité d’utiliser des appels d’API personnalisés pour utiliser [!DNL Workfront] et autres API
-* La possibilité d’utiliser des modules pour la variable [!DNL Workfront] application et autres actions telles que créer, lire, mettre à jour, supprimer et rechercher
-* La capacité de créer des solutions viables qui produisent des résultats commerciaux sans nuire [!DNL Fusion] barrières de sécurité
+* La possibilité d’utiliser l’API [!DNL Workfront] et l’explorateur d’API, mais pas nécessairement performant dans les appels d’API
+* La possibilité d&#39;utiliser des appels d&#39;API personnalisés pour travailler avec [!DNL Workfront] et d&#39;autres API
+* La possibilité d’utiliser des modules pour l’application [!DNL Workfront] et d’autres actions telles que créer, lire, mettre à jour, supprimer et rechercher
+* La possibilité de créer des solutions viables qui produisent des résultats commerciaux sans toucher aux barrières de sécurité [!DNL Fusion]
 * la possibilité de sélectionner le module de déclenchement approprié pour obtenir des résultats commerciaux ;
 * Comprendre comment utiliser le contrôle de flux (itinéraires, itérateurs/agrégateurs, expliquer le flux)
 * Possibilité d’effectuer un dépannage et une gestion des erreurs de base
@@ -71,31 +71,31 @@ Vous devez disposer des éléments suivants :
 
 {{exam-objectives}}
 
-**Section 1 : Concepts techniques fondamentaux (39 %)**
+**Section 1 : Concepts techniques de base (39 %)**
 
-* Lors d’une [!DNL Fusion] , si un format de champ doit se trouver dans un autre format de champ, fournissez les fonctions pouvant être utilisées pour transformer correctement les données.
-* Lors d’une [!DNL Fusion] , qui nécessite l’imbrication d’une fonction dans une autre fonction, sélectionnez l’expression correctement formée
-* Identifier les moyens d’utiliser les équipes pour contrôler l’accès aux connexions et à d’autres [!DNL Fusion] features
-* Lors d’une [!DNL Fusion] , identifier les limites du système et des fonctionnalités
-* Lors d’une [!DNL Fusion] scénario qui nécessite une manipulation de fuseau horaire, une distinction entre l’utilisateur, l’organisation visible et le lieu où le remplacement du fuseau horaire est nécessaire
-* Lors d’une [!DNL Fusion] , sélectionnez la [!DNL Workfront] modules ou actions
-* Lors d’une [!DNL Fusion] , sélectionnez l’expression du panneau de mappage et/ou le ou les modules qui transformeraient correctement les données d’entrée en sortie.
-* Identifiez la ou les méthodes appropriées pour utiliser la variable [!DNL Fusion] Outil de développement pour résoudre les erreurs d’exécution ou déterminer les appels et réponses effectués sur des systèmes tiers
-* Lors d’une [!DNL Fusion] scénario où les données d’un chemin sont nécessaires dans un autre chemin, fournissez une solution set-get pour rendre ces données disponibles sur des chemins de routage supplémentaires.
-* Identifier les moyens d’utiliser ou de produire une [!DNL Fusion] modèle pour un besoin commercial
-* Lors d’une [!DNL Fusion] , identifier les actions à effectuer pour afficher les exécutions et/ou résoudre les erreurs
-* Identifiez les différentes options de la variable [!DNL Fusion] paramètres de scénario pour répondre aux besoins du scénario
-* Lors d’une [!DNL Fusion] , sélectionnez la commande de flux appropriée et/ou déterminez la combinaison correcte du ou des modules de contrôle de flux.
+* Dans le cas d’un scénario [!DNL Fusion] avec un format de champ qui doit être dans un autre format de champ, fournissez les fonctions possibles pouvant être utilisées pour transformer correctement les données.
+* Dans le cas d’un scénario [!DNL Fusion] qui nécessite l’imbrication d’une fonction dans une autre fonction, sélectionnez l’expression correctement formée
+* Identifier les moyens d&#39;utiliser les équipes pour contrôler l&#39;accès aux connexions et autres fonctionnalités [!DNL Fusion]
+* Dans un scénario [!DNL Fusion], identifiez les limites du système et des fonctionnalités.
+* Dans le cas d’un scénario [!DNL Fusion] nécessitant une manipulation de fuseau horaire, faites la distinction entre l’utilisateur, l’organisation visible et le lieu où le remplacement du fuseau horaire est nécessaire.
+* Dans le cas d’un scénario [!DNL Fusion], sélectionnez le ou les modules [!DNL Workfront] ou actions appropriés.
+* Dans le cas d’un scénario [!DNL Fusion], sélectionnez l’expression du panneau de mappage et/ou le ou les modules qui transformeraient correctement les données d’entrée pour générer les données.
+* Identifiez la ou les méthodes appropriées pour utiliser l’outil de développement [!DNL Fusion] afin de résoudre les erreurs d’exécution ou de déterminer les appels et les réponses aux systèmes tiers.
+* Dans le cas d’un scénario [!DNL Fusion] où les données d’un chemin sont nécessaires dans un autre chemin, fournissez une solution set-get pour rendre ces données disponibles sur d’autres chemins de routage.
+* Identifier les moyens d’utiliser ou de produire un modèle [!DNL Fusion] pour répondre aux besoins de l’entreprise
+* Dans un scénario [!DNL Fusion], identifiez ce que vous souhaitez faire pour afficher les exécutions et/ou résoudre les erreurs.
+* Identifiez les différentes options des paramètres du scénario [!DNL Fusion] pour répondre aux besoins du scénario.
+* Dans le cas d’un scénario [!DNL Fusion], sélectionnez la commande de flux appropriée et/ou déterminez la combinaison correcte du ou des modules de contrôle de flux.
 
-**Section 2 : Conception et architecture du scénario (35 %)**
+**Section 2 : conception et architecture du scénario (35 %)**
 
 * Si vous disposez d’une liste d’étapes, choisissez la séquence appropriée pour analyser JSON et convertir en lots.
 * Compte tenu d’un ensemble d’exigences, identifiez la méthode de recherche de données correcte.
 * Identifier les différences entre les déclencheurs instantanés et planifiés
-* Identifier un module correct pour charger un document vers [!DNL Workfront]
-* Compte tenu des besoins de l’entreprise, identifiez la méthode appropriée pour suivre les [!DNL Fusion] a traité un enregistrement (et non un utilisateur) et lorsque
-* Lors d’une [!DNL Fusion] , identifiez une opportunité de simplifier la conception et/ou d’optimiser pour la maintenance.
-* Identifier [!DNL Fusion] bonnes pratiques pour documenter des scénarios
+* Identifiez un module correct pour télécharger un document vers [!DNL Workfront].
+* Compte tenu des besoins de l’entreprise, identifiez l’approche correcte pour suivre le traitement d’un enregistrement par [!DNL Fusion] (et non un utilisateur) et quand
+* Dans un scénario [!DNL Fusion], identifiez une opportunité de simplifier la conception et/ou d’optimiser pour la maintenance.
+* Identifier [!DNL Fusion] bonnes pratiques pour documenter les scénarios
 * En cas de situation, identifiez une opportunité de réduire le flux de données dans un scénario.
 * Compte tenu d’un exemple du nombre de lots affichés sur un module de recherche et d’un agrégateur suivant, expliquez les modifications du nombre d’opérations traitées et affichées par l’Inspecteur de lot.
 * Identifier les informations trouvées dans l’Inspecteur de lot
@@ -106,15 +106,15 @@ Vous devez disposer des éléments suivants :
 
 * Identifier les éléments d’un plan de test
 * Identifier les éléments d’un cas de test
-* Lors d’une [!DNL Fusion] , identifiez correctement la directive appropriée pour gérer un service non fiable.
-* Identifiez le processus d’ajout de la gestion des erreurs personnalisée dans une [!DNL Fusion] scenario
+* Dans un scénario [!DNL Fusion], identifiez correctement la directive appropriée pour gérer un service non fiable.
+* Identifiez le processus pour ajouter la gestion des erreurs personnalisées dans un scénario [!DNL Fusion].
 * Identifier le suivi, la lecture et la résolution des exécutions incomplètes
-* Lors d’une [!DNL Fusion] , sélectionnez des méthodes de gestion des données non valides pour le scénario comportant des données requises manquantes.
+* Dans le cas d’un scénario [!DNL Fusion] avec des données requises manquantes, sélectionnez les méthodes pour gérer les données non valides.
 
 **Section 4 : Utilisation des API (10 %)**
 
 * Compte tenu d’une API tierce qui renvoie une erreur 429 : Trop de requêtes, identifiez une solution pour prévenir ou gérer l’erreur.
-* Lors d’une [!DNL Fusion] , où aucune nouvelle fonctionnalité n’est disponible dans [!DNL Workfront] , identifiez la référence et le type de module appropriés pour utiliser la nouvelle fonctionnalité.
+* Dans le cas d’un scénario [!DNL Fusion] où une nouvelle fonctionnalité n’est pas disponible dans le module [!DNL Workfront], identifiez la référence et le type de module corrects pour utiliser la nouvelle fonctionnalité.
 * Compte tenu d’un système tiers dépourvu d’application dédiée, identifiez l’application HTTP et sélectionnez le module approprié.
 * Identifier la différence entre les opérations CRUD et d’autres fonctionnalités communes des API REST
 
@@ -134,15 +134,15 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -201,6 +201,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

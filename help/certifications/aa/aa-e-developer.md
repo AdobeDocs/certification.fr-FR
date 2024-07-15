@@ -1,6 +1,6 @@
 ---
 title: Certification Developer Expert
-description: Découvrez comment devenir certifié en tant que [!DNL Adobe Analytics] Développeur expert.
+description: Découvrez comment devenir certifié  [!DNL Adobe Analytics] expert développeur.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Analytics] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Analytics] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/221) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/221) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez avoir une expérience en tant que consultant en mise en oeuvre dans un rôle hybride avec environ 2 ans d’expérience dans [!DNL Adobe Analytics] implémentation. Vous faites office de pont entre l’informatique et l’entreprise, traduisez les besoins de l’entreprise en une solution technique (SDR) et, en fonction des exigences fournies par l’analyste, déterminez le type de variable nécessaire, l’emplacement et la méthode de collecte des données, concevez le modèle de données (couche de données), configurez et conservez la solution de gestion des balises.
+Vous devriez avoir une expérience en tant que consultant en implémentation dans un rôle hybride avec environ 2 ans d’expérience dans l’implémentation de [!DNL Adobe Analytics]. Vous faites office de pont entre l’informatique et l’entreprise, traduisez les besoins de l’entreprise en une solution technique (SDR) et, en fonction des exigences fournies par l’analyste, déterminez le type de variable nécessaire, l’emplacement et la méthode de collecte des données, concevez le modèle de données (couche de données), configurez et conservez la solution de gestion des balises.
 
 En tant que développeur d’Analytics, vous implémentez rarement les balises sur la page ; elles sont implémentées par l’informatique ou l’intégrateur système.
 
@@ -60,15 +60,15 @@ Vous devez connaître les outils et environnements suivants :
 Outils :
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets tel que Adobe Debugger, outils de développement de navigateur, Charles)
-* [!DNL Adobe Analytics] Paramètres de la suite de rapports Admin Console
+* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets comme Adobe Debugger, outils de développement de navigateur, Charles)
+* [!DNL Adobe Analytics] paramètres de la suite de rapports Admin Console
 * Connaissances de base de Workspace
 * Outils de développement web, éditeur de code et outils de débogage mobile
 * Adobe Auditor
 * Règles de traitement
 * Règles de classification - règles de classification basées sur une expression régulière
 * Erreurs JavaScript
-* Compréhension de base des ressources disponibles [!DNL Adobe Analytics] API connexes
+* Présentation de base des API [!DNL Adobe Analytics] disponibles
 * Intégration des Adobes I/O
 
 Environnements :
@@ -76,7 +76,7 @@ Environnements :
 * Environnements de développement web front-end
 * Connaissance des applications mobiles (limitations et différences, par exemple, pourquoi elles sont différentes du web)
 * Le domaine du marketing numérique
-* Connaissance minimale des environnements de développement principal, y compris les systèmes d’exploitation PC, Mac, Android/iOS (opérations de base, pas de développement)
+* Maîtrise minimale des environnements de développement principal, y compris les systèmes d’exploitation PC, Mac, Android/iOS (opérations de base, et non développement)
 
 ### Objectifs et portée de l’examen {#exam-objectives}
 
@@ -90,23 +90,23 @@ Environnements :
 * Faire la démonstration de la compréhension d’Adobe Launch
 * Faire la démonstration de la compréhension des intégrations communes dans l’écosystème de Adobe Experience Cloud
 
-**Section 2 : Stratégie et conception basées sur une référence de conception de solution (DTS) (6 %)**
+**Section 2 : Stratégie et conception basées sur une référence de conception de solution (DTS) (6 %){1**
 
 * Interprétation d’une référence de conception de solution afin de développer un code efficace pour la capture de données
 * Utiliser les spécifications techniques pour renseigner les objets de données
 
 **Section 3 : Mise en oeuvre et configuration d’Analytics (36 %)**
 
-* Déterminer l’environnement à déployer [!DNL Adobe Analytics] Code
+* Déterminer quel environnement déployer le code [!DNL Adobe Analytics]
 * Exécution d’un code de déploiement minimal pour le suivi Analytics
-* Configuration de divers composants dans [!DNL Adobe Analytics] Interface utilisateur
-* Configurer [!DNL Adobe Analytics] paramètres de suite de rapports et de variable
+* Configuration de divers composants dans l’interface utilisateur de [!DNL Adobe Analytics]
+* Configuration des paramètres de variable et de suite de rapports [!DNL Adobe Analytics]
 * Utilisation d’une couche de données dans un déploiement
 * Exécution de fonctionnalités de suivi avancées telles que le suivi des liens et les chaînes de produits
 
 **Section 4 : Systèmes de gestion des balises (20 %)**
 
-* Énumération des conditions requises pour déployer Adobe Experience Platform Launch dans [!DNL Adobe Analytics]
+* Énumération des exigences pour déployer Adobe Experience Platform Launch dans [!DNL Adobe Analytics]
 * Application de processus pour configurer le balisage de site web avec Adobe Launch
 * Énumération des conditions requises pour activer les extensions et Adobe de Launch
 * Création de règles et d’éléments de données
@@ -119,9 +119,9 @@ Environnements :
 **Section 6 : Test, validation et dépannage (20 %)**
 
 * Dépannage des erreurs JavaScript
-* Résolution des problèmes [!DNL Adobe Analytics] variables
+* Dépannage des variables [!DNL Adobe Analytics]
 * Meilleures pratiques de test et de débogage recommandées
-* Dépannage d’une [!DNL Adobe Analytics] appel au serveur tout au long de son cycle de vie (c’est-à-dire, de la requête de balise à l’affichage dans le rapport)
+* Dépanner un appel au serveur [!DNL Adobe Analytics] tout au long de son cycle de vie (c’est-à-dire, de la demande de balise à l’affichage dans le rapport)
 
 <br>
 
@@ -147,11 +147,11 @@ Environnements :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -159,7 +159,7 @@ Environnements :
 
 <br>
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ Environnements :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

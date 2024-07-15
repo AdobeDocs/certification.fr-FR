@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle du développeur principal AEM Forms
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager Forms] expert développeur principal.
+description: Découvrez comment devenir un expert en développement d'Adobe certifié  [!DNL Experience Manager Forms] .
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager Forms] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Experience Manager Forms] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/128) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/128) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -96,7 +96,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Créer Forms
 * Configuration du modèle de données Forms
 * Personnalisation d’AEM Forms
-* Développer et utiliser l’API GuideBridge de l’utilisation de la bibliothèque cliente JavaScript
+* Développer et utiliser l’API GuideBridge de la bibliothèque cliente JavaScript
 
 **Section 2 : Traitements et workflows (34 %)**
 
@@ -112,10 +112,10 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Dépannage et différenciation des fichiers journaux
 * Exécution des activités d’administration
 * Application de Service Packs
-* Exécution de la configuration AEM Dispatcher pour Forms
+* Exécution de la configuration Dispatcher AEM pour Forms
 * Navigation dans différentes consoles
 
-**Section 4 : points de terminaison et intégrations de l’API (8 %)**
+**Section 4 : points de terminaison et intégrations API (8 %)**
 
 * Intégration à Adobe Experience Cloud
 * Générer et utiliser divers services de point de terminaison
@@ -148,15 +148,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -215,6 +215,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

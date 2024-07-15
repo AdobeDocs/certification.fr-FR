@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir certifié [!DNL Experience Platform] Professionnel dans [!DNL Real-Time Customer Data Platform]
+description: Découvrez comment devenir certifié [!DNL Experience Platform] Professional dans [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Real-Time CDP] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Real-Time CDP] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’un rafraîchissement, prenez notre [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez notre [cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) pour accéder aux explications sur les concepts clés, les présentations de produits et les vérifications de connaissances. Ce cours fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/133) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/133) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -107,7 +107,7 @@ Expérience avec des tâches qui incluent :
 
 **Section 4 : Schémas et profils (18 %)**
 
-* Montrer une compréhension de l’Adobe [!DNL Experience Platform] concepts
+* Montrer une compréhension des concepts d&#39;Adobe [!DNL Experience Platform]
 * Utilisation des fonctionnalités de profil
 
 <br>
@@ -126,7 +126,7 @@ Expérience avec des tâches qui incluent :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -141,11 +141,11 @@ Expérience avec des tâches qui incluent :
 </span>
 </a>
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -205,6 +205,6 @@ Expérience avec des tâches qui incluent :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

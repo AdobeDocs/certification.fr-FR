@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager Forms] Professionnel du développeur principal
+# Parcours de certification pour le développeur principal d’Adobe [!DNL Experience Manager Forms]
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/123) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/123) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
->_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -75,7 +75,7 @@ Vous devez connaître les technologies et environnements suivants :
 * Interface de ligne de commande d’Adobe IO
 * Interface de ligne de commande Git
 * Outils de transition dans le cloud
-* Convertisseur du Dispatcher
+* Convertisseur Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
 * Environnement de développement
@@ -92,7 +92,7 @@ Vous devez connaître les technologies et environnements suivants :
 * Dans un scénario, identifiez les étapes nécessaires à la création d’AEM Forms.
 * Description du modèle de données Forms
 * Identification des étapes de personnalisation d’AEM Forms
-* Dans un scénario, identifiez les étapes d’utilisation de l’API GuideBridge de la bibliothèque cliente JavaScript.
+* Dans un scénario, identifiez les étapes à suivre pour utiliser l’API GuideBridge de la bibliothèque cliente JavaScript.
 
 **Section 2 : Traitements et workflows (34 %)**
 
@@ -108,10 +108,10 @@ Vous devez connaître les technologies et environnements suivants :
 * Identification des problèmes générés dans les fichiers journaux
 * Dans un scénario, identifiez les étapes d’exécution des activités d’administration.
 * Identification des fonctionnalités des Service Packs dans AEM Forms
-* Description des étapes de configuration AEM Dispatcher pour Forms
+* Description des étapes de la configuration d’Dispatcher AEM pour Forms
 * Description des étapes de navigation dans différentes consoles
 
-**Section 4 : Points de terminaison et intégrations de l’API (10 %)**
+**Section 4 : points de terminaison et intégrations API (10 %)**
 
 * Dans un scénario, décrivez le flux pour intégrer AEM formulaire à Adobe Experience Cloud.
 * Identifier les étapes de génération de différents services de point de terminaison
@@ -136,7 +136,7 @@ Vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -146,13 +146,13 @@ Vous devez connaître les technologies et environnements suivants :
 
 [Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
 [Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/123)
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -209,7 +209,7 @@ Vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

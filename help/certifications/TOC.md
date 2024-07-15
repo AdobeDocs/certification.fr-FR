@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certification Adobe
 breadcrumb-title: Certification Adobe
-user-guide-description: En savoir plus [!DNL Experience Cloud] Certification à l’Adobe. Découvrez ce que la certification peut vous apporter.
+user-guide-description: En savoir plus sur la  [!DNL Experience Cloud] certification à Adobe. Découvrez ce que la certification peut vous apporter.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 31%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 33%
 + [Renouveler votre certification](renew.md)
 + certifications techniques par solution {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [Présentation de la publicité](/help/certifications/aac/aac-overview.md)
+      + [Présentation d’Advertising](/help/certifications/aac/aac-overview.md)
       + Professionnel {#aac-professional}
          + [Professionnel (recherche)](/help/certifications/aac/aac-search-p-business.md)
          + [Professionnel (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
@@ -85,7 +85,7 @@ ht-degree: 33%
          + [Professionnel](/help/certifications/adc/adc-p-business.md)
       + [Renouvellement](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
-      + [Présentation du Experience Manager](/help/certifications/aem/aem-overview.md)
+      + [Présentation de l’Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professionnel {#aem-professional}
          + [Professionnel](/help/certifications/aem/aem-p-business.md)
          + [Développeur (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -137,7 +137,7 @@ ht-degree: 33%
       + [Présentation de Workfront](/help/certifications/aw/aw-overview.md)
       + Professionnel {#aw-professional}
          + [Développeur (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
-         + [Chef de projets](/help/certifications/aw/aw-p-project-manager.md)
+         + [Chef de projet](/help/certifications/aw/aw-p-project-manager.md)
          + [Développeur (Core)](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Expert {#aw-expert}
          + [Développeur (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)

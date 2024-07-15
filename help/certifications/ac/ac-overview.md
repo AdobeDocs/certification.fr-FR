@@ -3,11 +3,11 @@ title: Présentation de la certification Commerce
 description: Présentation des options de certification pour Adobe Commerce
 solution: Commerce
 product: Magento
-exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 29%
+ht-degree: 0%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 29%
 * [Développeur](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
 * [Développeur front-end](/help/certifications/ac/ac-e-fedeveloper0623.md) <!--AD0-E720-->
 
-**Maître**
+**Principal**
 
-* [Architecte](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-Visitez le [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.

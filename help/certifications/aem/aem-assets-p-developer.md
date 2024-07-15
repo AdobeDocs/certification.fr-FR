@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir un Adobe certifié [!DNL Experience Manager] Professionnel.
+description: Découvrez comment devenir un Adobe  [!DNL Experience Manager] professionnel certifié.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager] Assets Developer Professional
+# Parcours de certification pour l’Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/120) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/120) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
->_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez être à l’aise avec Adobe Managed Services et Adobe [!DNL Experience Manager as a Cloud Service]et peuvent configurer Adobe [!DNL Experience Manager] les environnements et l’infrastructure.
+Vous devez être à l’aise avec Adobe Managed Services et Adobe [!DNL Experience Manager as a Cloud Service] et être en mesure de configurer les environnements et l’infrastructure d’Adobe [!DNL Experience Manager].
 
 Vous devez disposer des éléments suivants :
 
@@ -76,7 +76,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 * Interface de ligne de commande d’Adobe IO
 * Interface de ligne de commande Git
 * Outils de transition dans le cloud
-* Convertisseur du Dispatcher
+* Convertisseur Dispatcher
 * Repository modernzer
 * Évaluation et production de développement
 * Environnement de développement
@@ -88,7 +88,7 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 {{exam-objectives}}
 
-**Section 1 : Workflows des ressources (24 %)**
+**Section 1 : workflows de ressources (24 %)**
 
 * Expliquer le processus de personnalisation des workflows prêts à l’emploi
 * Déterminer quand créer ou personnaliser des workflows de ressources pour mettre en oeuvre les exigences des clients
@@ -96,10 +96,10 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 * Différenciation entre les workflows cloud et on-premise
 * Décrire comment utiliser la console Processus pour surveiller l’état et la progression
 
-**Section 2 : Organisation des ressources et console des ressources (22 %)**
+**Section 2 : organisation des ressources et console des ressources (22 %)**
 
-* Découvrez comment créer et organiser des ressources dans les collections
-* Découvrez comment organiser les ressources à l’aide de balises
+* Découvrez comment créer et organiser Assets dans les collections
+* Découvrez comment organiser Assets à l’aide de balises
 * Identifier comment tirer parti des filtres et facettes de recherche prêts à l’emploi
 * Décrire comment configurer et générer des rapports de ressources AEM
 * Description de la gestion des autorisations utilisateur sur les dossiers de ressources
@@ -153,11 +153,11 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 [Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -217,6 +217,6 @@ En outre, vous devez posséder de l’expérience avec les technologies et envir
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

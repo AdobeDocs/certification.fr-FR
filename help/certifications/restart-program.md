@@ -9,28 +9,28 @@ exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 hidefromtoc: true
 source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
-source-wordcount: '5347'
-ht-degree: 9%
+source-wordcount: '4542'
+ht-degree: 2%
 
 ---
 
 # Redémarrez votre parcours de certification en passant de expiré à certifié.
 
-Le programme de redémarrage des Adobes permet aux individus avec le statut expiré éligible. [!DNL Experience Cloud] certifications pour une nouvelle certification gratuite par le biais d’évaluations ou d’examens non traités et à la demande.
+Le programme de redémarrage des Adobes permet aux personnes possédant des certifications [!DNL Experience Cloud] expirées éligibles de recertifier gratuitement par le biais d&#39;évaluations ou d&#39;examens non traités et à la demande.
 
-La certification est une ressource précieuse pour les personnes qui souhaitent rester compétitives, et ce programme offre une opportunité de mettre à jour [!DNL Experience Cloud] des compétences et de garder une longueur d&#39;avance dans un paysage numérique qui change rapidement.
+La certification est une ressource précieuse pour les personnes qui souhaitent rester compétitives. Ce programme offre l’opportunité de mettre à jour leurs compétences [!DNL Experience Cloud] et de garder une longueur d’avance sur la courbe dans un paysage numérique en rapide évolution.
 
 >[!IMPORTANT]
 >
->**Ce programme à temps limité n’est proposé que du 24 avril 2023 au 20 octobre 2023.**
+>**Ce programme à temps limité n&#39;est proposé que du 24 avril 2023 au 20 octobre 2023.**
 
 ## Admissibilité
 
 Les personnes possédant des certifications expirées qui sont éligibles à ce programme doivent avoir reçu un courrier électronique du Programme de certification pour les Adobes avec l’objet &quot;Devenez un Adobe certifié à nouveau gratuitement&quot;.
 
-Si vous ne savez pas si vous êtes éligible, veuillez vérifier [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
+Si vous ne savez pas si vous êtes éligible, consultez [ici](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
-Pour être éligible, votre certification doit correspondre à **all** des critères suivants :
+Pour être éligible, votre certification doit répondre à **tous** des critères suivants :
 
 * Il doit avoir expiré entre le 1er janvier 2020 et le 23 avril 2023.
 * Il doit s’agir d’un expert ou d’un Principal.
@@ -43,8 +43,8 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 | ID d’export | Nom de l’export |
 | ------- | ------- |
-| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert spécialiste des affaires |
-| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert spécialiste des affaires |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert professionnel |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert professionnel |
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Développeur expert |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Développeur expert |
 | AD0-E106 | [!DNL Adobe Experience Manager] Expert ingénieur Dev/Ops |
@@ -56,7 +56,7 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 | ID d’export | Nom de l’export |
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Développeur expert |
-| AD0-E202 | [!DNL Adobe Analytics] Expert spécialiste des affaires |
+| AD0-E202 | [!DNL Adobe Analytics] Expert professionnel |
 | AD0-E200 | [!DNL Adobe Analytics] Principal architecte |
 | AD0-E207 | [!DNL Adobe Analytics] Principal architecte |
 
@@ -66,16 +66,16 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 | ------- | ------- |
 | AD0-E454 | [!DNL Adobe Audience Manager] Principal architecte |
 | AD0-E452 | [!DNL Adobe Audience Manager] Principal architecte |
-| AD0-E453 | [!DNL Adobe Audience Manager] Expert spécialiste des affaires |
+| AD0-E453 | [!DNL Adobe Audience Manager] Expert professionnel |
 
 **Adobe Campaign Classic**
 
 | ID d’export | Nom de l’export |
 | ------- | ------- |
-| AD0-E300 | Adobe [!DNL Campaign Classic] Expert des professionnels des sites |
-| AD0-E314 | Adobe [!DNL Campaign Classic] Expert des professionnels des sites |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Principal architecte |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Principal architecte |
+| AD0-E300 | Adobe [!DNL Campaign Classic] expert du métier des sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] expert du métier des sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Principal Architecte |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Principal Architecte |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Développeur expert |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Développeur expert |
 
@@ -83,8 +83,8 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 | ID d’export | Nom de l’export |
 | ------- | ------- |
-| AD0-E307 | Adobe [!DNL Campaign Standard] Expert spécialiste des affaires |
-| AD0-E302 | Adobe [!DNL Campaign Standard] Expert spécialiste des affaires |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Expert du praticien de l&#39;entreprise |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Expert du praticien de l&#39;entreprise |
 | AD0-E306 | Adobe [!DNL Campaign Standard] Développeur expert |
 | AD0-E301 | Adobe [!DNL Campaign Standard] Développeur expert |
 
@@ -92,22 +92,22 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 | ID d’export | Nom de l’export |
 | ------- | ------- |
-| AD0-E552 | Adobe [!DNL Marketo Engage] Professionnel (anciennement MCE) |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Professionnel praticien (précédemment MCE) |
 
 **Adobe Target**
 
 | ID d’export | Nom de l’export |
 | ------- | ------- |
-| AD0-E401 | [!DNL Adobe Target] Expert spécialiste des affaires |
+| AD0-E401 | [!DNL Adobe Target] Expert professionnel |
 | AD0-E402 | [!DNL Adobe Target] Principal architecte |
 
 +++
 
 ## Étapes à suivre pour redémarrer votre certification expirée{#exams}
 
-* **Étape 1 :** Consultez la section Eligibilité ci-dessus pour déterminer si votre certification est éligible pour le programme Redémarrer. Si tel est le cas, passez à l’étape 2.
-* **Étape 2 :** Recherchez votre application dans les onglets ci-dessous et consultez les conditions requises du programme de redémarrage pour votre certification.
-* **Étape 3 :** Suivez les instructions pour effectuer les évaluations ou les examens de cours requis à partir des options fournies. **avant la date limite du 20 octobre 2023**.
+* **Étape 1 :** Consultez la section Eligibilité ci-dessus pour déterminer si votre certification est éligible pour le programme de redémarrage. Si tel est le cas, passez à l’étape 2.
+* **Étape 2 :** Recherchez votre application parmi les onglets ci-dessous et vérifiez les exigences du programme de redémarrage pour votre certification.
+* **Étape 3 :** Suivez les instructions pour terminer les évaluations ou les examens de cours requis à partir des options fournies **avant la date limite du 20 octobre 2023**.
 
 ## Adobe de la certification Redémarrer les chemins du programme par application
 
@@ -115,21 +115,21 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 >[!TAB Experience Manager]
 
-### Instructions pour redémarrer votre Adobe [!DNL Experience Manager] certification
+### Instructions pour redémarrer la certification de votre Adobe [!DNL Experience Manager]
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: étudier les cours en Experience League
-* **Étape 3**: sélectionnez l’une des options ci-dessous.
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : étudier les cours en Experience League
+* **Étape 3** : effectuez un choix parmi les options ci-dessous.
 
   **Option A :**
 
-  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Sélectionnez **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
   **Option B :**
 
-  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Tout d&#39;abord, sélectionnez **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+  Ensuite, **envoyez un formulaire de référence client** validant votre travail en tant que personne certifiée par Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
 
   [Formulaire de référence client pour Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
@@ -139,32 +139,32 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 | Cours | Évaluation du cours |
 | ------- | ------- |
-| [Passage à Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Déplacement vers Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
 | [Planification de votre déplacement vers Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Introduction à Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=fr){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
-| [Gestion de contenu headless à l’aide des API GraphQL](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
-| [Personnalisation des expériences avec Adobe Experience Manager et Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
-| [Intégration du Cloud Service Experience Manager Forms à Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
-| [Générateur de compétences pour Adobe Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
-| [Adobe Experience Manager Sites pour les architectes](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
+| [Présentation d’Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=fr){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
+| [Gestion de contenu sans affichage à l’aide des API GraphQL](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
+| [Personnaliser des expériences avec Adobe Experience Manager et Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
+| [Intégrer le Cloud Service Experience Manager Forms à Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
+| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
 >[!TAB Analytics]
 
 ### Instructions pour redémarrer votre certification Adobe Analytics
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: étudier les cours en Experience League
-* **Étape 3**: sélectionnez l’une des options ci-dessous.
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : étudier les cours en Experience League
+* **Étape 3** : effectuez un choix parmi les options ci-dessous.
 
   **Option A :**
 
-  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Sélectionnez **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
   **Option B :**
 
-  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Tout d&#39;abord, sélectionnez **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+  Ensuite, **envoyez un formulaire de référence client** validant votre travail en tant que personne certifiée par Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
 
   [Formulaire de référence client pour Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -175,29 +175,29 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 | Cours | Évaluation du cours |
 | ------- | ------- |
 | [Adobe Analytics Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA201){target="_blank"} |
-| [Exportation et démocratisation des données Adobe Analytics - Leçons 5 et 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=fr){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
+| [Exporter et démocratiser les données Adobe Analytics - Leçon 5 et 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Filtrage de vos données avec segmentation et dates personnalisées - Leçon 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Mise en oeuvre guidée d’Analytics - Leçon 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=fr){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
 | [Mise en oeuvre et mesure de la recherche interne sur le site - Leçon 3 et 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
-| [API Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
+| [API Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!TAB Target]
 
 ### Instructions pour redémarrer votre certification Adobe Target
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: étudier les cours en Experience League
-* **Étape 3**: sélectionnez l’une des options ci-dessous.
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : étudier les cours en Experience League
+* **Étape 3** : effectuez un choix parmi les options ci-dessous.
 
   **Option A :**
 
-  Sélectionner **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Sélectionnez **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
   **Option B :**
 
-  Sélectionnez d’abord **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+  Tout d&#39;abord, sélectionnez **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
 
-  Deuxièmement, **envoyer un formulaire de référence client ;** valider votre travail en tant que personne certifiée Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
+  Ensuite, **envoyez un formulaire de référence client** validant votre travail en tant que personne certifiée par Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures de démonstration de l’engagement du projet au cours des 12 derniers mois.
 
   [Formulaire de référence client pour Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -207,11 +207,11 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 | Cours | Évaluation du cours |
 | ------- | ------- |
-| [Adobe [!DNL Target] Présentation de la prise de décision sur les périphériques](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
-| [Adobe [!DNL Target] Cours d’innovation en personnalisation](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
-| [Cours sur la personnalisation et la mise en oeuvre des applications mobiles](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
-| [Cours guidé Mobile et IoT Launch pour les développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
-| [Cours guidé de lancement de site web pour les développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
+| [Adobe [!DNL Target] Aperçu de la prise de décision sur appareil](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
+| [Adobe [!DNL Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
+| [Mise en oeuvre de l’application mobile et cours Personalization](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
+| [Cours guidé Mobile et IoT pour développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
+| [Lancement guidée de site web pour le cours destiné aux développeurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
 
 >[!TAB Audience Manager]
 
@@ -221,9 +221,9 @@ Pour être éligible, votre certification doit correspondre à **all** des crit�
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
+* **Étape 3** : réussir l’examen
 
 ### Préparer
 
@@ -278,10 +278,10 @@ Voici quelques suggestions de ressources :
 * [Exemple d’examen](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentation du produit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Prise en charge des Adobes - [!DNL Experience Cloud] Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* Formation et assistance relatives à [[!DNL Experience Cloud] ](https://helpx.adobe.com/fr/support/experience-cloud.html){target="_blank"}
+* [[!DNL Experience Cloud] Formation et assistance](https://helpx.adobe.com/fr/support/experience-cloud.html){target="_blank"}
 * [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-**Redémarrer votre certification**
+**Redémarrez votre certification**
 
 L’examen de relance des experts professionnels de Adobe Audience Manager ADS-E826 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous conformez pas à la loi, votre certification peut être révoquée.
 
@@ -294,13 +294,13 @@ L’examen de relance des experts professionnels de Adobe Audience Manager ADS-E
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Architecte** Examen de redémarrage du Principal
++++ADS-E825 Adobe Audience Manager **Architecte** Principal Réinitialiser l’examen
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
+* **Étape 3** : réussir l’examen
 
 ### Préparer
 
@@ -355,32 +355,32 @@ Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la
 
 Voici quelques suggestions de ressources pour vous aider à préparer :
 
-**Section 1 : Analyse de l’implémentation**
+**Section 1 : analyse de l’implémentation**
 
-* Guide de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
-* [[!DNL Analytics] Intégration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=fr){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Intégration](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Service d’identité](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
 
 **Section 2 : Conception de la solution et Recommendations**
 
-* [Guide d’Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
+* [Guide de l’Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [Tutoriels sur l’Audience Manager](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 3 : Segmentation et activation**
 
-* Guide de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [[!DNL Audience Manager] Communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=fr){target="_blank"}
 * [[!DNL Audience Manager] Tutoriels](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Section 4 : Confidentialité et gouvernance des données**
 
-* Guide de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr){target="_blank"}
 * [[!DNL Audience Manager] API REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=fr){target="_blank"}
+* [[!DNL Analytics] Guide de l’administrateur](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 5 : Performances et création de rapports**
 
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Service d’identité](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr){target="_blank"}
 
 ### Redémarrer votre certification
 
@@ -399,13 +399,13 @@ L’examen de redémarrage du Principal Adobe Audience Manager Architect ADS-E82
 
 ### Sélectionnez l’examen approprié en fonction du rôle pour redémarrer votre certification Adobe Campaign.
 
-+++Adobe ADS-E821 **Développeur Campaign Standard** Examen de redémarrage expert
++++ADS-E821 Adobe **Développeur Campaign Standard** Examen de redémarrage expert
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
+* **Étape 3** : réussir l’examen
 
 ### Préparer
 
@@ -453,53 +453,53 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 1 : modélisation et gestion des données**
 
-* [Création d’une ressource personnalisée (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
-* [Création d’une ressource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Créer une ressource personnalisée (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Créer une ressource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
 * [Configuration de la définition et du filtrage d’écran (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
 * [Configurer la définition d’écran](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [Configuration du filtrage](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [Création d’un lien personnalisé (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [Configurer le filtrage](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Créer un lien personnalisé (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
 * [Configuration des clés, des index et des liens](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [Chemin d’apprentissage du processus d’approbation (module de cours)](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [Mettre à jour et publier une ressource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Mise à jour et publication d’une ressource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Dépannage de la modélisation des données](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Création de workflows techniques](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=fr){target="_blank"}
 
 **Section 2 : Campaign Management**
 
-* [Dépannage des erreurs](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [Résolution des erreurs](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=fr){target="_blank"}
 * [Créer une campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=fr){target="_blank"}
 * [Prise en main des profils et des audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
-* [À propos des typologies et des règles de typologie](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [ À propos des typologies et des règles de typologie](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
 * [Règles de filtrage](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
 * [Créer et gérer des modèles](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
-* [Paramétrer une landing page](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [Services d&#39;abonnements](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Configuration d&#39;une landing page](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Services d’abonnements](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
 * [Canaux pour envoyer une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [Tracking et suivi d&#39;une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Synthèse des diffusions](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Découvrir le concepteur d’email (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [Concepteur d’e-mails de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
+* [Tracking et surveillance d’une diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Synthèse de la diffusion](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Discover Email designer (vidéo)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=fr){target="_blank"}
 * [Personnaliser vos rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 * [Prise en main des rapports dynamiques](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr){target="_blank"}
 
 **Section 3 : Administration**
 
 * [Groupes de sécurité](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
-* [Entités organisationnelles](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=fr)
+* [Entités organisationnelles](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
 * [Gestion des packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
 * [Export / import de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
 * [Comptes externes](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
 * [Gestion des options d’exécution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=fr)
 * [Surveiller l’exécution des workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
-* [Créer une nouvelle marque](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
+* [Créer une marque](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
 * [À propos de la configuration des canaux](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
 * [Prise en main des canaux de communication](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
 
 ### Redémarrer votre certification
 
-L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage des développeurs ADS-821 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L&#39;Adobe [!DNL Campaign Standard] de l&#39;examen de redémarrage des développeurs ADS-821 est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -510,13 +510,13 @@ L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage des développeur
 
 +++
 
-+++ADS-E822 Adobe **Professionnel Campaign Standard** Examen de redémarrage expert
++++ADS-E822 Adobe **Campaign Standard Business Practices** Examen de redémarrage expert
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
+* **Étape 3** : réussir l’examen
 
 ### Préparer
 
@@ -543,7 +543,7 @@ Section 2 : Gestion des diffusions
 
 * Selon les exemples d&#39;exigences, concevez et configurez une diffusion
 * Appliquer les bonnes pratiques en matière de conception de diffusion
-* appliquer les dernières fonctionnalités du Concepteur d&#39;email ;
+* Application des dernières fonctionnalités d’Email Designer
 
 Section 3 : Conception et exécution des workflows
 
@@ -561,23 +561,23 @@ Section 4 : Administration, suivi et reporting
 
 **Section 1 : Gestion de campagne**
 
-* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (travailler avec des activités marketing, créer du contenu d’email, des canaux de communication, des diffusions, configurer des canaux)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (travail avec des activités marketing, création de contenu d’email, canaux de communication, diffusions, configuration de canaux)
 
 **Section 2 : Gestion des diffusions**
 
-* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (création de contenu d’email, préparation et test des messages, canaux de communication — email, paramètres de l’application)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (création de contenu d’email, préparation et test de messages, canaux de communication — email, paramètres de l’application)
 
-**Section 3 : Conception et exécution des workflows**
+**Section 3 : conception et exécution des workflows**
 
-* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (gestion des processus et des données, gestion des audiences, planification des messages, ajout ou extension d&#39;une ressource)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (gestion des processus et des données, gestion des audiences, planification des messages, ajout ou extension d’une ressource)
 
-**Section 4 : Administration, suivi et reporting**
+**Section 4 : administration, surveillance et création de rapports**
 
 * [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr){target="_blank"} (exécution d’un workflow, test et envoi, personnalisation des rapports, profils et audiences, utilisateurs et sécurité)
 
 ### Redémarrer votre certification
 
-L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage de l’expert du professionnel ADS-822 est gratuit, il est ouvert et il n’est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+L&#39;Adobe [!DNL Campaign Standard] de l&#39;examen de redémarrage professionnel ADS-822 est gratuit, libre et sans traitement. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -588,13 +588,13 @@ L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage de l’expert du
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** Examen de redémarrage expert et/ou Principal
++++ADS-E823 Adobe **Campaign Classic** Examen d’expert et/ou de Principal de redémarrage
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1**: connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}, puis revenir à cette page
-* **Étape 2**: revoir les objectifs et les ressources de l’examen ;
-* **Étape 3**: réussir l’examen
+* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
+* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
+* **Étape 3** : réussir l’examen
 
 ### Préparer
 
@@ -606,7 +606,7 @@ L&#39;Adobe [!DNL Campaign Standard] L’examen de redémarrage de l’expert du
 * Diffusion : à la demande/non-traitée
 * Langues disponibles : anglais
 * Coût : GRATUIT
-* ID d’examen : ADS-E823 - Adobe [!DNL Campaign Classic] Redémarrage expert et/ou Principal
+* ID d’examen : ADS-E823 - Adobe [!DNL Campaign Classic] Expert et/ou redémarrage par Principal
 
 **Portée et objectifs**
 
@@ -617,13 +617,13 @@ Section 1 : installation et configuration du système (23%)
 * Expliquer comment les paramètres de l’assistant de déploiement affectent la délivrabilité
 * Décrire l’infrastructure sous-jacente du modèle d’hébergement disponible pour l’Adobe [!DNL Campaign Classic] v8
 * Description des fonctions prêtes à l’emploi les plus fréquemment utilisées
-* Expliquer l’intégration avec d’autres Adobes [!DNL Experience Cloud] products
+* Expliquer l&#39;intégration avec d&#39;autres produits [!DNL Experience Cloud] d&#39;Adobe
 * expliquer l’intégration à l’aide de comptes externes standard ;
 
 Section 2 : Personnalisation (18 %)
 
 * Décrire les bonnes pratiques relatives à l&#39;utilisation des fonctions SQL dans Adobe [!DNL Campaign]
-* Décrire les bonnes pratiques de développement avec JavaScript dans Adobe [!DNL Campaign]
+* Décrire les bonnes pratiques pour le développement avec JavaScript dans Adobe [!DNL Campaign]
 * Compte tenu d’un ensemble d’exigences, appliquez les bonnes pratiques relatives à un modèle de données.
 * Décrire les exigences et les processus de gestion des accès
 * Description de la gestion de la structure de dossiers
@@ -635,7 +635,7 @@ Section 3 : Architecture des données (22 %)
 * Expliquer à quel moment utiliser des tables d’évaluation par rapport aux écritures directes dans Snowflake
 * Identifier les nouvelles commandes API dans le traitement par lots et quand/comment utiliser
 * Dans un scénario, expliquez comment créer des schémas personnalisés (comment utiliser d’autres modèles de schémas, filtres système, verrouillage des données, liens).
-* Expliquer l’intégration entre les différentes solutions et [!DNL Campaign] par exemple Adobe [!DNL Experience Platform] et [!DNL Journey Optimizer]
+* Expliquer l&#39;intégration entre les différentes solutions et [!DNL Campaign] comme l&#39;Adobe [!DNL Experience Platform] et [!DNL Journey Optimizer]
 
 Section 4 : Campagne, workflow, diffusion et reporting (37 %)
 
@@ -660,28 +660,28 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 **Section 1 : installation et configuration du système**
 
 * [Gestion des packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [Utiliser les packages de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=fr){target="_blank"}
+* [Utilisation des packages de données](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=fr){target="_blank"}
 * [Déploiement d&#39;une instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [Intégrer à Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=fr){target="_blank"}
+* [Intégration à Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
-**Section 2 : Personnalisation**
+**Section 2 : personnalisation**
 
 * [Scripts et modèles JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [Bonnes pratiques relatives au modèle de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=fr){target="_blank"}
-* [Création et gestion d’opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=fr){target="_blank"}
-* [Gestion de l’accès aux dossiers](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
+* [Bonnes pratiques relatives aux modèles de données](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
+* [Créer et gérer des opérateurs](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=fr){target="_blank"}
+* [Gérer l’accès aux dossiers](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **Section 3 : Architecture des données**
 
-* [ [!DNL Campaign Classic]  [!DNL Campaign] Passer de la v7 à la v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr){target="_blank"}
-* [Utilisation des sources et des destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Transition de [!DNL Campaign Classic] v7 à [!DNL Campaign] v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr){target="_blank"}
+* [ Utilisation des sources et des destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 * [API de campagne FFDA spécifiques](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
-* [À propos des Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
+* [À propos d’Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-**Section 4 : Campagne, workflow, diffusion et reporting**
+**Section 4 : campagne, workflow, diffusion et création de rapports**
 
 * [Bonnes pratiques relatives aux workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=fr){target="_blank"}
-* [Configuration et gestion du processus de validation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
+* [Configuration et gestion du processus d’approbation](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=fr){target="_blank"}
 * [Enrichissement](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=fr){target="_blank"}
 * [Bonnes pratiques en matière d&#39;import et d&#39;export](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=fr){target="_blank"}
 
@@ -698,13 +698,13 @@ L’examen Adobe Campaign Classic Restart ADS-823 est gratuit, libre et sans tra
 
 +++
 
->[!TAB Marketo Engage]
+>[!TAB Marketo Engage]
 
 **Instructions pour redémarrer votre certification :**
 
-* **Étape 1** - Connexion réussie à [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"} puis revenir à cette page
+* **Étape 1** - Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
 * **Étape 2** - Vérification des objectifs et des ressources de l’examen
-* **Étape 3** - Effectuer et réussir l&#39;examen
+* **Étape 3** - Effectuer et réussir l’examen
 
 ### Préparer
 
@@ -722,11 +722,11 @@ L’examen Adobe Campaign Classic Restart ADS-823 est gratuit, libre et sans tra
 
 Section 1 : Administration et maintenance (12 %)
 
-* Déterminer le processus de mappage entre [!DNL Marketo] et CRM
+* Déterminer le processus de mappage entre [!DNL Marketo] et le CRM
 * Identification de ce qui est arrivé à une ressource à l’aide du journal d’audit
 * Reconnaître les différences entre les utilisateurs et les rôles
 * Dans un scénario, identifiez la meilleure façon d’utiliser l’espace de travail et les partitions.
-* Identifier les plateformes CRM avec des ressources natives [!DNL Marketo] synchronisation
+* Identification des plateformes CRM avec synchronisation native [!DNL Marketo]
 * Dans un scénario, recherchez l’emplacement de référence des informations.
 
 Section 2 : Activités marketing / Gestion de campagne (48%)
@@ -739,7 +739,7 @@ Section 2 : Activités marketing / Gestion de campagne (48%)
 * Exemples d’utilisation de différents types de jetons
 * Résumer l’utilité des webhooks dans Marketo et leur utilisation
 * Identifier et appliquer l&#39;utilisation appropriée du PMCF
-* Explication des avantages des ressources globales et de leur utilisation
+* Explication des avantages de Global Assets et de la manière de les utiliser
 * Démonstration des fonctionnalités des formulaires
 * Exécution et analyse d’une stratégie de test A/B
 * Identifier l’endroit où un programme ou une ressource a été référencé avec &quot;Utilisé par&quot;
@@ -782,34 +782,34 @@ Voici quelques suggestions de ressources pour vous aider à préparer :
 
 **Section 1 : Administration et maintenance**
 
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Gestion des champs, synchronisation CRM, journal d’audit, administration des utilisateurs, espaces de travail et partitions, listes dynamiques, champ personnalisé)
+* [Experience League - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Gestion des champs, synchronisation CRM, journal d’audit, administration des utilisateurs, espaces de travail et partitions, listes dynamiques, champ personnalisé)
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchronisation avec Salesforce, intégrations CRM)
 
-**Section 2 : Activités marketing / Gestion de campagne**
+**Section 2 : Activités marketing/Gestion de campagne**
 
-* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Exemple aléatoire, campagne dynamique avec déclenchement de valeur de données, étapes d’attente, URL du membre.webinaire, Inspecteur de campagne, Filtrer la logique, Utiliser des jetons dans les emails, Création de pistes via l’option Remplissage du formulaire, Ressources et espaces de travail, Gestion de Forms)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Listes intelligentes, Campagnes intelligentes, Forms Génération De Demande, Événements De Génération De Demande, Marketing Par E-Mail, Création De Programmes, Événements, Journal D’Audit, Utilisation De Programmes, Balises D’Administration, Prise En Charge De La Dérive, Pages D’Entrée, Jetons, Intégrations Supplémentaires De L’Administration, Webhook, Champs Personnalisés Des Membres Du Programme, Partitions Workspace Et Personne)
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (échantillon aléatoire, campagne intelligente avec déclenchement de valeur de données, étapes d’attente, URL du membre.webinaire, inspecteur de campagne, logique de filtrage, utilisation de jetons dans les emails, création de pistes via Form Fill Out, Assets et Workspace, gestion de Forms)
+* [Experience League - [!DNL Marketo Engage] Documentation produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (listes dynamiques, campagnes dynamiques, Forms de génération de demande, événements de génération de demande, marketing par e-mail, création de programmes, événements, journal d’audit, utilisation de programmes, balises d’administration, prise en charge de la gestion, pages d’entrée, jetons, intégration supplémentaire à l’administration, webhook, champs personnalisés des membres de programme, partitions Workspace et de personne)
 
-**Section 3 : Gestion des leads**
+**Section 3 : Gestion des pistes**
 
-* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Créez une vidéo de programme de cycle de vie de piste, Désabonner du courrier électronique)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Campagnes intelligentes, [!DNL Marketo] Insight sur les ventes, moments intéressants, gestion des personnes dans les listes dynamiques, champs gérés par le système)
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (vidéo Générer un programme de cycle de vie de piste, se désabonner d’un courrier électronique)
+* [Experience League - [!DNL Marketo Engage] Documentation produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Campagnes dynamiques, [!DNL Marketo] Statistiques des ventes, moments intéressants, gestion des personnes dans les listes dynamiques, champs gérés par le système)
 
-**Section 4 : Gestion des données**
+**Section 4 : Data Management**
 
-* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintenance de l&#39;article Répertoire des emails rebonds Leads, Comment gérer votre base de données Marketo pour la délivrabilité , [!DNL Marketo] Politique de conservation des données des activités - Sous l’article Capture)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Email Marketing Hard et Soft Bounces, types de rapports, personnalisation, contenu dynamique)
+* [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintenance de l’article Répertoire des emails rebonds de pistes, Gestion de votre base de données Marketo pour la prise en charge de la délivrabilité, [!DNL Marketo] Politique de conservation des données des activités - Sous l’article &quot;Bois&quot;)
+* [Experience League - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Email Marketing Hard et Soft Bounces, types de rapports, Personalization, Contenu dynamique)
 
 **Section 5 : Création de rapports**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (article Définition des bonnes pratiques d’acquisition )
-* [Experience League - Documentation du produit Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Création de rapports, informations sur les performances, rapport sur les performances des programmes, modification de rapports, appartenance à un programme)
+* [Experience League - Documentation du produit Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (création de rapports, informations sur les performances, rapport sur les performances du programme, modification de rapports, adhésion au programme)
 
 **Section 6 : Bonnes pratiques**
 
-* [Guide définitif pour la notation des pistes](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Utilisation de programmes, Marketing par e-mail, Test A/B)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Penser à votre processus d’assurance qualité)
+* [Guide définitif de la notation de piste](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Experience League - [!DNL Marketo Engage] Documentation du produit](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr){target="_blank"} (Utilisation de programmes, marketing par e-mail, tests A/B)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Faites attention à votre processus d’assurance qualité)
 
 ### Redémarrer votre certification
 
@@ -826,6 +826,6 @@ L’examen de redémarrage ADS-E824de l’expert du professionnel Adobe Marketo 
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

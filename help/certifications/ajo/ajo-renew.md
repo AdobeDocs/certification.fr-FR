@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre Adobe [!DNL Journey Optimizer] certification avant son expiration.
+description: Découvrez comment renouveler votre certification d'Adobe [!DNL Journey Optimizer] avant qu'elle n'expire.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -8,12 +8,12 @@ hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Renouveler votre Adobe [!DNL Journey Optimizer] certification
+# Renouvelez votre certification d&#39;Adobe [!DNL Journey Optimizer]
 
 Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
 
@@ -21,7 +21,7 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 >[!IMPORTANT]
 >
->**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionneront **uniquement** après une **connexion réussie** à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
@@ -32,6 +32,6 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

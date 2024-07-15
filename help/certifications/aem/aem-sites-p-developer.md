@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager Sites] Professionnel du développement
+# Parcours de certification pour l’Adobe [!DNL Experience Manager Sites] développeur professionnel
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Prenez le [Adobe Experience Manager Sites for Developers - Cours professionnel](https://app.rockinfo.com/courses/105), qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240), qui fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Suivez le [cours Adobe Experience Manager Sites for Developers - Professional](https://app.rockinfo.com/courses/105), qui comprend des explications sur les concepts clés, des démonstrations pratiques et des vérifications de connaissances. Si vous ne commencez pas, ou si vous avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240), qui fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/121) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/121) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >Si vous êtes invité à vous connecter, utilisez votre Adobe ID.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 Vous devez être un développeur d’applications et disposer des éléments suivants :
 
-* 0 à 12 mois d’expérience avec l’AEM [!DNL Platform]
+* 0 à 12 mois d&#39;expérience avec l&#39;AEM [!DNL Platform]
 * La possibilité d’effectuer le développement de composants
 * Une compréhension de base de la structure MVC, des structures de cycle de vie et des bibliothèques dans AEM
 
@@ -70,7 +70,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 **Section 1 : Configurations (26 %)**
 
-* Reconnaître l’objectif des configurations et de la mise en cache AEM Dispatcher
+* Reconnaître l’objectif des configurations et de la mise en cache d’Dispatcher AEM
 * Déterminer les étapes correctes pour configurer plusieurs sites dans AEM
 * expliquer comment créer et gérer des configurations OSGi ;
 * Déterminer les étapes appropriées pour gérer les index Oak personnalisés
@@ -111,7 +111,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -121,9 +121,9 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 [Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-[Suivez le cours Adobe Experience Manager Sites for Developers - Professional .](https://app.rockinfo.com/courses/105)
+[ Suivez le cours Adobe Experience Manager Sites for Developers - Professional ](https://app.rockinfo.com/courses/105)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -133,7 +133,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 {{sample-questions}}
 
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
+[Afficher des exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
@@ -188,7 +188,7 @@ Vous devez être un développeur d’applications et disposer des éléments sui
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

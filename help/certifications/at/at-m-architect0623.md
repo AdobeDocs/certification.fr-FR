@@ -1,6 +1,6 @@
 ---
 title: Architecte Principal nouvelle certification
-description: Découvrez comment devenir certifié [!DNL Adobe Target] Principal architecte.
+description: Découvrez comment devenir un Principal  [!DNL Adobe Target] Architect certifié.
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour [!DNL Adobe Target] Principal architecte
+# Parcours de certification pour le Principal architecte [!DNL Adobe Target]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/237) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/237) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 Les candidats prévus pour cette certification sont des membres des équipes/organisations suivantes :
 
 * Ingénieur/architecte de l’optimisation du taux de conversion
-* Ingénieur/architecte de personnalisation
+* Ingénieur/architecte Personalization
 * Architecte de solutions numériques
 * Conseiller en transformation digitale
 * prospect d’optimisation de l’expérience
@@ -61,7 +61,7 @@ Vous devez disposer des éléments suivants :
 * Au moins trois ans d’expérience d’optimisation du marketing numérique
 * au moins deux ans d’expérience (ou cinq engagements) dans l’implémentation, le déploiement et le dépannage d’Adobe Target ;
 * Expérience d’intégration de Target à Adobe Experience Cloud
-* Compréhension fondamentale du développement web front-end, JavaScript, HTML et CSS
+* Compréhension fondamentale de JavaScript, de l’HTML, de CSS et du développement web front-end
 * Familiarité avec les API/SDK Adobe Target, intégration côté serveur, création de rapports et administration, et connaissance de ces derniers
 * Maîtrise de l’implémentation d’Adobe Target avec les structures d’application d’une seule page (SPA), les services mobiles et de messagerie électronique, ainsi que les recommandations.
 
@@ -78,7 +78,7 @@ Technologies :
 
 Environnements :
 
-* Adobe Experience Cloud
+* Adobe Experience Cloud
 * Mise en oeuvre côté client sans gestionnaire de balises
 * Systèmes Tag Management, en particulier Launch (IF)
 * Environnements côté serveur (pour l’utilisation des API)
@@ -93,21 +93,21 @@ Environnements :
 
 {{exam-objectives}}
 
-**Section 1 : [!DNL Adobe Target] Principes de base (13 %)**
+**Section 1 : [!DNL Adobe Target] fondamentaux (13 %)**
 
-* Identifier les [!DNL Adobe Target] utilisation pour un scénario donné
-* expliquer les technologies fondamentales d’une [!DNL Adobe Target] implémentation
+* Identifier l’utilisation appropriée de [!DNL Adobe Target] pour un scénario donné
+* Expliquer les technologies fondamentales d&#39;une mise en oeuvre [!DNL Adobe Target]
 
-**Section 2 : Intégration à [!DNL Adobe Target] (18 %)**
+**Section 2 : intégration à [!DNL Adobe Target] (18 %)**
 
-* Appliquez le processus à intégrer [!DNL Adobe Target] avec Adobe Analytics (A4T)
-* Appliquez le processus à intégrer [!DNL Adobe Target] vers Adobe Experience Manager
+* Appliquez le processus pour intégrer [!DNL Adobe Target] à Adobe Analytics (A4T)
+* Appliquez le processus pour intégrer [!DNL Adobe Target] à Adobe Experience Manager
 * Décrire l’intégration avec les solutions Adobe Experience Cloud et Adobe Experience Platform
 * Description de l’intégration avec les audiences Adobe Experience Cloud
 
 **Section 3 : [!DNL Adobe Target] administration et gouvernance (6 %)**
 
-* Définir une [!DNL Adobe Target] stratégie de mise en oeuvre et gouvernance du système
+* Définition d’une stratégie d’implémentation [!DNL Adobe Target] et d’une gouvernance système en cours
 * Application du processus et des bonnes pratiques pour gérer les utilisateurs
 * Décrire les aspects administratifs de la configuration de la mise en oeuvre
 
@@ -117,15 +117,16 @@ Environnements :
 * Description de la mise en oeuvre de la diffusion côté serveur
 * Description des exigences d’implémentation pour les API, le ciblage des e-mails et les appareils mobiles
 
-**Section 5 : Utilisation [!DNL Adobe Target] recommandations (11 %)**
+**Section 5 : tirer parti des [!DNL Adobe Target] recommandations (11 %)**
 
 * Montrer une compréhension des recommandations, catalogues et critères
 * Appliquez le processus de configuration des recommandations Target.
 
-**Section 6 : Architecture, conception et mise en oeuvre [!DNL Adobe Target] (18 %)**
+**Section 6 : Architecte, conception et implémentation [!DNL Adobe Target] (18 %)**
 
-* Sélectionnez la bonne mise en oeuvre de la requête Target (globale, confirmation de commande, hybride) Évaluez et concevez une [!DNL Adobe Target] implémentation
-* Décrire la mise en oeuvre de [!DNL Adobe Target] dans les applications mobiles natives
+* Sélectionnez la bonne mise en oeuvre de la requête Target (globale, confirmation de commande, hybride).
+Évaluation et conception d’une implémentation [!DNL Adobe Target]
+* Décrire l’implémentation de [!DNL Adobe Target] dans les applications mobiles natives
 
 **Section 7 : Dépannage (28 %)**
 
@@ -133,7 +134,7 @@ Environnements :
 * Dépannage des erreurs de requête et de réponse Target
 * Résolution des erreurs de configuration de l’activité
 * Présentation des erreurs d’intégration
-* Résolution des problèmes [!DNL Adobe Target] Erreurs Recommendations
+* Résolution des problèmes liés aux [!DNL Adobe Target] erreurs Recommendations
 
 <br>
 
@@ -151,15 +152,15 @@ Environnements :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -218,6 +219,6 @@ Environnements :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

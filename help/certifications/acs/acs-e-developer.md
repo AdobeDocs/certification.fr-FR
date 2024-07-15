@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Standard] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Campaign Standard] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/256) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/256) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 Vous devez disposer des éléments suivants :
 
-* Au moins deux ans d&#39;Adobe [!DNL Campaign Standard] expérience logicielle
+* Au moins deux ans d&#39;expérience Adobe du logiciel [!DNL Campaign Standard]
 * Au moins deux ans d’expérience pertinente dans les campagnes marketing numériques multicanaux et le développement web (comme l’API REST)
 * la possibilité d’exécuter des tâches dans Adobe Campaign, notamment le développement de modèles, les workflows techniques, le développement de schémas et les intégrations, et de surveiller l’instance à l’aide du panneau de contrôle ;
 * Expérience travaillant dans un environnement de diffusion de canal (email, courrier, mobile et social)
 * Connaissance des tactiques de campagne marketing telles que le multipoint, le cycle de vie et la réactivation
 * Une compréhension des mesures marketing telles que le retour sur investissement, les taux de clics publicitaires et les conversions.
 * Administration d’une plateforme d’automatisation du marketing
-* Connaissances de base en CSS, HTML et JavaScript, emails
+* Connaissances de base en matière de CSS, d’HTML et de JavaScript, d’emails
 * Connaissances de base de la base relationnelle et de la modélisation des données
 * une compréhension des workflows techniques et leur configuration ;
 * Expérience d&#39;extension d&#39;une table de destinataires ou d&#39;une gestion des schémas et des données
@@ -88,7 +88,7 @@ Vous devez disposer des éléments suivants :
 * Résolution des problèmes de modélisation des données
 * Déterminer l’approche appropriée pour créer des workflows techniques
 
-**Section 2 : Gestion de campagne (50%)**
+**Section 2 : Gestion de campagne (50 %)**
 
 * Dépannage des erreurs de workflow
 * Déterminer l’approche appropriée pour créer des campagnes
@@ -134,19 +134,19 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
-[Guide de préparation d’exportation](https://app.rockinfo.com/courses/256)
+[Guide de préparation d’export](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

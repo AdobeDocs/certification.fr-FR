@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des professionnels de l’entreprise
-description: Découvrez comment devenir certifié en tant qu’Adobe [!DNL Audience Manager] Professionnel de l’entreprise.
+description: Découvrez comment obtenir une certification en tant qu'Adobe  [!DNL Audience Manager] Professionnel du métier.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Audience Manager] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Audience Manager] Professionnel Professionnel Professionnel
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/245) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/245) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -86,7 +86,7 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 * Dans un scénario, résolvez les problèmes liés aux données entrantes provenant de différentes sources et types de sources.
 * Validation du format des fichiers de données entrants
 
-**Section 5 : Taxonomie (12%)**
+**Section 5 : Taxonomie (12 %)**
 
 * Déterminer la structure appropriée pour créer des caractéristiques et des segments qui utilisent une nomenclature claire et cohérente
 * Déterminer la technique appropriée pour gérer une plateforme organisée à l’aide d’une structure de dossiers claire
@@ -112,11 +112,11 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -175,7 +175,7 @@ Vous devez avoir une compréhension de base des flux de données, des objectifs 
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

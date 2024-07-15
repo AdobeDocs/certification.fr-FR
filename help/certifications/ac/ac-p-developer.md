@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Commerce] Professionnel du développement
+# Parcours de certification pour l’Adobe [!DNL Commerce] développeur professionnel
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Prenez le [Cours professionnel pour les développeurs Adobe Commerce](https://app.rockinfo.com/courses/92) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des contrôles des connaissances. Si vous ne faites que commencer, le [Cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Suivez le [ cours professionnel pour développeurs Adobe Commerce ](https://app.rockinfo.com/courses/92) qui comprend des explications sur les concepts clés, des démonstrations pratiques et des vérifications de connaissances. Si vous commencez, le [cours sur les fondations Adobe Commerce](https://app.rockinfo.com/courses/148) fournit une base de connaissances sur laquelle vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/136) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/136) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >Si vous êtes invité à vous connecter, utilisez votre Adobe ID.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### Expérience minimale {#minimum-experience}
 
-Vous devriez être à l&#39;aise en travaillant dans l&#39;Adobe [!DNL Commerce] et avoir une compréhension de base de l’Adobe [!DNL Commerce] développement de l’administration, architecture, VEC/base de données, mise en page/interface utilisateur, passage en caisse et ventes, catalogue.
+Vous devez être à l&#39;aise avec le travail dans l&#39;Adobe [!DNL Commerce] et avoir une compréhension de base du développement d&#39;Adobe [!DNL Commerce] administrateur, de l&#39;architecture, de l&#39;EAV/database, de la mise en page/de l&#39;interface utilisateur, du passage en caisse et des ventes, et du catalogue.
 
 En outre, vous devez connaître les technologies et environnements suivants :
 
@@ -84,8 +84,8 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 2 : Architecture (29 %)**
 
-* Description [!DNL Magento] structure de fichier
-* Description [!DNL Magento] Commandes de ligne de commande
+* Description de la structure de fichiers [!DNL Magento]
+* Description des commandes de l’interface de ligne de commande [!DNL Magento]
 * Description de la fonctionnalité cron
 * Dans un scénario, décrivez l’utilisation du fichier di.xml.
 * Dans un scénario, créez des contrôleurs
@@ -95,10 +95,10 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Décrire les modules externes, les préférences, les observateurs d’événement et les intercepteurs
 * Description des itinéraires de module personnalisés
 * Description des réécritures d’URL
-* Décrivez la variable [!DNL Magento] système de mise en cache
+* Décrire le système de mise en cache [!DNL Magento]
 * Décrire les magasins, les sites web et les vues des magasins (compréhension de base)
 
-**Section 3 : EAR/base de données (13%)**
+**Section 3 : EAR/base de données (13 %)**
 
 * Dans un scénario, modifiez/ajoutez/supprimez des jeux d’attributs et/ou des attributs.
 * Description des différents types d’attributs
@@ -106,7 +106,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Décrire les modèles, les modèles de ressources et les collections
 * Description des principes de base de la valeur d’attribut d’entité (EV)
 
-**Section 4 : Disposition/interface utilisateur (15 %)**
+**Section 4 : mise en page/interface utilisateur (15 %)**
 
 * Appliquer les modifications aux types de produits existants et en créer de nouveaux
 * Modification et extension d’entités de catalogue existantes
@@ -131,15 +131,15 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 **Section 7 : Adobe [!DNL Commerce] Architecture du cloud (12 %)**
 
-* Définir un Adobe [!DNL Commerce] workflow architecture/environnement
+* Définir le workflow d&#39;architecture/environnement de l&#39;Adobe [!DNL Commerce]
 * Description des fichiers de projet cloud, des autorisations et de la structure
-* Services de liste disponibles sur Adobe [!DNL Commerce] sur Cloud
+* Liste des services disponibles sur l’Adobe [!DNL Commerce] dans Cloud
 * Décrire comment accéder à différents types de logs
 * Décrivez les étapes d’application de correctifs (Identifiez le dossier dans lequel placer les correctifs).
 * Décrire comment gérer et mettre à niveau les outils de la CEE
 * Identifier le moment où appeler l’assistance *Fichiers et limitations Yaml (DIY par rapport aux tickets d’assistance)
 
-**Section 8 : Configuration de l’Adobe [!DNL Commerce] Cloud (4 %)**
+**Section 8 : Configuration/configuration de l’Adobe [!DNL Commerce] Cloud (4 %)**
 
 * Identifier comment configurer/configurer Adobe [!DNL Commerce] Cloud
 * Définition de la résolution des problèmes de base dans le cloud (hiérarchie de l’interface utilisateur web et des variables, priorité des configurations)
@@ -148,10 +148,10 @@ En outre, vous devez connaître les technologies et environnements suivants :
 * Description de l’embranchement à l’aide de l’interface utilisateur
 * Identification des fonctionnalités du plan Adobe Commerce Cloud
 
-**Section 9 : [!DNL Commerce] Outil d’interface de ligne de commande du cloud (Gestion des parties) (6 %)**
+**Section 9 : [!DNL Commerce] Outil d’interface de ligne de commande en mode cloud (Gestion des parties) (6 %)**
 
-* Description des fonctionnalités exclusives de l’Adobe [!DNL Commerce] Outil d’interface de ligne de commande Cloud (fonctionnalités exclusives de l’interface de ligne de commande : activation des emails, des environnements de base, des instantanés, du vidage de la base, de la configuration de l’environnement local)
-* Description de l&#39;embranchement à l&#39;aide de l&#39;Adobe [!DNL Commerce] Outil d’interface de ligne de commande du cloud
+* Décrivez les fonctionnalités exclusives de l’outil d’interface de ligne de commande d’Adobe [!DNL Commerce] Cloud (fonctionnalités exclusives de l’interface de ligne de commande : activation des emails, des environnements de base, instantané, vidage de la base, configuration de l’environnement local).
+* Décrire l&#39;embranchement à l&#39;aide de l&#39;outil d&#39;interface de ligne de commande en mode cloud Adobe [!DNL Commerce]
 * Identifier les moyens de se connecter aux services cloud ? (My SQL, Redis, tunnel:info)
 
 <br>
@@ -178,11 +178,11 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
@@ -204,7 +204,7 @@ En outre, vous devez connaître les technologies et environnements suivants :
 </span>
 </a>
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -263,6 +263,6 @@ En outre, vous devez connaître les technologies et environnements suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Workfront] pour [!DNL Experience Manager] Expert du connecteur amélioré
+# Parcours de certification pour l’Adobe [!DNL Workfront] pour [!DNL Experience Manager] Enhanced Connector Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/244) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/244) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -60,7 +60,7 @@ Vous devriez également disposer des éléments suivants :
 
 * 1 ou plus d’expérience CMS
 * 1 an ou plus AEM expérience
-* 1+ ans [!DNL Workfront] expérience
+* 1+ années [!DNL Workfront] d’expérience
 * Expérience de développement Java/J2EE de 2 ans ou plus
 * Co-architecturé au moins une solution AEM
 * Utilisation directe des clients pour créer des solutions personnalisées
@@ -75,7 +75,7 @@ Vous devriez également disposer des éléments suivants :
 
 **Section 1 : Exigences techniques (25 %)**
 
-* Utilisation [!DNL Workfront] Forms personnalisée
+* Utiliser [!DNL Workfront] Forms personnalisé
 * Dans un scénario, démontrer la gestion de documents
 * Démontrez les connaissances en matière de promotion du code dans tous les environnements
 * Dans un scénario, identifiez la manière dont les valeurs sont transmises à [!DNL Workfront] formulaires personnalisés
@@ -91,12 +91,12 @@ Vous devriez également disposer des éléments suivants :
 **Section 3 : Bonnes pratiques commerciales (21 %)**
 
 * Interpréter les besoins du client afin de recommander les stratégies de workflow appropriées
-* Montrer comment configurer [!DNL Workfront] workflows de validation et de vérification
+* Montrer comment configurer des workflows d’approbation et de vérification [!DNL Workfront]
 * Dans un scénario donné, identifiez les bonnes pratiques relatives à l’utilisation de la visionneuse de vérification, des paramètres et de la fonctionnalité de balisage.
 * Montrer une compréhension du tracking des livrables dans le cadre de la gestion de campagne
-* Dans un scénario donné, identifiez les principaux facteurs à prendre en compte pour gérer le changement d’une [!DNL Workfront] implémentation
+* Dans un scénario, identifiez les principaux points à prendre en compte pour la gestion des modifications pour une implémentation [!DNL Workfront].
 
-**Section 4 : Installation et configuration du connecteur (28%)**
+**Section 4 : installation et configuration du connecteur (28 %)**
 
 * Validation des conditions préalables dans AEM
 * Dans un cas d’utilisation client, identifiez les fonctionnalités du connecteur à implémenter.
@@ -117,11 +117,11 @@ Vous devriez également disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -131,7 +131,7 @@ Vous devriez également disposer des éléments suivants :
 
 {{sample-questions}}
 
-[Affichage d’exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+[Afficher des exemples de questions](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
 +++
 
@@ -186,6 +186,6 @@ Vous devriez également disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir un Adobe certifié [!DNL Journey Optimizer] Professionnel de l’entreprise.
+description: Découvrez comment devenir un Adobe certifié  [!DNL Journey Optimizer] Professionnel du métier.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Journey Optimizer] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Journey Optimizer] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >Des cours gratuits à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen. Commencez votre parcours d’apprentissage dès aujourd’hui en choisissant le cours qui correspond le mieux à votre niveau d’expérience !
 >
->* La variable [Cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
->* La variable [Cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113) fournit une base de connaissances sur cette application spécifique.
->* La variable [Cours professionnel de professionnels Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) tire parti du cours Fondations et vous aide à vous préparer à l’examen de certification de niveau professionnel.
->* La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/232) fournit un parcours personnalisé tout au long du processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+>* Le [cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216) présente Adobe Experience Cloud, une suite complète d’outils de marketing numérique reposant sur la seule plateforme conçue pour la personnalisation à grande échelle.
+>* Le [cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113) fournit une base de connaissances sur cette application spécifique.
+>* Le [cours professionnel de praticien Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) s’appuie sur le cours Fondations et vous aide à vous préparer à l’examen de certification de niveau professionnel.
+>* Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/232) fournit un chemin personnalisé tout au long du processus de préparation de votre examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
 >
 >_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### Audience prévue {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] consultant professionnel
+* Adobe [!DNL Journey Optimizer] consultant en affaires
 * Spécialiste marketing
 * Professionnel de l’automatisation marketing
 * Gestionnaire de campagnes
@@ -75,7 +75,7 @@ Les candidats doivent pouvoir :
 * Utiliser des listes d’abonnements
 * Vérification des attributs et événements de profil (Chargement d’un profil dans l’interface utilisateur)
 * Comprendre et utiliser les landing pages
-* Comprendre quand utiliser différents types de parcours/campagnes et tirer parti de la fonctionnalité &quot;Campagnes&quot; dans Adobe [!DNL Journey Optimizer] pour créer une diffusion email unique
+* Comprendre quand utiliser différents types de parcours/campagnes et avoir la possibilité d’exploiter la fonctionnalité &quot;Campagnes&quot; dans l’Adobe [!DNL Journey Optimizer] pour créer une explosion unique d’email
 * Présentation des fonctionnalités de la source de données, des événements et des actions
 * Surveillez et consultez les rapports de Parcours pour effectuer le suivi des engagements/retours/taux d’erreur/taux de spam/problèmes de domaines de messagerie
 * Création et validation de critères de segment de base
@@ -96,7 +96,7 @@ Les candidats doivent également pouvoir :
 
 * Composition d’une audience (à l’aide d’un nouveau compositeur d’audience)
 * Importation d’une audience (Téléchargement d’une audience CSV)
-* Télécharger et convertir automatiquement le HTML pour les emails (nouveau convertisseur HTML)
+* Chargement et conversion automatique de l’HTML pour les courriers électroniques  (nouveau convertisseur HTML)
 * Créer une expérience de contenu
 * Mesure des résultats d’une expérience de contenu
 * Balisage/filtrage/parcours de recherche, campagnes, etc.
@@ -116,7 +116,7 @@ Les candidats doivent également pouvoir :
 
 {{exam-objectives}}
 
-**Section 1 : Optimisation des campagnes et des Parcours (48 %)**
+**Section 1 : optimisation des campagnes et des Parcours (48 %)**
 
 * Dans un scénario, identifiez comment créer un Parcours client.
 * Dans un scénario, déterminez comment valider un Parcours client.
@@ -132,7 +132,7 @@ Les candidats doivent également pouvoir :
 * Dans un scénario, déterminez à quel moment utiliser l’offer decisioning ou la personnalisation à grande échelle.
 * Dans un scénario, différenciez les offres statiques des offres dynamiques
 
-**Section 3 : Création de contenu (20 %)**
+**Section 3 : création de contenu (20 %)**
 
 * Identifier la manière d’utiliser les éléments essentiels
 * Dans un scénario, identifiez comment ajouter des champs personnalisés dans des emails.
@@ -169,7 +169,7 @@ Les candidats doivent également pouvoir :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -177,15 +177,15 @@ Les candidats doivent également pouvoir :
 
 {{take-course}}
 
-[Suivez le cours Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216){target="_blank"}
-[Suivez le cours Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
-[Suivez le cours professionnel de praticien en affaires Adobe Journey Optimizer.](https://app.rockinfo.com/courses/107){target="_blank"}
+[Suivez le cours sur les fondations Adobe Experience Platform](https://app.rockinfo.com/courses/216){target="_blank"}
+[Suivez le cours sur les fondations Adobe Journey Optimizer](https://app.rockinfo.com/courses/113){target="_blank"}
+[Suivez le cours professionnel du professionnel du professionnel des entreprises Adobe Journey Optimizer](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -244,7 +244,7 @@ Les candidats doivent également pouvoir :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
 

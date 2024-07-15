@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Marketo Engage] Principal architecte
+# Parcours de certification pour le Principal Architecte de l&#39;Adobe [!DNL Marketo Engage]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/248) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/248) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification pour l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
+>Cette certification a une condition préalable. Vous DEVEZ disposer d&#39;une certification d&#39;Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** pour passer l&#39;examen de Principal d&#39;architecte de l&#39;Adobe [!DNL Marketo Engage].
 
-* Condition préalable : Adobe actif (non expiré) [!DNL Marketo Engage] Certification d’experts professionnels
+* Condition préalable : Adobe actif (non arrivé à expiration) [!DNL Marketo Engage] Certification d’experts professionnels
 * Niveau : Principal (3 à 5 ans d’expérience)
 * Certification du praticien
 * Score de transmission : 32/50
@@ -89,7 +89,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 {{exam-objectives}}
 
-**Section 1 : leadership du projet (16 %)**
+**Section 1 : leadership dans le projet (16 %)**
 
 * Lors d’une étude de cas, identifiez les parties prenantes appropriées.
 * Évaluer un ensemble d’exigences et recommander les limites du projet, le budget, les ressources et la portée
@@ -151,19 +151,19 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
-[Guide de préparation d’exportation](https://app.rockinfo.com/courses/248)
+[Guide de préparation d’export](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 >[!IMPORTANT]
 >
->Cette certification a une condition préalable. Vous DEVEZ disposer d’un Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** Certification afin de prendre l’Adobe [!DNL Marketo Engage] Examen de Principal de l&#39;architecte.
+>Cette certification a une condition préalable. Vous DEVEZ disposer d&#39;une certification d&#39;Adobe actif (non expiré) [!DNL Marketo Engage] Professionnel **Expert** pour passer l&#39;examen de Principal d&#39;architecte de l&#39;Adobe [!DNL Marketo Engage].
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ En outre, vous devez connaître les outils et technologies suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

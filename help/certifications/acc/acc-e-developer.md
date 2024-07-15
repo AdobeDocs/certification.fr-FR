@@ -1,6 +1,6 @@
 ---
 title: Certification Developer Expert
-description: Découvrez comment devenir un expert Adobe Developer certifié dans [!DNL Campaign Classic].
+description: Découvrez comment devenir un expert Adobe Developer certifié dans  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Campaign Classic] Développeur expert
+# Parcours de certification pour l&#39;expert développeur [!DNL Campaign Classic] Adobe
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/252) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir à obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/252) offre un chemin sur mesure à travers votre processus de préparation d’examen de certification, y compris les documents d’étude détaillés dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * Consultant technique
 * ingénieur en technologie marketing
-* Adobe [!DNL Campaign Classic] développeur
+* Développeur d&#39;Adobe [!DNL Campaign Classic]
 
 <br>
 
@@ -78,10 +78,10 @@ Vous devez disposer des éléments suivants :
 
 * Compte tenu d’un ensemble d’exigences, appliquez les bonnes pratiques pour concevoir un modèle de données.
 * Décrire l’implémentation des API dans Campaign
-* Décrire les bonnes pratiques de développement avec JavaScript dans Adobe Campaign
+* Décrire les bonnes pratiques pour le développement avec JavaScript dans Adobe Campaign
 * Application de bibliothèques JavaScript dans des workflows, des appels SOAP, des règles de typologie et des blocs de personnalisation
 * Décrire les bonnes pratiques relatives à l&#39;utilisation des fonctions SQL dans Adobe [!DNL Campaign Classic]
-* Dans un scénario, comprenez comment utiliser des scripts SQL dans Adobe. [!DNL Campaign Classic]
+* Dans un scénario, comprenez comment utiliser des scripts SQL dans Adobe [!DNL Campaign Classic].
 * Description des fonctions prêtes à l’emploi les plus fréquemment utilisées
 
 **Section 3 : Gestion des accès (8 %)**
@@ -99,7 +99,7 @@ Vous devez disposer des éléments suivants :
 * Identifier les paramètres de sécurité et réseau à intégrer à Adobe Campaign à partir d’un système externe
 * Configuration du processus CRUD sur un schéma en dehors d’Adobe Campaign
 
-**Section 5 : Maintenance de l&#39;instance (12 %)**
+**Section 5 : maintenance des instances (12 %)**
 
 * Comprendre et agir sur la carte thermique des workflows
 * Démontrez le processus de création d’un workflow ou d’un rapport personnalisé, par exemple pour la surveillance.
@@ -107,11 +107,11 @@ Vous devez disposer des éléments suivants :
 * Expliquer l’impact des services et des processus sur le système
 * Démonstration des mesures/contrôles de contrôle système de base
 
-**Section 6 : Configuration de la campagne (25 %)**
+**Section 6 : configuration de Campaign (25 %)**
 
 * Application de techniques de personnalisation avancées
 * Configuration et application de mappages de cibles personnalisés
-* Identifiez l’utilisation JavaScript appropriée dans le workflow Campaign et pourquoi
+* Identifier l’utilisation appropriée de JavaScript dans le workflow Campaign et pourquoi
 * Application d’un code personnalisé pour manipuler les tables temporaires et le contexte du workflow
 * Validation et débogage de la logique de workflow
 * Application des paramètres de diffusion avancés
@@ -142,15 +142,15 @@ Vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Effectuer un test pratique**
+**Effectuer un test d’entraînement**
 
 {{practice-test}}
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -209,6 +209,6 @@ Vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

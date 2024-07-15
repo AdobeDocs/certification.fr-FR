@@ -1,6 +1,6 @@
 ---
 title: Certification professionnelle des professionnels de l’entreprise
-description: Découvrez comment devenir certifié en tant qu’Adobe [!DNL Advertising DSP] Professionnel de l’entreprise.
+description: Découvrez comment obtenir une certification en tant qu'Adobe  [!DNL Advertising DSP] Professionnel du métier.
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Advertising DSP] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Advertising DSP] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -85,7 +85,7 @@ Vous devez également connaître les outils et technologies suivants :
 * appliquer des concepts de procédure pour résoudre les problèmes liés à une campagne ;
 * Dans un scénario donné, gérez les intégrations avec les solutions intégrées à la plateforme.
 
-**Section 3 : Rapports et analyses (26 %)**
+**Section 3 : création de rapports et analyse (26 %)**
 
 * Dans un scénario, lisez les données dans la plateforme.
 * Dans un scénario, créez et lisez des rapports personnalisés
@@ -93,7 +93,7 @@ Vous devez également connaître les outils et technologies suivants :
 * Dans un scénario, évaluez les performances d’une campagne.
 * Appliquer les concepts de procédure pour attribuer des performances à une opération
 
-**Section 4 : Recommandations d’envoi pour les campagnes (10 %)**
+**Section 4 : Fourniture de recommandations pour les campagnes (10 %)**
 
 * Dans un scénario, proposez des mises à jour aux clients en fonction d’une campagne.
 * Dans un scénario, ajustez la stratégie de campagne en fonction des performances de la campagne.
@@ -114,32 +114,32 @@ Vous devez également connaître les outils et technologies suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
-**Section 1 : Configuration des campagnes**
+**Section 1 : configuration des campagnes**
 
 * [À propos de la gestion de l’audience dans [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [Présentation des fonctionnalités du stock dans [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [Présentation des fonctionnalités d’inventaire dans [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] Paramètres](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
-* [Paramètres d’emplacement](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
+* [Paramètres de placement](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
-**Section 2 : Exécution et optimisation des campagnes**
+**Section 2 : exécution et optimisation des campagnes**
 
-* [Comment [!DNL Advertising DSP] Optimisation des campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Comment [!DNL Advertising DSP] Optimise Vos Campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [À propos des objectifs personnalisés](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
-* [Bonnes pratiques pour configurer des campagnes de performances](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [ Bonnes pratiques pour configurer des campagnes de performances](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
 * [À propos de l’inventaire On Demand Premium](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [Reporting avec [!DNL Advertising] Canaux marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [Création de rapports avec  [!DNL Advertising] Canaux marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
-**Section 3 : Rapports et analyses**
+**Section 3 : création de rapports et analyse**
 
 * [Console web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**Section 4 : Recommandations d’approvisionnement pour les campagnes**
+**Section 4 : Fourniture de recommandations pour les campagnes**
 
-* [Comment [!DNL Advertising] DSP Optimise vos campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Comment [!DNL Advertising] DSP Optimise Vos Campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [À propos de la gestion des publicités dans [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 +++
@@ -195,6 +195,6 @@ Vous devez également connaître les outils et technologies suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

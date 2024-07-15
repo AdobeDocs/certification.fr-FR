@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre Adobe [!DNL Experience Platform] certification avant son expiration.
+description: Découvrez comment renouveler votre certification d'Adobe [!DNL Experience Platform] avant qu'elle n'expire.
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
@@ -8,12 +8,12 @@ badge: label="Renouvellement Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Renouveler votre Adobe [!DNL Experience Platform] certification
+# Renouvelez votre certification d&#39;Adobe [!DNL Experience Platform]
 
 Lorsque vous réussissez un examen de certification, votre certification est valide pendant deux ans.
 
@@ -21,7 +21,7 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 >[!IMPORTANT]
 >
->**Connectez-vous en premier :** Les liens suivants fonctionnent. **only** après un événement **connexion réussie** à la fonction [Système de gestion des informations d’identification Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Connectez-vous en premier :** Les liens suivants fonctionneront **uniquement** après une **connexion réussie** à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
@@ -32,6 +32,6 @@ Nous sommes heureux de vous annoncer que vous pouvez renouveler votre certificat
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.

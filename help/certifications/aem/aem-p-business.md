@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Parcours de certification pour Adobe [!DNL Experience Manager] Professionnel professionnel
+# Parcours de certification pour l’Adobe [!DNL Experience Manager] Professionnel Professionnel Professionnel
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
 >
->* **Cours :** Si vous commencez ou avez besoin d’une actualisation, prenez la variable [Cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications des concepts clés, aux présentations des produits et aux contrôles des connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Experience Manager](https://app.rockinfo.com/courses/240) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
 >
->* **Guide de préparation d’export :** La variable [Guide de préparation d’exportation](https://app.rockinfo.com/courses/122) fournit un chemin sur mesure à travers votre processus de préparation à l’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification.
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/122) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
 >
->_Si vous êtes invité à vous connecter au guide de préparation d’exportation, utilisez votre Adobe ID._
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -62,13 +62,13 @@ Vous devez disposer des éléments suivants :
 * Expérience d’au moins 0 à 12 mois avec les fonctionnalités AEM nécessaires pour impliquer les développeurs dans la recherche de solutions commerciales
 * Au moins 0 à 12 mois d’expérience lors de la configuration, de l’implémentation et de la gestion des tâches d’intégration continue/de déploiement continu
 
-Vous devriez être à l’aise avec Adobe Managed Services et Adobe [!DNL Experience Manager] as a Cloud Service et peuvent configurer Adobe [!DNL Experience Manager] les environnements et l’infrastructure.
+Vous devez être à l’aise avec Adobe Managed Services et l’Adobe as a Cloud Service [!DNL Experience Manager] et être en mesure de configurer les environnements et l’infrastructure d’Adobe [!DNL Experience Manager].
 
 En outre, vous devez disposer des éléments suivants :
 
 * La possibilité d’utiliser AEM produits pour gérer le contenu afin de générer des expériences numériques
 * Compréhension des modules présents
-* Présentation plus détaillée des modules tels que Sites, Ressources et Forms
+* Présentation plus détaillée des modules tels que Sites, Assets et Forms
 
 <br>
 
@@ -98,7 +98,7 @@ En outre, vous devez disposer des éléments suivants :
 * Dans un scénario, décrivez la méthode appropriée pour atteindre les objectifs de l’entreprise tout en respectant le budget et/ou la portée.
 * Identifier les moyens de lier les objectifs commerciaux à l’équipe de développement
 
-**Section 4 : Configuration et mise en oeuvre (13 %)**
+**Section 4 : Installation et mise en oeuvre (13 %)**
 
 * Identifier les bonnes pratiques AEM pour utiliser les composants de contenu
 * Dans un scénario, identifiez la mise en oeuvre correcte d’une fonctionnalité.
@@ -119,7 +119,7 @@ En outre, vous devez disposer des éléments suivants :
 
 +++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
 
-**Documents d&#39;étude**
+**Matériel d’étude**
 
 {{study-materials-intro}}
 
@@ -129,7 +129,7 @@ En outre, vous devez disposer des éléments suivants :
 
 [Suivez le cours Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guide de préparation d’exportation**
+**Guide de préparation d’export**
 
 {{exam-prep-guide}}
 
@@ -200,6 +200,6 @@ En outre, vous devez disposer des éléments suivants :
 
 ## Questions
 
-Afficher la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
