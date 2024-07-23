@@ -4,10 +4,10 @@ description: En savoir plus sur la  [!DNL Experience Cloud] certification à Ado
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '477'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,11 @@ ht-degree: 6%
 Découvrez la certification des Experience Cloud à Adobe et ce que la certification peut vous apporter.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!WARNING]
+>
+>Certains utilisateurs ont signalé avoir reçu une erreur lorsqu’ils tentaient de se connecter au système de gestion des informations d’identification Adobe, ce qui les empêchait de passer leur examen. Nous travaillons à résoudre ce problème. Les utilisateurs concernés seront contactés avec des informations supplémentaires.
+
 
 Le programme de certification de l’expérience numérique Adobe a été créé pour vous aider à prouver vos compétences dans les produits [!DNL Experience Cloud] de l’Adobe. Devenir Adobe certifié vous permet de mettre en valeur votre expertise et d’impressionner vos clients et employeurs.
 

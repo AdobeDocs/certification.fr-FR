@@ -1,7 +1,7 @@
 ---
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1842'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 <!--divider-->
 
 ## Intro {#intro}
+
+>[!WARNING]
+>
+>Certains utilisateurs ont signalé avoir reçu une erreur lorsqu’ils tentaient de se connecter au système de gestion des informations d’identification Adobe, ce qui les empêchait de passer leur examen. Nous travaillons à résoudre ce problème. Les utilisateurs concernés seront contactés avec des informations supplémentaires.
 
 Cette page fournit des informations sur la manière d’obtenir cette certification. Il comprend une description de l&#39;examen, du matériel d&#39;étude, des instructions étape par étape sur le processus de certification et comment renouveler votre certification.
 
