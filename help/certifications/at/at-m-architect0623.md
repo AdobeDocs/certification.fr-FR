@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Environnements :
 **Section 6 : Architecte, conception et implémentation [!DNL Adobe Target] (18 %)**
 
 * Sélectionnez la bonne mise en oeuvre de la requête Target (globale, confirmation de commande, hybride).
-Évaluation et conception d’une implémentation [!DNL Adobe Target]
+* Évaluation et conception d’une implémentation [!DNL Adobe Target]
 * Décrire l’implémentation de [!DNL Adobe Target] dans les applications mobiles natives
 
 **Section 7 : Dépannage (28 %)**
