@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -132,14 +132,6 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Différenciation du cas d’utilisation approprié pour les modes de déploiement
 * Définition de la configuration et de l’utilisation du groupe
 * Décrire les outils supplémentaires fournis par le cloud (téléchargement rapide de la base de données, déploiement du contenu, embranchement à l’aide de l’interface utilisateur)
-
-<br>
-
-### Questionnaire de préparation
-
-{{readiness}}
-
-[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
