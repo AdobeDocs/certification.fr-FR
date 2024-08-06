@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 5124ebdfc298becc8860046209c3e92d6ebb1379
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -329,4 +329,4 @@ Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous vous êtes conn
 
 Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com).

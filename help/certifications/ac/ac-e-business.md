@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -90,7 +90,7 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 * Démontrer la capacité d&#39;importer/exporter des entités d&#39;Adobe [!DNL Commerce]
 * Comprendre comment configurer le panier et le passage en caisse de manière native
 * Évaluer les méthodes de livraison natives disponibles dans l&#39;Adobe [!DNL Commerce] et comment elles s&#39;appliquent aux cas d&#39;utilisation courants
-* Découvrez comment créer et publier du contenu stylisé à l’aide des fonctions CMS d’Adobe [!DNL Commerce], y compris le créateur de pages
+* Découvrez comment créer et publier du contenu stylisé à l’aide des fonctionnalités CMS d’Adobe [!DNL Commerce], y compris le créateur de pages
 * Utilisation d’outils natifs pour gérer le cycle de vie des commandes
 * Démontrez la possibilité de configurer les différentes options de cadeau (cartes-cadeaux, emballage cadeau, envoi de messages).
 * Configuration et modification des emails transactionnels
@@ -224,4 +224,4 @@ En outre, vous devriez être à l’aise avec les technologies suivantes :
 
 Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com).

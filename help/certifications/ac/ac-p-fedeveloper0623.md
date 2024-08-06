@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,7 +120,7 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 **Section 5 : Configuration de l’administrateur et Créateur de pages (6 %)**
 
-* Démontrez la possibilité de personnaliser le Créateur de pages et le contenu CMS&quot;
+* Démontrer la possibilité de personnaliser le Créateur de pages et le contenu CMS&quot;
 * Application/planification d’un thème à une portée spécifique (site web, magasin, vue de magasin)
 * Application des modifications de conception aux catégories, aux produits et aux pages CMS à l’aide de la configuration d’administrateur
 * Description des étapes de personnalisation des emails transactionnels
@@ -228,4 +228,4 @@ En outre, vous devez faire preuve de connaissances sur les technologies suivante
 
 Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com){target="_blank"}.
+Autres questions ? [Contactez-nous](mailto:certif@adobe.com).
