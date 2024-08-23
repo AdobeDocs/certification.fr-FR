@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobe utilise l’outil d’analyse pour administrer les examens en ligne. Sur l
 >[!NOTE]
 >
 >Vous devez vous connecter au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"} avant de cliquer sur le bouton Examiner ci-dessous.
+
+>[!WARNING]
+>
+>Le programme de certification de l’expérience numérique Adobe se prépare pour les mises à niveau. Pour cette raison, les candidats ne peuvent actuellement pas planifier les rendez-vous aux examens qui auront lieu après le 26 septembre 2024. La planification revient à la normale une fois les mises à niveau terminées.
 
 <!--divider-->
 
