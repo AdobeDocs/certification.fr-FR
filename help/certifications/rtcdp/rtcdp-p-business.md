@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: ef8afa56b9e78e616f7949f302526e258721518b
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 ### Détails de l’examen {#exam-details}
 
 * Niveau : professionnel (0 à 12 mois d&#39;expérience)
-* Score de transmission : 28/50
+* Score de transmission : 33/50
 * Durée : 100 minutes
 * Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
 * Langues disponibles : anglais
@@ -54,7 +54,7 @@ ht-degree: 0%
 * Gestionnaire marketing
 * Analyste marketing de campagne
 * Analyste métier
-* Gestionnaire de campagnes
+* Personne gestionnaire de campagnes
 * Consultant de la plateforme de données clients
 * Consultant pour la conversion/l’optimisation
 * Propriétaire du produit marketing
