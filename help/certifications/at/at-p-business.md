@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/235) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>* **Nouveau cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Target](https://app.rockinfo.com/courses/273) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/235) fournit un chemin personnalisé tout au long du processus de préparation de l’examen de certification, y compris les documents dont vous aurez besoin pour réussir à obtenir cette certification.
+>
+>_Si vous êtes invité à vous connecter, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -134,6 +140,12 @@ Vous devez disposer des éléments suivants :
 **Effectuer un test d’entraînement**
 
 {{practice-test}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+[ {Cours sur les fondations Adobe Target](https://app.rockinfo.com/courses/273)
 
 **Guide de préparation d’export**
 

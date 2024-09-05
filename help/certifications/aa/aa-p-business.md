@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/145) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
+>Des ressources gratuites à la demande sont désormais disponibles pour vous aider à vous préparer à votre examen :
+>
+>* **Cours :** Si vous commencez ou avez besoin d’une actualisation, suivez le [cours sur les fondations Adobe Analytics](https://app.rockinfo.com/courses/263) pour accéder aux explications sur les concepts clés, les présentations produit et les vérifications de connaissances. Ce cours vous offrira une base de connaissances sur lesquelles vous pouvez vous baser dans votre parcours de certification.
+>
+>* **Guide de préparation de l’examen :** Le [Guide de préparation de l’examen](https://app.rockinfo.com/courses/145) fournit un chemin personnalisé tout au long du processus de préparation de l’examen, y compris les documents d’étude détaillés dont vous aurez besoin pour réussir votre examen.
+>
+>_Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
 
 ## Description de l’export {#exam-description}
 
@@ -128,6 +134,12 @@ Vous devez disposer d’un minimum de 3 mois d’expérience dans [!DNL Adobe An
 **Matériel d’étude**
 
 {{study-materials-intro}}
+
+**Suivre un cours**
+
+{{take-course}}
+
+[ {Cours sur les fondations Adobe Analytics](https://app.rockinfo.com/courses/263)
 
 **Guide de préparation d’export**
 
