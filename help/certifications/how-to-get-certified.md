@@ -4,9 +4,9 @@ description: Découvrez comment être certifié dans Adobe. Trouvez toutes les r
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ La plupart des renouvellements de certification sont **gratuits**. Pour les cert
 
 **Payer pour votre examen**
 
-Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre de bons de certification d’Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Vous pouvez payer votre examen de certification par bon ou carte de crédit. Pour acheter un bon d’examen, accédez à : [Centre de bons de certification d’Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous disposez d’une remise, elle est appliquée au passage en caisse.
 
@@ -82,7 +82,7 @@ Les partenaires Bronze et plus bénéficient de remises sur tous les examens et 
 
 **Autres remises**
 
-De plus, tous les candidats peuvent bénéficier d’une remise sur les achats en masse de 10 examens ou plus lorsqu’ils effectuent un achat via le [Centre de bons de certification pour Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+De plus, tous les candidats peuvent bénéficier d’une remise sur les achats en masse de 10 examens ou plus lorsqu’ils effectuent un achat via le [Centre de bons de certification pour Adobe](https://certification.adobe.com/certifications/vouchers).
 
 **Niveaux de remise en bloc**
 
@@ -94,6 +94,68 @@ Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offr
 | 25-49 | 25 % |
 | 50+ | 33 % |
 
+>[!TAB Bons]
+
+Le programme de certification de l’expérience numérique Adobe va passer à une nouvelle plate-forme cet automne ! Le nouveau portail de certification des Adobes offre une formation technique ainsi qu’une expérience utilisateur améliorée pour les candidats à la certification.
+
+Dans le cadre du portail, nous avons conçu un nouveau [Centre de bons d’Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, qui démarre le 23 septembre 2024. Ce nouveau système d’achat et de gestion des bons est plus robuste, plus facile à parcourir et offre des options de création de rapports améliorées aux administrateurs.
+
+Tous les bons que vous avez déjà achetés via Xvoucher seront disponibles sur le portail de certification Adobe dans les 72 heures suivant cette transition. Une fois connecté, accédez au [ Centre des bons d’Adobe ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} pour afficher l’historique des bons et des bons actifs, puis achetez de nouveaux bons.
+
+**Dates importantes à mémoriser :**
+
+**23 septembre 2024, 12 h 01 ET**
+* Les bons ne peuvent plus être achetés sur Xvoucher.
+* L’achat des bons sera disponible dans le [Centre des bons d’Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Les examens peuvent toujours être programmés à partir du [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**25 septembre 2024 à 8 h 00 ET**
+* Les bons de votre compte Xvoucher s’affichent dans le [Centre des bons d’Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**FAQ en un coup d’oeil**
+
++++Qu’advient-il des bons existants ?
+
+Tous les bons que vous avez déjà achetés via Xvoucher seront disponibles sur le portail de certification Adobe le 25 septembre 2024 à 8 h 00 de l’été. Vous pouvez toujours utiliser ces bons pour la planification des examens. Les nombres ne changeront pas même après la transition de Xvoucher.
+
++++
+
++++Comment acheter des bons sur le portail de certification Adobe ?
+
+Accédez au [Centre des bons d’Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} et ajoutez le nombre de bons souhaité à votre panier. Tant que vous êtes connecté avec l’e-mail de votre partenaire, la remise de votre partenaire sera appliquée.
+
+Pour une démonstration lors de l’achat d’un bon, visionnez cette [vidéo](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++Comment attribuer et gérer des bons pour mon équipe ?
+
+Cette [vidéo](https://video.tv.adobe.com/v/3434581){target="_blank"} fournit un aperçu détaillé des fonctionnalités d’administration du Centre de bons d’Adobe.
+
++++
+
++++Où puis-je consulter les bons de mon équipe ?
+
+Les bons de votre équipe seront visibles dans le [Centre des bons d’Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++Où les membres de mon équipe peuvent-ils afficher leurs bons attribués ?
+
+Les personnes peuvent afficher leurs bons attribués dans leur [compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification Adobe.
+
++++
+
++++Comment lancer l’intégration de ma commande dans le nouveau système ?
+
+Consultez la dernière question de notre [FAQ sur bon](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} : &quot;Quelle est la procédure de paiement avec un bon de commande ?&quot;
+
++++
+
+**Questions ?**
+
+Consultez la [FAQ sur Voucher](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} détaillée sur notre site web.
+
 >[!TAB Fournisseurs de certification]
 
 Le programme Adobe Digital Experience Certification Program travaille en partenariat avec des fournisseurs pour soutenir les initiatives et les objectifs du programme. Voici les vendeurs et leurs coordonnées :
@@ -102,7 +164,6 @@ Le programme Adobe Digital Experience Certification Program travaille en partena
 | ------- | ------- | ------- |
 | Creative | Système de gestion des badges | [Assistance](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Examiner | Tester le fournisseur de diffusion (uniquement le traitement en ligne) | [Email](mailto:support@examity.com){target="_blank"} ou 855-Examinity (855-392-6489) |
-| Xbon - Centre des bons de certification pour les Adobes | Centre de bons pour l’achat de bons individuels ou en vrac | [Email](mailto:support@xvoucher.com){target="_blank"} ou [Aide en ligne](https://help.xvoucher.com/hc/en-us) |
 
 Autres ressources du fournisseur :
 
@@ -123,69 +184,6 @@ Vidéos utiles :
 * [Comment replanifier votre rendez-vous de test](https://vimeo.com/394507149){target="_blank"}
 * [Comment annuler votre rendez-vous de test](https://vimeo.com/394507135){target="_blank"}
 * [Comment vous faire tester en ligne](https://vimeo.com/394506686){target="_blank"}
-
-FAQ sur le Centre des bons de certification d’Adobe (Xvoucher)
-
-+++Quand les bons d’examen expirent-ils ? Pendant combien de temps sont-ils bons ?
-
-Les bons d’examen d’Adobe expirent 12 mois après l’achat. Les bons ne peuvent pas être étendus au-delà de leur date d’expiration. Les inscriptions aux examens doivent être planifiées, payées et prises avant la date d’expiration du bon d’examen.
-
-+++
-
-+++Les bons peuvent-ils être remboursés ou crédités ?
-
-_Toutes les ventes sont finales._ Les retours et les remboursements ne sont pas acceptés. Les bons d’examen d’Adobe sont achetés à un niveau d’examen, et non pour des examens spécifiques, ce qui offre une certaine flexibilité.
-
-* Exemple : lorsque vous achetez 10 bons d’examen de niveau Adobe Certified Expert et que vous les distribuez, vous n’avez pas besoin de savoir à l’avance qui va passer l’examen d’expert.
-* Les administrateurs peuvent affecter le bon à un utilisateur et déterminer si le bon a été affiché, consommé ou à quel moment l’examen est programmé ou a eu lieu.
-
-+++
-
-+++Quels types de paiements sont acceptés ?
-
-Le paiement peut être effectué par (toutes les principales) cartes de crédit. Les paiements par carte de crédit nécessitent l’acceptation d’un accord de retour automatique à la ligne. Les différentes options de paiement sont les suivantes :
-
-* Wire, bon de commande ou ACH : créez un bon de commande dans le système Xvoucher qui peut être imprimé et envoyé au service des comptes créditeurs. Cette ordonnance sera approuvée à réception du transfert ou de la vérification de transfert de fil.
-* Carte de crédit : toutes les principales cartes de crédit sont acceptées.
-* XWallet : cela soustrait le montant de la commande de votre pool XWallet.
-
-+++
-
-+++Y a-t-il un nombre minimal ou maximal de bons que je peux acheter ?
-
-Non, il n’y a pas de minimum ou de maximum. Les achats des clients ne sont limités que par les fonds disponibles, comme une limite de carte de crédit ou le solde du compte bancaire pour les transferts bancaires.
-
-+++
-
-+++Combien de temps faudra-t-il pour accéder aux bons après ma commande ?
-
-Les bons seront disponibles immédiatement après l’achat si vous payez par carte de crédit ou par Xwallet.
-
-* Si vous effectuez votre achat vous-même, les codes de bons seront fournis à l’écran et par e-mail.
-* Si vous achetez pour d’autres personnes, connectez-vous à votre compte Xvoucher et distribuez les bons à vos utilisateurs finaux à partir de celui-ci.
-* Si vous payez par câble ou par commande, les bons de commande seront émis lorsque Xvoucher aura reçu les fonds.
-
-[Aide en ligne](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Comment accéder à mon compte Xvoucher ?
-
-Connectez-vous simplement à votre compte [ici](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Comment accéder à mon bon d’Adobe ?
-
-Une fois qu’un bon vous a été attribué, vous recevrez un courrier électronique de support@xvoucher.com avec un code de bon et des instructions sur la manière de l’échanger. Si vous n’avez pas reçu de courrier électronique, vérifiez votre dossier de messages indésirables. Si vous ne parvenez toujours pas à trouver l’email, vous pouvez vous connecter à votre compte Xvoucher.
-
-+++
-
-+++Les bons peuvent-ils être remboursés ou crédités ?
-
-Toutes les ventes sont finales. Les retours et les remboursements ne sont pas acceptés. Les bons d’examen d’Adobe sont achetés à un niveau d’examen, et non pour des examens spécifiques, ce qui offre une grande flexibilité.
-
-+++
 
 >[!TAB Gestion de votre profil de certification]
 
