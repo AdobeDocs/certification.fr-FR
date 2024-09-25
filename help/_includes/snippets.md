@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Payer par bon : pour acheter un bon d’examen, rendez-vous sur : Centre des bon
 
 **Achat d’un bon**
 
-Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, rendez-vous au [Centre de bons de certification d’Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, rendez-vous au [Centre de bons de certification d’Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Consultez ci-dessous pour obtenir des informations de réduction sur les bons.
 
 Tous les candidats peuvent bénéficier d’une remise sur les achats en masse de 10 examens ou plus lorsqu’ils effectuent un achat via le Centre de bons de certification pour les Adobes.
 
-Pour plus d’informations sur les bons, consultez la [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Pour plus d’informations sur les bons, consultez la [FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Remises**
 
@@ -143,7 +143,7 @@ Des remises en bloc sont disponibles :
 
 Remises pour les partenaires : les partenaires de niveau Bronze et plus reçoivent des remises sur tous les examens et classes de certification d’Adobe. Vous pouvez en savoir plus sur ces remises et sur la manière d’accéder aux avantages des partenaires sur le portail Partenaires en solution.
 
-Remises sur les bons : tous les candidats peuvent bénéficier d’une remise sur les achats en masse de 10 examens ou plus lorsqu’ils effectuent un achat via le Centre des bons de certification pour les Adobes.
+Remises sur les bons : tous les candidats peuvent bénéficier d’une remise sur les achats en masse de 10 examens ou plus lorsqu’ils effectuent un achat via le [Centre de bons de certification pour les Adobes](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offre ou remise.
 
@@ -183,7 +183,7 @@ Adobe utilise l’outil d’analyse pour administrer les examens en ligne. Sur l
 
 * **Planifiez, replanifiez ou annulez votre examen.** Notez que l’annulation et le rééchelonnement doivent être initiés avant 48 heures avant le rendez-vous prévu pour l’examen. Les candidats doivent modifier eux-mêmes ce rendez-vous.
 
-* **Payez pour votre examen.** Payez votre examen de certification soit par bon, soit par carte de crédit sur le portail des examens. Pour acheter un bon d’examen, accédez à : [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
+* **Payez pour votre examen.** Payez votre examen de certification soit par bon, soit par carte de crédit sur le portail des examens. Pour acheter un bon d’examen, accédez à : [Centre de bons de certification d’Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Vous pouvez appliquer le code du bon lorsque vous planifiez votre examen. Si vous avez une remise, elle s’applique au passage en caisse.
 
 * **Effectuez votre examen.**
 
