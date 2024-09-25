@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ Adobe utilise l’outil d’analyse pour administrer les examens en ligne. Sur l
 
 * **Effectuez votre examen.**
 
->[!NOTE]
->
->Vous devez vous connecter au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"} avant de cliquer sur le bouton Examiner ci-dessous.
+**Remarque :** Vous devez vous connecter au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"} avant de cliquer sur le bouton Examiner ci-dessous.
 
 >[!WARNING]
 >
