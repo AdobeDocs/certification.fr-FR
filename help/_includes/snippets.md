@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Cette page fournit des informations sur la manière d’obtenir cette certification. Il comprend une description de l&#39;examen, du matériel d&#39;étude, des instructions étape par étape sur le processus de certification et comment renouveler votre certification.
+
+>[!NOTE]
+>Mise à jour du programme de certification d’expérience numérique Adobe
+>
+>**Le programme de certification de l’expérience numérique Adobe est en cours de réalisation !** Le nouveau portail de certification Adobe sera lancé le 22 octobre 2024. Notez ces **dates importantes :**
+>
+>* **14 octobre 2024 :** La planification des examens, les tests d’entraînement et l’accès au système de gestion des informations d’identification Adobe ne seront pas disponibles pendant la migration des données vers le nouveau portail.
+>* **22 octobre 2024 :** Le portail de certification Adobe est lancé ! Votre historique de certification sera disponible sur le nouveau portail, ainsi que toutes les informations sur les examens, les ressources d’étude et les fonctionnalités de planification. Vos scores de test d’entraînement et rapports d’entraînement remontant au 1er janvier 2021 seront également disponibles dans votre compte .
+>
+>Revenez ici le 22 octobre pour plus d’informations sur la connexion au nouveau portail de certification d’Adobe !
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Nos cours gratuits à la demande vous aident à vous préparer à votre examen. 
 ## Guide de préparation d’exportation {#exam-prep-guide}
 
 Le guide gratuit de préparation d’examen vous permet de suivre un parcours personnalisé tout au long de votre processus de préparation à l’examen, y compris les documents dont vous aurez besoin pour réussir votre examen.
+
+## Renouvellements suspendus {#renewals-hold}
+
+>[!WARNING]
+>
+>Le programme de certification de l’expérience numérique Adobe sera bientôt en train d’être modifié. Si vous êtes en train de renouveler votre certification, veuillez noter que le **13 octobre 2024 est la dernière date à avoir terminé votre renouvellement.**

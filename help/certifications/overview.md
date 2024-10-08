@@ -4,10 +4,10 @@ description: En savoir plus sur la  [!DNL Experience Cloud] certification à Ado
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '552'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 6%
 Découvrez la certification des Experience Cloud à Adobe et ce que la certification peut vous apporter.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Mise à jour du programme de certification d’expérience numérique Adobe
+>
+>**Le programme de certification de l’expérience numérique Adobe est en cours de réalisation !** Le nouveau portail de certification Adobe sera lancé le 22 octobre 2024. Notez ces **dates importantes :**
+>
+>* **14 octobre 2024 :** La planification des examens, les tests d’entraînement et l’accès au système de gestion des informations d’identification Adobe ne seront pas disponibles pendant la migration des données vers le nouveau portail.
+>* **22 octobre 2024 :** Le portail de certification Adobe est lancé ! Votre historique de certification sera disponible sur le nouveau portail, ainsi que toutes les informations sur les examens, les ressources d’étude et les fonctionnalités de planification. Vos scores de test d’entraînement et rapports d’entraînement remontant au 1er janvier 2021 seront également disponibles dans votre compte .
+>
+>Revenez ici le 22 octobre pour plus d’informations sur la connexion au nouveau portail de certification d’Adobe !
 
 Le programme de certification de l’expérience numérique Adobe a été créé pour vous aider à prouver vos compétences dans les produits [!DNL Experience Cloud] de l’Adobe. Devenir Adobe certifié vous permet de mettre en valeur votre expertise et d’impressionner vos clients et employeurs.
 

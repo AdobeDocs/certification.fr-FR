@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # Renouveler votre certification {#renew}
+
+{{renewals-hold}}
 
 Pour maintenir votre certification d&#39;Adobe, vous devez la renouveler tous les 2 ans. Si vous ne renouvellez pas votre certification avant qu’elle n’expire, vous devrez à nouveau passer l’examen de certification complet pour être récertifié.
 
