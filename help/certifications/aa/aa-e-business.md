@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 1c42b43504436e797f4d3a68c4438ed0d956fc14
+source-git-commit: 21c5386c5979cc9446e206f49a4d128f4aab4450
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->**Nouvelles ressources d’étude disponibles :** Le [Guide de préparation d’examen](https://app.rockinfo.com/courses/220) fournit un chemin personnalisé tout au long de votre processus de préparation d’examen de certification, y compris les documents dont vous aurez besoin pour obtenir cette certification. _Si vous êtes invité à vous connecter au guide de préparation de l’examen, utilisez votre Adobe ID._
-
-## Description de l’export {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Détails de l’examen {#exam-details}
+## Détails de l’examen {#exam-details}
 
 * Niveau : expert (1 à 3 ans d’expérience)
 * Score de transmission : 31/50
@@ -38,198 +28,6 @@ ht-degree: 0%
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E208 (anglais), AD0-E208-J (japonais)
 
-<br>
-
-### Audience prévue {#intended-audience}
-
-* Marketing numérique
-* Analystes professionnels
-* Consultants commerciaux
-* Analystes de données
-* Analystes Web
-* Analystes numériques
-* Analystes multimédia/marketing
-* Propriétaires et gestionnaires de produits
-* Analystes de l’interface utilisateur
-* Spécialistes des conversions/optimisations
-
-<br>
-
-### Expérience minimale {#minimum-experience}
-
-Vous devez disposer des éléments suivants :
-
-* Expérience de 2 ans dans Digital Analytics avec un contexte marketing
-* Présentation détaillée des mesures et dimensions Digital Analytics
-* Une compréhension de la valeur commerciale des technologies web
-* La possibilité de traduire les besoins de l’entreprise en mesures ou IPC
-* La possibilité de créer et d’interpréter des rapports
-* La capacité de communiquer les résultats et de proposer une ligne de conduite basée sur l&#39;analyse des rapports
-* Aider les clients à comprendre comment extraire/extraire les informations de leur choix (par exemple, les aider à définir leurs questions commerciales)
-* Comprendre le fonctionnement de la technologie et comprendre l’implémentation d’un client (par exemple, où se trouvent les données, comment les collecter, comment elles sont suivies) d’un point de vue fonctionnel
-* Au moins un an d’expérience pratique [!DNL Adobe Analytics]
-* Compréhension de base de la manière dont Digital Analytics filtre/structure les données
-* Une prise de conscience de l’intégration de [!DNL Adobe Analytics] avec d’autres solutions d’Adobe
-
-En outre, vous devez connaître les technologies et environnements suivants :
-
-* Client FTP
-* Fonctionnalités Workspace actuelles et autres options de création de rapports en dehors de Workspace (ex. [!DNL Adobe Analytics] planification de projets et planification de rapports)
-* Outils de débogage pertinents pour [!DNL Adobe Analytics] (moniteur de paquets tel qu’un Adobe Debugger, outils de développement de navigateur, Charles)
-* Admin Console (Admin Console de suite de rapports Analytics et Admin Console Experience Cloud)
-* Principes de base/bases d’Adobe Launch
-* Applications, SPA, compréhension de base du site web
-* Interface utilisateur des services mobiles
-* Adobe Help Center
-* Options d&#39;export des données (ex. clic droit pour exporter, téléchargement .csv, flux de données, extraction de Data Warehouse)
-
-<br>
-
-### Objectifs et portée de l’examen {#exam-objectives}
-
-{{exam-objectives}}
-
-**Section 1 : Présentation d’Analytics dans l’écosystème de Adobe Experience Cloud (10 %)**
-
-* Maîtriser les connaissances sur l’utilisation de l’Adobe Experience Cloud ID
-* Faire la démonstration de la compréhension d’Adobe Launch
-* Faire la démonstration de la compréhension des intégrations communes dans l’écosystème de Adobe Experience Cloud
-
-**Section 2 : création de rapports et intégration de tableaux de bord pour les projets (30 %)**
-
-* Tenir compte des avantages de l’utilisation d’un outil de reporting basé sur un scénario donné
-* Comparer la visualisation Abandons et Flux et les types de variables appropriés pour la création de rapports
-* Appliquez le processus pour planifier des projets et des Data Warehouse.
-* Appliquez le processus pour partager des tableaux de bord Projets et Rapports et analyses pour différents utilisateurs et/ou groupes.
-* Application du processus de définition des alertes
-* Appliquez le processus pour rechercher les dimensions/composants.
-* Appliquez le processus pour créer une visualisation
-* Dans un scénario, déterminez l’élément à utiliser.
-* Appliquez le processus pour créer, configurer et utiliser des Fiches d’évaluation mobiles.
-
-**Section 3 : Segmentation et mesures calculées (22 %)**
-
-* Déterminer comment développer et configurer des segments
-* appliquer le processus pour partager des segments avec d’autres membres de l’entreprise ;
-* Comparaison de segments
-* Application de segments aux projets et aux composants
-* appliquer le processus de génération de mesures calculées et/ou segmentées ;
-
-**Section 4 : Connaissances générales de l’outil et résolution des problèmes (12 %)**
-
-* Analyse des rapports et identification des problèmes de qualité des données
-* Définissez différents types de dimensions et de paramètres existant dans [!DNL Adobe Analytics] (eVars, props et événements).
-* Déterminer comment importer et extraire des données dans [!DNL Adobe Analytics]
-* Identification des informations à partir des URL marketing
-
-**Section 5 : Administration (10 %)**
-
-* Appliquez le processus de configuration des rapports [!UICONTROL Canal marketing] avec les règles de traitement [!UICONTROL Canal marketing]
-* Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles
-* Appliquez le processus de configuration d’une suite de rapports virtuelle en fonction d’un segment existant.
-* Utilisation de l’interface utilisateur d’administration du [!UICONTROL  gestionnaire de flux de données]
-* Compréhension de la gouvernance des données
-
-<br>
-
-### Questionnaire de préparation
-
-{{readiness}}
-
-[Répondre au questionnaire de préparation en ligne](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
-
-<br>
-
-## Comment obtenir une certification {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++Étape 1 : Création de votre compte
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
-
-**Matériel d’étude**
-
-{{study-materials-intro}}
-
-**Guide de préparation d’export**
-
-{{exam-prep-guide}}
-
-[Afficher le guide de préparation d’examen](https://app.rockinfo.com/courses/220)
-
-+++
-
-<br>
-
-+++Étape 3 : Planifier et payer l’examen
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Étape 4 : avant et après l’examen
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Étape 5 : passer l&#39;examen
-
-{{about-certification-exam}}
-
-## Planifier ou passer l’examen AD0-E208 (en anglais)
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Accédez à Portail d’examen - Examen d’anglais
-</span>
-</a>
-
-## Planification ou examen AD0-E208-J (japonais)
-
-{{Japanese-exam-details}}
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d'examen - Examen japonais
-</span>
-</a>
-
-+++
-
-<br>
-
-+++Étape 6 : Gestion de vos badges
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Renouvellement de votre certification
-
-{{renewing-intro}}
-
-<br>
-
 ## Questions
 
-Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com).
-
-
+[Nous contacter](mailto:certif@adobe.com)
