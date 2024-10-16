@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ Le guide gratuit de préparation d’examen vous permet de suivre un parcours pe
 
 ## Renouvellements suspendus {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Le programme de certification de l’expérience numérique Adobe sera bientôt en train d’être modifié. Si vous êtes en train de renouveler votre certification, veuillez noter que le **13 octobre 2024 est la dernière date à avoir terminé votre renouvellement.**
+>Le programme de certification de l’expérience numérique Adobe simplifie le processus de renouvellement de la certification afin de rendre votre expérience plus pratique. Pendant la mise en oeuvre de ce nouveau processus, **les renouvellements sont temporairement suspendus.**
+>
+>* Pour ceux dont les certifications expirent entre le 14 octobre 2024 et le 30 septembre 2025, votre certification est prolongée jusqu’au 1er octobre 2025.
+>
+>* Les détails concernant le processus de renouvellement mis à jour seront partagés au début du mois de mars, afin que tous les titulaires de la certification aient le temps de renouveler leurs certifications.
+
+<!--divider-->
+
+## Questions {#questions}
+
+**Questions ?** [ ](mailto:certif@adobe.com)

@@ -4,9 +4,9 @@ description: En savoir plus sur la  [!DNL Experience Cloud] certification à Ado
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 5%
 
 ---
@@ -75,8 +75,4 @@ Tous les détails sur chaque certification de produit disponible sont répertori
 
 Recherchez-vous des certifications d’Adobe [!DNL Creative Cloud] ? Visitez le site web [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} pour découvrir comment obtenir une certification dans les programmes Creative Cloud.
 
-## Questions
-
-Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com).
+{{questions}}

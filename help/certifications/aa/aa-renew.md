@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1864'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
@@ -18,313 +18,319 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Votre certification d&#39;Adobe est valable deux ans. Si vous approchez de ce délai de deux ans, il est temps de renouveler votre certification pour qu’elle reste active.
+<!--
 
-Sélectionnez tout d’abord le niveau approprié dans l’onglet ci-dessous (Professionnel, Expert ou Principal). Révisez ensuite soigneusement ce que vous devrez faire pour renouveler votre certification.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Veillez à prévoir suffisamment de temps pour répondre à toutes les exigences avant l’expiration de votre certification.
-
-Il est important de noter que si votre certification expire, vous devrez reprendre l&#39;examen de certification, qui n&#39;est PAS gratuit.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Connectez-vous en premier :** Les liens suivants fonctionneront **uniquement** après une **connexion réussie** à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Pour partager un lien :** Si vous souhaitez partager le lien vers un examen ou une évaluation de renouvellement avec un collègue, veuillez créer un lien vers la page de renouvellement globale de l’examen, et non vers l’URL de l’examen lui-même, afin d’éviter tout problème de connexion.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB Professionnel]
+>[!TAB Professional]
 
-+++Adobe [!DNL Analytics] développeur professionnel
++++Adobe [!DNL Analytics] Developer Professional
 
-## Pour renouveler, vous devez disposer de la certification active suivante :
+## You must have the following active certification to renew:
 
-* Adobe [!DNL Analytics] développeur professionnel
+* Adobe [!DNL Analytics] Developer Professional
 
-## Instructions pour renouveler votre certification :
+## Instructions for renewing your certification:
 
-* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
-* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
-* **Étape 3** : réussir l’examen
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Préparer
+### Get ready
 
-**Détails de l’examen :**
+**Exam details:**
+  
+* Passing Score: 30/40
+* Time: 80 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Developer Professional certification
+* Exam ID: AD5-E831
 
-* Score de transmission : 30/40
-* Durée : 80 minutes
-* Coût : GRATUIT/non-traité
-* Diffusion : On-demand
-* Langues disponibles : anglais
-* Condition préalable requise : certification Adobe Analytics Developer Professional actuelle (non expirée)
-* ID d’examen : AD5-E831
+**Scope and objectives**
 
-**Portée et objectifs**
+Section 1: Analytics in the Adobe Experience Cloud Eco-system (13%)
 
-Section 1 : Analyses dans l’écosystème de Adobe Experience Cloud (13 %)
+* Identify features and capability of Adobe Experience Cloud ID.
+* Identify uses for Adobe Launch.
+* Identify how to enable / support Adobe Analytics tags in the Adobe Experience Cloud Eco-system.
 
-* Identifiez les fonctionnalités de Adobe Experience Cloud ID.
-* Identifiez les utilisateurs d’Adobe Launch.
-* Identifiez la manière d’activer/de prendre en charge les balises Adobe Analytics dans Adobe Experience Cloud Eco-system.
+Section 2: Analytics Strategy and Design based on a SDR (13%)
 
-Section 2 : Stratégie et conception d’Analytics basées sur un DTS (13 %)
+* Given a Solution Design Reference, identify which data objects have to be populated.
+* Given a part of a Tech Spec document, identify how to implement the data capture.
 
-* Lors de la définition d’une référence de conception de solution, identifiez les objets de données à renseigner.
-* Dans le cadre d’un document de spécifications techniques, identifiez la mise en oeuvre de la capture de données.
+Section 3: Analytics Implementation and Configuration (30%)
 
-Section 3 : Mise en oeuvre et configuration d’Analytics (30 %)
+* Identify the steps to deploy Adobe Analytics Code.
+* Identify functions of minimal deployment code for Analytics tracking.
+* Identify the steps to configure various components within Adobe Analytics UI.
+* Identify functions of Adobe Analytics report suite and variable settings.
+* Identify the characteristics of a data layer and data layer values.
+* Identify App Measurement functions for tracking features such as link tracking and e-commerce tracking.
 
-* Identifiez les étapes de déploiement du code Adobe Analytics.
-* Identifiez les fonctions du code de déploiement minimal pour le suivi Analytics.
-* Identifiez les étapes de configuration des différents composants dans l’interface utilisateur d’Adobe Analytics.
-* Identifiez les fonctions des paramètres des variables et des suites de rapports Adobe Analytics.
-* Identifiez les caractéristiques d’une couche de données et les valeurs de couche de données.
-* Identifiez les fonctions App Measurement pour le suivi des fonctionnalités telles que le suivi des liens et le suivi du commerce électronique.
+Section 4: Tag Management Systems (17%)
 
-Section 4 : Systèmes Tag Management (17 %)
+* Identify if requirements have been met using tag audits.
+* Identify the steps to configure website tagging with Adobe Launch.
+* Given a scenario, identify how to enable, modify, and troubleshoot extensions in Adobe Launch.
+* Identify how to create rules and data elements.
 
-* Déterminez si les exigences ont été respectées à l’aide d’audits des balises.
-* Identifiez les étapes de configuration du balisage de site web avec Adobe Launch.
-* Dans un scénario donné, identifiez comment activer, modifier et résoudre les problèmes liés aux extensions dans Adobe Launch.
-* Identifiez comment créer des règles et des éléments de données.
+Section 5: Components of Adobe Analytics (7%)
 
-Section 5 : Composants d’Adobe Analytics (7 %)
+* Identify the functions of Adobe Analytics API (data feed, warehouse, data sources, reports).
+* Identify the characteristics of processing rules and mobile services.
 
-* Identifiez les fonctions de l’API Adobe Analytics (flux de données, entrepôt, sources de données, rapports).
-* Identifiez les caractéristiques des règles de traitement et des services mobiles.
+Section 6: Testing, Validation, and Troubleshooting (20%)
 
-Section 6 : Test, validation et dépannage (20 %)
+* Identify the meaning of common JavaScript errors.
+* Identify the meaning of common Adobe Analytics variables errors.
+* Given a scenario, identify testing and debugging validation best practices that should be followed.
+* Identify how to track an Adobe Analytics server call across its lifecycle (i.e. From beacon request to showing up in the report.)
 
-* Identifiez la signification des erreurs JavaScript courantes.
-* Identifiez la signification des erreurs de variables Adobe Analytics courantes.
-* Dans un scénario, identifiez les bonnes pratiques de test et de débogage de validation qui doivent être suivies.
-* Identifiez le suivi d’un appel au serveur Adobe Analytics tout au long de son cycle de vie (c.-à-d. de la demande de balise à l’affichage dans le rapport.)
+## Get prepped
 
-## Effectuer la préparation
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
-
-Voici quelques suggestions de ressources pour vous aider à préparer :
+Here are some suggested resources to help you prepare:
 
 **Section 1**
 
-* [Cookies Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
-* [ Ajoutez un élément de données, une règle et une bibliothèque](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
-* [Ajouter le code incorporé](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Analytics Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
+* [Add a data element, a rule and a library](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
-**Section 2**
+**Section 2** 
 
-* [Validation de votre règle de chargement de page globale dans Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
-* [Référence d’objet satellite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [Validating your Global Page Load Rule in Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [Satellite object reference](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
 **Section 3**
 
-* [appendVisitorIDsTo (suivi inter-domaines)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=fr){target="_blank"}
+* [appendVisitorIDsTo (Cross-Domain Tracking)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html){target="_blank"}
 * [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
 
 **Section 4**
 
-* [Ajouter le code incorporé](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
-* [Présentation de l’extension Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=fr){target="_blank"}
-* [Référence d’Opt-in](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Adobe Experience Cloud Identity Service extension overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
+* [Opt-in Reference](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **Section 5**
 
-* [Guide d’exportation Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [Fonctionnement des règles de traitement](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-* [API Adobe Analytics](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Analytics Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [How processing rules work](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics APIs](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
 **Section 6**
 
-* [Résolution des problèmes de mise en oeuvre de JavaScript](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
-* [Changement d’environnements de balises avec l’Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
-* [Paramètres de requête de collecte de données](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=fr){target="_blank"}
+* [Troubleshoot JavaScript implementation](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Switch tag environments with the Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Data collection query parameters](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
 
-## Renouveler votre certification
+## Renew your certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous vous êtes connecté au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien Adobe Analytics Developer Professional Renewal Exam - AD5-E831 ci-dessous.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Adobe Analytics Developer Professional Renewal Exam - AD5-E831 link below.
 
-* [ Échange de renouvellement professionnel pour les développeurs Adobe Analytics - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
+* [Adobe Analytics Developer Professional Renewal Exam - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Analytics] Professionnel Professionnel
++++Adobe [!DNL Analytics] Business Practitioner Professional
 
-## Vous devez posséder la certification **active** suivante pour renouveler à l’aide de cette méthode :
+## You must have the following **active** certification to renew using this method:
 
-* Adobe [!DNL Analytics] professionnel
+* Adobe [!DNL Analytics] Business Practitioner Professional
 
-## Instructions pour renouveler votre certification :
+## Instructions for renewing your certification:
 
-* **Étape 1** : connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis retour à cette page
-* **Étape 2** : vérifiez les objectifs et les ressources de l’examen
-* **Étape 3** : réussir l’examen
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## Préparer
+## Get ready
 
-**Détails de l’examen :**
+**Exam details:**
+  
+* Passing Score: 27/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Business Practitioner Professional certification
+* Exam ID: AD5-E832
 
-* Score de transmission : 27/35
-* Durée : 70 minutes
-* Coût : GRATUIT/non-traité
-* Diffusion : On-demand
-* Langues disponibles : anglais
-* Condition préalable : certification professionnelle actuelle (non expirée) du professionnel de l’entreprise Adobe Analytics
-* ID d’examen : AD5-E832
+**Scope and objectives**
 
-**Portée et objectifs**
+Section 1: Business Analysis
 
-Section 1 : Analyse des activités
+* 1.1 Given a business need/question, identify the most appropriate reporting strategy to perform an analysis 4%
+* 1.2 Analyze data to answer business questions and recommend new optimization hypotheses 4%
+* 1.3 Identify conversion funnels (as a concept to understand business analysis) 4%
+* 1.4 Interpret Solution Design Reference (SDR) to determine what data is available in reports 4%
+* 1.5 Analyze report data to summarize and draw conclusions 6%
+* 1.6 Investigate outliers and anomalies in reports 4%
 
-* 1.1 Compte tenu des besoins et des questions de l’entreprise, identifiez la stratégie de création de rapports la plus appropriée pour effectuer une analyse 4 %
-* 1.2 Analyser les données pour répondre aux questions de l’entreprise et recommander de nouvelles hypothèses d’optimisation 4 %
-* 1.3 Identification des entonnoirs de conversion (concept pour comprendre l’analyse commerciale) 4 %
-* 1.4 Interprétation de la référence de conception de solution (DTS) pour déterminer les données disponibles dans les rapports 4 %
-* 1.5 Analyse des données du rapport pour résumer et tirer des conclusions 6 %
-* 1.6 Recherche des valeurs aberrantes et des anomalies dans les rapports 4 %
+Section 2: Reporting and Dashboarding for Projects
 
-Section 2 : Création de rapports et tableau de bord pour les projets
+* 2.1 Consider the advantages of using a reporting tool based on a given scenario 2%
+* 2.2 Compare fallout and flow visualization and appropriate variable types for reporting 4%
+* 2.3 Apply the process to schedule Projects, and Data Warehouse 2%
+* 2.4 Apply the process to share Projects and Reporting and Analytics dashboards for different users and/or groups (sharing has changed) 2%
+* 2.5 Apply the process to set Alerts 2%
+* 2.6 Apply the process to lookup the dimensions/components (pre-defined and custom) 4%
+* 2.7 Apply the process to create a visualization 6%
+* 2.8 Given a scenario, determine the appropriate item to use 6%
+* 2.9 Apply the process to create, configure, and use mobile scorecards 2%
 
-* 2.1 Tenir compte des avantages de l’utilisation d’un outil de reporting basé sur un scénario donné 2 %
-* 2.2 Comparaison de la visualisation Abandons et Flux et des types de variables appropriés pour la création de rapports 4 %
-* 2.3 Appliquez le processus pour planifier des projets et Data Warehouse 2 %
-* 2.4 Application du processus de partage des tableaux de bord Projets et Rapports et analyses pour différents utilisateurs et/ou groupes (le partage a changé) 2 %
-* 2.5 Application du processus pour définir les alertes 2 %
-* 2.6 Appliquez le processus pour rechercher les dimensions/composants (prédéfinis et personnalisés) 4 %
-* 2.7 Appliquez le processus pour créer une visualisation à 6 %
-* 2.8 Dans le cas d’un scénario, déterminez l’élément approprié pour utiliser 6 %.
-* 2.9 Appliquez le processus pour créer, configurer et utiliser des Fiches d’évaluation mobiles 2 %
+Section 3: Segmentation and Calculated Metrics
 
-Section 3 : Segmentation et mesures calculées
+* 3.1 Determine how to develop and configure segments using best practices 6%
+* 3.2 Apply the process to share segments with others in the organization 4%
+* 3.3 Compare segments 4%
+* 3.4 Apply segments to Projects and Components 4%
+* 3.5 Apply the process to generate calculated and/or segmented metrics 4%
 
-* 3.1 Déterminer comment développer et configurer des segments à l’aide des bonnes pratiques 6 %
-* 3.2 Application du processus pour partager des segments avec d’autres membres de l’organisation 4 %
-* 3.3 Comparaison des segments 4 %
-* 3.4 Application de segments aux projets et aux composants 4 %
-* 3.5 Appliquez le processus pour générer des mesures calculées et/ou segmentées 4 %
+Section 4: General Tool Knowledge and Troubleshooting
 
-Section 4 : Connaissances générales de l’outil et dépannage
+* 4.1 Analyze reports and differentiate a data quality issue vs an implementation issue 4%
+* 4.2 Define different types of dimensions and parameters existing in Adobe Analytics (evars, props and events) 4%
+* 4.3 Determine how to bring data in and out of Adobe Analytics 2%
+* 4.4 Identify information from marketing URLs 2%
 
-* 4.1 Analyse des rapports et différenciation d’un problème de qualité des données par rapport à un problème d’implémentation 4 %
-* 4.2 Définition de différents types de dimensions et de paramètres existant dans Adobe Analytics (evars, props et événements) 4 %
-* 4.3 Déterminer comment importer et exporter des données dans Adobe Analytics 2 %
-* 4.4 Identifier les informations provenant des URL marketing 2 %
+Section 5: Administration
 
-Section 5 : Administration
+* 5.1 Apply the process to configure the Marketing Channel reports with Marketing Channel processing rules 2%
+* 5.2 Apply the process to configure Classification Importer and Rule Builder 2%
+* 5.3 Apply the process to configure a virtual report suite based upon an existing segment 2%
+* 5.4 Use the Data Feed Manager Admin UI 2%
+* 5.5 Understanding of data governance 2%
 
-* 5.1 Application de la procédure de configuration des rapports Canal marketing avec les règles de traitement Canal marketing 2 %
-* 5.2 Appliquez le processus de configuration de l’importateur de classifications et du créateur de règles 2 %
-* 5.3 Appliquez le processus de configuration d’une suite de rapports virtuelle en fonction d’un segment existant : 2 %
-* 5.4 Utilisation de 2 % de l’interface utilisateur d’administration du Gestionnaire de flux de données
-* 5.5 Compréhension de la gouvernance des données 2 %
+## Get prepped
 
-## Effectuer la préparation
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
-
-Voici quelques suggestions de ressources pour vous aider à préparer :
+Here are some suggested resources to help you prepare:
 
 **Section 1**
 
-* [Aperçu de l’analyse des contributions](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
-* [Vue d’ensemble d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
-* [Entonnoir de conversion](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
-* [Dimensions d’entrée](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+* [Contribution Analysis overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+* [Conversion Funnel](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Entry dimensions](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **Section 2**
 
-* [Partager des projets](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-* [Présentation des composants](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [Générateur d’alertes](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
-* [Création dʼune carte de performance mobile](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+* [Share projects](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [Components overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [Create a mobile scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Section 3**
 
-* [Comparaison de segments](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
-* [Créer des mesures](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
-* [Utilisation de filtres de liste déroulante dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
-* [Baliser les segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [Segment comparison](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [Build metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Using Drop-Down Filters in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+* [Tag segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **Section 4**
 
-* [Résolution des problèmes liés aux pics et aux baisses de données](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [Événements personnalisés](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=fr)
-* [Téléchargement de fichiers PDF ou CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [Guide du débutant sur les paramètres d’URL](https://www.semrush.com/blog/url-parameters/)
+* [Troubleshoot spikes and drops in data](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Custom events](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+* [Download PDF or CSV files](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+* [A Beginner's Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
 
 **Section 5**
 
-* [Règles de traitement des canaux marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-* [Présentation des classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-* [Créer des suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
-* [FAQ sur les réglementations de confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+* [Processing rules for Marketing Channels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Classifications overview](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+* [Create virtual report suites](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
+* [Privacy regulations FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
-## Renouveler votre certification
+## Renew your certification
 
-Vérifiez que vous avez suivi l’étape 1 ci-dessus et que vous vous êtes connecté au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"} en premier. Ensuite, pour renouveler votre certification, cliquez sur le lien AD5-E832 Adobe Analytics Business Practice Renewal Exam (AD5-E832) ci-dessous.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) link below.
 
-* [AD5-E832 Examen de renouvellement professionnel du professionnel du professionnel du professionnel Adobe Analytics ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Cet examen est gratuit, il est ouvert et il n&#39;est pas traité. Vous pouvez passer l&#39;examen jusqu&#39;à trois fois. Si vous échouez après la troisième tentative, vous devez attendre **30 jours** pour réessayer. Si vous ne vous y conformez pas, votre certification risque d’être révoquée.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB Expert et Principal]
+>[!TAB Expert and Master]
 
-## Vous devez avoir au moins une des certifications **active** suivantes pour renouveler à l’aide de cette méthode :
+## You must have at least one of the following **active** certification to renew using this method:
 
-* Expert développeur d’Adobe Analytics
-* Expert spécialiste des affaires Adobe Analytics
-* Principal Adobe Analytics Architect
+* Adobe Analytics Developer Expert
+* Adobe Analytics Business Practitioner Expert
+* Adobe Analytics Architect Master
 
-## Instructions pour renouveler votre certification Adobe Analytics
+## Instructions for renewing your Adobe Analytics certification
 
-* **Étape 1 :** Connexion réussie à [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, puis revenez à cette page
-* **Etape 2 :** Etudier les cours en Experience League
-* **Étape 3 :** Choisissez l’une des options ci-dessous pour terminer votre renouvellement.
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **Option A :**
-Sélectionnez **trois cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **Option B :**
-Tout d’abord, sélectionnez **deux cours** pour terminer et réussir chaque évaluation de cours avec un score de 80 % ou plus. Les évaluations de cours sont gratuites, à la demande, non traitées et ouvertes. Vous pouvez répéter les cours jusqu’à ce que vous ayez réussi les évaluations à 80 %.
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  Ensuite, **envoyez un formulaire de référence client** validant votre travail en tant que personne certifiée par Adobe dirigeant, gérant et/ou participant à un projet de mise en oeuvre Adobe Experience Cloud. Ce formulaire affirme que vous avez participé à au moins 100 heures d’engagement de projet démontré pendant l’intervalle de 2 ans du renouvellement de certification.
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [Formulaire de référence client pour Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+   [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
-  Le programme de certification de l’expérience numérique Adobe vous avertira lorsque votre référence client aura été vérifiée. Si votre référence n’est pas acceptée, vous pouvez la soumettre à nouveau jusqu’à ce que vous réussissiez, tant qu’elle est antérieure à l’expiration de votre certification.
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->Si vous détenez plusieurs certifications Adobe Analytics Expert et Principal, remplissez les exigences de renouvellement pour une seule certification, et le reste sera renouvelé automatiquement.
+>If you hold multiple Adobe Analytics Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-### Cours et évaluations de cours pour les experts et les Principal :
+### Courses and Course Assessments for Expert and Master:
 
-| Cours d’expert et de Principal | Évaluation du cours |
+| Courses for Expert and Master | Course Assessment |
 | ------- | ------- |
-| [Adobe Analytics Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr){target="_blank"} | [MARC-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [Exporter et démocratiser les données Adobe Analytics - Leçon 5 et 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [MARC-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [Filtrage de vos données avec segmentation et dates personnalisées - Leçon 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr){target="_blank"} | [MARC-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [Mise en oeuvre guidée d’Analytics - Leçon 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=fr){target="_blank"} | [MARC-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [Mise en oeuvre et mesure de la recherche interne sur le site - Leçon 3 et 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [MARC-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [API Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [MARC-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA201){target="_blank"} |
+| [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA202){target="_blank"} |
+| [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA203){target="_blank"} |
+| [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA204){target="_blank"} |
+| [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA205){target="_blank"} |
+| [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 
 ### Questions
 
-Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

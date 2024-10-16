@@ -3,9 +3,9 @@ title: Présentation de la certification des Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+{{questions}}

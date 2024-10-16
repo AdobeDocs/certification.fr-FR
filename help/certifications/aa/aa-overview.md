@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,5 @@ ht-degree: 0%
 
 * [Architect](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+{{questions}}
+

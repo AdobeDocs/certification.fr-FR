@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Campaign Clas
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '25'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,5 @@ ht-degree: 0%
 
 * [Architect](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-Consultez la page [Renouveler votre certification](/help/certifications/renew.md) pour voir si une option de renouvellement est disponible pour ce produit.
+{{questions}}
+
