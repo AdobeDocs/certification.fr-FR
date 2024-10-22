@@ -1,7 +1,7 @@
 ---
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '2012'
+source-wordcount: '2228'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,66 @@ ht-degree: 0%
 
 ## Intro {#intro}
 
-Cette page fournissait auparavant des informations sur la manière d’obtenir cette certification. Consultez la note pour obtenir des informations mises à jour.
-
 >[!NOTE]
 >
->**Le programme de certification de l’expérience numérique Adobe est en cours de réalisation !** Le nouveau portail de certification Adobe sera lancé le 22 octobre 2024. Notez ces **dates importantes :**
->
->* **14 octobre 2024 :** La planification des examens, les tests d’entraînement et l’accès au système de gestion des informations d’identification Adobe ne seront pas disponibles pendant la migration des données vers le nouveau portail.
->* **22 octobre 2024 :** Le portail de certification Adobe est lancé ! Votre historique de certification sera disponible sur le nouveau portail, ainsi que toutes les informations sur les examens, les ressources d’étude et les fonctionnalités de planification. Vos scores de test d’entraînement et rapports d’entraînement remontant au 1er janvier 2021 seront également disponibles dans votre compte .
->
->Revenez ici le 22 octobre pour plus d’informations sur la connexion au nouveau portail de certification d’Adobe !
+>**Le programme de certification de l’expérience numérique Adobe a été déplacé vers le nouveau [portail de certification de l’Adobe](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+
+## Qu’y a-t-il sur le nouveau portail de certification Adobe ?
+
+Tout ce que vous trouviez sur cette page, et plus encore !
+
+* Planification de l’examen
+* Détails de l’examen
+* Ressources d&#39;étude
+* Tests pratiques
+* Validation et partage de badge
+* Nouveaux cours de formation technique
+* La nouvelle communauté d’expérience numérique Adobe
+* Un nouveau tableau de bord interactif pour suivre et partager votre cours et votre activité de certification
+
+## FAQ
+
+### Où est-ce que je commence ?
+
+[Connectez-vous aujourd’hui](https://certification.adobe.com/){target="_blank"} et vérifiez vos données de profil.
+
+Ensuite, explorez nos [cours](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifications](https://certification.adobe.com/certifications){target="_blank"}, [communauté](https://certification.adobe.com/community/){target="_blank"} et [tableau de bord personnalisable](https://certification.adobe.com/user/dashboard){target="_blank"}.
+
+### Comment planifier un examen ?
+
+Vous pouvez désormais planifier un examen sur le portail de certification Adobe.
+
+1. Accédez au [catalogue de certification](https://certification.adobe.com/certifications){target="_blank"}.
+2. Recherche de votre examen
+3. Accédez à l&#39;onglet **Planifier ou passer un examen** .
+4. Dans la section **Planifier et payer votre examen** , vous trouverez le lien vers la page d’examen.
+5. Cliquez sur le bouton **Planifier l’examen** .
+
+### Où puis-je trouver mon historique de certification ?
+
+Vos certifications actives ont déjà été migrées vers [votre compte](https://certification.adobe.com/user/certifications){target="_blank"} sur le portail de certification Adobe. Certains aspects de votre compte peuvent ne pas encore être entièrement renseignés lors de la migration des données utilisateur restantes. Merci pour votre patience !
+
+### Où puis-je trouver mes bons ?
+
+Vos bons (y compris ceux transférés depuis Xvoucher) s’affichent dans [votre compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification Adobe.
+
+### Où est mon badge de certification ?
+
+Votre badge est désormais disponible sur le portail de certification Adobe.
+
+1. Accédez à **Mon compte** > [Réalisations](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Recherchez le widget **certifications actives** .
+
+* Pour afficher la page de vérification de votre badge, cliquez sur le bouton **Partager** . À partir de cette page, vous pouvez partager sur les médias sociaux.
+
+* Pour télécharger votre badge, cliquez sur l’ **image miniature de badge**.
+
+### Questions ?
+
+Affichez les [vidéos pratiques](https://certification.adobe.com/#){target="_blank"} au bas de notre page d’accueil, consultez notre [FAQ](https://certification.adobe.com/support/faq){target="_blank"} ou [contactez-nous](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Nous sommes ravis que vous découvriez la nouvelle page d’accueil du programme de certification de l’expérience numérique Adobe et que vous découvriez nos nouvelles fonctionnalités !
+
 
 <!--divider-->
 
@@ -259,6 +309,8 @@ Le guide gratuit de préparation d’examen vous permet de suivre un parcours pe
 >* Pour ceux dont les certifications expirent entre le 14 octobre 2024 et le 30 septembre 2025, votre certification est prolongée jusqu’au 1er octobre 2025.
 >
 >* Les détails concernant le processus de renouvellement mis à jour seront partagés au début du mois de mars, afin que tous les titulaires de la certification aient le temps de renouveler leurs certifications.
+>
+>**Pour obtenir les informations les plus récentes, rendez-vous sur le nouveau [portail de certification d’Adobe](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"}.**
 
 <!--divider-->
 
