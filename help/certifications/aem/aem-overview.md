@@ -3,9 +3,9 @@ title: Présentation de la certification des Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -18,22 +18,22 @@ Si vous recherchez des informations sur le renouvellement de votre certification
 
 **Professionnel**
 
-* [Professionnel](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [Développeur (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [Développeur (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [Développeur principal (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [Fondations Techniques](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [Professionnel](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional) <!--AD0-E126-->
+* [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-professional) <!--AD0-E123-->
+* [Développeur (Assets)](https://certification.adobe.com/certification/assets-developer-professional) <!--AD0-E129-->
+* [Développeur principal (Forms)](https://certification.adobe.com/certification/backend-developer-professional) <!--AD0-E127-->
+* [Fondations Techniques](https://certification.adobe.com/certification/technical-foundations-professional) <!--AD0-E132-->
 
 **Expert**
 
-* [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [OpsDev](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* [Développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Migration des Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Professionnel (Sites)](https://certification.adobe.com/certification/sites-business-practitioner-expert) <!--AD0-E121-->
+* [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-expert) <!--AD0-E134-->
+* [OpsDev](https://certification.adobe.com/certification/aem-devops-engineer-expert) <!--AD0-E124-->
+* [Développeur (Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert) <!--AD0-E125-->
+* [Migration des Cloud Service](https://certification.adobe.com/certification/cloud-service-migration-expert) <!--AD0-E136-->
 
 **Principal**
 
-* [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [Architecte (Sites)](https://certification.adobe.com/certification/sites-architect-master) <!--AD0-E117-->
 
 {{questions}}

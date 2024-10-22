@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Campaign Stan
 solution: Campaign, Campaign Standard
 version: Standard
 exl-id: db58c266-9c21-4739-9824-49b9557319eb
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '19'
+source-wordcount: '21'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 **Expert**
 
-* [Professionnel](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
-* [Développeur](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
+* [Professionnel](https://certification.adobe.com/certification/business-practitioner-expert?%2Fcertification%2Fbusiness-practitioner-expert) <!--AD0-E307-->
+* [Développeur](https://certification.adobe.com/certification/campaign-standard-developer-expert) <!--AD0-E306-->
 
 {{questions}}
 
