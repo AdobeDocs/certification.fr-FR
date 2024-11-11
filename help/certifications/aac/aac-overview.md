@@ -4,7 +4,7 @@ description: Présentation des options de certification pour l’Adobe Advertisi
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 2%
@@ -19,8 +19,8 @@ Adobe offre plusieurs certifications pour les professionnels d’Advertising.  C
 
 **Professionnel**
 
-* [Professionnel (Recherche)](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional) <!--AD0-E501-->
-* [Professionnel (DSP)](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional) <!--AD0-E502-->
+* [Professionnel (Recherche)](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional){target="_blank"} <!--AD0-E501-->
+* [Professionnel (DSP)](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional){target="_blank"} <!--AD0-E502-->
 
 ## Ressources
 
