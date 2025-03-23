@@ -2,9 +2,9 @@
 title: Présentation de la certification Campaign Standard
 description: Présentation des options de certification pour Adobe Campaign Standard
 solution: Campaign, Campaign Standard
-version: Standard
+version: Campaign Standard
 exl-id: db58c266-9c21-4739-9824-49b9557319eb
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 92f6bb8abb8932e90208745584bcfb1d149ba64e
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
