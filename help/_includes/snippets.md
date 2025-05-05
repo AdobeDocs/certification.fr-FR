@@ -120,7 +120,7 @@ Pour trois raisons, vous devez disposer d’une Adobe ID :
 
 <!--divider-->
 
-## Documents d&#39;étude {#study-materials-intro}
+## Documents d'étude {#study-materials-intro}
 
 Vous n’êtes pas tenu de suivre la formation avant de passer l’examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l’examen. Une combinaison de formation et d’expérience sur le terrain réussie est essentielle pour vous fournir le référentiel nécessaire pour réussir l’examen.
 
@@ -154,13 +154,13 @@ Pour passer le test d’entraînement :
 
 <!--divider-->
 
-## Planifier et payer l&#39;examen {#schedule-and-pay}
+## Planifier et payer l'examen {#schedule-and-pay}
 
 >[!NOTE]
 >
 >Certaines de cette section ne fonctionneront qu’après vous être connecté au [système de gestion des informations d’identification d’Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Veuillez prendre un moment pour vous connecter maintenant.
 
-**** Exam delivery
+**&#x200B;**&#x200B;Exam delivery
 
 Adobe utilise un fournisseur appelé Examen pour administrer les examens planifiés et traités. Tous les nouveaux examens de certification sont traités. Les examens de renouvellement sont à la demande et non traités.
 
@@ -236,7 +236,7 @@ Remarque : Les remises en bloc ne peuvent pas être combinées à une autre offr
 
 <!--divider-->
 
-## A propos de l&#39;examen de certification {#about-certification-exam}
+## A propos de l'examen de certification {#about-certification-exam}
 
 Adobe utilise l’outil d’analyse pour administrer les examens en ligne. Sur le portail d’examen, vous pouvez :
 

@@ -18,7 +18,7 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 
 * [Professionnel](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
-* [<!--AD0-E129--> du développeur (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"}
+* &lbrack;<!--AD0-E129--> du développeur (Assets)&rbrack;(https://certification.adobe.com/certification/assets-developer-professional){target="_blank"}
 * [Développement back-end (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Fondements techniques](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
 
@@ -27,7 +27,7 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 * [Professionnel (Sites)](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
-* [<!--AD0-E125--> du développeur (Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"}
+* &lbrack;<!--AD0-E125--> du développeur (Forms)&rbrack;(https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"}
 * [Migration Cloud Service ](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
 
 **Principal**

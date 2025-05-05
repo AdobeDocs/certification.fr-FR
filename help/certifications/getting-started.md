@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Le programme de certification de l’expérience digitale Adobe a été déplacé vers le nouveau portail de certification de l’Adobe [](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+>**Le programme de certification de l’expérience digitale Adobe a été déplacé vers le nouveau portail de certification de l’Adobe [&#128279;](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
 
 ## Que contient le nouveau portail de certification des Adobes ?
 
