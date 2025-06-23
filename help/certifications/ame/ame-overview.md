@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Marketo Engag
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 **Professionnel**
 
 * [Professionnel certifié](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
+* [Professionnel certifié - Japonais](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
 
 **Expert**
 
 * [Professionnel](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-->
+* [Professionnel - Japonais](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-J-->
 
 **Principal**
 

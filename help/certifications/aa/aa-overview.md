@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 **Expert**
 
 * [Professionnel](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Professionnel - Japonais](https://certification.adobe.com/certification/analytics-business-practitioner-expert)<!--AD0-E208-J-->
 * [Développeur](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [Développeur - Japonais](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **Principal**
 
