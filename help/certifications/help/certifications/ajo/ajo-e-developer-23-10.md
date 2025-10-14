@@ -137,11 +137,11 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 **Section 2 : Journey Orchestration**
 
-* [ Guide AJO, Parcours, expressions, suivi et surveillance ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [&#x200B; Guide AJO, Parcours, expressions, suivi et surveillance &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
 **Section 3 : Offer decisioning**
 
-* [ Guide AJO, gestion des décisions, référence API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [&#x200B; Guide AJO, gestion des décisions, référence API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
 **Section 4 : création de contenu**
 
@@ -150,7 +150,7 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 **Section 5 : modélisation des données**
 
-* [ Guide AJO, configuration, audiences, profils et identité, gestion des données](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [&#x200B; Guide AJO, configuration, audiences, profils et identité, gestion des données](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 * [Experience Platform, jeux de données, guide des connecteurs Source, Tutorials API, guide du service d’identité Platform, interface utilisateur de segmentation, Tutorials d’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
 +++

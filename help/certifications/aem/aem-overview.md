@@ -32,7 +32,7 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [DevOps - Japonais](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-J-->
 * [&#128279;](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} du développeur (Forms)<!--AD0-E125-->
-* [Migration Cloud Service ](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
+* [Migration Cloud Service &#x200B;](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
 
 **Principal**
 

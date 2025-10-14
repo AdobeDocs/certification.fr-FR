@@ -66,5 +66,5 @@ ht-degree: 21%
 
 >[!MORELIKETHIS]
 >
->* [ certifications techniques professionnelles ](professional.md)
+>* [&#x200B; certifications techniques professionnelles &#x200B;](professional.md)
 >* [Principal des certifications techniques](master.md)
