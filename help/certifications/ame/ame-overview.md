@@ -4,9 +4,9 @@ description: Présentation des options de certification pour Adobe Marketo Engag
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+source-git-commit: 9865a312cd2941538ae9596ede241fb722824181
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,7 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 
 **Principal**
 
-* [Architecte - NOUVEAU](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [Architecte - Expire Le 15 Novembre 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [Architecte](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
 
 {{questions}}
 
