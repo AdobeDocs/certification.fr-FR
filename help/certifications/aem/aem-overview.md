@@ -17,9 +17,9 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 **Professionnel**
 
 * [Professionnel - NOUVEAU](https://certification.adobe.com/certification/business-practitioner-professional-v2/539){target="_blank"} <!--AD0-E138-->
-* [ Professionnel - Expire Le 24 Janvier 2026](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
+* [&#x200B; Professionnel - Expire Le 24 Janvier 2026](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
-* [](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} du développeur (Assets)<!--AD0-E129-->
+* [&#128279;](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} du développeur (Assets)<!--AD0-E129-->
 * [Développement back-end (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Fondements techniques](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
 * [Bibliothécaire numérique](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} (veuillez noter que cette certification n&#39;est pas prise en compte dans les exigences des partenaires.) <!--AD0-E143-->
@@ -32,8 +32,8 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [DevOps - Japonais](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-J-->
-* [](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} du développeur (Forms)<!--AD0-E125-->
-* [Migration Cloud Service ](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
+* [&#128279;](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} du développeur (Forms)<!--AD0-E125-->
+* [Migration Cloud Service &#x200B;](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
 
 **Principal**
 
