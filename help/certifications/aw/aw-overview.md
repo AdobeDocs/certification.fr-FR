@@ -30,7 +30,7 @@ _Notez que les informations d’identification qualifiées ne sont pas une certi
 **Expert**
 
 * [Développement (principal)](https://certification.adobe.com/certification/core-developer-expert){target="_blank"} <!--AD0-E907-->
-* [Connecteur amélioré AEM ](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
+* [Connecteur amélioré AEM &#x200B;](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
 
 {{questions}}
 
