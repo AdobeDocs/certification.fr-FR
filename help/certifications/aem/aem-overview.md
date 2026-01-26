@@ -3,9 +3,9 @@ title: Présentation de la certification Experience Manager
 description: Présentation des options de certification pour Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: c65a72d11c5f52ba13e41c60dc38314a5555be1c
+source-git-commit: 716bc7ce8e1b1f3ca5b71056bccac926bf5b8039
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,9 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 
 **Professionnel**
 
-* [Professionnel - NOUVEAU](https://certification.adobe.com/certification/business-practitioner-professional-v2/539){target="_blank"} <!--AD0-E138-->
-* [&#x200B; Professionnel - Expire Le 24 Janvier 2026](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
+* [Professionnel](https://certification.adobe.com/certification/business-practitioner-professional-v2/539){target="_blank"} <!--AD0-E138-->
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
-* [&#128279;](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} du développeur (Assets)<!--AD0-E129-->
+* [](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} du développeur (Assets)<!--AD0-E129-->
 * [Développement back-end (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Fondements techniques](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
 * [Bibliothécaire numérique](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} (veuillez noter que cette certification n&#39;est pas prise en compte dans les exigences des partenaires.) <!--AD0-E143-->
@@ -32,8 +31,8 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 * [Développeur (Sites)](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [DevOps - Japonais](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-J-->
-* [&#128279;](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} du développeur (Forms)<!--AD0-E125-->
-* [Migration Cloud Service &#x200B;](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
+* [](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} du développeur (Forms)<!--AD0-E125-->
+* [Migration Cloud Service ](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
 
 **Principal**
 
