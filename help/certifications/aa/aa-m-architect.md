@@ -1,79 +1,79 @@
 ---
-title: Certification des Principal architectes
-description: Découvrez comment devenir certifié en tant que Principal  [!DNL Adobe Analytics] Architect.
+title: Certification de Principal d’architecte
+description: Découvrez comment obtenir une certification en tant que Principal d [!DNL Adobe Analytics] architecte.
 solution: Analytics
 product: Analytics
 level: Experienced
-role: Data Architect,Developer
-badge: label="Exam AD0-E207" type="neutral"
+role: Developer
+badge: label="Examen AD0-E207" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Parcours de certification pour le Principal architecte [!DNL Adobe Analytics]
+# Parcours de certification pour [!DNL Adobe Analytics] Principal d’architecte
 
 >[!NOTE]
 >
->**Le programme de certification de l’expérience numérique Adobe a été déplacé vers le nouveau [portail de certification de l’Adobe](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+>**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
 
-## Qu’y a-t-il sur le nouveau portail de certification Adobe ?
+## Que contient le nouveau portail de certification Adobe ?
 
-Tout ce que vous trouviez sur cette page, et plus encore !
+Tout ce que vous trouviez sur cette page, et bien plus encore !
 
-* Planification de l’examen
+* Planification des examens
 * Détails de l’examen
-* Ressources d&#39;étude
+* Ressources d’étude
 * Tests pratiques
-* Validation et partage de badge
+* Validation et partage de badges
 * Nouveaux cours de formation technique
-* La nouvelle communauté d’expérience numérique Adobe
-* Un nouveau tableau de bord interactif pour suivre et partager votre cours et votre activité de certification
+* La nouvelle communauté d’expérience digitale Adobe
+* Un nouveau tableau de bord interactif pour suivre et partager vos activités de cours et de certification
 
-## FAQ
+## Questions fréquentes
 
-### Où est-ce que je commence ?
+### Par où commencer ?
 
 [Connectez-vous aujourd’hui](https://certification.adobe.com/){target="_blank"} et vérifiez vos données de profil.
 
 Ensuite, explorez nos [cours](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifications](https://certification.adobe.com/certifications){target="_blank"}, [communauté](https://certification.adobe.com/community/){target="_blank"} et [tableau de bord personnalisable](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-### Comment planifier un examen ?
+### Comment dois-je planifier un examen ?
 
-Vous pouvez désormais planifier un examen sur le portail de certification Adobe.
+Vous pouvez maintenant programmer un examen sur le portail de certification Adobe.
 
-1. Accédez au [catalogue de certification](https://certification.adobe.com/certifications){target="_blank"}.
-2. Recherche de votre examen
-3. Accédez à l&#39;onglet **Planifier ou passer un examen** .
-4. Dans la section **Planifier et payer votre examen** , vous trouverez le lien vers la page d’examen.
-5. Cliquez sur le bouton **Planifier l’examen** .
+1. Accédez au [Catalogue de certification](https://certification.adobe.com/certifications){target="_blank"}.
+2. Trouvez votre examen
+3. Accédez à l’onglet **Planifier ou passer un examen**.
+4. Dans la section **Planifier et payer votre examen**, vous trouverez le lien de la page d&#39;examen.
+5. Cliquez sur le bouton **Planifier l’examen**.
 
 ### Où puis-je trouver mon historique de certification ?
 
-Vos certifications actives ont déjà été migrées vers [votre compte](https://certification.adobe.com/user/certifications){target="_blank"} sur le portail de certification Adobe. Certains aspects de votre compte peuvent ne pas encore être entièrement renseignés lors de la migration des données utilisateur restantes. Merci pour votre patience !
+Vos certifications actives ont déjà été migrées vers [votre compte](https://certification.adobe.com/user/certifications){target="_blank"} sur le portail de certification Adobe. Certains aspects de votre compte ne sont peut-être pas encore entièrement renseignés pendant que nous migrons vos données utilisateur restantes. Merci de votre patience !
 
 ### Où puis-je trouver mes bons ?
 
-Vos bons (y compris ceux transférés depuis Xvoucher) s’affichent dans [votre compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification Adobe.
+Vos bons (y compris ceux transférés depuis Xvoucher) apparaîtront dans [votre compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification Adobe.
 
 ### Où est mon badge de certification ?
 
-Votre badge est désormais disponible sur le portail de certification Adobe.
+Votre badge est maintenant disponible sur le portail de certification Adobe.
 
-1. Accédez à **Mon compte** > [Réalisations](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
-2. Recherchez le widget **certifications actives** .
+1. Accédez à **Mon compte** > [Succès](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Recherchez le widget **certifications actives**.
 
-* Pour afficher la page de vérification de votre badge, cliquez sur le bouton **Partager** . À partir de cette page, vous pouvez partager sur les médias sociaux.
+* Pour afficher la page de vérification de votre badge, cliquez sur le bouton **Partager**. À partir de cette page, vous pouvez partager sur les médias sociaux.
 
-* Pour télécharger votre badge, cliquez sur l’ **image miniature de badge**.
+* Pour télécharger votre badge, cliquez sur l’**image miniature du badge**.
 
 ### Questions ?
 
-Affichez les [vidéos pratiques](https://certification.adobe.com/#){target="_blank"} au bas de notre page d’accueil, consultez notre [FAQ](https://certification.adobe.com/support/faq){target="_blank"} ou [contactez-nous](https://certification.adobe.com/support/contactus){target="_blank"}.
+Consultez les [vidéos pratiques](https://certification.adobe.com/#){target="_blank"} au bas de notre page d’accueil, consultez notre [FAQ](https://certification.adobe.com/support/faq){target="_blank"} ou [contactez-nous](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Nous sommes ravis que vous découvriez la nouvelle page d’accueil du programme de certification de l’expérience numérique Adobe et que vous découvriez nos nouvelles fonctionnalités !
+Nous sommes ravis que vous découvriez la nouvelle page d’accueil du programme de certification en expérience digitale Adobe et que vous découvriez nos nouvelles fonctionnalités !
