@@ -1,29 +1,29 @@
 ---
-title: Certification d’experts
-description: Découvrez comment devenir un Adobe certifié  [!DNL Journey Optimizer] Développeur expert.
+title: Certification Expert
+description: Découvrez comment devenir un expert certifié Adobe [!DNL Journey Optimizer] Developer.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E606" type="neutral"
+badge: label="Examen AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# Parcours de certification pour l&#39;expert développeur [!DNL Journey Optimizer] Adobe
+# Parcours de certification pour l’expert en développement Adobe [!DNL Journey Optimizer]
 
 {{intro}}
 
 >[!NOTE]
 >
->Il s’agit de l’examen d’expert des développeurs [!DNL Journey Optimizer] le plus récent Adobe (AD0-E606). Si vous avez déjà commencé à étudier ou que vous avez planifié l’[ancienne version](ajo-e-developer.md), vous devez la terminer d’ici le 22 décembre 2023.
+>Il s’agit du dernier examen d’expert en développement Adobe [!DNL Journey Optimizer] (AD0-E606).
 
 
-## Description de l’export {#exam-description}
+## Description de l’examen {#exam-description}
 
 {{exam-description}}
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
 ### Détails de l’examen {#exam-details}
 
-* Niveau : expert (1 à 3 ans d’expérience)
-* Score de transmission : 33/50
-* Durée : 100 minutes
-* Diffusion : système de traitement en ligne (nécessite un accès à la caméra)
-* Langues disponibles : anglais
+* Niveau : Expert (1-3 ans d&#39;expérience)
+* Note De Passage : 33/50
+* Heure : 100 minutes
+* Diffusion : en ligne surveillée (nécessite un accès caméra)
+* Langues disponibles : Français
 * Coût : 225 $ (global) / 150 $ (Inde)
 * ID d’examen : AD0-E606
 
@@ -47,14 +47,14 @@ ht-degree: 1%
 * Ingénieur de données
 * Architecte de solution
 * Architecte d’entreprise
-* Développeur d’automatisation marketing
-* Développeur CDP
+* Développeur de l’automatisation du marketing
+* Développeur ou développeuse CDP
 * Architecte CDP
 * Gestionnaire de décision
-* Développeur de campagne
-* Consultant en matière de délivrabilité
+* Développeur Campaign
+* Consultant en délivrabilité
 * Spécialiste de la segmentation RTCDP
-* Architecte de Campaign
+* Architecte Campaign
 * Spécialiste du Parcours client
 * Développeur mobile / Développeur web
 
@@ -62,9 +62,9 @@ ht-degree: 1%
 
 ### Expérience minimale {#minimum-experience}
 
-Au minimum, les candidats prêts à devenir experts du développement Adobe Journey Optimizer doivent posséder au moins un an d’expérience dans l’utilisation de divers systèmes de CDP et d’automatisation du marketing. Ils doivent également être en mesure de guider entièrement le développement/la mise en oeuvre ; résoudre les problèmes liés aux parcours, connaître les limites et les barrières du produit, utiliser du code avancé, définir des modèles, créer des actions personnalisées et connaître les bonnes pratiques.
+Les candidats prêts à devenir experts en développement Adobe Journey Optimizer doivent posséder au moins un an d’expérience dans la collaboration avec divers systèmes d’automatisation du marketing et de CDP. Ils doivent également être en mesure de guider le développement/la mise en œuvre à partir de zéro ; de résoudre les problèmes liés aux parcours, de connaître les limites et les mécanismes de sécurisation du produit, d’utiliser du code avancé, de définir des modèles, de créer des actions personnalisées et de connaître les bonnes pratiques.
 
-Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats souhaitant devenir des experts certifiés sont recommandés pour suivre une formation ou une expérience préalable sur Adobe Experience Platform ou Real-Time Customer Data Profile en plus de la formation Adobe Journey Optimizer.
+Adobe Journey Optimizer est optimisé par Experience Platform. Les candidats qui souhaitent devenir des experts certifiés sont invités à suivre une formation ou à acquérir une expérience préalable sur Adobe Experience Platform ou le profil de données client en temps réel en plus de la formation Adobe Journey Optimizer.
 
 <br>
 
@@ -75,39 +75,39 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 **Section 1 : Administration et configuration (20 %)**
 
 * Identifier les autorisations nécessaires pour effectuer diverses tâches
-* Décrire le concept de l’environnement de test et la manière dont les données peuvent être utilisées au sein des unités opérationnelles
-* Faire la démonstration d’une compréhension de l’administration des canaux
+* Décrivez le concept du sandbox et comment les données peuvent être utilisées dans toutes les unités opérationnelles
+* Démontrer une compréhension de l’administration des canaux
 * Déterminer l’application appropriée des événements/actions/sources de données
-* Déterminer quand utiliser des API spécifiques à AJO : ralentissement, limitation, limitation, suppression, copie d’objet, exécution de messages interactifs
+* Déterminez quand utiliser des API spécifiques à AJO (limitation, plafonnement, suppression, copie d’objet, exécution de messages interactifs).
 
 **Section 2 : Journey Orchestration (22 %)**
 
-* Dans un scénario, ciblez les clients sur un parcours à plusieurs canaux/à plusieurs étapes
+* Selon un scénario, ciblez les clients sur un parcours à plusieurs canaux et étapes
 * Interprétation des rapports et débogage des mesures de performances
-* Dans un scénario, déterminez les cas d’utilisation appropriés pour un type de parcours
-* Préparer les cas de test (par exemple, expérimentation ou parcours multicanal)
+* Dans un scénario donné, déterminez les cas d’utilisation appropriés pour un type de parcours
+* Préparer les cas de test (par exemple, expérimentation ou parcours multicanal).
 
-**Section 3 : Offer decisioning (16 %)**
+**Section 3 : Offer Decisioning (16 %)**
 
-* Faire la démonstration d’une compréhension de la création et de la gestion des offres et des composants
-* Montrer comment utiliser les profils de test pour exécuter la simulation d&#39;offres
-* Expliquer la différence entre Offer Hub et l’API Edge
-* Appliquez le processus pour créer des décisions
-* Appliquez le processus pour ajouter des offres sur différents canaux.
+* Comprendre la création et la gestion des offres et des composants
+* Montrer comment utiliser les profils de test pour exécuter la simulation des offres
+* Expliquez la différence entre Offer Hub et l’API Edge
+* Appliquer le processus pour créer des décisions
+* Appliquez le processus pour ajouter des offres sur différents canaux
 
 **Section 4 : création de contenu (22 %)**
 
-* Montrer comment créer des emails, des SMS, des messages in-app et des notifications push
-* Interprétation des fonctions d’assistance et de la syntaxe de personnalisation pour indiquer ce qui s’afficherait
-* démontrer une compréhension de la validation, du BAT, du débogage et de la publication d’un parcours ;
+* Découvrez comment créer des e-mails, des SMS, des messages d’application et des notifications push.
+* Interprétez les fonctions d’assistance et la syntaxe de personnalisation pour afficher ce qui serait affiché
+* Démontrer une compréhension de la validation, du BAT, du débogage et de la publication d’un parcours
 
-**Section 5 : Modélisation des données (18 %)**
+**Section 5 : Modélisation Des Données (18 %)**
 
-* Différenciation entre les schémas de type de profil et d’événement
-* expliquer comment configurer des sources de données et l’ingestion de données ;
-* Expliquer la différence entre les schémas, les jeux de données et le schéma d’union
+* Différenciation des schémas de profil et de type d’événement
+* Explication de la configuration des sources de données et de l’ingestion des données
+* Expliquez la différence entre schéma, jeux de données et schéma d’union
 * Explication du profil et des identités
-* Dans un scénario, déterminez le service de segmentation approprié.
+* Selon un scénario, déterminez le service de segmentation approprié
 
 <br>
 
@@ -115,7 +115,7 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 {{how-to-get-certified-intro}}
 
-+++Étape 1 : Création de votre compte
++++Étape 1 : créer votre compte
 
 {{create-your-account}}
 
@@ -123,41 +123,41 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 <br>
 
-+++Étape 2 : Préparez-vous à votre examen avec ces documents d&#39;études gratuits
++++Étape 2 : Préparez votre examen avec ces documents d&#39;étude gratuits
 
-**Matériel d’étude**
+**Documents d&#39;étude**
 
 {{study-materials-intro}}
 
 **Section 1 : Administration et configuration**
 
-* [Experience Platform, Contrôle d’accès, Guide des environnements de test](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=fr){target="_blank"}
-* [Guide AJO, configuration, canal SMS, Parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Experience Platform, Contrôle D’Accès, Guide Des Sandbox](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=fr){target="_blank"}
+* [Guide AJO, Configuration, canal SMS, Parcours](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 * [API AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Section 2 : Journey Orchestration**
 
-* [&#x200B; Guide AJO, Parcours, expressions, suivi et surveillance &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Guide AJO, Parcours, expressions, suivi et surveillance](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
-**Section 3 : Offer decisioning**
+**Section 3 : Offer Decisioning**
 
-* [&#x200B; Guide AJO, gestion des décisions, référence API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Guide AJO, Gestion des décisions, référence d’API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
 **Section 4 : création de contenu**
 
 * [Guide AJO, canal SMS, confidentialité, configuration, Parcours, expressions, gestion de contenu, suivi et surveillance, canal de notification push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr){target="_blank"}
+* [Tutoriels Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr){target="_blank"}
 
-**Section 5 : modélisation des données**
+**Section 5 : Modélisation des données**
 
-* [&#x200B; Guide AJO, configuration, audiences, profils et identité, gestion des données](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Experience Platform, jeux de données, guide des connecteurs Source, Tutorials API, guide du service d’identité Platform, interface utilisateur de segmentation, Tutorials d’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
+* [Guide AJO, Configuration, Audiences, profils et identité, Gestion des données](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Experience Platform, jeux de données, guide des connecteurs Source, tutoriels d’API, guide de Platform Identity Service, interface utilisateur de segmentation, tutoriels d’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
-+++
++++ 
 
 <br>
 
-+++Étape 3 : Planifier et payer l’examen
++++Étape 3 : Planifier et payer l&#39;examen
 
 {{schedule-and-pay}}
 
@@ -165,7 +165,7 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 <br>
 
-+++Étape 4 : avant et après l’examen
++++Étape 4 : Avant et après l&#39;examen
 
 {{before-and-after}}
 
@@ -177,16 +177,16 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 {{about-certification-exam}}
 
-## Planification ou prise de l’examen AD0-E606
+## Planifier ou passer l&#39;examen AD0-E606
 
 >[!NOTE]
 >
->Il s’agit de l’examen d’expert des développeurs [!DNL Journey Optimizer] le plus récent Adobe (AD0-E606). Si vous avez déjà commencé à étudier ou que vous avez planifié l’[ancienne version](ajo-e-developer.md), vous devez la terminer d’ici le 22 décembre 2023.
+>Il s’agit du dernier examen d’expert en développement Adobe [!DNL Journey Optimizer] (AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Accédez au portail d’examen
+   Accéder au portail d’examen
 </span>
 </a>
 
@@ -194,7 +194,7 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 <br>
 
-+++Étape 6 : Gestion de vos badges
++++Étape 6 : gérer vos badges
 
 {{manage-your-badges}}
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer est optimisé par l’Experience Platform. Les candidats
 
 ## Questions
 
-Affichez la certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=fr){target="_blank"}.
+Consultez les [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} relatives à la certification.
 
-Autres questions ? [Contactez-nous](mailto:certif@adobe.com).
+Questions supplémentaires ? [Contactez-nous](mailto:certif@adobe.com).
