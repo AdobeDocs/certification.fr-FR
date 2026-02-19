@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Ce référentiel a été migré vers GitHub Enterprise Cloud.
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.fr-FR>
