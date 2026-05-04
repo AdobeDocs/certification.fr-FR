@@ -1,45 +1,49 @@
 ---
-title: Certificats techniques de Principal
-description: Présentation des options de certification pour les utilisateurs de Principal
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+title: Principal des certifications techniques
+description: Présentation des options de certification pour les utilisateurs du Principal
+TQID: https://experienceleague.adobe.com/XtIiFZYoOV6i27gxSH8SnrmACxkiJ6zvP18RmtkV7ek
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7b0065da8c5ac7357552c37570138b9a602cbf61
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: 38
 ht-degree: 21%
 
 ---
 
-# Certificats techniques de Principal
+# Principal des certifications techniques
 
 
 **Analytics**
 
-* [Architect](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [Architecte](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
 **Audience Manager**
 
-* [Architect](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [Architecte](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 **Campaign Classic**
 
 * [Développeur](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-**Commerce**
+****
 
-* [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [Architecte](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
 **Experience Manager**
 
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-**Marketo Engage**
+****
 
-* [Architect](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
+* [Architecte](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
 **Target**
 
-* [Architect](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Architecte](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; certifications techniques expertes](expert.md)
->* [&#x200B; certifications techniques professionnelles &#x200B;](professional.md)
+>* [Certifications techniques expertes](expert.md)
+>* [Certifications techniques professionnelles](professional.md)
