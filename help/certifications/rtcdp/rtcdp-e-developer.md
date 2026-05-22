@@ -1,6 +1,6 @@
 ---
 title: Certification Expert
-description: Découvrez comment devenir un expert certifié Adobe [!DNL Real-Time Customer Data Platform] Developer
+description: Découvrez comment devenir un expert certifié  [!DNL Real-Time Customer Data Platform] Developer
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer
@@ -10,7 +10,7 @@ hidefromtoc: true
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+>**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"}!** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
 
 ## Que contient le nouveau portail de certification Adobe ?
 

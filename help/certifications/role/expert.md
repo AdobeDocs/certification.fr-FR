@@ -2,12 +2,9 @@
 title: Certifications techniques d’experts
 description: Présentation des options de certification pour les utilisateurs experts
 TQID: https://experienceleague.adobe.com/S2v2GVhqdkDN8PyQaD8xJkVS-69scwHb0Xepf3REVGU
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 7b0065da8c5ac7357552c37570138b9a602cbf61
 workflow-type: tm+mt
 source-wordcount: 77
@@ -36,7 +33,7 @@ ht-degree: 22%
 * [Professionnel](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Développeur](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-**&#x200B;**
+****
 
 * [Professionnel](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Développeur](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
@@ -51,10 +48,10 @@ ht-degree: 22%
 * [Professionnel (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* &#x200B;<!--AD0-E125--> du développeur (Forms) [&#128279;](/help/certifications/aem/aem-forms-e-developer.md)
-* [Migration Cloud Service &#x200B;](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* <!--AD0-E125--> du développeur (Forms)](/help/certifications/aem/aem-forms-e-developer.md)[
+* [Migration Cloud Service ](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
-**&#x200B;**
+****
 
 * [Professionnel](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
@@ -69,7 +66,7 @@ ht-degree: 22%
 **Workfront**
 
 * [Développement (principal)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [Connecteur amélioré AEM &#x200B;](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [Connecteur amélioré AEM ](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >
