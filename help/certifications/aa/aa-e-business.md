@@ -10,7 +10,7 @@ hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+>**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"}!** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
 
 ## Que contient le nouveau portail de certification Adobe ?
 
@@ -34,7 +34,7 @@ Tout ce que vous trouviez sur cette page, et bien plus encore !
 * La nouvelle communauté d’expérience digitale Adobe
 * Un nouveau tableau de bord interactif pour suivre et partager vos activités de cours et de certification
 
-## FAQ
+## Questions fréquentes
 
 ### Par où commencer ?
 
