@@ -8,7 +8,7 @@ badge: label="Renouvellement de Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
 source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '19'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=fr){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
