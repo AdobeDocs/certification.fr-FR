@@ -1,6 +1,6 @@
 ---
 title: Certification Expert
-description: Découvrez comment devenir un expert certifié Adobe [!DNL Journey Optimizer] Developer.
+description: Découvrez comment devenir un expert certifié  [!DNL Journey Optimizer] Developer.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -9,8 +9,8 @@ hidefromtoc: true
 exl-id: null
 source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
+source-wordcount: '695'
+ht-degree: 9%
 
 ---
 
@@ -137,21 +137,21 @@ Adobe Journey Optimizer est optimisé par Experience Platform. Les candidats qui
 
 **Section 2 : Journey Orchestration**
 
-* [Guide AJO, Parcours, expressions, suivi et surveillance](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Guide d’AJO, Parcours, expressions, suivi et surveillance](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
 **Section 3 : Offer Decisioning**
 
-* [Guide AJO, Gestion des décisions, référence d’API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Guide d’AJO, gestion des décisions, référence d’API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
 
 **Section 4 : création de contenu**
 
-* [Guide AJO, canal SMS, confidentialité, configuration, Parcours, expressions, gestion de contenu, suivi et surveillance, canal de notification push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Tutoriels Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr){target="_blank"}
+* [Guide AJO, canal SMS, confidentialité, configuration, Parcours, expressions, gestion de contenu, suivre et surveiller, canal de notification push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
+* [Tutoriels de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr){target="_blank"}
 
 **Section 5 : Modélisation des données**
 
 * [Guide AJO, Configuration, Audiences, profils et identité, Gestion des données](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr){target="_blank"}
-* [Experience Platform, jeux de données, guide des connecteurs Source, tutoriels d’API, guide de Platform Identity Service, interface utilisateur de segmentation, tutoriels d’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
+* [Experience Platform, Jeux de données, Guide des connecteurs Source, Tutoriels API, Guide de Platform Identity Service, Interface utilisateur de segmentation, Tutoriels UI](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr){target="_blank"}
 
 +++ 
 
