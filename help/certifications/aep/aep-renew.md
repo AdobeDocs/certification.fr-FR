@@ -8,7 +8,7 @@ badge: label="Renouvellement de Adobe Journey Optimizer" type="neutral"
 hidefromtoc: true
 source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '19'
 ht-degree: 0%
 
 ---
