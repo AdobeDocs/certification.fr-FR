@@ -110,7 +110,7 @@ Ces étapes vous guident tout au long du processus de certification.
 >
 > **Pièce d’identité du gouvernement requise :** Vous DEVEZ utiliser une pièce d’identité avec photo émise par le gouvernement comme forme valide de pièce d’identité. Les copies logicielles ou les identifiants numériques ne sont pas autorisés. <br><br> **Nom du compte Adobe ID :** le nom de votre compte Adobe ID DOIT correspondre à votre nom sur votre ID gouvernement. Pour mettre à jour le nom de votre compte Adobe ID, envoyez un e-mail <certif@adobe.com>. Veuillez demander cette correction **72 heures à l&#39;avance**. Si les noms ne correspondent pas au moment de l&#39;examen, vous devrez vous inscrire à un nouvel examen moyennant des frais supplémentaires.
 
-Vous devez disposer d’un Adobe ID pour planifier et passer votre examen. Si vous ne disposez pas d’une Adobe ID, vous pouvez en créer une [ici](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Vous devez disposer d’un Adobe ID pour planifier et passer votre examen. Si vous ne disposez pas d’une Adobe ID, vous pouvez en créer une [ici](https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html).
 
 Il est nécessaire d’avoir un Adobe ID pour trois raisons :
 
@@ -278,7 +278,7 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 
 ## Renouvellement de votre certification {#renewing-intro}
 
-Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Consultez la page [&#x200B; Renouveler votre certification &#x200B;](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} pour plus d’informations.
+Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Consultez la page [&#x200B; Renouveler votre certification &#x200B;](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=fr){target="_blank"} pour plus d’informations.
 
 <!--divider-->
 
