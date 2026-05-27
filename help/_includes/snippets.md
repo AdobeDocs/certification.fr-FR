@@ -120,7 +120,7 @@ Il est nécessaire d’avoir un Adobe ID pour trois raisons :
 
 <!--divider-->
 
-## Documents d&#39;étude {#study-materials-intro}
+## Documents d'étude {#study-materials-intro}
 
 Vous n&#39;êtes pas tenu de terminer la formation avant de passer l&#39;examen, et la formation seule ne vous fournira pas les connaissances et les compétences requises pour réussir l&#39;examen. La combinaison d’une formation et d’une expérience de travail réussie est essentielle pour vous fournir le référentiel nécessaire à la réussite de l’examen.
 
@@ -128,7 +128,7 @@ Voici quelques ressources suggérées pour vous aider à vous préparer :
 
 >[!NOTE]
 >
->Certains liens de cette section ne fonctionneront qu’après vous être connecté au [système de gestion des informations d’identification ](https://www.certmetrics.com/adobe){target="_blank"}. Veuillez vous connecter maintenant.
+>Certains liens de cette section ne fonctionneront qu’après vous être connecté au [système de gestion des informations d’identification &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Veuillez vous connecter maintenant.
 
 <!--divider-->
 
@@ -148,17 +148,17 @@ Rappelez-vous que réussir un test pratique ne garantit pas que vous réussirez 
 
 Pour passer le test pratique :
 
-1. Tout d’abord, connectez-vous au [système de gestion des informations d’identification ](https://www.certmetrics.com/adobe){target="_blank"} avec votre Adobe ID.
+1. Tout d’abord, connectez-vous au [système de gestion des informations d’identification &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} avec votre Adobe ID.
 
-2. Ensuite, accédez au portail de préparation aux examens de certification [](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} pour passer votre test pratique.
+2. Ensuite, accédez au portail de préparation aux examens de certification [&#128279;](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} pour passer votre test pratique.
 
 <!--divider-->
 
-## Planifier et payer l&#39;examen {#schedule-and-pay}
+## Planifier et payer l'examen {#schedule-and-pay}
 
 >[!NOTE]
 >
->Certaines de cette section ne fonctionneront qu’après vous être connecté au [système de gestion des informations d’identification ](https://www.certmetrics.com/adobe){target="_blank"}. Veuillez vous connecter maintenant.
+>Certaines de cette section ne fonctionneront qu’après vous être connecté au [système de gestion des informations d’identification &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Veuillez vous connecter maintenant.
 
 **Diffusion examen**
 
@@ -168,7 +168,7 @@ Adobe fait appel à un fournisseur appelé Examity pour administrer les examens 
 
 Pour programmer, reprogrammer ou annuler votre examen :
 
-1. Tout d’abord, connectez-vous au [système de gestion des informations d’identification ](https://www.certmetrics.com/adobe){target="_blank"} avec votre Adobe ID.
+1. Tout d’abord, connectez-vous au [système de gestion des informations d’identification &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} avec votre Adobe ID.
 
 2. Ensuite, accédez au portail [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx ?){target="_blank"} et suivez les instructions fournies à l’écran.
 
@@ -182,7 +182,7 @@ Payer par bon : Pour acheter un bon d’examen, rendez-vous sur : Centre de bons
 
 **Achat d&#39;un bon**
 
-Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, accédez au [Centre de bons de certification ](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
+Vous pouvez payer un examen avec un bon. Pour acheter un bon d’examen, accédez au [Centre de bons de certification &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Vous pouvez appliquer le code de bon lorsque vous programmez votre examen. Voir ci-dessous pour les informations sur la remise du bon.
 
@@ -202,7 +202,7 @@ Des remises groupées sont disponibles :
 
 Remises partenaires : les partenaires de niveau bronze et au-delà bénéficient de remises sur tous les examens et cours de certification Adobe. Pour en savoir plus sur ces remises et sur l&#39;accès aux avantages pour les partenaires, consultez le portail Partenaires en solutions .
 
-Remises sur les bons : tous les candidats peuvent recevoir une remise sur les achats groupés de 10 examens ou plus lors de leurs achats via le [Centre de bons de certification ](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
+Remises sur les bons : tous les candidats peuvent recevoir une remise sur les achats groupés de 10 examens ou plus lors de leurs achats via le [Centre de bons de certification &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Remarque : les remises en masse ne peuvent pas être combinées avec d&#39;autres offres ou remises.
 
@@ -242,7 +242,7 @@ Adobe utilise Examity pour administrer des examens surveillés en ligne. Dans le
 
 * **Planifier, reprogrammer ou annuler votre examen.** Veuillez noter que l&#39;annulation et le changement de rendez-vous doivent commencer avant 48 heures avant le rendez-vous prévu pour l&#39;examen. Les candidats doivent modifier eux-mêmes cette nomination.
 
-* **Payez votre examen.** Payez votre examen de certification par chèque ou carte de crédit sur le portail Examen. Pour acheter un bon d’examen, rendez-vous sur : [Centre de bons de certification ](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Vous pouvez appliquer le code de bon lorsque vous programmez votre examen. Si vous bénéficiez d&#39;une réduction, elle s&#39;appliquera lors du passage en caisse.
+* **Payez votre examen.** Payez votre examen de certification par chèque ou carte de crédit sur le portail Examen. Pour acheter un bon d’examen, rendez-vous sur : [Centre de bons de certification &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Vous pouvez appliquer le code de bon lorsque vous programmez votre examen. Si vous bénéficiez d&#39;une réduction, elle s&#39;appliquera lors du passage en caisse.
 
 * **Passez votre examen.**
 
@@ -278,7 +278,7 @@ Votre badge constitue une preuve tangible de votre maîtrise des produits Adobe 
 
 ## Renouvellement de votre certification {#renewing-intro}
 
-Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Consultez la page [ Renouveler votre certification ](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} pour plus d’informations.
+Les certifications expirent au bout de deux ans. Pour maintenir votre certification, vous devez la renouveler avant son expiration. Consultez la page [&#x200B; Renouveler votre certification &#x200B;](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} pour plus d’informations.
 
 <!--divider-->
 
