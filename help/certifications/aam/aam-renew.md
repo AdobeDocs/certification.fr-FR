@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre certification  [!DNL Audience Manager] avant qu’elle n’expire.
+description: Découvrez comment renouveler votre certification  [!DNL Audience Manager]  son expiration.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
 source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '15'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
 
-# Renouvelez votre certification d&#39;Adobe [!DNL Audience Manager]
+# Renouveler votre certification Adobe [!DNL Audience Manager]
 
 {{renewals-hold}}
 
@@ -122,7 +122,7 @@ Here are some suggested resources to help you prepare:
 * [Understand segments in Analytics and Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=fr){target="_blank"}
 * [Understanding Signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=fr){target="_blank"}
 * [Prefix Requirements for Key Variables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=fr){target="_blank"}
-* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=fr){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
 * [Create Algorithmic Traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=fr){target="_blank"}
 
 **Section 3**

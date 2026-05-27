@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre certification d'Adobe [!DNL Marketo Engage] avant qu'elle n'expire.
+description: Découvrez comment renouveler votre certification Adobe avant  [!DNL Marketo Engage] ’elle n’expire.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# Renouvelez votre certification d&#39;Adobe [!DNL Marketo Engage]
+# Renouveler votre certification Adobe [!DNL Marketo Engage]
 
 {{renewals-hold}}
 
