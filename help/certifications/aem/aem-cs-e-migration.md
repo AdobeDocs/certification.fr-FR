@@ -1,14 +1,14 @@
 ---
 title: Certification Expert
 description: Découvrez comment devenir un expert certifié  [!DNL Experience Manager] expert.
-solution: Experience Manager, Experience Manager as a Cloud Service
+solution: Experience Manager as a Cloud Service, Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="Examen AD0-E136" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: a277b79cc26e5c8ae43c2f4388a8cdb21ea0996d
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
