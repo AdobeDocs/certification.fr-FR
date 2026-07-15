@@ -1,6 +1,6 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre certification  [!DNL Adobe Target] avant qu’elle n’expire.
+description: Découvrez comment renouveler votre certification  [!DNL Adobe Target]  son expiration.
 solution: Target
 product: Target
 role: Developer
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '13'
 ht-degree: 0%
 
 ---
 
-# Renouvelez votre certification [!DNL Adobe Target]
+# Renouveler votre certification [!DNL Adobe Target]
 
 {{renewals-hold}}
 
