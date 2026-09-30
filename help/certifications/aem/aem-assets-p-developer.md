@@ -1,20 +1,29 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment obtenir une certification  [!DNL Experience Manager] Professional.
+description: Découvrez comment obtenir une certification Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
 badge: label="Examen AD0-E129" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour Adobe [!DNL Experience Manager] Assets Developer Professional
 
 >[!NOTE]

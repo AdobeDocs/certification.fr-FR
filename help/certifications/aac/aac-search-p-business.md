@@ -1,21 +1,28 @@
 ---
 title: Certification professionnelle des professionnels du secteur
-description: Découvrez comment obtenir une certification  [!DNL Advertising Search] Business Practice Professional.
+description: Découvrez comment obtenir une certification Adobe [!DNL Advertising Search] Business Practice Professional.
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
 badge: label="Examen AD0-E501" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour [!DNL Adobe Advertising Search] professionnel du secteur des affaires
 
 >[!NOTE]

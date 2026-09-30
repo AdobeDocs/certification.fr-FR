@@ -1,20 +1,27 @@
 ---
 title: Certification d’expert du professionnel
-description: Découvrez comment devenir un spécialiste certifié Adobe en  [!DNL Marketo Engage].
+description: Découvrez comment devenir un spécialiste certifié Adobe en [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
 badge: label="Examen AD0-E559" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour Adobe [!DNL Marketo Engage] Business Practice Expert
 
 >[!NOTE]

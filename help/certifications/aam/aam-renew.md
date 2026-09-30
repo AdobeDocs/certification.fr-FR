@@ -1,19 +1,26 @@
 ---
 title: Renouvellement de certification
-description: Découvrez comment renouveler votre certification  [!DNL Audience Manager]  son expiration.
+description: Découvrez comment renouveler votre certification [!DNL Audience Manager] avant son expiration.
 solution: Audience Manager
 product: Audience Manager
 role: User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '15'
 ht-degree: 0%
-
 ---
-
 # Renouveler votre certification Adobe [!DNL Audience Manager]
 
 {{renewals-hold}}

@@ -1,20 +1,29 @@
 ---
 title: Certification d’expert en développement
-description: Découvrez comment devenir un expert certifié  [!DNL Experience Manager Sites] Expert.
+description: Découvrez comment devenir un expert certifié Adobe [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Examen AD0-E134" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour l’expert en développement Adobe [!DNL Experience Manager] Sites
 
 >[!NOTE]

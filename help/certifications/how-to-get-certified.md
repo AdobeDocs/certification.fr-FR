@@ -1,24 +1,25 @@
 ---
-title: Obtention de la certification à l’Adobe
+title: Obtention d’une certification Adobe
 description: Découvrez comment obtenir une certification Adobe. Trouvez toutes les ressources dont vous avez besoin avant, pendant et après votre certification.
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '391'
 ht-degree: 0%
-
 ---
-
 # Comment obtenir une certification{#how}
 
 >[!NOTE]
 >
->**Le programme de certification de l’expérience digitale Adobe a été déplacé vers le nouveau portail de certification de l’Adobe [&#128279;](https://certification.adobe.com/){target="_blank"} !** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
+>**Le programme de certification en expérience digitale Adobe a été déplacé vers le nouveau [portail de certification Adobe](https://certification.adobe.com/){target="_blank"}!** Découvrez les nouvelles fonctionnalités et comment commencer ci-dessous.
 
-## Que contient le nouveau portail de certification des Adobes ?
+## Que contient le nouveau portail de certification Adobe ?
 
 Tout ce que vous trouviez sur cette page, et bien plus encore !
 
@@ -28,10 +29,10 @@ Tout ce que vous trouviez sur cette page, et bien plus encore !
 * Tests pratiques
 * Validation et partage de badges
 * Nouveaux cours de formation technique
-* La nouvelle communauté d’expérience digitale d’Adobe
+* La nouvelle communauté d’expérience digitale Adobe
 * Un nouveau tableau de bord interactif pour suivre et partager vos activités de cours et de certification
 
-## FAQ
+## Questions fréquentes
 
 ### Par où commencer ?
 
@@ -41,7 +42,7 @@ Ensuite, explorez nos [cours](https://certification.adobe.com/courses/?/courses)
 
 ### Comment dois-je planifier un examen ?
 
-Vous pouvez maintenant programmer un examen sur le Portail de certification des Adobes.
+Vous pouvez maintenant programmer un examen sur le portail de certification Adobe.
 
 1. Accédez au [Catalogue de certification](https://certification.adobe.com/certifications){target="_blank"}.
 2. Trouvez votre examen
@@ -55,11 +56,11 @@ Vos certifications actives ont déjà été migrées vers [votre compte](https:/
 
 ### Où puis-je trouver mes bons ?
 
-Vos bons (y compris ceux transférés depuis Xvoucher) apparaîtront dans [votre compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification d&#39;Adobe.
+Vos bons (y compris ceux transférés depuis Xvoucher) apparaîtront dans [votre compte](https://certification.adobe.com/user/purchases){target="_blank"} sur le portail de certification Adobe.
 
 ### Où est mon badge de certification ?
 
-Votre badge est maintenant disponible sur le portail de certification d’Adobe.
+Votre badge est maintenant disponible sur le portail de certification Adobe.
 
 1. Accédez à **Mon compte** > [Succès](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Recherchez le widget **certifications actives**.
@@ -72,4 +73,4 @@ Votre badge est maintenant disponible sur le portail de certification d’Adobe.
 
 Consultez les [vidéos pratiques](https://certification.adobe.com/#){target="_blank"} au bas de notre page d’accueil, consultez notre [FAQ](https://certification.adobe.com/support/faq){target="_blank"} ou [contactez-nous](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Nous sommes ravis que vous découvriez la nouvelle page d’accueil du programme de certification de l’expérience digitale d’Adobe et que vous découvriez nos nouvelles fonctionnalités !
+Nous sommes ravis que vous découvriez la nouvelle page d’accueil du programme de certification en expérience digitale Adobe et que vous découvriez nos nouvelles fonctionnalités !
