@@ -217,6 +217,6 @@ Adobe Journey Optimizer est optimisé par Experience Platform. Les candidats qui
 
 ## Questions
 
-Consultez les [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} relatives à la certification.
+Consultez les [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=fr){target="_blank"} relatives à la certification.
 
 Questions supplémentaires ? [Contactez-nous](mailto:certif@adobe.com).
