@@ -1,21 +1,28 @@
 ---
 title: Certification professionnelle des professionnels du secteur
-description: Découvrez comment obtenir une certification  [!DNL Audience Manager] Business Practice Professional.
+description: Découvrez comment obtenir une certification Adobe [!DNL Audience Manager] Business Practice Professional.
 solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
 badge: label="Examen AD0-E458" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '388'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour Adobe [!DNL Audience Manager] Business Practice Professional
 
 >[!NOTE]

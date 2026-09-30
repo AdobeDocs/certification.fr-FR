@@ -1,20 +1,29 @@
 ---
 title: Certification d’expert du professionnel
-description: Découvrez comment obtenir une certification d’expert  [!DNL Audience Manager] Business Manager.
+description: Découvrez comment obtenir une certification Adobe [!DNL Audience Manager] Business Manager Expert.
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
 badge: label="Examen AD0-E457" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour [!DNL Adobe Audience Manager] spécialiste des professionnels
 
 >[!NOTE]

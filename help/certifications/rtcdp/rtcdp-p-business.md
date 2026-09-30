@@ -1,21 +1,28 @@
 ---
 title: Certification professionnelle
-description: 'Découvrez comment devenir un professionnel certifié  [!DNL Real-Time Customer Data Platform] [!DNL Experience Platform] '
+description: Découvrez comment devenir un professionnel de la [!DNL Experience Platform] certifié en [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour Adobe [!DNL Real-Time CDP] Business Practice Professional
 
 >[!NOTE]

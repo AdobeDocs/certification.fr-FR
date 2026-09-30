@@ -1,20 +1,27 @@
 ---
 title: Certification de professionnel
-description: Découvrez comment obtenir une certification en tant qu [!DNL Adobe Analytics] expert en administration des affaires
+description: Découvrez comment obtenir une certification en tant qu’expert professionnel [!DNL Adobe Analytics]
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour [!DNL Adobe Analytics] spécialiste des professionnels
 
 >[!NOTE]

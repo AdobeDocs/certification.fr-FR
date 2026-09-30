@@ -1,19 +1,26 @@
 ---
 title: Certification professionnelle
-description: Découvrez comment devenir un professionnel certifié  [!DNL Journey Optimizer] Business Practice.
+description: Découvrez comment devenir un professionnel certifié Adobe [!DNL Journey Optimizer].
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
 badge: label="Examen AD0-E607" type="neutral"
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Parcours de certification pour Adobe [!DNL Journey Optimizer] Business Practice Professional
 
 >[!NOTE]
