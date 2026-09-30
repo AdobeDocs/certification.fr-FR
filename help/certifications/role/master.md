@@ -33,7 +33,7 @@ ht-degree: 21%
 
 * [Développeur](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-****
+**&#x200B;**
 
 * [Architecte](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
@@ -41,7 +41,7 @@ ht-degree: 21%
 
 * [Architecte (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-****
+**&#x200B;**
 
 * [Architecte](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 

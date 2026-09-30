@@ -31,7 +31,7 @@ ht-degree: 16%
 * [Professionnel](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Développeur](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
-****
+**&#x200B;**
 
 * [Professionnel](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Développeur](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
@@ -41,11 +41,11 @@ ht-degree: 16%
 
 * [Professionnel](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Développeur (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* <!--AD0-E129--> du développeur (Assets)](/help/certifications/aem/aem-assets-p-developer.md)[
+* &#x200B;<!--AD0-E129--> du développeur (Assets) [&#128279;](/help/certifications/aem/aem-assets-p-developer.md)
 * [Développement back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [Fondements techniques](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
-****
+**&#x200B;**
 
 * [Professionnel certifié](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 

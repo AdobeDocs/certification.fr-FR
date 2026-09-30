@@ -28,7 +28,7 @@ Sélectionnez votre niveau et votre fonction pour trouver les détails de l&#39;
 
 
 * [Professionnel](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
-* [Professionnel ](https://certification.adobe.com/certification/brb-business-practitioner-professional/1373){target="_blank"}<!--AD0-E613-->
+* [Professionnel &#x200B;](https://certification.adobe.com/certification/brb-business-practitioner-professional/1373){target="_blank"}<!--AD0-E613-->
 
 **Expert**
 

@@ -21,7 +21,7 @@ ht-degree: 4%
 
 # Le programme de certification en expérience digitale d’Adobe a déménagé !
 
-Retrouvez-nous sur le nouveau portail de certification [](https://certification.adobe.com/){target="_blank"}. Découvrez les fonctionnalités du portail et comment commencer ci-dessous.
+Retrouvez-nous sur le nouveau portail de certification [&#128279;](https://certification.adobe.com/){target="_blank"}. Découvrez les fonctionnalités du portail et comment commencer ci-dessous.
 
 ![Bannière](/help/certifications/assets/home_banner_smallwide.png)
 
